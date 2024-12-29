@@ -1,0 +1,822 @@
+[
+    {
+        "price": "25 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "1200 ",
+        "address": "Antonijas  8"
+    },
+    {
+        "price": "70 ",
+        "address": "Firsa Sadovņikova  14"
+    },
+    {
+        "price": "25 ",
+        "address": "Bruninieku 50"
+    },
+    {
+        "price": "5.50",
+        "address": "Pērnavas  86"
+    },
+    {
+        "price": "5.50",
+        "address": "Pērnavas  86"
+    },
+    {
+        "price": "75",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "1200 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "1600 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "6.00 ",
+        "address": "Tērbatas  34"
+    },
+    {
+        "price": "5.59 ",
+        "address": "Jeruzalemes  5"
+    },
+    {
+        "price": "20.00 ",
+        "address": "Brīvības 137"
+    },
+    {
+        "price": "10 ",
+        "address": "Marijas 2"
+    },
+    {
+        "price": "3780 ",
+        "address": "Cēsu  31 k-1"
+    },
+    {
+        "price": "15 ",
+        "address": "Gertrudes  67"
+    },
+    {
+        "price": "5.00 ",
+        "address": "Pētersalas  18B"
+    },
+    {
+        "price": "2000 ",
+        "address": "Loģistikas centrs Abras"
+    },
+    {
+        "price": "5.80 ",
+        "address": "Krišjāņa Barona  46"
+    },
+    {
+        "price": "6.00 ",
+        "address": "Skanstes  25"
+    },
+    {
+        "price": "6.00 ",
+        "address": "Krišjāņa Valdemāra  112"
+    },
+    {
+        "price": "6.00 ",
+        "address": "Audēju  16"
+    },
+    {
+        "price": "6.00 ",
+        "address": "Marijas  14"
+    },
+    {
+        "price": "8 ",
+        "address": "Rīgas  2 Rīga"
+    },
+    {
+        "price": "5 ",
+        "address": "Rigas  2"
+    },
+    {
+        "price": "5 ",
+        "address": "Rīgas  2 Rīga"
+    },
+    {
+        "price": "1250 ",
+        "address": "Rīga, Dzirnavu  42"
+    },
+    {
+        "price": "85",
+        "address": "Dzirnavu 92-3"
+    },
+    {
+        "price": "50",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "1000",
+        "address": "Vietalvas  5, Rīga"
+    },
+    {
+        "price": "7.10 ",
+        "address": "Stacijas laukums 2, Rīga"
+    },
+    {
+        "price": "7.00 ",
+        "address": "Grostonas ielā 6b, Rīgā"
+    },
+    {
+        "price": "00 ",
+        "address": "Kalēju  9/11"
+    },
+    {
+        "price": "5.60 ",
+        "address": "Kalēju  9/11"
+    },
+    {
+        "price": "5",
+        "address": "Tērbatas  66"
+    },
+    {
+        "price": "6.50 ",
+        "address": "13.Janvāra  8"
+    },
+    {
+        "price": "1225 ",
+        "address": "A. Čaka  160"
+    },
+    {
+        "price": "4.50 ",
+        "address": "13.Janvāra  8"
+    },
+    {
+        "price": "4.50 ",
+        "address": "13.Janvāra  8"
+    },
+    {
+        "price": "6.00 ",
+        "address": "13.Janvāra  8"
+    },
+    {
+        "price": "210",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "7.10 ",
+        "address": "Krasta  46"
+    },
+    {
+        "price": "6.00 ",
+        "address": "13.Janvāra  8, Rīga"
+    },
+    {
+        "price": "460",
+        "address": "Muitas  1"
+    },
+    {
+        "price": "1300 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "70 ",
+        "address": "Lāčplēša  38"
+    },
+    {
+        "price": "50 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "50 ",
+        "address": "Kr. Valdemāra"
+    },
+    {
+        "price": "1220 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "1100",
+        "address": "Jersikas  1"
+    },
+    {
+        "price": "5",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "350 ",
+        "address": "Matīsa 8, Rīga"
+    },
+    {
+        "price": "1200 ",
+        "address": "Kr. Barona  99C, Lv-1012"
+    },
+    {
+        "price": "5 ",
+        "address": "Kr. Barona  99C, Lv-1012"
+    },
+    {
+        "price": "4 ",
+        "address": "Elizabetes  61"
+    },
+    {
+        "price": "500 ",
+        "address": "Skanstes"
+    },
+    {
+        "price": "1200 ",
+        "address": "Mobila"
+    },
+    {
+        "price": "1200 ",
+        "address": "Mobila"
+    },
+    {
+        "price": "700.00 ",
+        "address": "Stacijas laukums 4"
+    },
+    {
+        "price": "00 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "1200 ",
+        "address": "Ganibu dambis"
+    },
+    {
+        "price": "2400 ",
+        "address": "Rīga"
+    },
+    {
+        "price": "1500 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "6",
+        "address": "T/c Origo (Stacijas laukums)"
+    },
+    {
+        "price": "5.50 ",
+        "address": "Dzirnavu  67"
+    },
+    {
+        "price": "7.20 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "5 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "7.00 ",
+        "address": "Dzirnavu  67"
+    },
+    {
+        "price": "50",
+        "address": "Tērbatas  40"
+    },
+    {
+        "price": "2250 ",
+        "address": "Dzirciema"
+    },
+    {
+        "price": "1100 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "5.80 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "1000 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "1800 ",
+        "address": "Baznīcas  31"
+    },
+    {
+        "price": "55 ",
+        "address": "Krišjāņa Valdemāra  112"
+    },
+    {
+        "price": "1200 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "1400",
+        "address": "Gogola"
+    },
+    {
+        "price": "1000 ",
+        "address": "Gustava Zemgala  73, Rīga"
+    },
+    {
+        "price": "00 ",
+        "address": "Dzirnavu  63"
+    },
+    {
+        "price": "7.00",
+        "address": "Lāčplēša  35"
+    },
+    {
+        "price": "1340 ",
+        "address": "A. Čaka 81"
+    },
+    {
+        "price": "550.00 ",
+        "address": "Vaļņu  2"
+    },
+    {
+        "price": "75",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "6.00 ",
+        "address": "Valmieras  33"
+    },
+    {
+        "price": "5",
+        "address": "Vagonu  38, Rīga"
+    },
+    {
+        "price": "1600 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "1350 ",
+        "address": "Stacijas laukums 2, Rīga"
+    },
+    {
+        "price": "10",
+        "address": "Prāgas"
+    },
+    {
+        "price": "6.50 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "350",
+        "address": "Cēsu  31 k-6, Rīga"
+    },
+    {
+        "price": "5 ",
+        "address": "Dzirnavu"
+    },
+    {
+        "price": "31 ",
+        "address": "Krasta  36, Rīga"
+    },
+    {
+        "price": "10 ",
+        "address": "Krasta  36, Rīga"
+    },
+    {
+        "price": "30 ",
+        "address": "Krasta  36, Rīga"
+    },
+    {
+        "price": "5.00 ",
+        "address": "Kr. Valdemāra"
+    },
+    {
+        "price": "20 ",
+        "address": "Baznīcas 35"
+    },
+    {
+        "price": "2000 ",
+        "address": "Sāremas  1A"
+    },
+    {
+        "price": "856 ",
+        "address": "Tallinas  76"
+    },
+    {
+        "price": "856 ",
+        "address": "Tallinas  76"
+    },
+    {
+        "price": "1200 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "15 ",
+        "address": "Zemitāna 2, Rīga"
+    },
+    {
+        "price": "4.60 ",
+        "address": "Grostonas  1"
+    },
+    {
+        "price": "4.65 ",
+        "address": "Pūpolu  1"
+    },
+    {
+        "price": "5.00 ",
+        "address": "Firsa Sadovņikova  19"
+    },
+    {
+        "price": "5.00 ",
+        "address": "Pulkveža Brieža  7"
+    },
+    {
+        "price": "5.00 ",
+        "address": "Brīvības  78"
+    },
+    {
+        "price": "5.00 ",
+        "address": "Grostonas  1"
+    },
+    {
+        "price": "5.00 ",
+        "address": "Pūpolu  1"
+    },
+    {
+        "price": "6.00 ",
+        "address": "Pūpolu  1"
+    },
+    {
+        "price": "6.00 ",
+        "address": "Tallinas  83"
+    },
+    {
+        "price": "4.40 ",
+        "address": "Pētersalas  18B"
+    },
+    {
+        "price": "2000 ",
+        "address": "Merķeļa  8"
+    },
+    {
+        "price": "4.80 ",
+        "address": "Dzirnavu"
+    },
+    {
+        "price": "1300 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "7.80 ",
+        "address": "Elizabetes 65"
+    },
+    {
+        "price": "1100 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "1400.00 ",
+        "address": "Rīgas teritorija"
+    },
+    {
+        "price": "6.15 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "30 ",
+        "address": "Aspazijas bulvāris 22, Rīga"
+    },
+    {
+        "price": "00 ",
+        "address": "Krasta  36"
+    },
+    {
+        "price": "40 ",
+        "address": "Pulkveža Brieža  33A"
+    },
+    {
+        "price": "30",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "1600 ",
+        "address": "Lielā"
+    },
+    {
+        "price": "4.40 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "4.40 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "4.40 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "800",
+        "address": "Bruņinieku  121"
+    },
+    {
+        "price": "00 ",
+        "address": "Cits"
+    },
+    {
+        "price": "8.50 ",
+        "address": "Tallinas  10, k1"
+    },
+    {
+        "price": "800 ",
+        "address": "Pulkveža Brieža 28a"
+    },
+    {
+        "price": "25",
+        "address": "Aleksandra Čaka 34"
+    },
+    {
+        "price": "6 ",
+        "address": "Kārļa milenbaha  25"
+    },
+    {
+        "price": "2800 ",
+        "address": "Artilērijas"
+    },
+    {
+        "price": "2500 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "7.00 ",
+        "address": "Brīvibas 151"
+    },
+    {
+        "price": "1200 ",
+        "address": "Kr. Barona  37"
+    },
+    {
+        "price": "900 ",
+        "address": "Kr. Barona  37"
+    },
+    {
+        "price": "715 ",
+        "address": "A. Čaka  160"
+    },
+    {
+        "price": "40 ",
+        "address": "Katolu"
+    },
+    {
+        "price": "6.28 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "1030",
+        "address": "Kr. Barona  22"
+    },
+    {
+        "price": "2000.00",
+        "address": "Slokas  64, Rīga"
+    },
+    {
+        "price": "9.00 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "75",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "600.00 ",
+        "address": "Dzirnavu  67"
+    },
+    {
+        "price": "15 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "7 ",
+        "address": "Ausekļa  22, Rīga"
+    },
+    {
+        "price": "1400",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "00 ",
+        "address": "Z. A. Meierovica bulvāris 8"
+    },
+    {
+        "price": "920 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "920 ",
+        "address": "Jaunkūlu  20, Ādaži"
+    },
+    {
+        "price": "700 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "6",
+        "address": "Krišjāņa Barona  41/43"
+    },
+    {
+        "price": "7.60 ",
+        "address": "Krišjāņa Barona  41/43"
+    },
+    {
+        "price": "2500",
+        "address": "Veru street 5-1"
+    },
+    {
+        "price": "00 ",
+        "address": "Krasta  36, Rīga"
+    },
+    {
+        "price": "5.70 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "50 ",
+        "address": "Elijas  17"
+    },
+    {
+        "price": "70 ",
+        "address": "Elijas  17, Rīga"
+    },
+    {
+        "price": "70 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "4.40 ",
+        "address": "Eksporta  14"
+    },
+    {
+        "price": "5.96 ",
+        "address": "Brīvības  58, Rīga"
+    },
+    {
+        "price": "1200 ",
+        "address": "Rīga, Eksporta  5"
+    },
+    {
+        "price": "5.96 ",
+        "address": "Avotu  26, Rīga"
+    },
+    {
+        "price": "00 ",
+        "address": "Dzirnavu  67, Rīga"
+    },
+    {
+        "price": "40 ",
+        "address": "Brīvības  171, Rīga"
+    },
+    {
+        "price": "40 ",
+        "address": "Ģertrūdes  66, Rīga"
+    },
+    {
+        "price": "15 ",
+        "address": "Krasta  36, Rīga"
+    },
+    {
+        "price": "1800 ",
+        "address": "Skanstes  4a, Rīga"
+    },
+    {
+        "price": "65 ",
+        "address": "Krasta  36, Rīga"
+    },
+    {
+        "price": "8 ",
+        "address": "Krasta  36, Rīga"
+    },
+    {
+        "price": "6 ",
+        "address": "Ausekļa"
+    },
+    {
+        "price": "1100 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "00 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "5.5 ",
+        "address": "Avotu  60/2"
+    },
+    {
+        "price": "1200 ",
+        "address": "Avotu  60/2"
+    },
+    {
+        "price": "00 ",
+        "address": "Brīvības  155A"
+    },
+    {
+        "price": "23 ",
+        "address": "Neste Senču  4"
+    },
+    {
+        "price": "1200 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "00 ",
+        "address": "Meldru  3"
+    },
+    {
+        "price": "00 ",
+        "address": "Meldru  3"
+    },
+    {
+        "price": "2500 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "8 ",
+        "address": "Krasta  36, Rīga"
+    },
+    {
+        "price": "1000 ",
+        "address": "Elizabetes  10b"
+    },
+    {
+        "price": "1297.1 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "1040",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "500 ",
+        "address": "Blaumaņa"
+    },
+    {
+        "price": "60 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "700 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "700 ",
+        "address": "Rīga, +/- 40 km rādiusā ap Rīgu"
+    },
+    {
+        "price": "1200 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "1000 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "6.00 ",
+        "address": "Lastādijas  35"
+    },
+    {
+        "price": "2000 ",
+        "address": "Merķeļa  8"
+    },
+    {
+        "price": "2200 ",
+        "address": "Pērnavas  86"
+    },
+    {
+        "price": "8.00 ",
+        "address": "Elizabetes  24, Rīga"
+    },
+    {
+        "price": "6 ",
+        "address": "Rīga, centrs"
+    },
+    {
+        "price": "1000 ",
+        "address": "Tērbatas  72"
+    },
+    {
+        "price": "15 ",
+        "address": "Baznīcas 35"
+    },
+    {
+        "price": "16 ",
+        "address": "Stabu 11 a"
+    },
+    {
+        "price": "2000 ",
+        "address": "Baznīcas"
+    },
+    {
+        "price": "00 ",
+        "address": "Artilērijas  45"
+    },
+    {
+        "price": "2220.00 ",
+        "address": "Pērses  8"
+    },
+    {
+        "price": "5.21 ",
+        "address": "Brīvības  151"
+    },
+    {
+        "price": "7.00 ",
+        "address": "Latgales  108"
+    },
+    {
+        "price": "1800 ",
+        "address": "Baznīcas"
+    }
+]
