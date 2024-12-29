@@ -1,0 +1,21 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 1221.8,
+            "Price": 325000.0,
+            "m²": 266.0
+        },
+        {
+            "Price_per_m²": 1256.6,
+            "Price": 333000.0,
+            "m²": 265.0
+        },
+        {
+            "Price_per_m²": 1642.86,
+            "Price": 299000.0,
+            "m²": 182.0
+        }
+    ],
+    "monthly": [],
+    "daily": []
+}
