@@ -1,0 +1,3764 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 1447.0,
+            "Price": 55000.0,
+            "m²": 38.01,
+            "Address": "Jūrmalas g. 91"
+        },
+        {
+            "Price_per_m²": 1220.0,
+            "Price": 61000.0,
+            "m²": 50.0,
+            "Address": "Dubultu 20"
+        },
+        {
+            "Price_per_m²": 1151.0,
+            "Price": 61000.0,
+            "m²": 53.0,
+            "Address": "Kurzemes pr. 70"
+        },
+        {
+            "Price_per_m²": 712.0,
+            "Price": 34900.0,
+            "m²": 49.02,
+            "Address": "Kurzemes pr. 32"
+        },
+        {
+            "Price_per_m²": 1056.0,
+            "Price": 50700.0,
+            "m²": 48.01,
+            "Address": "Kleistu 11"
+        },
+        {
+            "Price_per_m²": 1864.0,
+            "Price": 82000.0,
+            "m²": 43.99,
+            "Address": "Jūrmalas g. 100"
+        },
+        {
+            "Price_per_m²": 1049.0,
+            "Price": 107000.0,
+            "m²": 102.0,
+            "Address": "Anniņmuižas 38k2"
+        },
+        {
+            "Price_per_m²": 796.0,
+            "Price": 39000.0,
+            "m²": 48.99,
+            "Address": "Kleistu 8"
+        },
+        {
+            "Price_per_m²": 769.0,
+            "Price": 41500.0,
+            "m²": 53.97,
+            "Address": "Imantas 1/2"
+        },
+        {
+            "Price_per_m²": 863.0,
+            "Price": 55200.0,
+            "m²": 63.96,
+            "Address": "Kleistu 21"
+        },
+        {
+            "Price_per_m²": 1352.0,
+            "Price": 96000.0,
+            "m²": 71.01,
+            "Address": "Kurzemes pr. 80"
+        },
+        {
+            "Price_per_m²": 1054.0,
+            "Price": 29500.0,
+            "m²": 27.99,
+            "Address": "Imantas 3B"
+        },
+        {
+            "Price_per_m²": 742.0,
+            "Price": 46000.0,
+            "m²": 61.99,
+            "Address": "Kleistu 21"
+        },
+        {
+            "Price_per_m²": 1135.0,
+            "Price": 42000.0,
+            "m²": 37.0,
+            "Address": "Dubultu 23"
+        },
+        {
+            "Price_per_m²": 1241.0,
+            "Price": 69500.0,
+            "m²": 56.0,
+            "Address": "Imantas 6A"
+        },
+        {
+            "Price_per_m²": 1178.0,
+            "Price": 58888.0,
+            "m²": 49.99,
+            "Address": "Kurzemes pr. 106"
+        },
+        {
+            "Price_per_m²": 959.0,
+            "Price": 47000.0,
+            "m²": 49.01,
+            "Address": "Dubultu 7"
+        },
+        {
+            "Price_per_m²": 1049.0,
+            "Price": 107000.0,
+            "m²": 102.0,
+            "Address": "Anniņmuižas 38/2"
+        },
+        {
+            "Price_per_m²": 662.0,
+            "Price": 45000.0,
+            "m²": 67.98,
+            "Address": "Imantas 1 K2"
+        },
+        {
+            "Price_per_m²": 2121.0,
+            "Price": 210000.0,
+            "m²": 99.01,
+            "Address": "Lazdu 53"
+        },
+        {
+            "Price_per_m²": 983.0,
+            "Price": 59000.0,
+            "m²": 60.02,
+            "Address": "Dammes 36"
+        },
+        {
+            "Price_per_m²": 2769.0,
+            "Price": 216000.0,
+            "m²": 78.01,
+            "Address": "Dumbrāja 29"
+        },
+        {
+            "Price_per_m²": 1289.0,
+            "Price": 49000.0,
+            "m²": 38.01,
+            "Address": "Kurzemes pr. 42"
+        },
+        {
+            "Price_per_m²": 760.0,
+            "Price": 39500.0,
+            "m²": 51.97,
+            "Address": "Imantas 8. l. 11"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 50000.0,
+            "m²": 50.0,
+            "Address": "Kurzemes pr. 94"
+        },
+        {
+            "Price_per_m²": 900.0,
+            "Price": 45000.0,
+            "m²": 50.0,
+            "Address": "Dubultu 21"
+        },
+        {
+            "Price_per_m²": 2285.0,
+            "Price": 164500.0,
+            "m²": 71.99,
+            "Address": "Jūrmalas g. 82k2"
+        },
+        {
+            "Price_per_m²": 803.0,
+            "Price": 53800.0,
+            "m²": 67.0,
+            "Address": "Tālavas g. 11"
+        },
+        {
+            "Price_per_m²": 1180.0,
+            "Price": 59000.0,
+            "m²": 50.0,
+            "Address": "Anniņmuižas 92"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 67000.0,
+            "m²": 67.0,
+            "Address": "Zentenes 11"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 59000.0,
+            "m²": 36.0,
+            "Address": "Anniņmuižas 20"
+        },
+        {
+            "Price_per_m²": 1815.0,
+            "Price": 97994.0,
+            "m²": 53.99,
+            "Address": "Kleistu 11/1"
+        },
+        {
+            "Price_per_m²": 984.0,
+            "Price": 62000.0,
+            "m²": 63.01,
+            "Address": "Kurzemes pr. 106"
+        },
+        {
+            "Price_per_m²": 918.0,
+            "Price": 45000.0,
+            "m²": 49.02,
+            "Address": "Dubultu 21"
+        },
+        {
+            "Price_per_m²": 1797.0,
+            "Price": 115000.0,
+            "m²": 64.0,
+            "Address": "Anniņmuižas 38/1"
+        },
+        {
+            "Price_per_m²": 1074.0,
+            "Price": 29000.0,
+            "m²": 27.0,
+            "Address": "Dammes 19"
+        },
+        {
+            "Price_per_m²": 867.0,
+            "Price": 42500.0,
+            "m²": 49.02,
+            "Address": "Kleistu 17"
+        },
+        {
+            "Price_per_m²": 918.0,
+            "Price": 67000.0,
+            "m²": 72.98,
+            "Address": "Kurzemes pr. 76"
+        },
+        {
+            "Price_per_m²": 980.0,
+            "Price": 49000.0,
+            "m²": 50.0,
+            "Address": "Slokas 179"
+        },
+        {
+            "Price_per_m²": 2449.0,
+            "Price": 120000.0,
+            "m²": 49.0,
+            "Address": "Progresa 2A"
+        },
+        {
+            "Price_per_m²": 1914.0,
+            "Price": 155000.0,
+            "m²": 80.98,
+            "Address": "Anniņmuižas 38 k-4"
+        },
+        {
+            "Price_per_m²": 1167.0,
+            "Price": 70000.0,
+            "m²": 59.98,
+            "Address": "Kurzemes pr. 58"
+        },
+        {
+            "Price_per_m²": 999.0,
+            "Price": 48950.0,
+            "m²": 49.0,
+            "Address": "Zentenes 18"
+        },
+        {
+            "Price_per_m²": 806.0,
+            "Price": 50000.0,
+            "m²": 62.03,
+            "Address": "Kurzemes pr. 128"
+        },
+        {
+            "Price_per_m²": 794.0,
+            "Price": 50000.0,
+            "m²": 62.97,
+            "Address": "M. Krūmu 9"
+        },
+        {
+            "Price_per_m²": 1914.0,
+            "Price": 155000.0,
+            "m²": 80.98,
+            "Address": "Progresa 3"
+        },
+        {
+            "Price_per_m²": 813.0,
+            "Price": 39000.0,
+            "m²": 47.97,
+            "Address": "Slokas 140"
+        },
+        {
+            "Price_per_m²": 1742.0,
+            "Price": 111500.0,
+            "m²": 64.01,
+            "Address": "Progresa 3"
+        },
+        {
+            "Price_per_m²": 1145.0,
+            "Price": 35500.0,
+            "m²": 31.0,
+            "Address": "Rigondas g. 1"
+        },
+        {
+            "Price_per_m²": 1278.0,
+            "Price": 46000.0,
+            "m²": 35.99,
+            "Address": "Anniņmuižas 50"
+        },
+        {
+            "Price_per_m²": 970.0,
+            "Price": 48500.0,
+            "m²": 50.0,
+            "Address": "Anniņmuižas 40E"
+        },
+        {
+            "Price_per_m²": 1328.0,
+            "Price": 85000.0,
+            "m²": 64.01,
+            "Address": "Dubultu 18"
+        },
+        {
+            "Price_per_m²": 1050.0,
+            "Price": 52500.0,
+            "m²": 50.0,
+            "Address": "Dubultu 93"
+        },
+        {
+            "Price_per_m²": 1778.0,
+            "Price": 104900.0,
+            "m²": 59.0,
+            "Address": "Anniņmuižas 38 k-2"
+        },
+        {
+            "Price_per_m²": 1034.0,
+            "Price": 60000.0,
+            "m²": 58.03,
+            "Address": "Kurzemes pr. 42"
+        },
+        {
+            "Price_per_m²": 1114.0,
+            "Price": 56800.0,
+            "m²": 50.99,
+            "Address": "Kurzemes pr. 86"
+        },
+        {
+            "Price_per_m²": 1010.0,
+            "Price": 49500.0,
+            "m²": 49.01,
+            "Address": "Dubultu 18"
+        },
+        {
+            "Price_per_m²": 1300.0,
+            "Price": 42900.0,
+            "m²": 33.0,
+            "Address": "Rigondas g. 3"
+        },
+        {
+            "Price_per_m²": 1536.0,
+            "Price": 79890.0,
+            "m²": 52.01,
+            "Address": "Kurzemes pr. 86"
+        },
+        {
+            "Price_per_m²": 2419.0,
+            "Price": 179000.0,
+            "m²": 74.0,
+            "Address": "Anniņmuižas 38K4"
+        },
+        {
+            "Price_per_m²": 1400.0,
+            "Price": 140000.0,
+            "m²": 100.0,
+            "Address": "Anniņmuižas 41"
+        },
+        {
+            "Price_per_m²": 1407.0,
+            "Price": 38000.0,
+            "m²": 27.01,
+            "Address": "Auru 5"
+        },
+        {
+            "Price_per_m²": 2062.0,
+            "Price": 200000.0,
+            "m²": 96.99,
+            "Address": "Dumbrāja 18"
+        },
+        {
+            "Price_per_m²": 960.0,
+            "Price": 48000.0,
+            "m²": 50.0,
+            "Address": "Kleistu 17"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 55000.0,
+            "m²": 35.99,
+            "Address": "Kurzemes pr. 130"
+        },
+        {
+            "Price_per_m²": 1497.0,
+            "Price": 53900.0,
+            "m²": 36.01,
+            "Address": "Kleistu 15"
+        },
+        {
+            "Price_per_m²": 1427.0,
+            "Price": 99900.0,
+            "m²": 70.01,
+            "Address": "Progresa 2a"
+        },
+        {
+            "Price_per_m²": 937.0,
+            "Price": 45900.0,
+            "m²": 48.99,
+            "Address": "Anniņmuižas 84"
+        },
+        {
+            "Price_per_m²": 1154.0,
+            "Price": 45000.0,
+            "m²": 38.99,
+            "Address": "Slokas 173"
+        },
+        {
+            "Price_per_m²": 1272.0,
+            "Price": 58500.0,
+            "m²": 45.99,
+            "Address": "Anniņmuižas 2B"
+        },
+        {
+            "Price_per_m²": 974.0,
+            "Price": 37000.0,
+            "m²": 37.99,
+            "Address": "Zentenes 26"
+        },
+        {
+            "Price_per_m²": 1266.0,
+            "Price": 100000.0,
+            "m²": 78.99,
+            "Address": "Kleistu 2"
+        },
+        {
+            "Price_per_m²": 1088.0,
+            "Price": 210000.0,
+            "m²": 193.01,
+            "Address": "Slokas 104"
+        },
+        {
+            "Price_per_m²": 878.0,
+            "Price": 43000.0,
+            "m²": 48.97,
+            "Address": "Kurzemes pr. 104"
+        },
+        {
+            "Price_per_m²": 873.0,
+            "Price": 55000.0,
+            "m²": 63.0,
+            "Address": "Slokas 183"
+        },
+        {
+            "Price_per_m²": 2215.0,
+            "Price": 174999.0,
+            "m²": 79.01,
+            "Address": "Jūrmalas g. 82k-1"
+        },
+        {
+            "Price_per_m²": 1455.0,
+            "Price": 160000.0,
+            "m²": 109.97,
+            "Address": "Anniņmuižas 32"
+        },
+        {
+            "Price_per_m²": 1324.0,
+            "Price": 49000.0,
+            "m²": 37.01,
+            "Address": "Kurzemes pr. 122"
+        },
+        {
+            "Price_per_m²": 774.0,
+            "Price": 48000.0,
+            "m²": 62.02,
+            "Address": "Dammes 36"
+        },
+        {
+            "Price_per_m²": 1101.0,
+            "Price": 74900.0,
+            "m²": 68.03,
+            "Address": "M. Krūmu 6"
+        },
+        {
+            "Price_per_m²": 1040.0,
+            "Price": 52000.0,
+            "m²": 50.0,
+            "Address": "Tālavas g. 5"
+        },
+        {
+            "Price_per_m²": 1024.0,
+            "Price": 52200.0,
+            "m²": 50.98,
+            "Address": "Slokas 201"
+        },
+        {
+            "Price_per_m²": 961.0,
+            "Price": 36500.0,
+            "m²": 37.98,
+            "Address": "Dubultu 19"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 75000.0,
+            "m²": 70.03,
+            "Address": "Dubultu 4"
+        },
+        {
+            "Price_per_m²": 1579.0,
+            "Price": 169000.0,
+            "m²": 107.03,
+            "Address": "Vīksnes 19"
+        },
+        {
+            "Price_per_m²": 905.0,
+            "Price": 57000.0,
+            "m²": 62.98,
+            "Address": "Dammes 8"
+        },
+        {
+            "Price_per_m²": 800.0,
+            "Price": 40000.0,
+            "m²": 50.0,
+            "Address": "Kurzemes pr. 122"
+        },
+        {
+            "Price_per_m²": 1250.0,
+            "Price": 62500.0,
+            "m²": 50.0,
+            "Address": "Kurzemes pr. 54"
+        },
+        {
+            "Price_per_m²": 1275.0,
+            "Price": 102000.0,
+            "m²": 80.0,
+            "Address": "Jūrmalas g. 108"
+        },
+        {
+            "Price_per_m²": 623.0,
+            "Price": 38000.0,
+            "m²": 61.0,
+            "Address": "Jūrmalas g. 91"
+        },
+        {
+            "Price_per_m²": 2421.0,
+            "Price": 230000.0,
+            "m²": 95.0,
+            "Address": "Slokas 130a"
+        },
+        {
+            "Price_per_m²": 1066.0,
+            "Price": 65000.0,
+            "m²": 60.98,
+            "Address": "M. Krūmu 10"
+        },
+        {
+            "Price_per_m²": 2517.0,
+            "Price": 135900.0,
+            "m²": 53.99,
+            "Address": "Jūrmalas g. 74"
+        },
+        {
+            "Price_per_m²": 1021.0,
+            "Price": 49000.0,
+            "m²": 47.99,
+            "Address": "Kurzemes pr. 58"
+        },
+        {
+            "Price_per_m²": 1298.0,
+            "Price": 67500.0,
+            "m²": 52.0,
+            "Address": "Dammes 40"
+        },
+        {
+            "Price_per_m²": 816.0,
+            "Price": 40000.0,
+            "m²": 49.02,
+            "Address": "Kurzemes pr. 52"
+        },
+        {
+            "Price_per_m²": 745.0,
+            "Price": 38000.0,
+            "m²": 51.01,
+            "Address": "Dammes 11"
+        },
+        {
+            "Price_per_m²": 905.0,
+            "Price": 57000.0,
+            "m²": 62.98,
+            "Address": "Dammes 8"
+        },
+        {
+            "Price_per_m²": 2082.0,
+            "Price": 127000.0,
+            "m²": 61.0,
+            "Address": "Slokas 130A"
+        },
+        {
+            "Price_per_m²": 1930.0,
+            "Price": 110000.0,
+            "m²": 56.99,
+            "Address": "Anniņmuižas 28"
+        },
+        {
+            "Price_per_m²": 1184.0,
+            "Price": 58000.0,
+            "m²": 48.99,
+            "Address": "Slokas 136"
+        },
+        {
+            "Price_per_m²": 1263.0,
+            "Price": 48000.0,
+            "m²": 38.0,
+            "Address": "Zentenes 39"
+        },
+        {
+            "Price_per_m²": 820.0,
+            "Price": 49998.0,
+            "m²": 60.97,
+            "Address": "Slokas 134"
+        },
+        {
+            "Price_per_m²": 691.0,
+            "Price": 47000.0,
+            "m²": 68.02,
+            "Address": "Imantas 1K2"
+        },
+        {
+            "Price_per_m²": 727.0,
+            "Price": 40000.0,
+            "m²": 55.02,
+            "Address": "Slokas 191"
+        },
+        {
+            "Price_per_m²": 1173.0,
+            "Price": 59800.0,
+            "m²": 50.98,
+            "Address": "Kleistu 11"
+        },
+        {
+            "Price_per_m²": 762.0,
+            "Price": 47250.0,
+            "m²": 62.01,
+            "Address": "Jūrmalas g. 95"
+        },
+        {
+            "Price_per_m²": 1074.0,
+            "Price": 29000.0,
+            "m²": 27.0,
+            "Address": "Imantas 1 k2"
+        },
+        {
+            "Price_per_m²": 1481.0,
+            "Price": 160000.0,
+            "m²": 108.04,
+            "Address": "Anniņmuižas 43"
+        },
+        {
+            "Price_per_m²": 935.0,
+            "Price": 58000.0,
+            "m²": 62.03,
+            "Address": "Dammes 1-92"
+        },
+        {
+            "Price_per_m²": 2087.0,
+            "Price": 96000.0,
+            "m²": 46.0,
+            "Address": "Akāciju 6"
+        },
+        {
+            "Price_per_m²": 754.0,
+            "Price": 47500.0,
+            "m²": 63.0,
+            "Address": "Jūrmalas g. 95"
+        },
+        {
+            "Price_per_m²": 1598.0,
+            "Price": 81500.0,
+            "m²": 51.0,
+            "Address": "Kurzemes pr. 86"
+        },
+        {
+            "Price_per_m²": 944.0,
+            "Price": 67000.0,
+            "m²": 70.97,
+            "Address": "Kurzemes pr. 60"
+        },
+        {
+            "Price_per_m²": 1174.0,
+            "Price": 54000.0,
+            "m²": 46.0,
+            "Address": "Kurzemes pr. 16"
+        },
+        {
+            "Price_per_m²": 1800.0,
+            "Price": 117000.0,
+            "m²": 65.0,
+            "Address": "Anniņmuižas 38"
+        },
+        {
+            "Price_per_m²": 1216.0,
+            "Price": 45000.0,
+            "m²": 37.01,
+            "Address": "Dubultu 4"
+        },
+        {
+            "Price_per_m²": 2247.0,
+            "Price": 164000.0,
+            "m²": 72.99,
+            "Address": "Dumbrāja 18"
+        },
+        {
+            "Price_per_m²": 1439.0,
+            "Price": 63300.0,
+            "m²": 43.99,
+            "Address": "Kurzemes pr. 2"
+        },
+        {
+            "Price_per_m²": 1679.0,
+            "Price": 89000.0,
+            "m²": 53.01,
+            "Address": "Kurzemes pr. 110"
+        },
+        {
+            "Price_per_m²": 1263.0,
+            "Price": 48000.0,
+            "m²": 38.0,
+            "Address": "Zentenes 2"
+        },
+        {
+            "Price_per_m²": 1709.0,
+            "Price": 188000.0,
+            "m²": 110.01,
+            "Address": "Anniņmuižas 43"
+        },
+        {
+            "Price_per_m²": 1377.0,
+            "Price": 190000.0,
+            "m²": 137.98,
+            "Address": "Anniņmuižas 38k3"
+        },
+        {
+            "Price_per_m²": 1040.0,
+            "Price": 52000.0,
+            "m²": 50.0,
+            "Address": "Jūrmalas g. 93, k2"
+        },
+        {
+            "Price_per_m²": 583.0,
+            "Price": 21000.0,
+            "m²": 36.02,
+            "Address": "Zentenes 18"
+        },
+        {
+            "Price_per_m²": 1135.0,
+            "Price": 42000.0,
+            "m²": 37.0,
+            "Address": "Dubultu 4"
+        },
+        {
+            "Price_per_m²": 1979.0,
+            "Price": 190000.0,
+            "m²": 96.01,
+            "Address": "Anniņmuižas 41"
+        },
+        {
+            "Price_per_m²": 1985.0,
+            "Price": 133000.0,
+            "m²": 67.0,
+            "Address": "Anniņmuižas 38K4"
+        },
+        {
+            "Price_per_m²": 776.0,
+            "Price": 38000.0,
+            "m²": 48.97,
+            "Address": "Slokas 205"
+        },
+        {
+            "Price_per_m²": 734.0,
+            "Price": 45500.0,
+            "m²": 61.99,
+            "Address": "Zentenes 22"
+        },
+        {
+            "Price_per_m²": 1492.0,
+            "Price": 94000.0,
+            "m²": 63.0,
+            "Address": "M. Krūmu 18"
+        },
+        {
+            "Price_per_m²": 1350.0,
+            "Price": 81000.0,
+            "m²": 60.0,
+            "Address": "Kurzemes pr. 6"
+        },
+        {
+            "Price_per_m²": 958.0,
+            "Price": 34500.0,
+            "m²": 36.01,
+            "Address": "M. Krūmu 16"
+        },
+        {
+            "Price_per_m²": 2472.0,
+            "Price": 131000.0,
+            "m²": 52.99,
+            "Address": "Dumbrāja 18 k 2"
+        },
+        {
+            "Price_per_m²": 1103.0,
+            "Price": 37500.0,
+            "m²": 34.0,
+            "Address": "Kurzemes pr. 17"
+        },
+        {
+            "Price_per_m²": 1111.0,
+            "Price": 70000.0,
+            "m²": 63.01,
+            "Address": "Zentenes 5"
+        },
+        {
+            "Price_per_m²": 1077.0,
+            "Price": 56000.0,
+            "m²": 52.0,
+            "Address": "Slokas 201"
+        },
+        {
+            "Price_per_m²": 2605.0,
+            "Price": 198000.0,
+            "m²": 76.01,
+            "Address": "Dumbrāja 29"
+        },
+        {
+            "Price_per_m²": 972.0,
+            "Price": 35000.0,
+            "m²": 36.01,
+            "Address": "Anniņmuižas 50"
+        },
+        {
+            "Price_per_m²": 1019.0,
+            "Price": 55000.0,
+            "m²": 53.97,
+            "Address": "Kurzemes pr. 88"
+        },
+        {
+            "Price_per_m²": 2049.0,
+            "Price": 166000.0,
+            "m²": 81.02,
+            "Address": "Progresa 3"
+        },
+        {
+            "Price_per_m²": 2532.0,
+            "Price": 200000.0,
+            "m²": 78.99,
+            "Address": "Jūrmalas g. 82-k2"
+        },
+        {
+            "Price_per_m²": 1226.0,
+            "Price": 76000.0,
+            "m²": 61.99,
+            "Address": "Kurzemes pr. 154"
+        },
+        {
+            "Price_per_m²": 676.0,
+            "Price": 34500.0,
+            "m²": 51.04,
+            "Address": "Kleistu 17"
+        },
+        {
+            "Price_per_m²": 726.0,
+            "Price": 53000.0,
+            "m²": 73.0,
+            "Address": "Kurzemes pr. 78"
+        },
+        {
+            "Price_per_m²": 840.0,
+            "Price": 63000.0,
+            "m²": 75.0,
+            "Address": "Zentenes 28"
+        },
+        {
+            "Price_per_m²": 770.0,
+            "Price": 48500.0,
+            "m²": 62.99,
+            "Address": "Jūrmalas g. 95"
+        },
+        {
+            "Price_per_m²": 1346.0,
+            "Price": 52500.0,
+            "m²": 39.0,
+            "Address": "Slokas 191"
+        },
+        {
+            "Price_per_m²": 1201.0,
+            "Price": 80500.0,
+            "m²": 67.03,
+            "Address": "Slokas 195"
+        },
+        {
+            "Price_per_m²": 1194.0,
+            "Price": 58500.0,
+            "m²": 48.99,
+            "Address": "Slokas 217"
+        },
+        {
+            "Price_per_m²": 857.0,
+            "Price": 42000.0,
+            "m²": 49.01,
+            "Address": "Dubultu 20"
+        },
+        {
+            "Price_per_m²": 1222.0,
+            "Price": 44000.0,
+            "m²": 36.01,
+            "Address": "Kleistu 19"
+        },
+        {
+            "Price_per_m²": 1014.0,
+            "Price": 73000.0,
+            "m²": 71.99,
+            "Address": "Zentenes 30"
+        },
+        {
+            "Price_per_m²": 1167.0,
+            "Price": 59500.0,
+            "m²": 50.99,
+            "Address": "Anniņmuižas 50"
+        },
+        {
+            "Price_per_m²": 1026.0,
+            "Price": 34900.0,
+            "m²": 34.02,
+            "Address": "Kurzemes pr. 18"
+        },
+        {
+            "Price_per_m²": 1031.0,
+            "Price": 67000.0,
+            "m²": 64.99,
+            "Address": "Kurzemes pr. 106"
+        },
+        {
+            "Price_per_m²": 762.0,
+            "Price": 48000.0,
+            "m²": 62.99,
+            "Address": "Kurzemes pr. 94"
+        },
+        {
+            "Price_per_m²": 1028.0,
+            "Price": 55500.0,
+            "m²": 53.99,
+            "Address": "Kurzemes pr. 88"
+        },
+        {
+            "Price_per_m²": 1222.0,
+            "Price": 33000.0,
+            "m²": 27.0,
+            "Address": "Dammes 20"
+        },
+        {
+            "Price_per_m²": 1329.0,
+            "Price": 105000.0,
+            "m²": 79.01,
+            "Address": "Kleistu 2"
+        },
+        {
+            "Price_per_m²": 1074.0,
+            "Price": 29000.0,
+            "m²": 27.0,
+            "Address": "Imantas 1-k2"
+        },
+        {
+            "Price_per_m²": 821.0,
+            "Price": 55000.0,
+            "m²": 66.99,
+            "Address": "Auru 7A"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 46000.0,
+            "m²": 46.0,
+            "Address": "Kurzemes pr. 124"
+        },
+        {
+            "Price_per_m²": 1143.0,
+            "Price": 56000.0,
+            "m²": 48.99,
+            "Address": "Kurzemes pr. 58"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 50000.0,
+            "m²": 50.0,
+            "Address": "Zentenes 18"
+        },
+        {
+            "Price_per_m²": 1111.0,
+            "Price": 210000.0,
+            "m²": 189.02,
+            "Address": "Anniņmuižas 43"
+        },
+        {
+            "Price_per_m²": 1769.0,
+            "Price": 230000.0,
+            "m²": 130.02,
+            "Address": "Anniņmuižas 43"
+        },
+        {
+            "Price_per_m²": 1373.0,
+            "Price": 210000.0,
+            "m²": 152.95,
+            "Address": "Anniņmuižas 38"
+        },
+        {
+            "Price_per_m²": 1056.0,
+            "Price": 38000.0,
+            "m²": 35.98,
+            "Address": "Anniņmuižas 50"
+        },
+        {
+            "Price_per_m²": 985.0,
+            "Price": 65000.0,
+            "m²": 65.99,
+            "Address": "Bebru 4"
+        },
+        {
+            "Price_per_m²": 869.0,
+            "Price": 53000.0,
+            "m²": 60.99,
+            "Address": "Anniņmuižas 46"
+        },
+        {
+            "Price_per_m²": 2134.0,
+            "Price": 125900.0,
+            "m²": 59.0,
+            "Address": "Anniņmuižas 38/3"
+        },
+        {
+            "Price_per_m²": 901.0,
+            "Price": 64900.0,
+            "m²": 72.03,
+            "Address": "Zentenes 28"
+        },
+        {
+            "Price_per_m²": 2167.0,
+            "Price": 130000.0,
+            "m²": 59.99,
+            "Address": "Akāciju 6"
+        },
+        {
+            "Price_per_m²": 939.0,
+            "Price": 46000.0,
+            "m²": 48.99,
+            "Address": "Anniņmuižas 84"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 50000.0,
+            "m²": 50.0,
+            "Address": "Kleistu 17"
+        },
+        {
+            "Price_per_m²": 897.0,
+            "Price": 35000.0,
+            "m²": 39.02,
+            "Address": "Kurzemes pr. 32"
+        },
+        {
+            "Price_per_m²": 714.0,
+            "Price": 35000.0,
+            "m²": 49.02,
+            "Address": "Progresa 1"
+        },
+        {
+            "Price_per_m²": 800.0,
+            "Price": 40000.0,
+            "m²": 50.0,
+            "Address": "Slokas 203"
+        },
+        {
+            "Price_per_m²": 1097.0,
+            "Price": 65800.0,
+            "m²": 59.98,
+            "Address": "Zentenes 37"
+        },
+        {
+            "Price_per_m²": 952.0,
+            "Price": 40000.0,
+            "m²": 42.02,
+            "Address": "Imantas 8"
+        },
+        {
+            "Price_per_m²": 1021.0,
+            "Price": 49000.0,
+            "m²": 47.99,
+            "Address": "Dammes 3C"
+        },
+        {
+            "Price_per_m²": 954.0,
+            "Price": 51500.0,
+            "m²": 53.98,
+            "Address": "Slokas 191"
+        },
+        {
+            "Price_per_m²": 2008.0,
+            "Price": 245000.0,
+            "m²": 122.01,
+            "Address": "Anniņmuižas 38"
+        },
+        {
+            "Price_per_m²": 1143.0,
+            "Price": 56000.0,
+            "m²": 48.99,
+            "Address": "Kurzemes pr. 164"
+        },
+        {
+            "Price_per_m²": 1118.0,
+            "Price": 38000.0,
+            "m²": 33.99,
+            "Address": "Kooperatīva 38"
+        },
+        {
+            "Price_per_m²": 1540.0,
+            "Price": 77000.0,
+            "m²": 50.0,
+            "Address": "Imantas 4а"
+        },
+        {
+            "Price_per_m²": 1093.0,
+            "Price": 29500.0,
+            "m²": 26.99,
+            "Address": "Kleistu 18"
+        },
+        {
+            "Price_per_m²": 1260.0,
+            "Price": 63000.0,
+            "m²": 50.0,
+            "Address": "Zentenes 28"
+        },
+        {
+            "Price_per_m²": 1061.0,
+            "Price": 52000.0,
+            "m²": 49.01,
+            "Address": "Dammes 38"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 36000.0,
+            "m²": 50.0,
+            "Address": "Auru 7B"
+        },
+        {
+            "Price_per_m²": 986.0,
+            "Price": 35500.0,
+            "m²": 36.0,
+            "Address": "Jūrmalas g. 91"
+        },
+        {
+            "Price_per_m²": 1028.0,
+            "Price": 37000.0,
+            "m²": 35.99,
+            "Address": "Dammes 8"
+        },
+        {
+            "Price_per_m²": 1864.0,
+            "Price": 110000.0,
+            "m²": 59.01,
+            "Address": "Anniņmuižas 38"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 28500.0,
+            "m²": 35.98,
+            "Address": "Dammes 25"
+        },
+        {
+            "Price_per_m²": 794.0,
+            "Price": 50000.0,
+            "m²": 62.97,
+            "Address": "Jūrmalas g. 95"
+        },
+        {
+            "Price_per_m²": 848.0,
+            "Price": 28000.0,
+            "m²": 33.02,
+            "Address": "M. Krūmu 10"
+        },
+        {
+            "Price_per_m²": 1104.0,
+            "Price": 53000.0,
+            "m²": 48.01,
+            "Address": "Rigondas g. 5"
+        },
+        {
+            "Price_per_m²": 940.0,
+            "Price": 47000.0,
+            "m²": 50.0,
+            "Address": "Kurzemes pr. 90"
+        },
+        {
+            "Price_per_m²": 865.0,
+            "Price": 64000.0,
+            "m²": 73.99,
+            "Address": "Kurzemes pr. 26"
+        },
+        {
+            "Price_per_m²": 867.0,
+            "Price": 52000.0,
+            "m²": 59.98,
+            "Address": "M. Krūmu 18"
+        },
+        {
+            "Price_per_m²": 780.0,
+            "Price": 39000.0,
+            "m²": 50.0,
+            "Address": "Progresa 8"
+        },
+        {
+            "Price_per_m²": 887.0,
+            "Price": 55000.0,
+            "m²": 62.01,
+            "Address": "Kurzemes pr. 120"
+        },
+        {
+            "Price_per_m²": 1150.0,
+            "Price": 69000.0,
+            "m²": 60.0,
+            "Address": "Zentenes 37"
+        },
+        {
+            "Price_per_m²": 2632.0,
+            "Price": 250000.0,
+            "m²": 94.98,
+            "Address": "Slokas 130A"
+        },
+        {
+            "Price_per_m²": 1667.0,
+            "Price": 105000.0,
+            "m²": 62.99,
+            "Address": "Slokas 187"
+        },
+        {
+            "Price_per_m²": 1080.0,
+            "Price": 54000.0,
+            "m²": 50.0,
+            "Address": "Imantas 2"
+        },
+        {
+            "Price_per_m²": 1078.0,
+            "Price": 83000.0,
+            "m²": 76.99,
+            "Address": "Tālavas g. 13"
+        },
+        {
+            "Price_per_m²": 1263.0,
+            "Price": 61900.0,
+            "m²": 49.01,
+            "Address": "Slokas 205A"
+        },
+        {
+            "Price_per_m²": 910.0,
+            "Price": 45500.0,
+            "m²": 50.0,
+            "Address": "Jūrmalas g. 93"
+        },
+        {
+            "Price_per_m²": 934.0,
+            "Price": 57000.0,
+            "m²": 61.03,
+            "Address": "Slokas 199"
+        },
+        {
+            "Price_per_m²": 820.0,
+            "Price": 41000.0,
+            "m²": 50.0,
+            "Address": "Zentenes 2"
+        },
+        {
+            "Price_per_m²": 1224.0,
+            "Price": 60000.0,
+            "m²": 49.02,
+            "Address": "Slokas 217"
+        },
+        {
+            "Price_per_m²": 995.0,
+            "Price": 37800.0,
+            "m²": 37.99,
+            "Address": "Dubultu 19"
+        },
+        {
+            "Price_per_m²": 1058.0,
+            "Price": 55000.0,
+            "m²": 51.98,
+            "Address": "Kurzemes pr. 94"
+        },
+        {
+            "Price_per_m²": 1983.0,
+            "Price": 115000.0,
+            "m²": 57.99,
+            "Address": "Anniņmuižas 28"
+        },
+        {
+            "Price_per_m²": 1150.0,
+            "Price": 69000.0,
+            "m²": 60.0,
+            "Address": "Zentenes 37"
+        },
+        {
+            "Price_per_m²": 1143.0,
+            "Price": 56000.0,
+            "m²": 48.99,
+            "Address": "Slokas 201"
+        },
+        {
+            "Price_per_m²": 1141.0,
+            "Price": 73000.0,
+            "m²": 63.98,
+            "Address": "Rigondas g. 6"
+        },
+        {
+            "Price_per_m²": 1150.0,
+            "Price": 69000.0,
+            "m²": 60.0,
+            "Address": "Zentenes 37"
+        },
+        {
+            "Price_per_m²": 1020.0,
+            "Price": 51000.0,
+            "m²": 50.0,
+            "Address": "M. Krūmu 20"
+        },
+        {
+            "Price_per_m²": 667.0,
+            "Price": 34000.0,
+            "m²": 50.97,
+            "Address": "Kurzemes pr. 84"
+        },
+        {
+            "Price_per_m²": 1979.0,
+            "Price": 190000.0,
+            "m²": 96.01,
+            "Address": "Anniņmuižas 41"
+        },
+        {
+            "Price_per_m²": 746.0,
+            "Price": 47000.0,
+            "m²": 63.0,
+            "Address": "Kleistu 21"
+        },
+        {
+            "Price_per_m²": 890.0,
+            "Price": 44500.0,
+            "m²": 50.0,
+            "Address": "M. Krūmu 6"
+        },
+        {
+            "Price_per_m²": 956.0,
+            "Price": 32500.0,
+            "m²": 34.0,
+            "Address": "Slokas 163"
+        },
+        {
+            "Price_per_m²": 767.0,
+            "Price": 39900.0,
+            "m²": 52.02,
+            "Address": "Dammes 23"
+        },
+        {
+            "Price_per_m²": 1967.0,
+            "Price": 120000.0,
+            "m²": 61.01,
+            "Address": "Dubultu 16"
+        },
+        {
+            "Price_per_m²": 1067.0,
+            "Price": 64000.0,
+            "m²": 59.98,
+            "Address": "Dammes 36"
+        },
+        {
+            "Price_per_m²": 979.0,
+            "Price": 47000.0,
+            "m²": 48.01,
+            "Address": "Tālavas g. 11"
+        },
+        {
+            "Price_per_m²": 1375.0,
+            "Price": 66000.0,
+            "m²": 48.0,
+            "Address": "Slokas 171"
+        },
+        {
+            "Price_per_m²": 1038.0,
+            "Price": 54000.0,
+            "m²": 52.02,
+            "Address": "Kurzemes pr. 84"
+        },
+        {
+            "Price_per_m²": 1192.0,
+            "Price": 62000.0,
+            "m²": 52.01,
+            "Address": "Dammes 38"
+        },
+        {
+            "Price_per_m²": 1114.0,
+            "Price": 39000.0,
+            "m²": 35.01,
+            "Address": "Rigondas g. 7"
+        },
+        {
+            "Price_per_m²": 897.0,
+            "Price": 35000.0,
+            "m²": 39.02,
+            "Address": "Kurzemes pr. 32"
+        },
+        {
+            "Price_per_m²": 2372.0,
+            "Price": 185000.0,
+            "m²": 77.99,
+            "Address": "Jūrmalas g. 82 k-1"
+        },
+        {
+            "Price_per_m²": 889.0,
+            "Price": 32000.0,
+            "m²": 36.0,
+            "Address": "Kleistu 15"
+        },
+        {
+            "Price_per_m²": 754.0,
+            "Price": 34700.0,
+            "m²": 46.02,
+            "Address": "Anniņmuižas 2B"
+        },
+        {
+            "Price_per_m²": 2109.0,
+            "Price": 135000.0,
+            "m²": 64.01,
+            "Address": "Anniņmuižas 38"
+        },
+        {
+            "Price_per_m²": 931.0,
+            "Price": 33500.0,
+            "m²": 35.98,
+            "Address": "Dammes 1"
+        },
+        {
+            "Price_per_m²": 1091.0,
+            "Price": 89500.0,
+            "m²": 82.03,
+            "Address": "Rigondas g. 5"
+        },
+        {
+            "Price_per_m²": 1425.0,
+            "Price": 57000.0,
+            "m²": 40.0,
+            "Address": "Anniņmuižas 28"
+        },
+        {
+            "Price_per_m²": 928.0,
+            "Price": 33400.0,
+            "m²": 35.99,
+            "Address": "Kurzemes pr. 86"
+        },
+        {
+            "Price_per_m²": 1212.0,
+            "Price": 80000.0,
+            "m²": 66.01,
+            "Address": "Dubultu 21"
+        },
+        {
+            "Price_per_m²": 998.0,
+            "Price": 49900.0,
+            "m²": 50.0,
+            "Address": "Zentenes 4"
+        },
+        {
+            "Price_per_m²": 2280.0,
+            "Price": 139100.0,
+            "m²": 61.01,
+            "Address": "Slokas 130A"
+        },
+        {
+            "Price_per_m²": 673.0,
+            "Price": 35000.0,
+            "m²": 52.01,
+            "Address": "Kurzemes pr. 80"
+        },
+        {
+            "Price_per_m²": 1160.0,
+            "Price": 58000.0,
+            "m²": 50.0,
+            "Address": "Auru 5А"
+        },
+        {
+            "Price_per_m²": 1382.0,
+            "Price": 47000.0,
+            "m²": 34.01,
+            "Address": "Jūrmalas g. 7"
+        },
+        {
+            "Price_per_m²": 1130.0,
+            "Price": 30500.0,
+            "m²": 26.99,
+            "Address": "Imantas 1"
+        },
+        {
+            "Price_per_m²": 1500.0,
+            "Price": 120000.0,
+            "m²": 80.0,
+            "Address": "Anniņmuižas 41"
+        },
+        {
+            "Price_per_m²": 968.0,
+            "Price": 60000.0,
+            "m²": 61.98,
+            "Address": "Dammes 11"
+        },
+        {
+            "Price_per_m²": 2319.0,
+            "Price": 167000.0,
+            "m²": 72.01,
+            "Address": "Jūrmalas g. 82k-1"
+        },
+        {
+            "Price_per_m²": 980.0,
+            "Price": 48000.0,
+            "m²": 48.98,
+            "Address": "Progresa 1"
+        },
+        {
+            "Price_per_m²": 1016.0,
+            "Price": 51800.0,
+            "m²": 50.98,
+            "Address": "Slokas 201"
+        },
+        {
+            "Price_per_m²": 960.0,
+            "Price": 48000.0,
+            "m²": 50.0,
+            "Address": "Kurzemes pr. 84"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 48950.0,
+            "m²": 67.99,
+            "Address": "Imantas 1 k-2"
+        },
+        {
+            "Price_per_m²": 890.0,
+            "Price": 65000.0,
+            "m²": 73.03,
+            "Address": "Kurzemes pr. 78"
+        },
+        {
+            "Price_per_m²": 920.0,
+            "Price": 46000.0,
+            "m²": 50.0,
+            "Address": "Kurzemes pr. 58"
+        },
+        {
+            "Price_per_m²": 1429.0,
+            "Price": 100000.0,
+            "m²": 69.98,
+            "Address": "Kurzemes pr. 59"
+        },
+        {
+            "Price_per_m²": 1347.0,
+            "Price": 83500.0,
+            "m²": 61.99,
+            "Address": "Jūrmalas g. 99"
+        },
+        {
+            "Price_per_m²": 889.0,
+            "Price": 32900.0,
+            "m²": 37.01,
+            "Address": "Kurzemes pr. 122"
+        },
+        {
+            "Price_per_m²": 933.0,
+            "Price": 56000.0,
+            "m²": 60.02,
+            "Address": "Dammes 19"
+        },
+        {
+            "Price_per_m²": 855.0,
+            "Price": 53000.0,
+            "m²": 61.99,
+            "Address": "Zentenes 20"
+        },
+        {
+            "Price_per_m²": 1252.0,
+            "Price": 33800.0,
+            "m²": 27.0,
+            "Address": "Kurzemes pr. 108"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 51000.0,
+            "m²": 51.0,
+            "Address": "Dammes 26"
+        },
+        {
+            "Price_per_m²": 891.0,
+            "Price": 41000.0,
+            "m²": 46.02,
+            "Address": "Kurzemes pr. 88"
+        },
+        {
+            "Price_per_m²": 2321.0,
+            "Price": 195000.0,
+            "m²": 84.02,
+            "Address": "Ērkšķu 2"
+        },
+        {
+            "Price_per_m²": 5.36,
+            "Price": 375.0,
+            "m²": 69.96,
+            "Address": "Kleistu 49"
+        },
+        {
+            "Price_per_m²": 1029.0,
+            "Price": 35000.0,
+            "m²": 34.01,
+            "Address": "Rigondas g. 7"
+        },
+        {
+            "Price_per_m²": 972.0,
+            "Price": 35000.0,
+            "m²": 36.01,
+            "Address": "Zentenes 18"
+        },
+        {
+            "Price_per_m²": 1413.0,
+            "Price": 89000.0,
+            "m²": 62.99,
+            "Address": "Kurzemes pr. 110"
+        },
+        {
+            "Price_per_m²": 1962.0,
+            "Price": 155000.0,
+            "m²": 79.0,
+            "Address": "Anniņmuižas 38"
+        },
+        {
+            "Price_per_m²": 1119.0,
+            "Price": 75000.0,
+            "m²": 67.02,
+            "Address": "Slokas 140"
+        },
+        {
+            "Price_per_m²": 1318.0,
+            "Price": 87000.0,
+            "m²": 66.01,
+            "Address": "Slokas 111h"
+        },
+        {
+            "Price_per_m²": 867.0,
+            "Price": 26000.0,
+            "m²": 29.99,
+            "Address": "Dammes 36"
+        },
+        {
+            "Price_per_m²": 1212.0,
+            "Price": 40000.0,
+            "m²": 33.0,
+            "Address": "M. Krūmu 10"
+        },
+        {
+            "Price_per_m²": 947.0,
+            "Price": 36000.0,
+            "m²": 38.01,
+            "Address": "Zentenes 26"
+        },
+        {
+            "Price_per_m²": 1100.0,
+            "Price": 55000.0,
+            "m²": 50.0,
+            "Address": "Kurzemes pr. 78"
+        },
+        {
+            "Price_per_m²": 951.0,
+            "Price": 48500.0,
+            "m²": 51.0,
+            "Address": "Zentenes 39"
+        },
+        {
+            "Price_per_m²": 1245.0,
+            "Price": 49800.0,
+            "m²": 40.0,
+            "Address": "M. Buļļu 4"
+        },
+        {
+            "Price_per_m²": 1151.0,
+            "Price": 61000.0,
+            "m²": 53.0,
+            "Address": "Kurzemes pr. 164"
+        },
+        {
+            "Price_per_m²": 708.0,
+            "Price": 42500.0,
+            "m²": 60.03,
+            "Address": "Kurzemes pr. 104A"
+        },
+        {
+            "Price_per_m²": 1367.0,
+            "Price": 69700.0,
+            "m²": 50.99,
+            "Address": "Kleistu 2"
+        },
+        {
+            "Price_per_m²": 1549.0,
+            "Price": 185900.0,
+            "m²": 120.01,
+            "Address": "Jūrmalas g. 777"
+        },
+        {
+            "Price_per_m²": 1068.0,
+            "Price": 39500.0,
+            "m²": 36.99,
+            "Address": "Dammes 1"
+        },
+        {
+            "Price_per_m²": 860.0,
+            "Price": 43000.0,
+            "m²": 50.0,
+            "Address": "Kurzemes pr. 100"
+        },
+        {
+            "Price_per_m²": 762.0,
+            "Price": 48000.0,
+            "m²": 62.99,
+            "Address": "Kleistu 21"
+        },
+        {
+            "Price_per_m²": 1156.0,
+            "Price": 89000.0,
+            "m²": 76.99,
+            "Address": "Tālavas g. 13"
+        },
+        {
+            "Price_per_m²": 878.0,
+            "Price": 32500.0,
+            "m²": 37.02,
+            "Address": "Kurzemes pr. 86"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 6.12,
+            "Price": 300.0,
+            "m²": 49.02,
+            "Address": "Kleistu 15"
+        },
+        {
+            "Price_per_m²": 7.74,
+            "Price": 240.0,
+            "m²": 31.01,
+            "Address": "Rigondas g. 7"
+        },
+        {
+            "Price_per_m²": 4.38,
+            "Price": 210.0,
+            "m²": 47.95,
+            "Address": "Zentenes 18"
+        },
+        {
+            "Price_per_m²": 5.0,
+            "Price": 250.0,
+            "m²": 50.0,
+            "Address": "Zentenes 22"
+        },
+        {
+            "Price_per_m²": 9.09,
+            "Price": 400.0,
+            "m²": 44.0,
+            "Address": "Anniņmuižas 28"
+        },
+        {
+            "Price_per_m²": 10.74,
+            "Price": 290.0,
+            "m²": 27.0,
+            "Address": "Kleistu 18"
+        },
+        {
+            "Price_per_m²": 5.56,
+            "Price": 250.0,
+            "m²": 44.96,
+            "Address": "Auru 7a"
+        },
+        {
+            "Price_per_m²": 6.6,
+            "Price": 330.0,
+            "m²": 50.0,
+            "Address": "Kleistu 21"
+        },
+        {
+            "Price_per_m²": 9.46,
+            "Price": 350.0,
+            "m²": 37.0,
+            "Address": "Slokas 215"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 350.0,
+            "m²": 50.0,
+            "Address": "Jūrmalas g. 99"
+        },
+        {
+            "Price_per_m²": 7.4,
+            "Price": 370.0,
+            "m²": 50.0,
+            "Address": "Dammes 22"
+        },
+        {
+            "Price_per_m²": 6.6,
+            "Price": 330.0,
+            "m²": 50.0,
+            "Address": "Kleistu 21"
+        },
+        {
+            "Price_per_m²": 6.8,
+            "Price": 340.0,
+            "m²": 50.0,
+            "Address": "Kleistu 21"
+        },
+        {
+            "Price_per_m²": 8.4,
+            "Price": 420.0,
+            "m²": 50.0,
+            "Address": "Jūrmalas g. 99"
+        },
+        {
+            "Price_per_m²": 5.0,
+            "Price": 270.0,
+            "m²": 54.0,
+            "Address": "Kurzemes pr. 128"
+        },
+        {
+            "Price_per_m²": 6.79,
+            "Price": 550.0,
+            "m²": 81.0,
+            "Address": "Progresa 3"
+        },
+        {
+            "Price_per_m²": 6.94,
+            "Price": 250.0,
+            "m²": 36.02,
+            "Address": "Zentenes 22"
+        },
+        {
+            "Price_per_m²": 7.29,
+            "Price": 350.0,
+            "m²": 48.01,
+            "Address": "Slokas 132"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 400.0,
+            "m²": 50.0,
+            "Address": "Kurzemes pr. 128"
+        },
+        {
+            "Price_per_m²": 9.68,
+            "Price": 300.0,
+            "m²": 30.99,
+            "Address": "Rigondas g. 7"
+        },
+        {
+            "Price_per_m²": 11.96,
+            "Price": 550.0,
+            "m²": 45.99,
+            "Address": "Akāciju 2"
+        },
+        {
+            "Price_per_m²": 5.79,
+            "Price": 220.0,
+            "m²": 38.0,
+            "Address": "Zentenes 24"
+        },
+        {
+            "Price_per_m²": 6.58,
+            "Price": 250.0,
+            "m²": 37.99,
+            "Address": "Rigondas g. 8"
+        },
+        {
+            "Price_per_m²": 9.17,
+            "Price": 550.0,
+            "m²": 59.98,
+            "Address": "Akāciju 6"
+        },
+        {
+            "Price_per_m²": 8.75,
+            "Price": 350.0,
+            "m²": 40.0,
+            "Address": "Anniņmuižas 80"
+        },
+        {
+            "Price_per_m²": 5.65,
+            "Price": 260.0,
+            "m²": 46.02,
+            "Address": "Kurzemes pr. 26"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 350.0,
+            "m²": 50.0,
+            "Address": "Dammes 36"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 500.0,
+            "m²": 50.0,
+            "Address": "Anniņmuižas 41"
+        },
+        {
+            "Price_per_m²": 7.35,
+            "Price": 250.0,
+            "m²": 34.01,
+            "Address": "Slokas 171"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 320.0,
+            "m²": 36.0,
+            "Address": "Slokas 183"
+        },
+        {
+            "Price_per_m²": 10.37,
+            "Price": 280.0,
+            "m²": 27.0,
+            "Address": "Zentenes 28"
+        },
+        {
+            "Price_per_m²": 7.08,
+            "Price": 340.0,
+            "m²": 48.02,
+            "Address": "Kurzemes pr. 124"
+        },
+        {
+            "Price_per_m²": 4.0,
+            "Price": 200.0,
+            "m²": 50.0,
+            "Address": "M. Krūmu 16"
+        },
+        {
+            "Price_per_m²": 11.07,
+            "Price": 310.0,
+            "m²": 28.0,
+            "Address": "Slokas 142"
+        },
+        {
+            "Price_per_m²": 8.65,
+            "Price": 450.0,
+            "m²": 52.02,
+            "Address": "Anniņmuižas 41"
+        },
+        {
+            "Price_per_m²": 7.4,
+            "Price": 370.0,
+            "m²": 50.0,
+            "Address": "Anniņmuižas 40F"
+        },
+        {
+            "Price_per_m²": 9.38,
+            "Price": 900.0,
+            "m²": 95.95,
+            "Address": "Anniņmuižas 43"
+        },
+        {
+            "Price_per_m²": 5.26,
+            "Price": 200.0,
+            "m²": 38.02,
+            "Address": "Zentenes 24"
+        },
+        {
+            "Price_per_m²": 7.57,
+            "Price": 280.0,
+            "m²": 36.99,
+            "Address": "Slokas 189"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 500.0,
+            "m²": 49.02,
+            "Address": "Jūrmalas g. 100"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 320.0,
+            "m²": 40.0,
+            "Address": "Bebru 29"
+        },
+        {
+            "Price_per_m²": 8.4,
+            "Price": 420.0,
+            "m²": 50.0,
+            "Address": "Kleistu 21"
+        },
+        {
+            "Price_per_m²": 10.17,
+            "Price": 600.0,
+            "m²": 59.0,
+            "Address": "Akāciju 6"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 450.0,
+            "m²": 54.02,
+            "Address": "Kurzemes pr. 60"
+        },
+        {
+            "Price_per_m²": 7.5,
+            "Price": 450.0,
+            "m²": 60.0,
+            "Address": "Anniņmuižas 38"
+        },
+        {
+            "Price_per_m²": 12.07,
+            "Price": 350.0,
+            "m²": 29.0,
+            "Address": "Zentenes 28"
+        },
+        {
+            "Price_per_m²": 6.6,
+            "Price": 330.0,
+            "m²": 50.0,
+            "Address": "Kurzemes pr. 100"
+        },
+        {
+            "Price_per_m²": 6.04,
+            "Price": 320.0,
+            "m²": 52.98,
+            "Address": "Dammes 32"
+        },
+        {
+            "Price_per_m²": 9.21,
+            "Price": 350.0,
+            "m²": 38.0,
+            "Address": "Kleistu 6"
+        },
+        {
+            "Price_per_m²": 7.3,
+            "Price": 270.0,
+            "m²": 36.99,
+            "Address": "Kurzemes pr. 128"
+        },
+        {
+            "Price_per_m²": 6.33,
+            "Price": 310.0,
+            "m²": 48.97,
+            "Address": "Progresa 2a"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 250.0,
+            "m²": 35.01,
+            "Address": "Kurzemes pr. 142"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 320.0,
+            "m²": 40.0,
+            "Address": "Dammes 24"
+        },
+        {
+            "Price_per_m²": 7.88,
+            "Price": 260.0,
+            "m²": 32.99,
+            "Address": "Anniņmuižas 54"
+        },
+        {
+            "Price_per_m²": 10.17,
+            "Price": 600.0,
+            "m²": 59.0,
+            "Address": "Anniņmuižas 38 k-4"
+        },
+        {
+            "Price_per_m²": 6.36,
+            "Price": 350.0,
+            "m²": 55.03,
+            "Address": "Kurzemes pr. 100"
+        },
+        {
+            "Price_per_m²": 12.59,
+            "Price": 340.0,
+            "m²": 27.01,
+            "Address": "Zentenes 4"
+        },
+        {
+            "Price_per_m²": 5.51,
+            "Price": 270.0,
+            "m²": 49.0,
+            "Address": "Dammes 13"
+        },
+        {
+            "Price_per_m²": 7.25,
+            "Price": 370.0,
+            "m²": 51.03,
+            "Address": "Kurzemes pr. 98"
+        },
+        {
+            "Price_per_m²": 9.57,
+            "Price": 450.0,
+            "m²": 47.02,
+            "Address": "Anniņmuižas 41"
+        },
+        {
+            "Price_per_m²": 6.73,
+            "Price": 350.0,
+            "m²": 52.01,
+            "Address": "Anniņmuižas 28"
+        },
+        {
+            "Price_per_m²": 11.4,
+            "Price": 650.0,
+            "m²": 57.02,
+            "Address": "Anniņmuižas 38/2"
+        },
+        {
+            "Price_per_m²": 7.92,
+            "Price": 285.0,
+            "m²": 35.98,
+            "Address": "Kurzemes pr. 20"
+        },
+        {
+            "Price_per_m²": 6.32,
+            "Price": 480.0,
+            "m²": 75.95,
+            "Address": "Kleistu 2"
+        },
+        {
+            "Price_per_m²": 5.83,
+            "Price": 210.0,
+            "m²": 36.02,
+            "Address": "Dammes 11"
+        },
+        {
+            "Price_per_m²": 10.36,
+            "Price": 580.0,
+            "m²": 55.98,
+            "Address": "Slokas 130A"
+        },
+        {
+            "Price_per_m²": 5.28,
+            "Price": 190.0,
+            "m²": 35.98,
+            "Address": "Kurzemes pr. 106"
+        },
+        {
+            "Price_per_m²": 9.26,
+            "Price": 500.0,
+            "m²": 54.0,
+            "Address": "Kleistu 11k-1"
+        },
+        {
+            "Price_per_m²": 9.03,
+            "Price": 280.0,
+            "m²": 31.01,
+            "Address": "Jūrmalas g. 2"
+        },
+        {
+            "Price_per_m²": 6.94,
+            "Price": 430.0,
+            "m²": 61.96,
+            "Address": "Slokas 201"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 220.0,
+            "m²": 32.98,
+            "Address": "Kurzemes pr. 98"
+        },
+        {
+            "Price_per_m²": 11.11,
+            "Price": 300.0,
+            "m²": 27.0,
+            "Address": "Imantas 3a"
+        },
+        {
+            "Price_per_m²": 9.52,
+            "Price": 400.0,
+            "m²": 42.02,
+            "Address": "Anniņmuižas 38"
+        },
+        {
+            "Price_per_m²": 7.94,
+            "Price": 270.0,
+            "m²": 34.01,
+            "Address": "Kurzemes pr. 112"
+        },
+        {
+            "Price_per_m²": 8.43,
+            "Price": 430.0,
+            "m²": 51.01,
+            "Address": "Anniņmuižas 38k1"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 330.0,
+            "m²": 55.0,
+            "Address": "Anniņmuižas 46"
+        },
+        {
+            "Price_per_m²": 5.51,
+            "Price": 270.0,
+            "m²": 49.0,
+            "Address": "Zentenes 47"
+        },
+        {
+            "Price_per_m²": 10.71,
+            "Price": 600.0,
+            "m²": 56.02,
+            "Address": "Slokas 130A"
+        },
+        {
+            "Price_per_m²": 6.33,
+            "Price": 380.0,
+            "m²": 60.03,
+            "Address": "M. Krūmu 18"
+        },
+        {
+            "Price_per_m²": 7.39,
+            "Price": 325.0,
+            "m²": 43.98,
+            "Address": "Slokas 150"
+        },
+        {
+            "Price_per_m²": 9.13,
+            "Price": 420.0,
+            "m²": 46.0,
+            "Address": "Anniņmuižas 41"
+        },
+        {
+            "Price_per_m²": 4.44,
+            "Price": 120.0,
+            "m²": 27.03,
+            "Address": "Dammes 19"
+        },
+        {
+            "Price_per_m²": 7.35,
+            "Price": 360.0,
+            "m²": 48.98,
+            "Address": "Auru 13a"
+        },
+        {
+            "Price_per_m²": 8.7,
+            "Price": 600.0,
+            "m²": 68.97,
+            "Address": "Ērkšķu 2"
+        },
+        {
+            "Price_per_m²": 6.4,
+            "Price": 320.0,
+            "m²": 50.0,
+            "Address": "M. Krūmu 20"
+        },
+        {
+            "Price_per_m²": 7.76,
+            "Price": 380.0,
+            "m²": 48.97,
+            "Address": "Dammes 22"
+        },
+        {
+            "Price_per_m²": 5.4,
+            "Price": 270.0,
+            "m²": 50.0,
+            "Address": "Dammes 2"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Kurzemes pr. 78"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Kurzemes pr. 44"
+        },
+        {
+            "Price_per_m²": 9.92,
+            "Price": 1250.0,
+            "m²": 126.01,
+            "Address": "Anniņmuižas 11"
+        },
+        {
+            "Price_per_m²": 4.73,
+            "Price": 260.0,
+            "m²": 54.97,
+            "Address": "Anniņmuižas 30"
+        },
+        {
+            "Price_per_m²": 10.29,
+            "Price": 350.0,
+            "m²": 34.01,
+            "Address": "Dammes 2"
+        },
+        {
+            "Price_per_m²": 16.25,
+            "Price": 650.0,
+            "m²": 40.0,
+            "Address": "Anniņmuižas 19"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 350.0,
+            "m²": 49.02,
+            "Address": "Zentenes 24"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 300.0,
+            "m²": 48.0,
+            "Address": "Anniņmuižas 50"
+        },
+        {
+            "Price_per_m²": 10.71,
+            "Price": 750.0,
+            "m²": 70.03,
+            "Address": "Anniņmuižas 41"
+        },
+        {
+            "Price_per_m²": 7.6,
+            "Price": 380.0,
+            "m²": 50.0,
+            "Address": "Kleistu 73"
+        },
+        {
+            "Price_per_m²": 12.86,
+            "Price": 450.0,
+            "m²": 34.99,
+            "Address": "Akāciju 2F"
+        },
+        {
+            "Price_per_m²": 10.42,
+            "Price": 750.0,
+            "m²": 71.98,
+            "Address": "Jūrmalas g. 82k2"
+        },
+        {
+            "Price_per_m²": 6.12,
+            "Price": 300.0,
+            "m²": 49.02,
+            "Address": "Zentenes 47"
+        },
+        {
+            "Price_per_m²": 7.29,
+            "Price": 350.0,
+            "m²": 48.01,
+            "Address": "Rigondas g. 5"
+        },
+        {
+            "Price_per_m²": 7.81,
+            "Price": 500.0,
+            "m²": 64.02,
+            "Address": "Dammes 32"
+        },
+        {
+            "Price_per_m²": 6.86,
+            "Price": 350.0,
+            "m²": 51.02,
+            "Address": "Jūrmalas g. 93"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 500.0,
+            "m²": 60.02,
+            "Address": "M. Krūmu 3"
+        },
+        {
+            "Price_per_m²": 7.62,
+            "Price": 480.0,
+            "m²": 62.99,
+            "Address": "Dammes 10"
+        },
+        {
+            "Price_per_m²": 8.52,
+            "Price": 230.0,
+            "m²": 27.0,
+            "Address": "Zentenes 39"
+        },
+        {
+            "Price_per_m²": 11.11,
+            "Price": 400.0,
+            "m²": 36.0,
+            "Address": "Dammes 36"
+        },
+        {
+            "Price_per_m²": 6.35,
+            "Price": 400.0,
+            "m²": 62.99,
+            "Address": "Jūrmalas g. 95"
+        },
+        {
+            "Price_per_m²": 11.05,
+            "Price": 420.0,
+            "m²": 38.01,
+            "Address": "Jūrmalas g. 82"
+        },
+        {
+            "Price_per_m²": 7.64,
+            "Price": 420.0,
+            "m²": 54.97,
+            "Address": "Dammes 17"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 300.0,
+            "m²": 48.0,
+            "Address": "Anniņmuižas 46"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 300.0,
+            "m²": 48.0,
+            "Address": "Kooperatīva 4a"
+        },
+        {
+            "Price_per_m²": 5.93,
+            "Price": 320.0,
+            "m²": 53.96,
+            "Address": "Dammes 32"
+        },
+        {
+            "Price_per_m²": 6.86,
+            "Price": 350.0,
+            "m²": 51.02,
+            "Address": "Rigondas g. 4"
+        },
+        {
+            "Price_per_m²": 6.88,
+            "Price": 440.0,
+            "m²": 63.95,
+            "Address": "M. Krūmu 10"
+        },
+        {
+            "Price_per_m²": 10.68,
+            "Price": 470.0,
+            "m²": 44.01,
+            "Address": "Anniņmuižas 38"
+        },
+        {
+            "Price_per_m²": 6.58,
+            "Price": 500.0,
+            "m²": 75.99,
+            "Address": "Kleistu 2"
+        },
+        {
+            "Price_per_m²": 6.4,
+            "Price": 320.0,
+            "m²": 50.0,
+            "Address": "Jūrmalas g. 99"
+        },
+        {
+            "Price_per_m²": 6.39,
+            "Price": 230.0,
+            "m²": 35.99,
+            "Address": "Kurzemes pr. 148"
+        },
+        {
+            "Price_per_m²": 5.9,
+            "Price": 425.0,
+            "m²": 72.03,
+            "Address": "Kurzemes pr. 60"
+        },
+        {
+            "Price_per_m²": 9.78,
+            "Price": 450.0,
+            "m²": 46.01,
+            "Address": "Anniņmuižas 41"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 320.0,
+            "m²": 47.98,
+            "Address": "Imantas 3c"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 600.0,
+            "m²": 96.0,
+            "Address": "Anniņmuižas 41"
+        },
+        {
+            "Price_per_m²": 8.93,
+            "Price": 250.0,
+            "m²": 28.0,
+            "Address": "Imantas 3А"
+        },
+        {
+            "Price_per_m²": 6.4,
+            "Price": 320.0,
+            "m²": 50.0,
+            "Address": "Dammes 33"
+        },
+        {
+            "Price_per_m²": 7.62,
+            "Price": 480.0,
+            "m²": 62.99,
+            "Address": "Slokas 187"
+        },
+        {
+            "Price_per_m²": 11.05,
+            "Price": 420.0,
+            "m²": 38.01,
+            "Address": "Anniņmuižas 38/1"
+        },
+        {
+            "Price_per_m²": 5.47,
+            "Price": 350.0,
+            "m²": 63.99,
+            "Address": "Kurzemes pr. 10"
+        },
+        {
+            "Price_per_m²": 6.14,
+            "Price": 350.0,
+            "m²": 57.0,
+            "Address": "Kurzemes pr. 110"
+        },
+        {
+            "Price_per_m²": 6.62,
+            "Price": 430.0,
+            "m²": 64.95,
+            "Address": "Anniņmuižas 38"
+        },
+        {
+            "Price_per_m²": 7.26,
+            "Price": 450.0,
+            "m²": 61.98,
+            "Address": "Slokas 201"
+        },
+        {
+            "Price_per_m²": 6.12,
+            "Price": 300.0,
+            "m²": 49.02,
+            "Address": "Zentenes 11"
+        },
+        {
+            "Price_per_m²": 7.8,
+            "Price": 390.0,
+            "m²": 50.0,
+            "Address": "Dammes 19"
+        },
+        {
+            "Price_per_m²": 7.41,
+            "Price": 200.0,
+            "m²": 26.99,
+            "Address": "Kurzemes pr. 88"
+        },
+        {
+            "Price_per_m²": 6.57,
+            "Price": 230.0,
+            "m²": 35.01,
+            "Address": "Slokas 163"
+        },
+        {
+            "Price_per_m²": 5.37,
+            "Price": 290.0,
+            "m²": 54.0,
+            "Address": "Kurzemes pr. 88"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 350.0,
+            "m²": 50.0,
+            "Address": "Kurzemes pr. 42"
+        },
+        {
+            "Price_per_m²": 6.49,
+            "Price": 240.0,
+            "m²": 36.98,
+            "Address": "Kurzemes pr. 86"
+        },
+        {
+            "Price_per_m²": 5.28,
+            "Price": 380.0,
+            "m²": 71.97,
+            "Address": "Zentenes 28"
+        },
+        {
+            "Price_per_m²": 9.06,
+            "Price": 290.0,
+            "m²": 32.01,
+            "Address": "Rigondas g. 3"
+        },
+        {
+            "Price_per_m²": 3.85,
+            "Price": 250.0,
+            "m²": 64.94,
+            "Address": "Slokas 175"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 280.0,
+            "m²": 40.0,
+            "Address": "Kurzemes pr. 38"
+        },
+        {
+            "Price_per_m²": 10.37,
+            "Price": 280.0,
+            "m²": 27.0,
+            "Address": "Progresa 3A"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 240.0,
+            "m²": 30.0,
+            "Address": "Kurzemes pr. 154"
+        },
+        {
+            "Price_per_m²": 10.94,
+            "Price": 580.0,
+            "m²": 53.02,
+            "Address": "Vīksnes 21"
+        },
+        {
+            "Price_per_m²": 5.71,
+            "Price": 400.0,
+            "m²": 70.05,
+            "Address": "Jūrmalas g. 97"
+        },
+        {
+            "Price_per_m²": 7.29,
+            "Price": 350.0,
+            "m²": 48.01,
+            "Address": "Kurzemes pr. 34"
+        },
+        {
+            "Price_per_m²": 9.65,
+            "Price": 550.0,
+            "m²": 56.99,
+            "Address": "Anniņmuižas 41"
+        },
+        {
+            "Price_per_m²": 9.33,
+            "Price": 280.0,
+            "m²": 30.01,
+            "Address": "Tālavas g. 13"
+        },
+        {
+            "Price_per_m²": 8.29,
+            "Price": 290.0,
+            "m²": 34.98,
+            "Address": "Kurzemes pr. 142"
+        },
+        {
+            "Price_per_m²": 7.94,
+            "Price": 270.0,
+            "m²": 34.01,
+            "Address": "Anniņmuižas 88"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 350.0,
+            "m²": 50.0,
+            "Address": "Dammes 4"
+        },
+        {
+            "Price_per_m²": 6.94,
+            "Price": 250.0,
+            "m²": 36.02,
+            "Address": "Kurzemes pr. 164"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 300.0,
+            "m²": 36.01,
+            "Address": "Kleistu 15"
+        },
+        {
+            "Price_per_m²": 7.5,
+            "Price": 360.0,
+            "m²": 48.0,
+            "Address": "Kurzemes pr. 56"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 200.0,
+            "m²": 32.0,
+            "Address": "Dammes 4"
+        },
+        {
+            "Price_per_m²": 7.29,
+            "Price": 255.0,
+            "m²": 34.98,
+            "Address": "Kurzemes pr. 156"
+        },
+        {
+            "Price_per_m²": 7.67,
+            "Price": 230.0,
+            "m²": 29.99,
+            "Address": "Kurzemes pr. 3"
+        },
+        {
+            "Price_per_m²": 7.71,
+            "Price": 270.0,
+            "m²": 35.02,
+            "Address": "Kleistu 21"
+        },
+        {
+            "Price_per_m²": 8.75,
+            "Price": 140.0,
+            "m²": 16.0,
+            "Address": "Slokas 215"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 220.0,
+            "m²": 32.98,
+            "Address": "Kurzemes pr. 148"
+        },
+        {
+            "Price_per_m²": 10.6,
+            "Price": 530.0,
+            "m²": 50.0,
+            "Address": "Anniņmuižas 38"
+        },
+        {
+            "Price_per_m²": 7.35,
+            "Price": 250.0,
+            "m²": 34.01,
+            "Address": "Slokas 165"
+        },
+        {
+            "Price_per_m²": 9.13,
+            "Price": 420.0,
+            "m²": 46.0,
+            "Address": "Anniņmuižas 38 k-1"
+        },
+        {
+            "Price_per_m²": 7.66,
+            "Price": 475.0,
+            "m²": 62.01,
+            "Address": "Kurzemes pr. 124"
+        },
+        {
+            "Price_per_m²": 5.5,
+            "Price": 275.0,
+            "m²": 50.0,
+            "Address": "Kurzemes pr. 58"
+        },
+        {
+            "Price_per_m²": 6.53,
+            "Price": 320.0,
+            "m²": 49.0,
+            "Address": "Anniņmuižas 52"
+        },
+        {
+            "Price_per_m²": 11.58,
+            "Price": 440.0,
+            "m²": 38.0,
+            "Address": "Jūrmalas g. 82"
+        },
+        {
+            "Price_per_m²": 6.43,
+            "Price": 180.0,
+            "m²": 27.99,
+            "Address": "Kurzemes pr. 108"
+        },
+        {
+            "Price_per_m²": 8.65,
+            "Price": 320.0,
+            "m²": 36.99,
+            "Address": "Dammes 1"
+        },
+        {
+            "Price_per_m²": 6.6,
+            "Price": 330.0,
+            "m²": 50.0,
+            "Address": "Kurzemes pr. 136"
+        },
+        {
+            "Price_per_m²": 6.71,
+            "Price": 530.0,
+            "m²": 78.99,
+            "Address": "Anniņmuižas 38-1"
+        },
+        {
+            "Price_per_m²": 7.6,
+            "Price": 380.0,
+            "m²": 50.0,
+            "Address": "Dammes 1"
+        },
+        {
+            "Price_per_m²": 5.19,
+            "Price": 280.0,
+            "m²": 53.95,
+            "Address": "Imantas 6a"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 400.0,
+            "m²": 50.0,
+            "Address": "Slokas 183"
+        },
+        {
+            "Price_per_m²": 11.54,
+            "Price": 750.0,
+            "m²": 64.99,
+            "Address": "Anniņmuižas 21A"
+        },
+        {
+            "Price_per_m²": 5.41,
+            "Price": 265.0,
+            "m²": 48.98,
+            "Address": "Anniņmuižas 84"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 800.0,
+            "m²": 96.04,
+            "Address": "Anniņmuižas 41"
+        },
+        {
+            "Price_per_m²": 6.08,
+            "Price": 225.0,
+            "m²": 37.01,
+            "Address": "Kurzemes pr. 86"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 620.0,
+            "m²": 62.0,
+            "Address": "Slokas 130"
+        },
+        {
+            "Price_per_m²": 9.76,
+            "Price": 400.0,
+            "m²": 40.98,
+            "Address": "Jūrmalas g. 100"
+        },
+        {
+            "Price_per_m²": 6.91,
+            "Price": 650.0,
+            "m²": 94.07,
+            "Address": "Vīksnes 19"
+        },
+        {
+            "Price_per_m²": 5.31,
+            "Price": 260.0,
+            "m²": 48.96,
+            "Address": "Kurzemes pr. 40"
+        },
+        {
+            "Price_per_m²": 7.76,
+            "Price": 380.0,
+            "m²": 48.97,
+            "Address": "Slokas 205A"
+        },
+        {
+            "Price_per_m²": 9.26,
+            "Price": 250.0,
+            "m²": 27.0,
+            "Address": "Slokas 185"
+        },
+        {
+            "Price_per_m²": 8.06,
+            "Price": 290.0,
+            "m²": 35.98,
+            "Address": "Rigondas g. 8"
+        },
+        {
+            "Price_per_m²": 6.11,
+            "Price": 220.0,
+            "m²": 36.01,
+            "Address": "Kurzemes pr. 20"
+        },
+        {
+            "Price_per_m²": 5.92,
+            "Price": 450.0,
+            "m²": 76.01,
+            "Address": "Slokas 183"
+        },
+        {
+            "Price_per_m²": 6.56,
+            "Price": 400.0,
+            "m²": 60.98,
+            "Address": "Anniņmuižas 46"
+        },
+        {
+            "Price_per_m²": 5.79,
+            "Price": 330.0,
+            "m²": 56.99,
+            "Address": "Slokas 189"
+        },
+        {
+            "Price_per_m²": 8.06,
+            "Price": 540.0,
+            "m²": 67.0,
+            "Address": "Kleistu 11"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 650.0,
+            "m²": 78.03,
+            "Address": "Anniņmuižas 38/1"
+        },
+        {
+            "Price_per_m²": 8.44,
+            "Price": 270.0,
+            "m²": 31.99,
+            "Address": "Kurzemes pr. 82"
+        },
+        {
+            "Price_per_m²": 11.11,
+            "Price": 200.0,
+            "m²": 18.0,
+            "Address": "Dammes 12"
+        },
+        {
+            "Price_per_m²": 7.22,
+            "Price": 260.0,
+            "m²": 36.01,
+            "Address": "Slokas 183"
+        },
+        {
+            "Price_per_m²": 6.75,
+            "Price": 270.0,
+            "m²": 40.0,
+            "Address": "Auru 13a"
+        },
+        {
+            "Price_per_m²": 6.06,
+            "Price": 400.0,
+            "m²": 66.01,
+            "Address": "Kurzemes pr. 130"
+        },
+        {
+            "Price_per_m²": 5.95,
+            "Price": 220.0,
+            "m²": 36.97,
+            "Address": "Slokas 185"
+        },
+        {
+            "Price_per_m²": 7.79,
+            "Price": 600.0,
+            "m²": 77.02,
+            "Address": "M. Krūmu 10"
+        },
+        {
+            "Price_per_m²": 7.35,
+            "Price": 360.0,
+            "m²": 48.98,
+            "Address": "Kurzemes pr. 92"
+        },
+        {
+            "Price_per_m²": 8.14,
+            "Price": 350.0,
+            "m²": 43.0,
+            "Address": "Jūrmalas g. 12A"
+        },
+        {
+            "Price_per_m²": 8.16,
+            "Price": 400.0,
+            "m²": 49.02,
+            "Address": "Dammes 4"
+        },
+        {
+            "Price_per_m²": 5.21,
+            "Price": 250.0,
+            "m²": 47.98,
+            "Address": "Dammes 31"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 580.0,
+            "m²": 58.0,
+            "Address": "Anniņmuižas 38/3"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 400.0,
+            "m²": 50.0,
+            "Address": "Dammes 13"
+        },
+        {
+            "Price_per_m²": 5.63,
+            "Price": 270.0,
+            "m²": 47.96,
+            "Address": "Dammes 29"
+        },
+        {
+            "Price_per_m²": 9.64,
+            "Price": 270.0,
+            "m²": 28.01,
+            "Address": "Kurzemes pr. 88"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Dammes 8"
+        },
+        {
+            "Price_per_m²": 6.33,
+            "Price": 310.0,
+            "m²": 48.97,
+            "Address": "Slokas 189"
+        },
+        {
+            "Price_per_m²": 8.68,
+            "Price": 330.0,
+            "m²": 38.02,
+            "Address": "Dammes 1"
+        },
+        {
+            "Price_per_m²": 10.37,
+            "Price": 280.0,
+            "m²": 27.0,
+            "Address": "Kleistu 10"
+        },
+        {
+            "Price_per_m²": 8.16,
+            "Price": 400.0,
+            "m²": 49.02,
+            "Address": "Kleistu 15"
+        },
+        {
+            "Price_per_m²": 10.74,
+            "Price": 580.0,
+            "m²": 54.0,
+            "Address": "Akāciju 6"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 300.0,
+            "m²": 30.0,
+            "Address": "Jūrmalas g. 99"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 350.0,
+            "m²": 50.0,
+            "Address": "Zentenes 18"
+        },
+        {
+            "Price_per_m²": 11.36,
+            "Price": 500.0,
+            "m²": 44.01,
+            "Address": "Jūrmalas g. 100 K-.."
+        },
+        {
+            "Price_per_m²": 8.15,
+            "Price": 530.0,
+            "m²": 65.03,
+            "Address": "Slokas 111"
+        },
+        {
+            "Price_per_m²": 6.04,
+            "Price": 320.0,
+            "m²": 52.98,
+            "Address": "Auru 7B"
+        },
+        {
+            "Price_per_m²": 8.93,
+            "Price": 250.0,
+            "m²": 28.0,
+            "Address": "Dubultu 21"
+        },
+        {
+            "Price_per_m²": 5.81,
+            "Price": 250.0,
+            "m²": 43.03,
+            "Address": "M. Krūmu 1"
+        },
+        {
+            "Price_per_m²": 9.46,
+            "Price": 350.0,
+            "m²": 37.0,
+            "Address": "Dammes 7"
+        },
+        {
+            "Price_per_m²": 5.83,
+            "Price": 210.0,
+            "m²": 36.02,
+            "Address": "Kleistu 19"
+        },
+        {
+            "Price_per_m²": 5.45,
+            "Price": 300.0,
+            "m²": 55.05,
+            "Address": "Imantas 3a"
+        },
+        {
+            "Price_per_m²": 5.4,
+            "Price": 270.0,
+            "m²": 50.0,
+            "Address": "Dammes 30"
+        },
+        {
+            "Price_per_m²": 7.4,
+            "Price": 370.0,
+            "m²": 50.0,
+            "Address": "Vecumnieku _"
+        },
+        {
+            "Price_per_m²": 11.08,
+            "Price": 410.0,
+            "m²": 37.0,
+            "Address": "Progresa 3"
+        },
+        {
+            "Price_per_m²": 5.92,
+            "Price": 225.0,
+            "m²": 38.01,
+            "Address": "Slokas 195"
+        },
+        {
+            "Price_per_m²": 4.35,
+            "Price": 200.0,
+            "m²": 45.98,
+            "Address": "Kurzemes pr. 130"
+        },
+        {
+            "Price_per_m²": 5.43,
+            "Price": 250.0,
+            "m²": 46.04,
+            "Address": "Zentenes 10"
+        },
+        {
+            "Price_per_m²": 7.41,
+            "Price": 400.0,
+            "m²": 53.98,
+            "Address": "Zentenes 24"
+        },
+        {
+            "Price_per_m²": 3.92,
+            "Price": 200.0,
+            "m²": 51.02,
+            "Address": "M. Krūmu 9"
+        },
+        {
+            "Price_per_m²": 9.78,
+            "Price": 450.0,
+            "m²": 46.01,
+            "Address": "Slokas 130a"
+        },
+        {
+            "Price_per_m²": 11.11,
+            "Price": 300.0,
+            "m²": 27.0,
+            "Address": "Auru 5a"
+        },
+        {
+            "Price_per_m²": 9.32,
+            "Price": 550.0,
+            "m²": 59.01,
+            "Address": "Akāciju 6"
+        },
+        {
+            "Price_per_m²": 7.55,
+            "Price": 370.0,
+            "m²": 49.01,
+            "Address": "Slokas 140"
+        },
+        {
+            "Price_per_m²": 10.23,
+            "Price": 450.0,
+            "m²": 43.99,
+            "Address": "Anniņmuižas 43"
+        },
+        {
+            "Price_per_m²": 7.59,
+            "Price": 410.0,
+            "m²": 54.02,
+            "Address": "Kleistu 6"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 300.0,
+            "m²": 36.01,
+            "Address": "Dammes 12"
+        },
+        {
+            "Price_per_m²": 9.09,
+            "Price": 300.0,
+            "m²": 33.0,
+            "Address": "Kurzemes pr. 164"
+        },
+        {
+            "Price_per_m²": 8.67,
+            "Price": 850.0,
+            "m²": 98.04,
+            "Address": "Dumbrāja 18"
+        },
+        {
+            "Price_per_m²": 6.15,
+            "Price": 400.0,
+            "m²": 65.04,
+            "Address": "Dammes 32"
+        },
+        {
+            "Price_per_m²": 11.11,
+            "Price": 300.0,
+            "m²": 27.0,
+            "Address": "Jūrmalas g. 91"
+        },
+        {
+            "Price_per_m²": 5.43,
+            "Price": 250.0,
+            "m²": 46.04,
+            "Address": "Zentenes 10"
+        },
+        {
+            "Price_per_m²": 4.8,
+            "Price": 240.0,
+            "m²": 50.0,
+            "Address": "Auru 5a"
+        },
+        {
+            "Price_per_m²": 10.29,
+            "Price": 350.0,
+            "m²": 34.01,
+            "Address": "Kurzemes pr. 18"
+        },
+        {
+            "Price_per_m²": 10.3,
+            "Price": 340.0,
+            "m²": 33.01,
+            "Address": "Rigondas g. 3"
+        },
+        {
+            "Price_per_m²": 12.22,
+            "Price": 550.0,
+            "m²": 45.01,
+            "Address": "Akāciju 2"
+        },
+        {
+            "Price_per_m²": 10.53,
+            "Price": 400.0,
+            "m²": 37.99,
+            "Address": "Jūrmalas g. 82"
+        },
+        {
+            "Price_per_m²": 8.55,
+            "Price": 530.0,
+            "m²": 61.99,
+            "Address": "Slokas 130A"
+        },
+        {
+            "Price_per_m²": 7.58,
+            "Price": 250.0,
+            "m²": 32.98,
+            "Address": "Vīksnes 29a"
+        },
+        {
+            "Price_per_m²": 11.0,
+            "Price": 330.0,
+            "m²": 30.0,
+            "Address": "Slokas 185"
+        },
+        {
+            "Price_per_m²": 9.26,
+            "Price": 250.0,
+            "m²": 27.0,
+            "Address": "Slokas 179"
+        },
+        {
+            "Price_per_m²": 5.15,
+            "Price": 350.0,
+            "m²": 67.96,
+            "Address": "Anniņmuižas 38"
+        },
+        {
+            "Price_per_m²": 3.85,
+            "Price": 200.0,
+            "m²": 51.95,
+            "Address": "M. Krūmu 9"
+        },
+        {
+            "Price_per_m²": 4.92,
+            "Price": 300.0,
+            "m²": 60.98,
+            "Address": "Dammes 40"
+        },
+        {
+            "Price_per_m²": 8.28,
+            "Price": 530.0,
+            "m²": 64.01,
+            "Address": "Anniņmuižas 38"
+        },
+        {
+            "Price_per_m²": 6.84,
+            "Price": 335.0,
+            "m²": 48.98,
+            "Address": "Slokas 191"
+        },
+        {
+            "Price_per_m²": 6.1,
+            "Price": 360.0,
+            "m²": 59.02,
+            "Address": "Auru 5a"
+        },
+        {
+            "Price_per_m²": 6.94,
+            "Price": 430.0,
+            "m²": 61.96,
+            "Address": "Kleistu 15"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 350.0,
+            "m²": 50.0,
+            "Address": "Kurzemes pr. 112"
+        },
+        {
+            "Price_per_m²": 9.07,
+            "Price": 254.0,
+            "m²": 28.0,
+            "Address": "Imantas 1 k-2"
+        },
+        {
+            "Price_per_m²": 5.71,
+            "Price": 280.0,
+            "m²": 49.04,
+            "Address": "Rigondas g. 10"
+        },
+        {
+            "Price_per_m²": 5.65,
+            "Price": 260.0,
+            "m²": 46.02,
+            "Address": "Zentenes 10"
+        },
+        {
+            "Price_per_m²": 11.28,
+            "Price": 440.0,
+            "m²": 39.01,
+            "Address": "Jūrmalas g. 82/2"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 350.0,
+            "m²": 50.0,
+            "Address": "Kurzemes pr. 78"
+        },
+        {
+            "Price_per_m²": 5.93,
+            "Price": 350.0,
+            "m²": 59.02,
+            "Address": "Zentenes 39"
+        },
+        {
+            "Price_per_m²": 12.67,
+            "Price": 380.0,
+            "m²": 29.99,
+            "Address": "Tālavas g. 11"
+        },
+        {
+            "Price_per_m²": 10.55,
+            "Price": 580.0,
+            "m²": 54.98,
+            "Address": "Anniņmuižas 38/2"
+        },
+        {
+            "Price_per_m²": 6.12,
+            "Price": 300.0,
+            "m²": 49.02,
+            "Address": "Kurzemes pr. 34"
+        },
+        {
+            "Price_per_m²": 8.13,
+            "Price": 390.0,
+            "m²": 47.97,
+            "Address": "Rigondas g. 3"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 350.0,
+            "m²": 49.02,
+            "Address": "Anniņmuižas 50"
+        },
+        {
+            "Price_per_m²": 7.66,
+            "Price": 490.0,
+            "m²": 63.97,
+            "Address": "Slokas 130A"
+        },
+        {
+            "Price_per_m²": 9.51,
+            "Price": 580.0,
+            "m²": 60.99,
+            "Address": "Anniņmuižas 38/2"
+        },
+        {
+            "Price_per_m²": 7.5,
+            "Price": 270.0,
+            "m²": 36.0,
+            "Address": "Kurzemes pr. 156"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 440.0,
+            "m²": 65.97,
+            "Address": "Kurzemes pr. 102"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 450.0,
+            "m²": 63.03,
+            "Address": "Dammes 33"
+        },
+        {
+            "Price_per_m²": 6.73,
+            "Price": 350.0,
+            "m²": 52.01,
+            "Address": "Kleistu 19"
+        },
+        {
+            "Price_per_m²": 11.38,
+            "Price": 330.0,
+            "m²": 29.0,
+            "Address": "Zentenes 4"
+        },
+        {
+            "Price_per_m²": 11.28,
+            "Price": 440.0,
+            "m²": 39.01,
+            "Address": "Jūrmalas g. 82/2"
+        },
+        {
+            "Price_per_m²": 6.09,
+            "Price": 280.0,
+            "m²": 45.98,
+            "Address": "Kleistu 21"
+        },
+        {
+            "Price_per_m²": 8.07,
+            "Price": 460.0,
+            "m²": 57.0,
+            "Address": "Anniņmuižas 38"
+        },
+        {
+            "Price_per_m²": 9.43,
+            "Price": 330.0,
+            "m²": 34.99,
+            "Address": "Dammes 13"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 600.0,
+            "m²": 89.96,
+            "Address": "Vīksnes 19"
+        },
+        {
+            "Price_per_m²": 8.67,
+            "Price": 390.0,
+            "m²": 44.98,
+            "Address": "Rigondas g. 3"
+        },
+        {
+            "Price_per_m²": 8.14,
+            "Price": 350.0,
+            "m²": 43.0,
+            "Address": "Jūrmalas g. 59"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 350.0,
+            "m²": 35.0,
+            "Address": "Anniņmuižas 80"
+        },
+        {
+            "Price_per_m²": 6.22,
+            "Price": 230.0,
+            "m²": 36.98,
+            "Address": "Dammes 7"
+        },
+        {
+            "Price_per_m²": 8.7,
+            "Price": 400.0,
+            "m²": 45.98,
+            "Address": "Anniņmuižas 41"
+        },
+        {
+            "Price_per_m²": 5.1,
+            "Price": 250.0,
+            "m²": 49.02,
+            "Address": "Progresa 1"
+        },
+        {
+            "Price_per_m²": 5.65,
+            "Price": 260.0,
+            "m²": 46.02,
+            "Address": "Zentenes 10"
+        },
+        {
+            "Price_per_m²": 5.93,
+            "Price": 320.0,
+            "m²": 53.96,
+            "Address": "Jūrmalas g. 91"
+        },
+        {
+            "Price_per_m²": 6.96,
+            "Price": 390.0,
+            "m²": 56.03,
+            "Address": "Slokas 160"
+        },
+        {
+            "Price_per_m²": 5.0,
+            "Price": 330.0,
+            "m²": 66.0,
+            "Address": "Kurzemes pr. 136"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 350.0,
+            "m²": 50.0,
+            "Address": "Sidraba 1"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 300.0,
+            "m²": 48.0,
+            "Address": "Tālavas g. 11"
+        },
+        {
+            "Price_per_m²": 11.43,
+            "Price": 320.0,
+            "m²": 28.0,
+            "Address": "Slokas 179"
+        },
+        {
+            "Price_per_m²": 6.88,
+            "Price": 330.0,
+            "m²": 47.97,
+            "Address": "Slokas 134"
+        },
+        {
+            "Price_per_m²": 6.57,
+            "Price": 230.0,
+            "m²": 35.01,
+            "Address": "Slokas 215"
+        },
+        {
+            "Price_per_m²": 6.4,
+            "Price": 320.0,
+            "m²": 50.0,
+            "Address": "Kurzemes pr. 104"
+        },
+        {
+            "Price_per_m²": 10.74,
+            "Price": 290.0,
+            "m²": 27.0,
+            "Address": "M. Krūmu 6"
+        },
+        {
+            "Price_per_m²": 8.11,
+            "Price": 600.0,
+            "m²": 73.98,
+            "Address": "Anniņmuižas 38"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 400.0,
+            "m²": 40.0,
+            "Address": "Jūrmalas g. 97"
+        },
+        {
+            "Price_per_m²": 5.4,
+            "Price": 270.0,
+            "m²": 50.0,
+            "Address": "Jūrmalas g. 93k-2"
+        },
+        {
+            "Price_per_m²": 5.6,
+            "Price": 280.0,
+            "m²": 50.0,
+            "Address": "Anniņmuižas 40"
+        },
+        {
+            "Price_per_m²": 7.35,
+            "Price": 360.0,
+            "m²": 48.98,
+            "Address": "Dammes 1"
+        },
+        {
+            "Price_per_m²": 4.72,
+            "Price": 250.0,
+            "m²": 52.97,
+            "Address": "Jūrmalas g. 99"
+        },
+        {
+            "Price_per_m²": 9.71,
+            "Price": 340.0,
+            "m²": 35.02,
+            "Address": "Rigondas g. 7"
+        },
+        {
+            "Price_per_m²": 9.38,
+            "Price": 300.0,
+            "m²": 31.98,
+            "Address": "Anniņmuižas 84"
+        },
+        {
+            "Price_per_m²": 6.88,
+            "Price": 330.0,
+            "m²": 47.97,
+            "Address": "Kurzemes pr. 40"
+        },
+        {
+            "Price_per_m²": 8.18,
+            "Price": 270.0,
+            "m²": 33.01,
+            "Address": "M. Krūmu 10"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 350.0,
+            "m²": 50.0,
+            "Address": "Kurzemes pr. 122"
+        },
+        {
+            "Price_per_m²": 9.26,
+            "Price": 250.0,
+            "m²": 27.0,
+            "Address": "Kurzemes pr. 136"
+        },
+        {
+            "Price_per_m²": 11.38,
+            "Price": 330.0,
+            "m²": 29.0,
+            "Address": "Slokas 215"
+        },
+        {
+            "Price_per_m²": 9.86,
+            "Price": 680.0,
+            "m²": 68.97,
+            "Address": "Ērkšķu 2"
+        },
+        {
+            "Price_per_m²": 9.72,
+            "Price": 350.0,
+            "m²": 36.01,
+            "Address": "Kurzemes pr. 130"
+        },
+        {
+            "Price_per_m²": 7.81,
+            "Price": 250.0,
+            "m²": 32.01,
+            "Address": "Dammes 64"
+        },
+        {
+            "Price_per_m²": 6.34,
+            "Price": 450.0,
+            "m²": 70.98,
+            "Address": "Slokas 205a"
+        },
+        {
+            "Price_per_m²": 7.67,
+            "Price": 230.0,
+            "m²": 29.99,
+            "Address": "Dammes 24"
+        },
+        {
+            "Price_per_m²": 6.39,
+            "Price": 230.0,
+            "m²": 35.99,
+            "Address": "Kurzemes pr. 98"
+        },
+        {
+            "Price_per_m²": 5.3,
+            "Price": 350.0,
+            "m²": 66.04,
+            "Address": "Imantas 3a"
+        },
+        {
+            "Price_per_m²": 5.83,
+            "Price": 245.0,
+            "m²": 42.02,
+            "Address": "Jūrmalas g. 115c"
+        },
+        {
+            "Price_per_m²": 4.44,
+            "Price": 160.0,
+            "m²": 36.04,
+            "Address": "Kleistu 15"
+        },
+        {
+            "Price_per_m²": 4.82,
+            "Price": 265.0,
+            "m²": 54.98,
+            "Address": "Imantas 3а"
+        },
+        {
+            "Price_per_m²": 7.58,
+            "Price": 250.0,
+            "m²": 32.98,
+            "Address": "Dammes 106"
+        },
+        {
+            "Price_per_m²": 9.21,
+            "Price": 258.0,
+            "m²": 28.01,
+            "Address": "Zentenes 37"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 400.0,
+            "m²": 40.0,
+            "Address": "Anniņmuižas 30"
+        },
+        {
+            "Price_per_m²": 6.36,
+            "Price": 350.0,
+            "m²": 55.03,
+            "Address": "Tālavas g. 13"
+        },
+        {
+            "Price_per_m²": 4.78,
+            "Price": 330.0,
+            "m²": 69.04,
+            "Address": "M. Krūmu 3"
+        },
+        {
+            "Price_per_m²": 6.92,
+            "Price": 270.0,
+            "m²": 39.02,
+            "Address": "Kurzemes pr. 42"
+        }
+    ],
+    "daily": [
+        {
+            "Price_per_m²": 0.558,
+            "Price": 29.0,
+            "m²": 51.97,
+            "Address": "Dammes 6"
+        },
+        {
+            "Price_per_m²": 2.16,
+            "Price": 80.0,
+            "m²": 37.04,
+            "Address": "Imantas 7. l. 11"
+        },
+        {
+            "Price_per_m²": 0.558,
+            "Price": 29.0,
+            "m²": 51.97,
+            "Address": "Dammes 6"
+        },
+        {
+            "Price_per_m²": 0.625,
+            "Price": 30.0,
+            "m²": 48.0,
+            "Address": "Dammes 11"
+        },
+        {
+            "Price_per_m²": 0.729,
+            "Price": 35.0,
+            "m²": 48.01,
+            "Address": "Dammes 11"
+        },
+        {
+            "Price_per_m²": 0.635,
+            "Price": 40.0,
+            "m²": 62.99,
+            "Address": "Kurzemes pr. 82"
+        },
+        {
+            "Price_per_m²": 0.8,
+            "Price": 40.0,
+            "m²": 50.0,
+            "Address": "Imantas 2"
+        }
+    ]
+}

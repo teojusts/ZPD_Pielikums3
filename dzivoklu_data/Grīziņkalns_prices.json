@@ -1,0 +1,668 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 1248.0,
+            "Price": 29952.0,
+            "m²": 24.0,
+            "Address": "Zvaigžņu 21"
+        },
+        {
+            "Price_per_m²": 1387.0,
+            "Price": 30520.0,
+            "m²": 22.0,
+            "Address": "Zvaigžņu 21"
+        },
+        {
+            "Price_per_m²": 1263.0,
+            "Price": 56830.0,
+            "m²": 45.0,
+            "Address": "Zvaigžņu 21"
+        },
+        {
+            "Price_per_m²": 2158.0,
+            "Price": 123000.0,
+            "m²": 57.0,
+            "Address": "Tallinas 86"
+        },
+        {
+            "Price_per_m²": 3000.0,
+            "Price": 180000.0,
+            "m²": 60.0,
+            "Address": "Artilērijas 65"
+        },
+        {
+            "Price_per_m²": 2740.0,
+            "Price": 137000.0,
+            "m²": 50.0,
+            "Address": "Asara 11"
+        },
+        {
+            "Price_per_m²": 1842.0,
+            "Price": 139999.0,
+            "m²": 76.0,
+            "Address": "Alauksta 9"
+        },
+        {
+            "Price_per_m²": 2339.0,
+            "Price": 123975.0,
+            "m²": 53.0,
+            "Address": "Krāsotāju 13"
+        },
+        {
+            "Price_per_m²": 1078.0,
+            "Price": 180000.0,
+            "m²": 166.98,
+            "Address": "Tallinas 92A"
+        },
+        {
+            "Price_per_m²": 2612.0,
+            "Price": 75750.0,
+            "m²": 29.0,
+            "Address": "Krāsotāju 13"
+        },
+        {
+            "Price_per_m²": 708.0,
+            "Price": 17000.0,
+            "m²": 24.01,
+            "Address": "Pērnavas 56"
+        },
+        {
+            "Price_per_m²": 2114.0,
+            "Price": 46500.0,
+            "m²": 22.0,
+            "Address": "Brīvības 148"
+        },
+        {
+            "Price_per_m²": 1680.0,
+            "Price": 42000.0,
+            "m²": 25.0,
+            "Address": "Zvaigžņu 13"
+        },
+        {
+            "Price_per_m²": 1557.0,
+            "Price": 82500.0,
+            "m²": 52.99,
+            "Address": "Alauksta 12"
+        },
+        {
+            "Price_per_m²": 1149.0,
+            "Price": 170000.0,
+            "m²": 147.95,
+            "Address": "Krāsotāju 24B"
+        },
+        {
+            "Price_per_m²": 1484.0,
+            "Price": 51950.0,
+            "m²": 35.01,
+            "Address": "Augšiela 8"
+        },
+        {
+            "Price_per_m²": 1722.0,
+            "Price": 49950.0,
+            "m²": 29.01,
+            "Address": "Augšiela 8"
+        },
+        {
+            "Price_per_m²": 1670.0,
+            "Price": 36750.0,
+            "m²": 22.01,
+            "Address": "Augšiela 8"
+        },
+        {
+            "Price_per_m²": 1248.0,
+            "Price": 29952.0,
+            "m²": 24.0,
+            "Address": "Zvaigžņu 21"
+        },
+        {
+            "Price_per_m²": 1387.0,
+            "Price": 30520.0,
+            "m²": 22.0,
+            "Address": "Zvaigžņu 21"
+        },
+        {
+            "Price_per_m²": 1263.0,
+            "Price": 56830.0,
+            "m²": 45.0,
+            "Address": "Zvaigžņu 21"
+        },
+        {
+            "Price_per_m²": 2158.0,
+            "Price": 123000.0,
+            "m²": 57.0,
+            "Address": "Tallinas 86"
+        },
+        {
+            "Price_per_m²": 3000.0,
+            "Price": 180000.0,
+            "m²": 60.0,
+            "Address": "Artilērijas 65"
+        },
+        {
+            "Price_per_m²": 2740.0,
+            "Price": 137000.0,
+            "m²": 50.0,
+            "Address": "Asara 11"
+        },
+        {
+            "Price_per_m²": 1842.0,
+            "Price": 139999.0,
+            "m²": 76.0,
+            "Address": "Alauksta 9"
+        },
+        {
+            "Price_per_m²": 2339.0,
+            "Price": 123975.0,
+            "m²": 53.0,
+            "Address": "Krāsotāju 13"
+        },
+        {
+            "Price_per_m²": 1078.0,
+            "Price": 180000.0,
+            "m²": 166.98,
+            "Address": "Tallinas 92A"
+        },
+        {
+            "Price_per_m²": 2612.0,
+            "Price": 75750.0,
+            "m²": 29.0,
+            "Address": "Krāsotāju 13"
+        },
+        {
+            "Price_per_m²": 708.0,
+            "Price": 17000.0,
+            "m²": 24.01,
+            "Address": "Pērnavas 56"
+        },
+        {
+            "Price_per_m²": 2114.0,
+            "Price": 46500.0,
+            "m²": 22.0,
+            "Address": "Brīvības 148"
+        },
+        {
+            "Price_per_m²": 1680.0,
+            "Price": 42000.0,
+            "m²": 25.0,
+            "Address": "Zvaigžņu 13"
+        },
+        {
+            "Price_per_m²": 1557.0,
+            "Price": 82500.0,
+            "m²": 52.99,
+            "Address": "Alauksta 12"
+        },
+        {
+            "Price_per_m²": 1149.0,
+            "Price": 170000.0,
+            "m²": 147.95,
+            "Address": "Krāsotāju 24B"
+        },
+        {
+            "Price_per_m²": 1484.0,
+            "Price": 51950.0,
+            "m²": 35.01,
+            "Address": "Augšiela 8"
+        },
+        {
+            "Price_per_m²": 1722.0,
+            "Price": 49950.0,
+            "m²": 29.01,
+            "Address": "Augšiela 8"
+        },
+        {
+            "Price_per_m²": 1670.0,
+            "Price": 36750.0,
+            "m²": 22.01,
+            "Address": "Augšiela 8"
+        },
+        {
+            "Price_per_m²": 1248.0,
+            "Price": 29952.0,
+            "m²": 24.0,
+            "Address": "Zvaigžņu 21"
+        },
+        {
+            "Price_per_m²": 1387.0,
+            "Price": 30520.0,
+            "m²": 22.0,
+            "Address": "Zvaigžņu 21"
+        },
+        {
+            "Price_per_m²": 1263.0,
+            "Price": 56830.0,
+            "m²": 45.0,
+            "Address": "Zvaigžņu 21"
+        },
+        {
+            "Price_per_m²": 2158.0,
+            "Price": 123000.0,
+            "m²": 57.0,
+            "Address": "Tallinas 86"
+        },
+        {
+            "Price_per_m²": 3000.0,
+            "Price": 180000.0,
+            "m²": 60.0,
+            "Address": "Artilērijas 65"
+        },
+        {
+            "Price_per_m²": 2740.0,
+            "Price": 137000.0,
+            "m²": 50.0,
+            "Address": "Asara 11"
+        },
+        {
+            "Price_per_m²": 1842.0,
+            "Price": 139999.0,
+            "m²": 76.0,
+            "Address": "Alauksta 9"
+        },
+        {
+            "Price_per_m²": 2339.0,
+            "Price": 123975.0,
+            "m²": 53.0,
+            "Address": "Krāsotāju 13"
+        },
+        {
+            "Price_per_m²": 1078.0,
+            "Price": 180000.0,
+            "m²": 166.98,
+            "Address": "Tallinas 92A"
+        },
+        {
+            "Price_per_m²": 2612.0,
+            "Price": 75750.0,
+            "m²": 29.0,
+            "Address": "Krāsotāju 13"
+        },
+        {
+            "Price_per_m²": 708.0,
+            "Price": 17000.0,
+            "m²": 24.01,
+            "Address": "Pērnavas 56"
+        },
+        {
+            "Price_per_m²": 2114.0,
+            "Price": 46500.0,
+            "m²": 22.0,
+            "Address": "Brīvības 148"
+        },
+        {
+            "Price_per_m²": 1680.0,
+            "Price": 42000.0,
+            "m²": 25.0,
+            "Address": "Zvaigžņu 13"
+        },
+        {
+            "Price_per_m²": 1557.0,
+            "Price": 82500.0,
+            "m²": 52.99,
+            "Address": "Alauksta 12"
+        },
+        {
+            "Price_per_m²": 1149.0,
+            "Price": 170000.0,
+            "m²": 147.95,
+            "Address": "Krāsotāju 24B"
+        },
+        {
+            "Price_per_m²": 1484.0,
+            "Price": 51950.0,
+            "m²": 35.01,
+            "Address": "Augšiela 8"
+        },
+        {
+            "Price_per_m²": 1722.0,
+            "Price": 49950.0,
+            "m²": 29.01,
+            "Address": "Augšiela 8"
+        },
+        {
+            "Price_per_m²": 1670.0,
+            "Price": 36750.0,
+            "m²": 22.01,
+            "Address": "Augšiela 8"
+        },
+        {
+            "Price_per_m²": 1248.0,
+            "Price": 29952.0,
+            "m²": 24.0,
+            "Address": "Zvaigžņu 21"
+        },
+        {
+            "Price_per_m²": 1387.0,
+            "Price": 30520.0,
+            "m²": 22.0,
+            "Address": "Zvaigžņu 21"
+        },
+        {
+            "Price_per_m²": 1263.0,
+            "Price": 56830.0,
+            "m²": 45.0,
+            "Address": "Zvaigžņu 21"
+        },
+        {
+            "Price_per_m²": 2158.0,
+            "Price": 123000.0,
+            "m²": 57.0,
+            "Address": "Tallinas 86"
+        },
+        {
+            "Price_per_m²": 3000.0,
+            "Price": 180000.0,
+            "m²": 60.0,
+            "Address": "Artilērijas 65"
+        },
+        {
+            "Price_per_m²": 2740.0,
+            "Price": 137000.0,
+            "m²": 50.0,
+            "Address": "Asara 11"
+        },
+        {
+            "Price_per_m²": 1842.0,
+            "Price": 139999.0,
+            "m²": 76.0,
+            "Address": "Alauksta 9"
+        },
+        {
+            "Price_per_m²": 2339.0,
+            "Price": 123975.0,
+            "m²": 53.0,
+            "Address": "Krāsotāju 13"
+        },
+        {
+            "Price_per_m²": 1078.0,
+            "Price": 180000.0,
+            "m²": 166.98,
+            "Address": "Tallinas 92A"
+        },
+        {
+            "Price_per_m²": 2612.0,
+            "Price": 75750.0,
+            "m²": 29.0,
+            "Address": "Krāsotāju 13"
+        },
+        {
+            "Price_per_m²": 708.0,
+            "Price": 17000.0,
+            "m²": 24.01,
+            "Address": "Pērnavas 56"
+        },
+        {
+            "Price_per_m²": 2114.0,
+            "Price": 46500.0,
+            "m²": 22.0,
+            "Address": "Brīvības 148"
+        },
+        {
+            "Price_per_m²": 1680.0,
+            "Price": 42000.0,
+            "m²": 25.0,
+            "Address": "Zvaigžņu 13"
+        },
+        {
+            "Price_per_m²": 1557.0,
+            "Price": 82500.0,
+            "m²": 52.99,
+            "Address": "Alauksta 12"
+        },
+        {
+            "Price_per_m²": 1149.0,
+            "Price": 170000.0,
+            "m²": 147.95,
+            "Address": "Krāsotāju 24B"
+        },
+        {
+            "Price_per_m²": 1484.0,
+            "Price": 51950.0,
+            "m²": 35.01,
+            "Address": "Augšiela 8"
+        },
+        {
+            "Price_per_m²": 1722.0,
+            "Price": 49950.0,
+            "m²": 29.01,
+            "Address": "Augšiela 8"
+        },
+        {
+            "Price_per_m²": 1670.0,
+            "Price": 36750.0,
+            "m²": 22.01,
+            "Address": "Augšiela 8"
+        },
+        {
+            "Price_per_m²": 1248.0,
+            "Price": 29952.0,
+            "m²": 24.0,
+            "Address": "Zvaigžņu 21"
+        },
+        {
+            "Price_per_m²": 1387.0,
+            "Price": 30520.0,
+            "m²": 22.0,
+            "Address": "Zvaigžņu 21"
+        },
+        {
+            "Price_per_m²": 1263.0,
+            "Price": 56830.0,
+            "m²": 45.0,
+            "Address": "Zvaigžņu 21"
+        },
+        {
+            "Price_per_m²": 2158.0,
+            "Price": 123000.0,
+            "m²": 57.0,
+            "Address": "Tallinas 86"
+        },
+        {
+            "Price_per_m²": 3000.0,
+            "Price": 180000.0,
+            "m²": 60.0,
+            "Address": "Artilērijas 65"
+        },
+        {
+            "Price_per_m²": 2740.0,
+            "Price": 137000.0,
+            "m²": 50.0,
+            "Address": "Asara 11"
+        },
+        {
+            "Price_per_m²": 1842.0,
+            "Price": 139999.0,
+            "m²": 76.0,
+            "Address": "Alauksta 9"
+        },
+        {
+            "Price_per_m²": 2339.0,
+            "Price": 123975.0,
+            "m²": 53.0,
+            "Address": "Krāsotāju 13"
+        },
+        {
+            "Price_per_m²": 1078.0,
+            "Price": 180000.0,
+            "m²": 166.98,
+            "Address": "Tallinas 92A"
+        },
+        {
+            "Price_per_m²": 2612.0,
+            "Price": 75750.0,
+            "m²": 29.0,
+            "Address": "Krāsotāju 13"
+        },
+        {
+            "Price_per_m²": 708.0,
+            "Price": 17000.0,
+            "m²": 24.01,
+            "Address": "Pērnavas 56"
+        },
+        {
+            "Price_per_m²": 2114.0,
+            "Price": 46500.0,
+            "m²": 22.0,
+            "Address": "Brīvības 148"
+        },
+        {
+            "Price_per_m²": 1680.0,
+            "Price": 42000.0,
+            "m²": 25.0,
+            "Address": "Zvaigžņu 13"
+        },
+        {
+            "Price_per_m²": 1557.0,
+            "Price": 82500.0,
+            "m²": 52.99,
+            "Address": "Alauksta 12"
+        },
+        {
+            "Price_per_m²": 1149.0,
+            "Price": 170000.0,
+            "m²": 147.95,
+            "Address": "Krāsotāju 24B"
+        },
+        {
+            "Price_per_m²": 1484.0,
+            "Price": 51950.0,
+            "m²": 35.01,
+            "Address": "Augšiela 8"
+        },
+        {
+            "Price_per_m²": 1722.0,
+            "Price": 49950.0,
+            "m²": 29.01,
+            "Address": "Augšiela 8"
+        },
+        {
+            "Price_per_m²": 1670.0,
+            "Price": 36750.0,
+            "m²": 22.01,
+            "Address": "Augšiela 8"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 24.0,
+            "Price": 240.0,
+            "m²": 10.0,
+            "Address": "Laboratorijas 11"
+        },
+        {
+            "Price_per_m²": 24.0,
+            "Price": 240.0,
+            "m²": 10.0,
+            "Address": "Laboratorijas 11"
+        },
+        {
+            "Price_per_m²": 24.0,
+            "Price": 240.0,
+            "m²": 10.0,
+            "Address": "Laboratorijas 11"
+        },
+        {
+            "Price_per_m²": 24.0,
+            "Price": 240.0,
+            "m²": 10.0,
+            "Address": "Laboratorijas 11"
+        },
+        {
+            "Price_per_m²": 24.0,
+            "Price": 240.0,
+            "m²": 10.0,
+            "Address": "Laboratorijas 11"
+        }
+    ],
+    "daily": [
+        {
+            "Price_per_m²": 0.531,
+            "Price": 17.0,
+            "m²": 32.02,
+            "Address": "Lauku 3B"
+        },
+        {
+            "Price_per_m²": 1.5,
+            "Price": 30.0,
+            "m²": 20.0,
+            "Address": "Zvaigžņu 24"
+        },
+        {
+            "Price_per_m²": 0.952,
+            "Price": 40.0,
+            "m²": 42.02,
+            "Address": "Rūdolfa 1"
+        },
+        {
+            "Price_per_m²": 0.531,
+            "Price": 17.0,
+            "m²": 32.02,
+            "Address": "Lauku 3B"
+        },
+        {
+            "Price_per_m²": 1.5,
+            "Price": 30.0,
+            "m²": 20.0,
+            "Address": "Zvaigžņu 24"
+        },
+        {
+            "Price_per_m²": 0.952,
+            "Price": 40.0,
+            "m²": 42.02,
+            "Address": "Rūdolfa 1"
+        },
+        {
+            "Price_per_m²": 0.531,
+            "Price": 17.0,
+            "m²": 32.02,
+            "Address": "Lauku 3B"
+        },
+        {
+            "Price_per_m²": 1.5,
+            "Price": 30.0,
+            "m²": 20.0,
+            "Address": "Zvaigžņu 24"
+        },
+        {
+            "Price_per_m²": 0.952,
+            "Price": 40.0,
+            "m²": 42.02,
+            "Address": "Rūdolfa 1"
+        },
+        {
+            "Price_per_m²": 0.531,
+            "Price": 17.0,
+            "m²": 32.02,
+            "Address": "Lauku 3B"
+        },
+        {
+            "Price_per_m²": 1.5,
+            "Price": 30.0,
+            "m²": 20.0,
+            "Address": "Zvaigžņu 24"
+        },
+        {
+            "Price_per_m²": 0.952,
+            "Price": 40.0,
+            "m²": 42.02,
+            "Address": "Rūdolfa 1"
+        },
+        {
+            "Price_per_m²": 0.531,
+            "Price": 17.0,
+            "m²": 32.02,
+            "Address": "Lauku 3B"
+        },
+        {
+            "Price_per_m²": 1.5,
+            "Price": 30.0,
+            "m²": 20.0,
+            "Address": "Zvaigžņu 24"
+        },
+        {
+            "Price_per_m²": 0.952,
+            "Price": 40.0,
+            "m²": 42.02,
+            "Address": "Rūdolfa 1"
+        }
+    ]
+}

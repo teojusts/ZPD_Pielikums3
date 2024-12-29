@@ -1,0 +1,43 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 880.0,
+            "Price": 40500.0,
+            "m²": 46.02,
+            "Address": "Biķernieku 220"
+        },
+        {
+            "Price_per_m²": 900.0,
+            "Price": 45000.0,
+            "m²": 50.0,
+            "Address": "Bebrenes 2"
+        },
+        {
+            "Price_per_m²": 880.0,
+            "Price": 40500.0,
+            "m²": 46.02,
+            "Address": "Biķernieku 220"
+        },
+        {
+            "Price_per_m²": 900.0,
+            "Price": 45000.0,
+            "m²": 50.0,
+            "Address": "Bebrenes 2"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 8.89,
+            "Price": 800.0,
+            "m²": 89.99,
+            "Address": "Juglasciema b. 62-.."
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 800.0,
+            "m²": 89.99,
+            "Address": "Juglasciema b. 62-.."
+        }
+    ],
+    "daily": []
+}

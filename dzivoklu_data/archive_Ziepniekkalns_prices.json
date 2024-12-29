@@ -1,0 +1,3086 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 851.0,
+            "Price": 65500.0,
+            "m²": 76.97,
+            "Address": "Bruknas 8"
+        },
+        {
+            "Price_per_m²": 810.0,
+            "Price": 22690.0,
+            "m²": 28.01,
+            "Address": "Īslīces 14"
+        },
+        {
+            "Price_per_m²": 1667.0,
+            "Price": 45000.0,
+            "m²": 26.99,
+            "Address": "Kartupeļu 19"
+        },
+        {
+            "Price_per_m²": 714.0,
+            "Price": 45000.0,
+            "m²": 63.03,
+            "Address": "Bauskas 203"
+        },
+        {
+            "Price_per_m²": 625.0,
+            "Price": 12500.0,
+            "m²": 20.0,
+            "Address": "Vienības g. 126"
+        },
+        {
+            "Price_per_m²": 900.0,
+            "Price": 45000.0,
+            "m²": 50.0,
+            "Address": "Ozolciema 32 k-1"
+        },
+        {
+            "Price_per_m²": 1200.0,
+            "Price": 90000.0,
+            "m²": 75.0,
+            "Address": "Bruknas 12"
+        },
+        {
+            "Price_per_m²": 934.0,
+            "Price": 57900.0,
+            "m²": 61.99,
+            "Address": "Ēbeļmuižas 6"
+        },
+        {
+            "Price_per_m²": 1985.0,
+            "Price": 131000.0,
+            "m²": 65.99,
+            "Address": "Komētas 8"
+        },
+        {
+            "Price_per_m²": 1172.0,
+            "Price": 34000.0,
+            "m²": 29.01,
+            "Address": "Īslīces 14"
+        },
+        {
+            "Price_per_m²": 1433.0,
+            "Price": 86000.0,
+            "m²": 60.01,
+            "Address": "Ozolciema 20/2"
+        },
+        {
+            "Price_per_m²": 1194.0,
+            "Price": 123000.0,
+            "m²": 103.02,
+            "Address": "Ozolciema 20 K-2"
+        },
+        {
+            "Price_per_m²": 1554.0,
+            "Price": 115000.0,
+            "m²": 74.0,
+            "Address": "Graudu 29A"
+        },
+        {
+            "Price_per_m²": 546.0,
+            "Price": 29500.0,
+            "m²": 54.03,
+            "Address": "Dīķa 2"
+        },
+        {
+            "Price_per_m²": 1035.0,
+            "Price": 59000.0,
+            "m²": 57.0,
+            "Address": "Līvciema 9"
+        },
+        {
+            "Price_per_m²": 2261.0,
+            "Price": 199000.0,
+            "m²": 88.01,
+            "Address": "Stērstu 15A"
+        },
+        {
+            "Price_per_m²": 1209.0,
+            "Price": 52000.0,
+            "m²": 43.01,
+            "Address": "Bauskas 187"
+        },
+        {
+            "Price_per_m²": 2784.0,
+            "Price": 267300.0,
+            "m²": 96.01,
+            "Address": "Ziepniekkalna 75"
+        },
+        {
+            "Price_per_m²": 2790.0,
+            "Price": 217600.0,
+            "m²": 77.99,
+            "Address": "Ziepniekkalna 75"
+        },
+        {
+            "Price_per_m²": 366.0,
+            "Price": 20890.0,
+            "m²": 57.08,
+            "Address": "Vienības g. 126"
+        },
+        {
+            "Price_per_m²": 2261.0,
+            "Price": 199000.0,
+            "m²": 88.01,
+            "Address": "Stērstu 15"
+        },
+        {
+            "Price_per_m²": 1177.0,
+            "Price": 73000.0,
+            "m²": 62.02,
+            "Address": "Ozolciema 56 k-1"
+        },
+        {
+            "Price_per_m²": 844.0,
+            "Price": 65000.0,
+            "m²": 77.01,
+            "Address": "Ozolciema 12"
+        },
+        {
+            "Price_per_m²": 1250.0,
+            "Price": 45000.0,
+            "m²": 36.0,
+            "Address": "Valdeķu 66 k-1"
+        },
+        {
+            "Price_per_m²": 904.0,
+            "Price": 42500.0,
+            "m²": 47.01,
+            "Address": "Bērzupes 13"
+        },
+        {
+            "Price_per_m²": 1222.0,
+            "Price": 55000.0,
+            "m²": 45.01,
+            "Address": "Līvciema 43"
+        },
+        {
+            "Price_per_m²": 1023.0,
+            "Price": 39900.0,
+            "m²": 39.0,
+            "Address": "Stērstu 7"
+        },
+        {
+            "Price_per_m²": 1320.0,
+            "Price": 139900.0,
+            "m²": 105.98,
+            "Address": "Bikstu 6"
+        },
+        {
+            "Price_per_m²": 2700.0,
+            "Price": 54000.0,
+            "m²": 20.0,
+            "Address": "Stērstu 15A"
+        },
+        {
+            "Price_per_m²": 892.0,
+            "Price": 66900.0,
+            "m²": 75.0,
+            "Address": "Valdeķu 53"
+        },
+        {
+            "Price_per_m²": 1456.0,
+            "Price": 115000.0,
+            "m²": 78.98,
+            "Address": "Kaplavas 5"
+        },
+        {
+            "Price_per_m²": 1076.0,
+            "Price": 80700.0,
+            "m²": 75.0,
+            "Address": "Valdeķu 59"
+        },
+        {
+            "Price_per_m²": 793.0,
+            "Price": 23800.0,
+            "m²": 30.01,
+            "Address": "Ilmājas 3"
+        },
+        {
+            "Price_per_m²": 1176.0,
+            "Price": 40000.0,
+            "m²": 34.01,
+            "Address": "Ziepju 9"
+        },
+        {
+            "Price_per_m²": 1118.0,
+            "Price": 42500.0,
+            "m²": 38.01,
+            "Address": "Vadakstes 20"
+        },
+        {
+            "Price_per_m²": 1120.0,
+            "Price": 28000.0,
+            "m²": 25.0,
+            "Address": "Bauskas 158"
+        },
+        {
+            "Price_per_m²": 923.0,
+            "Price": 24000.0,
+            "m²": 26.0,
+            "Address": "Bauskas 158"
+        },
+        {
+            "Price_per_m²": 961.0,
+            "Price": 49000.0,
+            "m²": 50.99,
+            "Address": "Līvciema 57"
+        },
+        {
+            "Price_per_m²": 1115.0,
+            "Price": 97000.0,
+            "m²": 87.0,
+            "Address": "Kaplavas 5"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 35000.0,
+            "m²": 35.0,
+            "Address": "Ozolciema 8"
+        },
+        {
+            "Price_per_m²": 1402.0,
+            "Price": 57500.0,
+            "m²": 41.01,
+            "Address": "Bauskas 51"
+        },
+        {
+            "Price_per_m²": 1210.0,
+            "Price": 75000.0,
+            "m²": 61.98,
+            "Address": "Bauskas 49"
+        },
+        {
+            "Price_per_m²": 1027.0,
+            "Price": 56500.0,
+            "m²": 55.01,
+            "Address": "Valdeķu 53"
+        },
+        {
+            "Price_per_m²": 1130.0,
+            "Price": 87000.0,
+            "m²": 76.99,
+            "Address": "Ozolciema 12/3"
+        },
+        {
+            "Price_per_m²": 795.0,
+            "Price": 44500.0,
+            "m²": 55.97,
+            "Address": "Bauskas 101c"
+        },
+        {
+            "Price_per_m²": 850.0,
+            "Price": 34000.0,
+            "m²": 40.0,
+            "Address": "Ozolciema 48"
+        },
+        {
+            "Price_per_m²": 1032.0,
+            "Price": 79500.0,
+            "m²": 77.03,
+            "Address": "Valdeķu 55"
+        },
+        {
+            "Price_per_m²": 1019.0,
+            "Price": 55000.0,
+            "m²": 53.97,
+            "Address": "Ilmājas 15"
+        },
+        {
+            "Price_per_m²": 2184.0,
+            "Price": 124500.0,
+            "m²": 57.01,
+            "Address": "Zaļenieku 21, K1"
+        },
+        {
+            "Price_per_m²": 2411.0,
+            "Price": 258000.0,
+            "m²": 107.01,
+            "Address": "Putnu 3"
+        },
+        {
+            "Price_per_m²": 1194.0,
+            "Price": 123000.0,
+            "m²": 103.02,
+            "Address": "Ozolciema 20 K-2"
+        },
+        {
+            "Price_per_m²": 2093.0,
+            "Price": 56500.0,
+            "m²": 26.99,
+            "Address": "Kartupeļu 19"
+        },
+        {
+            "Price_per_m²": 1070.0,
+            "Price": 53500.0,
+            "m²": 50.0,
+            "Address": "Ozolciema 40k-1"
+        },
+        {
+            "Price_per_m²": 1108.0,
+            "Price": 127400.0,
+            "m²": 114.98,
+            "Address": "Dižozolu 9"
+        },
+        {
+            "Price_per_m²": 960.0,
+            "Price": 60500.0,
+            "m²": 63.02,
+            "Address": "Ozolciema 40k-3"
+        },
+        {
+            "Price_per_m²": 917.0,
+            "Price": 11000.0,
+            "m²": 12.0,
+            "Address": "Zaļenieku 40"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Valdeķu 68"
+        },
+        {
+            "Price_per_m²": 750.0,
+            "Price": 36000.0,
+            "m²": 48.0,
+            "Address": "Līvciema 33"
+        },
+        {
+            "Price_per_m²": 1883.0,
+            "Price": 145000.0,
+            "m²": 77.0,
+            "Address": "Komētas 6-2B"
+        },
+        {
+            "Price_per_m²": 2308.0,
+            "Price": 180000.0,
+            "m²": 77.99,
+            "Address": "Putnu 14"
+        },
+        {
+            "Price_per_m²": 1190.0,
+            "Price": 59500.0,
+            "m²": 50.0,
+            "Address": "Valdeķu 66 k2"
+        },
+        {
+            "Price_per_m²": 1566.0,
+            "Price": 119000.0,
+            "m²": 75.99,
+            "Address": "Liesmas 4"
+        },
+        {
+            "Price_per_m²": 1106.0,
+            "Price": 52000.0,
+            "m²": 47.02,
+            "Address": "Putnu 32"
+        },
+        {
+            "Price_per_m²": 2092.0,
+            "Price": 136000.0,
+            "m²": 65.01,
+            "Address": "Vienības g. 186a"
+        },
+        {
+            "Price_per_m²": 829.0,
+            "Price": 34000.0,
+            "m²": 41.01,
+            "Address": "Ozolciema 30"
+        },
+        {
+            "Price_per_m²": 735.0,
+            "Price": 39700.0,
+            "m²": 54.01,
+            "Address": "Valdeķu 53"
+        },
+        {
+            "Price_per_m²": 669.0,
+            "Price": 28750.0,
+            "m²": 42.97,
+            "Address": "Garozes 17"
+        },
+        {
+            "Price_per_m²": 818.0,
+            "Price": 63000.0,
+            "m²": 77.02,
+            "Address": "Ozolciema 18"
+        },
+        {
+            "Price_per_m²": 1912.0,
+            "Price": 129999.0,
+            "m²": 67.99,
+            "Address": "Komētas 4"
+        },
+        {
+            "Price_per_m²": 1451.0,
+            "Price": 148000.0,
+            "m²": 102.0,
+            "Address": "Vienības g. 87"
+        },
+        {
+            "Price_per_m²": 1210.0,
+            "Price": 75000.0,
+            "m²": 61.98,
+            "Address": "Dižozolu 25"
+        },
+        {
+            "Price_per_m²": 1286.0,
+            "Price": 90000.0,
+            "m²": 69.98,
+            "Address": "Bikstu 6"
+        },
+        {
+            "Price_per_m²": 1377.0,
+            "Price": 95000.0,
+            "m²": 68.99,
+            "Address": "Bauskas 43А"
+        },
+        {
+            "Price_per_m²": 1774.0,
+            "Price": 110000.0,
+            "m²": 62.01,
+            "Address": "Ziepniekkalna 64/1"
+        },
+        {
+            "Price_per_m²": 885.0,
+            "Price": 69000.0,
+            "m²": 77.97,
+            "Address": "Īslīces 1"
+        },
+        {
+            "Price_per_m²": 925.0,
+            "Price": 49000.0,
+            "m²": 52.97,
+            "Address": "Ziepju 9"
+        },
+        {
+            "Price_per_m²": 1156.0,
+            "Price": 37000.0,
+            "m²": 32.01,
+            "Address": "Zaļenieku 22"
+        },
+        {
+            "Price_per_m²": 2433.0,
+            "Price": 253000.0,
+            "m²": 103.99,
+            "Address": "Putnu 3"
+        },
+        {
+            "Price_per_m²": 1478.0,
+            "Price": 68000.0,
+            "m²": 46.01,
+            "Address": "Īslīces 5"
+        },
+        {
+            "Price_per_m²": 1676.0,
+            "Price": 119000.0,
+            "m²": 71.0,
+            "Address": "Ziepniekkalna 64"
+        },
+        {
+            "Price_per_m²": 3048.0,
+            "Price": 118880.0,
+            "m²": 39.0,
+            "Address": "Dignājas 3B"
+        },
+        {
+            "Price_per_m²": 1045.0,
+            "Price": 89900.0,
+            "m²": 86.03,
+            "Address": "Ozolciema 20/2"
+        },
+        {
+            "Price_per_m²": 2261.0,
+            "Price": 199000.0,
+            "m²": 88.01,
+            "Address": "Stērstu 15a"
+        },
+        {
+            "Price_per_m²": 2300.0,
+            "Price": 115000.0,
+            "m²": 50.0,
+            "Address": "Stērstu 15a"
+        },
+        {
+            "Price_per_m²": 2700.0,
+            "Price": 54000.0,
+            "m²": 20.0,
+            "Address": "Stērstu 15a"
+        },
+        {
+            "Price_per_m²": 1599.0,
+            "Price": 159890.0,
+            "m²": 99.99,
+            "Address": "Bikstu 6"
+        },
+        {
+            "Price_per_m²": 2700.0,
+            "Price": 54000.0,
+            "m²": 20.0,
+            "Address": "Stērstu 15a"
+        },
+        {
+            "Price_per_m²": 484.0,
+            "Price": 9200.0,
+            "m²": 19.01,
+            "Address": "Tadaiķu 8 k-1"
+        },
+        {
+            "Price_per_m²": 922.0,
+            "Price": 47000.0,
+            "m²": 50.98,
+            "Address": "Ēbeļmuižas 22"
+        },
+        {
+            "Price_per_m²": 2012.0,
+            "Price": 169000.0,
+            "m²": 84.0,
+            "Address": "Bauskas 57"
+        },
+        {
+            "Price_per_m²": 1027.0,
+            "Price": 76000.0,
+            "m²": 74.0,
+            "Address": "Ozolciema 18"
+        },
+        {
+            "Price_per_m²": 1746.0,
+            "Price": 110000.0,
+            "m²": 63.0,
+            "Address": "Valdeķu 63"
+        },
+        {
+            "Price_per_m²": 909.0,
+            "Price": 49999.0,
+            "m²": 55.0,
+            "Address": "Vadakstes 17"
+        },
+        {
+            "Price_per_m²": 969.0,
+            "Price": 60100.0,
+            "m²": 62.02,
+            "Address": "Ēbeļmuižas 6"
+        },
+        {
+            "Price_per_m²": 1192.0,
+            "Price": 94200.0,
+            "m²": 79.03,
+            "Address": "Ozolciema 18"
+        },
+        {
+            "Price_per_m²": 1249.0,
+            "Price": 43700.0,
+            "m²": 34.99,
+            "Address": "Ēbeļmuižas 20"
+        },
+        {
+            "Price_per_m²": 837.0,
+            "Price": 36000.0,
+            "m²": 43.01,
+            "Address": "Garozes 18"
+        },
+        {
+            "Price_per_m²": 998.0,
+            "Price": 50900.0,
+            "m²": 51.0,
+            "Address": "Līvciema 57"
+        },
+        {
+            "Price_per_m²": 2500.0,
+            "Price": 80000.0,
+            "m²": 32.0,
+            "Address": "Vienības g. 186a"
+        },
+        {
+            "Price_per_m²": 1117.0,
+            "Price": 105000.0,
+            "m²": 94.0,
+            "Address": "Ozolciema 18"
+        },
+        {
+            "Price_per_m²": 1119.0,
+            "Price": 70500.0,
+            "m²": 63.0,
+            "Address": "Ozolciema 42"
+        },
+        {
+            "Price_per_m²": 2051.0,
+            "Price": 121000.0,
+            "m²": 59.0,
+            "Address": "Tumes 25"
+        },
+        {
+            "Price_per_m²": 1077.0,
+            "Price": 56000.0,
+            "m²": 52.0,
+            "Address": "Līvciema 49"
+        },
+        {
+            "Price_per_m²": 930.0,
+            "Price": 43700.0,
+            "m²": 46.99,
+            "Address": "Valdeķu 64"
+        },
+        {
+            "Price_per_m²": 1157.0,
+            "Price": 59000.0,
+            "m²": 50.99,
+            "Address": "Valdeķu 62"
+        },
+        {
+            "Price_per_m²": 1250.0,
+            "Price": 145000.0,
+            "m²": 116.0,
+            "Address": "Kaplavas 5"
+        },
+        {
+            "Price_per_m²": 917.0,
+            "Price": 33000.0,
+            "m²": 35.99,
+            "Address": "Mālu 16"
+        },
+        {
+            "Price_per_m²": 795.0,
+            "Price": 44500.0,
+            "m²": 55.97,
+            "Address": "Bauskas 101c"
+        },
+        {
+            "Price_per_m²": 1117.0,
+            "Price": 105000.0,
+            "m²": 94.0,
+            "Address": "Ozolciema 18"
+        },
+        {
+            "Price_per_m²": 1308.0,
+            "Price": 54950.0,
+            "m²": 42.01,
+            "Address": "Saulkalnes 12"
+        },
+        {
+            "Price_per_m²": 696.0,
+            "Price": 19500.0,
+            "m²": 28.02,
+            "Address": "Ziepniekkalna 2"
+        },
+        {
+            "Price_per_m²": 2000.0,
+            "Price": 174000.0,
+            "m²": 87.0,
+            "Address": "Basu 3A"
+        },
+        {
+            "Price_per_m²": 1209.0,
+            "Price": 124500.0,
+            "m²": 102.98,
+            "Address": "Ozolciema 20k-2"
+        },
+        {
+            "Price_per_m²": 858.0,
+            "Price": 66900.0,
+            "m²": 77.97,
+            "Address": "Bruknas 12"
+        },
+        {
+            "Price_per_m²": 2103.0,
+            "Price": 143000.0,
+            "m²": 68.0,
+            "Address": "Bauskas 57"
+        },
+        {
+            "Price_per_m²": 1066.0,
+            "Price": 64999.0,
+            "m²": 60.97,
+            "Address": "Ozolciema 18"
+        },
+        {
+            "Price_per_m²": 957.0,
+            "Price": 44000.0,
+            "m²": 45.98,
+            "Address": "Bērzupes 31"
+        },
+        {
+            "Price_per_m²": 758.0,
+            "Price": 47000.0,
+            "m²": 62.01,
+            "Address": "Tadaiķu 1"
+        },
+        {
+            "Price_per_m²": 1667.0,
+            "Price": 150000.0,
+            "m²": 89.98,
+            "Address": "Īslīces 1"
+        },
+        {
+            "Price_per_m²": 1632.0,
+            "Price": 124000.0,
+            "m²": 75.98,
+            "Address": "Liesmas 4"
+        },
+        {
+            "Price_per_m²": 1958.0,
+            "Price": 144900.0,
+            "m²": 74.0,
+            "Address": "Vienības g. 192"
+        },
+        {
+            "Price_per_m²": 865.0,
+            "Price": 41500.0,
+            "m²": 47.98,
+            "Address": "Tadaiķu 1"
+        },
+        {
+            "Price_per_m²": 1149.0,
+            "Price": 54000.0,
+            "m²": 47.0,
+            "Address": "Bauskas 63k1"
+        },
+        {
+            "Price_per_m²": 1161.0,
+            "Price": 72000.0,
+            "m²": 62.02,
+            "Address": "Valdeķu 60/3"
+        },
+        {
+            "Price_per_m²": 964.0,
+            "Price": 53000.0,
+            "m²": 54.98,
+            "Address": "Pīpeņu 10"
+        },
+        {
+            "Price_per_m²": 1039.0,
+            "Price": 53000.0,
+            "m²": 51.01,
+            "Address": "Līvciema 57"
+        },
+        {
+            "Price_per_m²": 1690.0,
+            "Price": 120000.0,
+            "m²": 71.01,
+            "Address": "Ziepniekkalna 64"
+        },
+        {
+            "Price_per_m²": 1511.0,
+            "Price": 68000.0,
+            "m²": 45.0,
+            "Address": "Bauskas 43A"
+        },
+        {
+            "Price_per_m²": 1958.0,
+            "Price": 144900.0,
+            "m²": 74.0,
+            "Address": "Vienības g. 192"
+        },
+        {
+            "Price_per_m²": 956.0,
+            "Price": 43000.0,
+            "m²": 44.98,
+            "Address": "Bērzupes 31"
+        },
+        {
+            "Price_per_m²": 1417.0,
+            "Price": 68000.0,
+            "m²": 47.99,
+            "Address": "Īslīces 5"
+        },
+        {
+            "Price_per_m²": 1.83,
+            "Price": 95.0,
+            "m²": 51.91,
+            "Address": "Valdeķu 66"
+        },
+        {
+            "Price_per_m²": 1355.0,
+            "Price": 56900.0,
+            "m²": 41.99,
+            "Address": "Saulkalnes 12"
+        },
+        {
+            "Price_per_m²": 1982.0,
+            "Price": 109000.0,
+            "m²": 54.99,
+            "Address": "Ozolciema 14, k-1"
+        },
+        {
+            "Price_per_m²": 1143.0,
+            "Price": 40000.0,
+            "m²": 35.0,
+            "Address": "Bauskas 201"
+        },
+        {
+            "Price_per_m²": 1029.0,
+            "Price": 35000.0,
+            "m²": 34.01,
+            "Address": "Ozolciema 42/2"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 61000.0,
+            "m²": 77.02,
+            "Address": "Ozolciema 32/4"
+        },
+        {
+            "Price_per_m²": 1177.0,
+            "Price": 93000.0,
+            "m²": 79.01,
+            "Address": "Ozolciema 42/2"
+        },
+        {
+            "Price_per_m²": 1333.0,
+            "Price": 100000.0,
+            "m²": 75.02,
+            "Address": "Īslīces 1"
+        },
+        {
+            "Price_per_m²": 1486.0,
+            "Price": 110000.0,
+            "m²": 74.02,
+            "Address": "Ziepniekkalna 76"
+        },
+        {
+            "Price_per_m²": 1321.0,
+            "Price": 37000.0,
+            "m²": 28.01,
+            "Address": "Valdeķu 5"
+        },
+        {
+            "Price_per_m²": 1453.0,
+            "Price": 77000.0,
+            "m²": 52.99,
+            "Address": "Valdeķu 62"
+        },
+        {
+            "Price_per_m²": 1196.0,
+            "Price": 67000.0,
+            "m²": 56.02,
+            "Address": "Līvciema 10"
+        },
+        {
+            "Price_per_m²": 935.0,
+            "Price": 58000.0,
+            "m²": 62.03,
+            "Address": "Valdeķu 62"
+        },
+        {
+            "Price_per_m²": 1111.0,
+            "Price": 50000.0,
+            "m²": 45.0,
+            "Address": "Ozolciema 36"
+        },
+        {
+            "Price_per_m²": 2048.0,
+            "Price": 215000.0,
+            "m²": 104.98,
+            "Address": "Dignājas 4"
+        },
+        {
+            "Price_per_m²": 1314.0,
+            "Price": 67000.0,
+            "m²": 50.99,
+            "Address": "Ēbeļmuižas 12"
+        },
+        {
+            "Price_per_m²": 923.0,
+            "Price": 24000.0,
+            "m²": 26.0,
+            "Address": "Bauskas 158"
+        },
+        {
+            "Price_per_m²": 1615.0,
+            "Price": 105000.0,
+            "m²": 65.02,
+            "Address": "Ziepniekkalna 64"
+        },
+        {
+            "Price_per_m²": 984.0,
+            "Price": 62000.0,
+            "m²": 63.01,
+            "Address": "Valdeķu 62"
+        },
+        {
+            "Price_per_m²": 932.0,
+            "Price": 69000.0,
+            "m²": 74.03,
+            "Address": "Bruknas 14"
+        },
+        {
+            "Price_per_m²": 2400.0,
+            "Price": 144000.0,
+            "m²": 60.0,
+            "Address": "Skaistkalnes 17"
+        },
+        {
+            "Price_per_m²": 1648.0,
+            "Price": 89000.0,
+            "m²": 54.0,
+            "Address": "Vienības g. 186a"
+        },
+        {
+            "Price_per_m²": 1992.0,
+            "Price": 131500.0,
+            "m²": 66.01,
+            "Address": "Komētas 16"
+        },
+        {
+            "Price_per_m²": 1024.0,
+            "Price": 43000.0,
+            "m²": 41.99,
+            "Address": "Saulkalnes 12"
+        },
+        {
+            "Price_per_m²": 986.0,
+            "Price": 34500.0,
+            "m²": 34.99,
+            "Address": "Vadakstes 20"
+        },
+        {
+            "Price_per_m²": 2231.0,
+            "Price": 145000.0,
+            "m²": 64.99,
+            "Address": "Komētas 26"
+        },
+        {
+            "Price_per_m²": 1208.0,
+            "Price": 58000.0,
+            "m²": 48.01,
+            "Address": "Putnu 20"
+        },
+        {
+            "Price_per_m²": 1692.0,
+            "Price": 126900.0,
+            "m²": 75.0,
+            "Address": "Liesmas 4"
+        },
+        {
+            "Price_per_m²": 625.0,
+            "Price": 12500.0,
+            "m²": 20.0,
+            "Address": "Rāceņu 4"
+        },
+        {
+            "Price_per_m²": 1463.0,
+            "Price": 60000.0,
+            "m²": 41.01,
+            "Address": "Vienības g. 299"
+        },
+        {
+            "Price_per_m²": 2163.0,
+            "Price": 106000.0,
+            "m²": 49.01,
+            "Address": "Bauskas 57"
+        },
+        {
+            "Price_per_m²": 1307.0,
+            "Price": 98000.0,
+            "m²": 74.98,
+            "Address": "Bruknas 12"
+        },
+        {
+            "Price_per_m²": 1400.0,
+            "Price": 84000.0,
+            "m²": 60.0,
+            "Address": "Bauskas 207"
+        },
+        {
+            "Price_per_m²": 1027.0,
+            "Price": 77000.0,
+            "m²": 74.98,
+            "Address": "Ozolciema 12/1"
+        },
+        {
+            "Price_per_m²": 1504.0,
+            "Price": 200000.0,
+            "m²": 132.98,
+            "Address": "Ziepniekkalna 64 k.."
+        },
+        {
+            "Price_per_m²": 920.0,
+            "Price": 46000.0,
+            "m²": 50.0,
+            "Address": "Valdeķu 11"
+        },
+        {
+            "Price_per_m²": 1500.0,
+            "Price": 30000.0,
+            "m²": 20.0,
+            "Address": "Rāceņu 2"
+        },
+        {
+            "Price_per_m²": 1141.0,
+            "Price": 105000.0,
+            "m²": 92.02,
+            "Address": "Ozolciema 32"
+        },
+        {
+            "Price_per_m²": 844.0,
+            "Price": 27000.0,
+            "m²": 31.99,
+            "Address": "Ozolciema 8"
+        },
+        {
+            "Price_per_m²": 1106.0,
+            "Price": 52000.0,
+            "m²": 47.02,
+            "Address": "Putnu 32"
+        },
+        {
+            "Price_per_m²": 1572.0,
+            "Price": 119488.0,
+            "m²": 76.01,
+            "Address": "Svētes 1"
+        },
+        {
+            "Price_per_m²": 1089.0,
+            "Price": 86000.0,
+            "m²": 78.97,
+            "Address": "Ozolciema 20, k. 1"
+        },
+        {
+            "Price_per_m²": 617.0,
+            "Price": 29000.0,
+            "m²": 47.0,
+            "Address": "Tadaiķu 1"
+        },
+        {
+            "Price_per_m²": 943.0,
+            "Price": 50000.0,
+            "m²": 53.02,
+            "Address": "Ozolciema 24k-1"
+        },
+        {
+            "Price_per_m²": 994.0,
+            "Price": 35800.0,
+            "m²": 36.02,
+            "Address": "Ozolciema 32"
+        },
+        {
+            "Price_per_m²": 1013.0,
+            "Price": 78000.0,
+            "m²": 77.0,
+            "Address": "Ozolciema 16-2"
+        },
+        {
+            "Price_per_m²": 1703.0,
+            "Price": 120888.0,
+            "m²": 70.99,
+            "Address": "Ziepniekkalna 64"
+        },
+        {
+            "Price_per_m²": 1048.0,
+            "Price": 65000.0,
+            "m²": 62.02,
+            "Address": "Ozolciema 32/2"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 45000.0,
+            "m²": 42.02,
+            "Address": "Saulkalnes 12"
+        },
+        {
+            "Price_per_m²": 1406.0,
+            "Price": 49222.0,
+            "m²": 35.01,
+            "Address": "Īslīces 14"
+        },
+        {
+            "Price_per_m²": 1990.0,
+            "Price": 209000.0,
+            "m²": 105.03,
+            "Address": "Dignājas 4"
+        },
+        {
+            "Price_per_m²": 2184.0,
+            "Price": 107000.0,
+            "m²": 48.99,
+            "Address": "Bauskas 57"
+        },
+        {
+            "Price_per_m²": 1111.0,
+            "Price": 70000.0,
+            "m²": 63.01,
+            "Address": "Ēbeļmuižas 12"
+        },
+        {
+            "Price_per_m²": 1254.0,
+            "Price": 43900.0,
+            "m²": 35.01,
+            "Address": "Bērzupes 33"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 36000.0,
+            "m²": 36.0,
+            "Address": "Stērstu 16"
+        },
+        {
+            "Price_per_m²": 1222.0,
+            "Price": 55000.0,
+            "m²": 45.01,
+            "Address": "Līvciema 43"
+        },
+        {
+            "Price_per_m²": 1194.0,
+            "Price": 43000.0,
+            "m²": 36.01,
+            "Address": "Valdeķu 66"
+        },
+        {
+            "Price_per_m²": 939.0,
+            "Price": 33800.0,
+            "m²": 36.0,
+            "Address": "Valdeķu 62"
+        },
+        {
+            "Price_per_m²": 1265.0,
+            "Price": 148000.0,
+            "m²": 117.0,
+            "Address": "Kaplavas 5"
+        },
+        {
+            "Price_per_m²": 1486.0,
+            "Price": 52000.0,
+            "m²": 34.99,
+            "Address": "Valdeķu 15"
+        },
+        {
+            "Price_per_m²": 696.0,
+            "Price": 32000.0,
+            "m²": 45.98,
+            "Address": "Ozolciema 52"
+        },
+        {
+            "Price_per_m²": 1175.0,
+            "Price": 47000.0,
+            "m²": 40.0,
+            "Address": "Ilmājas 1"
+        },
+        {
+            "Price_per_m²": 1163.0,
+            "Price": 50000.0,
+            "m²": 42.99,
+            "Address": "Ozolciema 24"
+        },
+        {
+            "Price_per_m²": 1582.0,
+            "Price": 155000.0,
+            "m²": 97.98,
+            "Address": "Bātas 3a"
+        },
+        {
+            "Price_per_m²": 695.0,
+            "Price": 29900.0,
+            "m²": 43.02,
+            "Address": "Vienības g. 111"
+        },
+        {
+            "Price_per_m²": 1252.0,
+            "Price": 129000.0,
+            "m²": 103.04,
+            "Address": "Ozolciema 20 k-2"
+        },
+        {
+            "Price_per_m²": 625.0,
+            "Price": 15000.0,
+            "m²": 24.0,
+            "Address": "Bauskas 151"
+        },
+        {
+            "Price_per_m²": 700.0,
+            "Price": 35700.0,
+            "m²": 51.0,
+            "Address": "Valdeķu 17"
+        },
+        {
+            "Price_per_m²": 852.0,
+            "Price": 33222.0,
+            "m²": 38.99,
+            "Address": "Ozolciema 38"
+        },
+        {
+            "Price_per_m²": 802.0,
+            "Price": 32900.0,
+            "m²": 41.02,
+            "Address": "Garozes 17"
+        },
+        {
+            "Price_per_m²": 1115.0,
+            "Price": 58000.0,
+            "m²": 52.02,
+            "Address": "Ozolciema 22"
+        },
+        {
+            "Price_per_m²": 875.0,
+            "Price": 35000.0,
+            "m²": 40.0,
+            "Address": "Ozolciema 38"
+        },
+        {
+            "Price_per_m²": 1211.0,
+            "Price": 69000.0,
+            "m²": 56.98,
+            "Address": "Bērzlapu 2"
+        },
+        {
+            "Price_per_m²": 870.0,
+            "Price": 34800.0,
+            "m²": 40.0,
+            "Address": "Saulkalnes 16"
+        },
+        {
+            "Price_per_m²": 1456.0,
+            "Price": 49500.0,
+            "m²": 34.0,
+            "Address": "Īslīces 14"
+        },
+        {
+            "Price_per_m²": 824.0,
+            "Price": 37900.0,
+            "m²": 46.0,
+            "Address": "Ozolciema 52"
+        },
+        {
+            "Price_per_m²": 2133.0,
+            "Price": 160000.0,
+            "m²": 75.01,
+            "Address": "Putnu 31"
+        },
+        {
+            "Price_per_m²": 859.0,
+            "Price": 33500.0,
+            "m²": 39.0,
+            "Address": "Ozolciema 38"
+        },
+        {
+            "Price_per_m²": 1758.0,
+            "Price": 145900.0,
+            "m²": 82.99,
+            "Address": "Vienības g. 186A"
+        },
+        {
+            "Price_per_m²": 922.0,
+            "Price": 95000.0,
+            "m²": 103.04,
+            "Address": "Zaļenieku 40"
+        },
+        {
+            "Price_per_m²": 2551.0,
+            "Price": 99500.0,
+            "m²": 39.0,
+            "Address": "M. Stērstu 4"
+        },
+        {
+            "Price_per_m²": 2784.0,
+            "Price": 267300.0,
+            "m²": 96.01,
+            "Address": "Ziepniekkalna 75"
+        },
+        {
+            "Price_per_m²": 1007.0,
+            "Price": 74500.0,
+            "m²": 73.98,
+            "Address": "Valdeķu 65"
+        },
+        {
+            "Price_per_m²": 1106.0,
+            "Price": 52000.0,
+            "m²": 47.02,
+            "Address": "Putnu 32"
+        },
+        {
+            "Price_per_m²": 967.0,
+            "Price": 59000.0,
+            "m²": 61.01,
+            "Address": "Īslīces 1"
+        },
+        {
+            "Price_per_m²": 1746.0,
+            "Price": 113500.0,
+            "m²": 65.01,
+            "Address": "Vienības g. 186A"
+        },
+        {
+            "Price_per_m²": 1100.0,
+            "Price": 53900.0,
+            "m²": 49.0,
+            "Address": "Ēbeļmuižas 16"
+        },
+        {
+            "Price_per_m²": 1855.0,
+            "Price": 115000.0,
+            "m²": 61.99,
+            "Address": "Vienības g. 192"
+        },
+        {
+            "Price_per_m²": 1559.0,
+            "Price": 159000.0,
+            "m²": 101.99,
+            "Address": "Vienības g. 87"
+        },
+        {
+            "Price_per_m²": 2867.0,
+            "Price": 217900.0,
+            "m²": 76.0,
+            "Address": "Ziepniekkalna 75"
+        },
+        {
+            "Price_per_m²": 909.0,
+            "Price": 70000.0,
+            "m²": 77.01,
+            "Address": "Bruknas 12"
+        },
+        {
+            "Price_per_m²": 1150.0,
+            "Price": 115000.0,
+            "m²": 100.0,
+            "Address": "Bauskas 29k2"
+        },
+        {
+            "Price_per_m²": 919.0,
+            "Price": 39500.0,
+            "m²": 42.98,
+            "Address": "Īslīces 1"
+        },
+        {
+            "Price_per_m²": 2867.0,
+            "Price": 217900.0,
+            "m²": 76.0,
+            "Address": "Zālītes 10"
+        },
+        {
+            "Price_per_m²": 1757.0,
+            "Price": 130000.0,
+            "m²": 73.99,
+            "Address": "Graudu 29a"
+        },
+        {
+            "Price_per_m²": 2051.0,
+            "Price": 160000.0,
+            "m²": 78.01,
+            "Address": "Tumes 25"
+        },
+        {
+            "Price_per_m²": 846.0,
+            "Price": 33000.0,
+            "m²": 39.01,
+            "Address": "Kalētu 4"
+        },
+        {
+            "Price_per_m²": 2400.0,
+            "Price": 180000.0,
+            "m²": 75.0,
+            "Address": "Komētas 34"
+        },
+        {
+            "Price_per_m²": 1104.0,
+            "Price": 85000.0,
+            "m²": 76.99,
+            "Address": "Līvciema 9"
+        },
+        {
+            "Price_per_m²": 1811.0,
+            "Price": 96000.0,
+            "m²": 53.01,
+            "Address": "Vienības g. 186a"
+        },
+        {
+            "Price_per_m²": 1244.0,
+            "Price": 48500.0,
+            "m²": 38.99,
+            "Address": "Ģimnastikas 6"
+        },
+        {
+            "Price_per_m²": 744.0,
+            "Price": 33500.0,
+            "m²": 45.03,
+            "Address": "Ģimnastikas 19"
+        },
+        {
+            "Price_per_m²": 1091.0,
+            "Price": 60000.0,
+            "m²": 55.0,
+            "Address": "Valdeķu 53"
+        },
+        {
+            "Price_per_m²": 872.0,
+            "Price": 34000.0,
+            "m²": 38.99,
+            "Address": "Ozolciema 38"
+        },
+        {
+            "Price_per_m²": 882.0,
+            "Price": 30000.0,
+            "m²": 34.01,
+            "Address": "Valdeķu 66 k-1"
+        },
+        {
+            "Price_per_m²": 1122.0,
+            "Price": 46000.0,
+            "m²": 41.0,
+            "Address": "Ķekavas 8"
+        },
+        {
+            "Price_per_m²": 1930.0,
+            "Price": 110000.0,
+            "m²": 56.99,
+            "Address": "Liesmas 4"
+        },
+        {
+            "Price_per_m²": 1908.0,
+            "Price": 124000.0,
+            "m²": 64.99,
+            "Address": "Vienības g. 186A"
+        },
+        {
+            "Price_per_m²": 1065.0,
+            "Price": 66000.0,
+            "m²": 61.97,
+            "Address": "Valdeķu 60/3"
+        },
+        {
+            "Price_per_m²": 2197.0,
+            "Price": 145000.0,
+            "m²": 66.0,
+            "Address": "Komētas 20"
+        },
+        {
+            "Price_per_m²": 952.0,
+            "Price": 60900.0,
+            "m²": 63.97,
+            "Address": "Valdeķu 60 k-3"
+        },
+        {
+            "Price_per_m²": 1252.0,
+            "Price": 129000.0,
+            "m²": 103.04,
+            "Address": "Ozolciema 20 k-2"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 8.06,
+            "Price": 290.0,
+            "m²": 35.98,
+            "Address": "Ziepniekkalna 66"
+        },
+        {
+            "Price_per_m²": 6.15,
+            "Price": 240.0,
+            "m²": 39.02,
+            "Address": "Ozolciema 44"
+        },
+        {
+            "Price_per_m²": 9.17,
+            "Price": 330.0,
+            "m²": 35.99,
+            "Address": "Ozolciema 28"
+        },
+        {
+            "Price_per_m²": 5.48,
+            "Price": 230.0,
+            "m²": 41.97,
+            "Address": "Ozolciema 46"
+        },
+        {
+            "Price_per_m²": 7.96,
+            "Price": 430.0,
+            "m²": 54.02,
+            "Address": "Dignājas 3b"
+        },
+        {
+            "Price_per_m²": 2.63,
+            "Price": 150.0,
+            "m²": 57.03,
+            "Address": "Bātas 17"
+        },
+        {
+            "Price_per_m²": 5.95,
+            "Price": 250.0,
+            "m²": 42.02,
+            "Address": "Ozolciema 16/7"
+        },
+        {
+            "Price_per_m²": 7.78,
+            "Price": 280.0,
+            "m²": 35.99,
+            "Address": "Ozolciema 28"
+        },
+        {
+            "Price_per_m²": 10.47,
+            "Price": 450.0,
+            "m²": 42.98,
+            "Address": "Zaļenieku 40"
+        },
+        {
+            "Price_per_m²": 5.29,
+            "Price": 550.0,
+            "m²": 103.97,
+            "Address": "Ozolciema 40a"
+        },
+        {
+            "Price_per_m²": 10.53,
+            "Price": 600.0,
+            "m²": 56.98,
+            "Address": "Liesmas 4"
+        },
+        {
+            "Price_per_m²": 11.11,
+            "Price": 300.0,
+            "m²": 27.0,
+            "Address": "Kartupeļu 19"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 120.0,
+            "m²": 20.0,
+            "Address": "Vienības g. 126"
+        },
+        {
+            "Price_per_m²": 5.09,
+            "Price": 550.0,
+            "m²": 108.06,
+            "Address": "Bikstu 6"
+        },
+        {
+            "Price_per_m²": 6.77,
+            "Price": 420.0,
+            "m²": 62.04,
+            "Address": "Ēbeļmuižas 12"
+        },
+        {
+            "Price_per_m²": 6.79,
+            "Price": 285.0,
+            "m²": 41.97,
+            "Address": "Bērzupes 33"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 520.0,
+            "m²": 77.96,
+            "Address": "Vienības g. 193"
+        },
+        {
+            "Price_per_m²": 9.22,
+            "Price": 295.0,
+            "m²": 32.0,
+            "Address": "Dižozolu 5"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 350.0,
+            "m²": 50.0,
+            "Address": "Bruknas 12"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "Saulkalnes 12"
+        },
+        {
+            "Price_per_m²": 6.27,
+            "Price": 320.0,
+            "m²": 51.04,
+            "Address": "Valdeķu 62"
+        },
+        {
+            "Price_per_m²": 7.86,
+            "Price": 275.0,
+            "m²": 34.99,
+            "Address": "Valdeķu 60"
+        },
+        {
+            "Price_per_m²": 6.22,
+            "Price": 280.0,
+            "m²": 45.02,
+            "Address": "Īslīces 9"
+        },
+        {
+            "Price_per_m²": 6.76,
+            "Price": 500.0,
+            "m²": 73.96,
+            "Address": "Saulkalnes 18"
+        },
+        {
+            "Price_per_m²": 4.67,
+            "Price": 700.0,
+            "m²": 149.89,
+            "Address": "Ģimnastikas 2"
+        },
+        {
+            "Price_per_m²": 8.38,
+            "Price": 285.0,
+            "m²": 34.01,
+            "Address": "Īslīces 14"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 200.0,
+            "m²": 25.0,
+            "Address": "Bauskas 158"
+        },
+        {
+            "Price_per_m²": 7.8,
+            "Price": 320.0,
+            "m²": 41.03,
+            "Address": "Bērzupes 33"
+        },
+        {
+            "Price_per_m²": 7.2,
+            "Price": 360.0,
+            "m²": 50.0,
+            "Address": "Valdeķu 60/3"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 350.0,
+            "m²": 35.0,
+            "Address": "Ziepniekkalna 50-k.."
+        },
+        {
+            "Price_per_m²": 5.56,
+            "Price": 300.0,
+            "m²": 53.96,
+            "Address": "Vienības g. 186A"
+        },
+        {
+            "Price_per_m²": 6.51,
+            "Price": 280.0,
+            "m²": 43.01,
+            "Address": "Ozolciema 22"
+        },
+        {
+            "Price_per_m²": 8.22,
+            "Price": 370.0,
+            "m²": 45.01,
+            "Address": "Ķekavas 11"
+        },
+        {
+            "Price_per_m²": 5.77,
+            "Price": 450.0,
+            "m²": 77.99,
+            "Address": "Valdeķu 55"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 200.0,
+            "m²": 28.01,
+            "Address": "Graudu 30"
+        },
+        {
+            "Price_per_m²": 4.55,
+            "Price": 150.0,
+            "m²": 32.97,
+            "Address": "Īslīces 14"
+        },
+        {
+            "Price_per_m²": 6.52,
+            "Price": 300.0,
+            "m²": 46.01,
+            "Address": "Bērzupes 13"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 350.0,
+            "m²": 50.0,
+            "Address": "Ozolciema 40"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 300.0,
+            "m²": 36.01,
+            "Address": "Ozolciema 56"
+        },
+        {
+            "Price_per_m²": 6.36,
+            "Price": 280.0,
+            "m²": 44.03,
+            "Address": "Ozolciema 36"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Ēbeļmuižas 12"
+        },
+        {
+            "Price_per_m²": 9.83,
+            "Price": 590.0,
+            "m²": 60.02,
+            "Address": "Graudu 29a"
+        },
+        {
+            "Price_per_m²": 6.49,
+            "Price": 240.0,
+            "m²": 36.98,
+            "Address": "Vadakstes 20"
+        },
+        {
+            "Price_per_m²": 9.0,
+            "Price": 270.0,
+            "m²": 30.0,
+            "Address": "Bauskas 73"
+        },
+        {
+            "Price_per_m²": 10.36,
+            "Price": 570.0,
+            "m²": 55.02,
+            "Address": "Vienības g. 83"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 350.0,
+            "m²": 35.0,
+            "Address": "Dignājas 3"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 300.0,
+            "m²": 30.0,
+            "Address": "Beverīnas 11"
+        },
+        {
+            "Price_per_m²": 7.44,
+            "Price": 320.0,
+            "m²": 43.01,
+            "Address": "Ozolciema 24-1"
+        },
+        {
+            "Price_per_m²": 6.52,
+            "Price": 300.0,
+            "m²": 46.01,
+            "Address": "Tadaķu 7"
+        },
+        {
+            "Price_per_m²": 8.8,
+            "Price": 220.0,
+            "m²": 25.0,
+            "Address": "Ziepju 1"
+        },
+        {
+            "Price_per_m²": 5.78,
+            "Price": 260.0,
+            "m²": 44.98,
+            "Address": "Ēbeļmuižas 30"
+        },
+        {
+            "Price_per_m²": 5.48,
+            "Price": 230.0,
+            "m²": 41.97,
+            "Address": "Ozolciema 36"
+        },
+        {
+            "Price_per_m²": 5.84,
+            "Price": 450.0,
+            "m²": 77.05,
+            "Address": "Bruknas 14"
+        },
+        {
+            "Price_per_m²": 7.06,
+            "Price": 240.0,
+            "m²": 33.99,
+            "Address": "Ozolciema 40/1"
+        },
+        {
+            "Price_per_m²": 14.77,
+            "Price": 1580.0,
+            "m²": 106.97,
+            "Address": "Putnu 3"
+        },
+        {
+            "Price_per_m²": 5.71,
+            "Price": 200.0,
+            "m²": 35.03,
+            "Address": "Līvciema 44"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "Graudu 30a"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 900.0,
+            "m²": 134.93,
+            "Address": "Ziepniekkalna 64 k.."
+        },
+        {
+            "Price_per_m²": 9.62,
+            "Price": 500.0,
+            "m²": 51.98,
+            "Address": "Skaistkalnes 17"
+        },
+        {
+            "Price_per_m²": 6.18,
+            "Price": 470.0,
+            "m²": 76.05,
+            "Address": "Ozolciema 16"
+        },
+        {
+            "Price_per_m²": 8.93,
+            "Price": 250.0,
+            "m²": 28.0,
+            "Address": "Graudu 30a"
+        },
+        {
+            "Price_per_m²": 11.64,
+            "Price": 640.0,
+            "m²": 54.98,
+            "Address": "Skaistkalnes 17"
+        },
+        {
+            "Price_per_m²": 7.71,
+            "Price": 270.0,
+            "m²": 35.02,
+            "Address": "Ozolciema 28"
+        },
+        {
+            "Price_per_m²": 7.43,
+            "Price": 550.0,
+            "m²": 74.02,
+            "Address": "Saulkalnes 18"
+        },
+        {
+            "Price_per_m²": 4.04,
+            "Price": 190.0,
+            "m²": 47.03,
+            "Address": "Ozolciema 12"
+        },
+        {
+            "Price_per_m²": 5.4,
+            "Price": 270.0,
+            "m²": 50.0,
+            "Address": "Ēbeļmuižas 10"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 400.0,
+            "m²": 48.02,
+            "Address": "Līvciema 25"
+        },
+        {
+            "Price_per_m²": 6.06,
+            "Price": 200.0,
+            "m²": 33.0,
+            "Address": "Īslīces 14"
+        },
+        {
+            "Price_per_m²": 5.83,
+            "Price": 420.0,
+            "m²": 72.04,
+            "Address": "Ozolciema 12"
+        },
+        {
+            "Price_per_m²": 5.76,
+            "Price": 415.0,
+            "m²": 72.05,
+            "Address": "Ozolciema 12"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 350.0,
+            "m²": 50.0,
+            "Address": "Dižozolu 5"
+        },
+        {
+            "Price_per_m²": 6.1,
+            "Price": 250.0,
+            "m²": 40.98,
+            "Address": "Ziepju 5"
+        },
+        {
+            "Price_per_m²": 9.43,
+            "Price": 330.0,
+            "m²": 34.99,
+            "Address": "Līvciema 57"
+        },
+        {
+            "Price_per_m²": 5.71,
+            "Price": 200.0,
+            "m²": 35.03,
+            "Address": "Ozolciema 8"
+        },
+        {
+            "Price_per_m²": 10.29,
+            "Price": 350.0,
+            "m²": 34.01,
+            "Address": "Valdeķu 56/2"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 240.0,
+            "m²": 40.0,
+            "Address": "Valdeķu 60/4"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Ēbeļmuižas 4"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 780.0,
+            "m²": 78.0,
+            "Address": "Vienības g. 192"
+        },
+        {
+            "Price_per_m²": 11.25,
+            "Price": 450.0,
+            "m²": 40.0,
+            "Address": "Dignājas 3b"
+        },
+        {
+            "Price_per_m²": 11.43,
+            "Price": 400.0,
+            "m²": 35.0,
+            "Address": "Ozolciema 20"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 200.0,
+            "m²": 29.99,
+            "Address": "Ilmājas 3"
+        },
+        {
+            "Price_per_m²": 6.36,
+            "Price": 280.0,
+            "m²": 44.03,
+            "Address": "Garozes 19"
+        },
+        {
+            "Price_per_m²": 6.86,
+            "Price": 350.0,
+            "m²": 51.02,
+            "Address": "Ozolciema 32/2"
+        },
+        {
+            "Price_per_m²": 12.86,
+            "Price": 180.0,
+            "m²": 14.0,
+            "Address": "Ozolciema 40/3"
+        },
+        {
+            "Price_per_m²": 5.81,
+            "Price": 250.0,
+            "m²": 43.03,
+            "Address": "Bruknas 16"
+        },
+        {
+            "Price_per_m²": 5.56,
+            "Price": 250.0,
+            "m²": 44.96,
+            "Address": "Valdeķu 61"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 210.0,
+            "m²": 35.0,
+            "Address": "Vadakstes 20"
+        },
+        {
+            "Price_per_m²": 8.57,
+            "Price": 300.0,
+            "m²": 35.01,
+            "Address": "Īslīces 14"
+        },
+        {
+            "Price_per_m²": 15.0,
+            "Price": 150.0,
+            "m²": 10.0,
+            "Address": "Ozolciema 40"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 350.0,
+            "m²": 50.0,
+            "Address": "Ozolciema 32/2"
+        },
+        {
+            "Price_per_m²": 6.98,
+            "Price": 670.0,
+            "m²": 95.99,
+            "Address": "Ozolciema 12"
+        },
+        {
+            "Price_per_m²": 15.0,
+            "Price": 180.0,
+            "m²": 12.0,
+            "Address": "Ēbeļmuižas 20"
+        },
+        {
+            "Price_per_m²": 6.57,
+            "Price": 230.0,
+            "m²": 35.01,
+            "Address": "Graudu 41"
+        },
+        {
+            "Price_per_m²": 10.86,
+            "Price": 380.0,
+            "m²": 34.99,
+            "Address": "Līvciema 57"
+        },
+        {
+            "Price_per_m²": 5.26,
+            "Price": 300.0,
+            "m²": 57.03,
+            "Address": "Ozolciema 12/2"
+        },
+        {
+            "Price_per_m²": 4.91,
+            "Price": 260.0,
+            "m²": 52.95,
+            "Address": "Īslīces 9"
+        },
+        {
+            "Price_per_m²": 13.89,
+            "Price": 500.0,
+            "m²": 36.0,
+            "Address": "Ozolciema 20"
+        },
+        {
+            "Price_per_m²": 11.33,
+            "Price": 170.0,
+            "m²": 15.0,
+            "Address": "Ģimnastikas 15"
+        },
+        {
+            "Price_per_m²": 11.03,
+            "Price": 320.0,
+            "m²": 29.01,
+            "Address": "Valdeķu 5A"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 240.0,
+            "m²": 30.0,
+            "Address": "Ozolciema 32"
+        },
+        {
+            "Price_per_m²": 8.55,
+            "Price": 650.0,
+            "m²": 76.02,
+            "Address": "Komētas 14"
+        },
+        {
+            "Price_per_m²": 7.84,
+            "Price": 400.0,
+            "m²": 51.02,
+            "Address": "Valdeķu 68/1"
+        },
+        {
+            "Price_per_m²": 4.66,
+            "Price": 270.0,
+            "m²": 57.94,
+            "Address": "Valdeķu 59"
+        },
+        {
+            "Price_per_m²": 11.25,
+            "Price": 450.0,
+            "m²": 40.0,
+            "Address": "Kartupeļu 45"
+        },
+        {
+            "Price_per_m²": 6.77,
+            "Price": 210.0,
+            "m²": 31.02,
+            "Address": "Ozolciema 42/2"
+        },
+        {
+            "Price_per_m²": 7.78,
+            "Price": 280.0,
+            "m²": 35.99,
+            "Address": "Ozolciema 8"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 200.0,
+            "m²": 29.99,
+            "Address": "Dīķa 17"
+        },
+        {
+            "Price_per_m²": 9.08,
+            "Price": 690.0,
+            "m²": 75.99,
+            "Address": "Komētas 14"
+        },
+        {
+            "Price_per_m²": 7.78,
+            "Price": 280.0,
+            "m²": 35.99,
+            "Address": "Ozolciema 56"
+        },
+        {
+            "Price_per_m²": 11.84,
+            "Price": 450.0,
+            "m²": 38.01,
+            "Address": "Dignājas 3 b"
+        },
+        {
+            "Price_per_m²": 11.76,
+            "Price": 400.0,
+            "m²": 34.01,
+            "Address": "Dignājas 1a"
+        },
+        {
+            "Price_per_m²": 10.29,
+            "Price": 350.0,
+            "m²": 34.01,
+            "Address": "Ēbeļmuižas 20"
+        },
+        {
+            "Price_per_m²": 9.09,
+            "Price": 500.0,
+            "m²": 55.01,
+            "Address": "Komētas 12"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 300.0,
+            "m²": 36.01,
+            "Address": "Valdeķu 68"
+        },
+        {
+            "Price_per_m²": 7.22,
+            "Price": 260.0,
+            "m²": 36.01,
+            "Address": "Īslīces 9"
+        },
+        {
+            "Price_per_m²": 7.8,
+            "Price": 390.0,
+            "m²": 50.0,
+            "Address": "Vaiņodes 5"
+        },
+        {
+            "Price_per_m²": 9.55,
+            "Price": 640.0,
+            "m²": 67.02,
+            "Address": "Beverīnas 3"
+        },
+        {
+            "Price_per_m²": 5.88,
+            "Price": 200.0,
+            "m²": 34.01,
+            "Address": "Ilmājas 15"
+        },
+        {
+            "Price_per_m²": 7.35,
+            "Price": 250.0,
+            "m²": 34.01,
+            "Address": "Vadakstes 17"
+        },
+        {
+            "Price_per_m²": 7.78,
+            "Price": 350.0,
+            "m²": 44.99,
+            "Address": "Ozolciema 36"
+        },
+        {
+            "Price_per_m²": 9.2,
+            "Price": 230.0,
+            "m²": 25.0,
+            "Address": "Kartupeļu 6"
+        },
+        {
+            "Price_per_m²": 7.46,
+            "Price": 500.0,
+            "m²": 67.02,
+            "Address": "Komētas 2"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 400.0,
+            "m²": 40.0,
+            "Address": "Skaistkalnes 17"
+        },
+        {
+            "Price_per_m²": 7.73,
+            "Price": 340.0,
+            "m²": 43.98,
+            "Address": "Ozolciema 38"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 275.0,
+            "m²": 44.0,
+            "Address": "Garozes 19"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 600.0,
+            "m²": 75.0,
+            "Address": "Liesmas 4"
+        },
+        {
+            "Price_per_m²": 11.54,
+            "Price": 450.0,
+            "m²": 38.99,
+            "Address": "M. Stērstu 4"
+        },
+        {
+            "Price_per_m²": 7.58,
+            "Price": 250.0,
+            "m²": 32.98,
+            "Address": "Ozolciema 42/1"
+        },
+        {
+            "Price_per_m²": 6.59,
+            "Price": 270.0,
+            "m²": 40.97,
+            "Address": "Graudu 30"
+        },
+        {
+            "Price_per_m²": 5.71,
+            "Price": 320.0,
+            "m²": 56.04,
+            "Address": "Vadaktes 17"
+        },
+        {
+            "Price_per_m²": 8.28,
+            "Price": 240.0,
+            "m²": 28.99,
+            "Address": "Bauskas 49"
+        },
+        {
+            "Price_per_m²": 7.12,
+            "Price": 420.0,
+            "m²": 58.99,
+            "Address": "Bikstu 6"
+        },
+        {
+            "Price_per_m²": 7.86,
+            "Price": 330.0,
+            "m²": 41.98,
+            "Address": "Tadaiķu 9A"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 300.0,
+            "m²": 36.01,
+            "Address": "Ozolciema 30"
+        },
+        {
+            "Price_per_m²": 7.87,
+            "Price": 299.0,
+            "m²": 37.99,
+            "Address": "Bauskas 23"
+        },
+        {
+            "Price_per_m²": 5.21,
+            "Price": 250.0,
+            "m²": 47.98,
+            "Address": "Līvciema 33"
+        },
+        {
+            "Price_per_m²": 9.68,
+            "Price": 300.0,
+            "m²": 30.99,
+            "Address": "Bauskas 205"
+        },
+        {
+            "Price_per_m²": 9.3,
+            "Price": 400.0,
+            "m²": 43.01,
+            "Address": "Kalētu 4"
+        },
+        {
+            "Price_per_m²": 8.16,
+            "Price": 253.0,
+            "m²": 31.0,
+            "Address": "Dižozolu 9"
+        },
+        {
+            "Price_per_m²": 6.73,
+            "Price": 350.0,
+            "m²": 52.01,
+            "Address": "Ozolciema 42 k 2"
+        },
+        {
+            "Price_per_m²": 6.83,
+            "Price": 280.0,
+            "m²": 41.0,
+            "Address": "Graudu 30"
+        },
+        {
+            "Price_per_m²": 5.7,
+            "Price": 450.0,
+            "m²": 78.95,
+            "Address": "Ozolciema 42/2"
+        },
+        {
+            "Price_per_m²": 9.66,
+            "Price": 280.0,
+            "m²": 28.99,
+            "Address": "Ķekavas 10"
+        },
+        {
+            "Price_per_m²": 8.57,
+            "Price": 300.0,
+            "m²": 35.01,
+            "Address": "Īslīces 14"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 200.0,
+            "m²": 29.99,
+            "Address": "Bērzupes 33"
+        },
+        {
+            "Price_per_m²": 7.76,
+            "Price": 380.0,
+            "m²": 48.97,
+            "Address": "Bauskas 49A"
+        },
+        {
+            "Price_per_m²": 9.21,
+            "Price": 350.0,
+            "m²": 38.0,
+            "Address": "Stērstu 9"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 350.0,
+            "m²": 56.0,
+            "Address": "Saulkalnes 18"
+        },
+        {
+            "Price_per_m²": 7.4,
+            "Price": 370.0,
+            "m²": 50.0,
+            "Address": "Ozolciema 46/1"
+        },
+        {
+            "Price_per_m²": 12.79,
+            "Price": 550.0,
+            "m²": 43.0,
+            "Address": "Tumes 25"
+        },
+        {
+            "Price_per_m²": 9.0,
+            "Price": 450.0,
+            "m²": 50.0,
+            "Address": "Kalētu 4"
+        },
+        {
+            "Price_per_m²": 7.63,
+            "Price": 290.0,
+            "m²": 38.01,
+            "Address": "Stērstu 16"
+        },
+        {
+            "Price_per_m²": 6.47,
+            "Price": 330.0,
+            "m²": 51.0,
+            "Address": "Ozolciema 46/3"
+        },
+        {
+            "Price_per_m²": 4.21,
+            "Price": 160.0,
+            "m²": 38.0,
+            "Address": "Ozolciema 32"
+        },
+        {
+            "Price_per_m²": 5.9,
+            "Price": 230.0,
+            "m²": 38.98,
+            "Address": "Ģimnastikas 6a"
+        },
+        {
+            "Price_per_m²": 9.17,
+            "Price": 275.0,
+            "m²": 29.99,
+            "Address": "Graudu 30"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Īslīces 14"
+        },
+        {
+            "Price_per_m²": 7.06,
+            "Price": 240.0,
+            "m²": 33.99,
+            "Address": "Dižozolu 9"
+        },
+        {
+            "Price_per_m²": 5.0,
+            "Price": 250.0,
+            "m²": 50.0,
+            "Address": "Mālu 16"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 900.0,
+            "m²": 134.93,
+            "Address": "Ziepniekkalna 64 k.."
+        },
+        {
+            "Price_per_m²": 5.32,
+            "Price": 330.0,
+            "m²": 62.03,
+            "Address": "Ozolciema 42"
+        },
+        {
+            "Price_per_m²": 5.71,
+            "Price": 200.0,
+            "m²": 35.03,
+            "Address": "Līvciema 57"
+        },
+        {
+            "Price_per_m²": 8.87,
+            "Price": 550.0,
+            "m²": 62.01,
+            "Address": "Bauskas 205"
+        },
+        {
+            "Price_per_m²": 5.95,
+            "Price": 250.0,
+            "m²": 42.02,
+            "Address": "Valdeķu 13"
+        },
+        {
+            "Price_per_m²": 12.0,
+            "Price": 180.0,
+            "m²": 15.0,
+            "Address": "Ozolciema 12"
+        },
+        {
+            "Price_per_m²": 9.26,
+            "Price": 250.0,
+            "m²": 27.0,
+            "Address": "Graudu 30a"
+        },
+        {
+            "Price_per_m²": 5.71,
+            "Price": 200.0,
+            "m²": 35.03,
+            "Address": "Ozolciema 8"
+        },
+        {
+            "Price_per_m²": 12.79,
+            "Price": 550.0,
+            "m²": 43.0,
+            "Address": "Tumes 25"
+        },
+        {
+            "Price_per_m²": 7.33,
+            "Price": 220.0,
+            "m²": 30.01,
+            "Address": "Saulkalnes 12"
+        },
+        {
+            "Price_per_m²": 11.2,
+            "Price": 280.0,
+            "m²": 25.0,
+            "Address": "Vienības g. 160"
+        },
+        {
+            "Price_per_m²": 7.75,
+            "Price": 550.0,
+            "m²": 70.97,
+            "Address": "Ziepniekkalna 64"
+        },
+        {
+            "Price_per_m²": 8.05,
+            "Price": 330.0,
+            "m²": 40.99,
+            "Address": "Īslīces 1"
+        },
+        {
+            "Price_per_m²": 5.57,
+            "Price": 245.0,
+            "m²": 43.99,
+            "Address": "Bauskas 53"
+        },
+        {
+            "Price_per_m²": 5.0,
+            "Price": 200.0,
+            "m²": 40.0,
+            "Address": "Ozolciema 36"
+        },
+        {
+            "Price_per_m²": 6.86,
+            "Price": 350.0,
+            "m²": 51.02,
+            "Address": "Valdeķu 62"
+        },
+        {
+            "Price_per_m²": 5.59,
+            "Price": 380.0,
+            "m²": 67.98,
+            "Address": "Ilmājas 10"
+        },
+        {
+            "Price_per_m²": 8.57,
+            "Price": 300.0,
+            "m²": 35.01,
+            "Address": "Valdeķu 66/1"
+        },
+        {
+            "Price_per_m²": 7.59,
+            "Price": 1100.0,
+            "m²": 144.93,
+            "Address": "Blīdenes 1A"
+        },
+        {
+            "Price_per_m²": 11.84,
+            "Price": 450.0,
+            "m²": 38.01,
+            "Address": "Bauskas 49"
+        },
+        {
+            "Price_per_m²": 8.55,
+            "Price": 470.0,
+            "m²": 54.97,
+            "Address": "Īslīces 12"
+        },
+        {
+            "Price_per_m²": 7.65,
+            "Price": 260.0,
+            "m²": 33.99,
+            "Address": "Bērzupes 13"
+        },
+        {
+            "Price_per_m²": 6.59,
+            "Price": 290.0,
+            "m²": 44.01,
+            "Address": "Ozolciema 44"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 200.0,
+            "m²": 20.0,
+            "Address": "Graudu 58"
+        },
+        {
+            "Price_per_m²": 11.5,
+            "Price": 690.0,
+            "m²": 60.0,
+            "Address": "Putnu 31"
+        },
+        {
+            "Price_per_m²": 5.87,
+            "Price": 440.0,
+            "m²": 74.96,
+            "Address": "Līvciema 9/1"
+        },
+        {
+            "Price_per_m²": 5.59,
+            "Price": 425.0,
+            "m²": 76.03,
+            "Address": "Valdeķu 62/1"
+        },
+        {
+            "Price_per_m²": 9.69,
+            "Price": 310.0,
+            "m²": 31.99,
+            "Address": "Saulkalnes 16"
+        },
+        {
+            "Price_per_m²": 6.97,
+            "Price": 230.0,
+            "m²": 33.0,
+            "Address": "Valdeķu 66"
+        },
+        {
+            "Price_per_m²": 9.38,
+            "Price": 300.0,
+            "m²": 31.98,
+            "Address": "Ēbeļmuižas 28"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 140.0,
+            "m²": 20.0,
+            "Address": "Rāceņu 4"
+        },
+        {
+            "Price_per_m²": 13.13,
+            "Price": 525.0,
+            "m²": 39.98,
+            "Address": "Tumes 25"
+        },
+        {
+            "Price_per_m²": 12.96,
+            "Price": 350.0,
+            "m²": 27.01,
+            "Address": "Kartupeļu 19"
+        },
+        {
+            "Price_per_m²": 5.43,
+            "Price": 250.0,
+            "m²": 46.04,
+            "Address": "Ozolciema 16"
+        },
+        {
+            "Price_per_m²": 8.27,
+            "Price": 1100.0,
+            "m²": 133.01,
+            "Address": "Ziepniekkalna 64 k.."
+        },
+        {
+            "Price_per_m²": 9.09,
+            "Price": 500.0,
+            "m²": 55.01,
+            "Address": "Vienības g. 186A"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 280.0,
+            "m²": 40.0,
+            "Address": "Īslīces 9"
+        },
+        {
+            "Price_per_m²": 7.55,
+            "Price": 830.0,
+            "m²": 109.93,
+            "Address": "Zaļenieku 18"
+        },
+        {
+            "Price_per_m²": 8.24,
+            "Price": 280.0,
+            "m²": 33.98,
+            "Address": "Valdeķu 50/2"
+        },
+        {
+            "Price_per_m²": 7.58,
+            "Price": 250.0,
+            "m²": 32.98,
+            "Address": "Īslīces 14"
+        },
+        {
+            "Price_per_m²": 7.03,
+            "Price": 260.0,
+            "m²": 36.98,
+            "Address": "Viesītes 3"
+        },
+        {
+            "Price_per_m²": 9.0,
+            "Price": 270.0,
+            "m²": 30.0,
+            "Address": "Zaļenieku 22"
+        },
+        {
+            "Price_per_m²": 7.1,
+            "Price": 440.0,
+            "m²": 61.97,
+            "Address": "Līvciema 55"
+        },
+        {
+            "Price_per_m²": 7.76,
+            "Price": 380.0,
+            "m²": 48.97,
+            "Address": "Ķekavas 14"
+        },
+        {
+            "Price_per_m²": 5.97,
+            "Price": 460.0,
+            "m²": 77.05,
+            "Address": "Ozolciema 18"
+        },
+        {
+            "Price_per_m²": 6.44,
+            "Price": 290.0,
+            "m²": 45.03,
+            "Address": "Īslīces 9"
+        },
+        {
+            "Price_per_m²": 5.45,
+            "Price": 180.0,
+            "m²": 33.03,
+            "Address": "Valdeķu 60"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 360.0,
+            "m²": 53.97,
+            "Address": "Ozolciema 18"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 250.0,
+            "m²": 40.0,
+            "Address": "Ozolciema 54"
+        },
+        {
+            "Price_per_m²": 7.31,
+            "Price": 380.0,
+            "m²": 51.98,
+            "Address": "Valdeķu 68"
+        },
+        {
+            "Price_per_m²": 7.21,
+            "Price": 310.0,
+            "m²": 43.0,
+            "Address": "Zaļenieku 22"
+        },
+        {
+            "Price_per_m²": 6.06,
+            "Price": 200.0,
+            "m²": 33.0,
+            "Address": "Ozolciema 32/2"
+        },
+        {
+            "Price_per_m²": 6.84,
+            "Price": 260.0,
+            "m²": 38.01,
+            "Address": "Īslīces 9"
+        },
+        {
+            "Price_per_m²": 5.67,
+            "Price": 340.0,
+            "m²": 59.96,
+            "Address": "Valdeķu 51"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 550.0,
+            "m²": 88.0,
+            "Address": "Vienības g. 186A"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 550.0,
+            "m²": 88.0,
+            "Address": "Vienības g. 186A"
+        },
+        {
+            "Price_per_m²": 4.31,
+            "Price": 280.0,
+            "m²": 64.97,
+            "Address": "Ziepju 9"
+        },
+        {
+            "Price_per_m²": 7.19,
+            "Price": 230.0,
+            "m²": 31.99,
+            "Address": "Valdeķu 60/3"
+        },
+        {
+            "Price_per_m²": 7.26,
+            "Price": 450.0,
+            "m²": 61.98,
+            "Address": "Ziepniekkalna 64"
+        },
+        {
+            "Price_per_m²": 9.72,
+            "Price": 350.0,
+            "m²": 36.01,
+            "Address": "Vadakstes 20"
+        },
+        {
+            "Price_per_m²": 5.58,
+            "Price": 240.0,
+            "m²": 43.01,
+            "Address": "Garozes 18"
+        },
+        {
+            "Price_per_m²": 8.82,
+            "Price": 300.0,
+            "m²": 34.01,
+            "Address": "Valdeķu 66 k-1"
+        },
+        {
+            "Price_per_m²": 8.93,
+            "Price": 1250.0,
+            "m²": 139.98,
+            "Address": "Graudu 7"
+        },
+        {
+            "Price_per_m²": 5.45,
+            "Price": 240.0,
+            "m²": 44.04,
+            "Address": "Ozolciema 34"
+        },
+        {
+            "Price_per_m²": 5.0,
+            "Price": 390.0,
+            "m²": 78.0,
+            "Address": "Valdeķu 53"
+        },
+        {
+            "Price_per_m²": 5.5,
+            "Price": 220.0,
+            "m²": 40.0,
+            "Address": "Ozolciema 48"
+        },
+        {
+            "Price_per_m²": 5.12,
+            "Price": 210.0,
+            "m²": 41.02,
+            "Address": "Zaļenieku 40A"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 240.0,
+            "m²": 40.0,
+            "Address": "Ceraukstes 32"
+        },
+        {
+            "Price_per_m²": 6.9,
+            "Price": 290.0,
+            "m²": 42.03,
+            "Address": "Ilmājas 3"
+        },
+        {
+            "Price_per_m²": 10.29,
+            "Price": 350.0,
+            "m²": 34.01,
+            "Address": "Īslīces 14"
+        },
+        {
+            "Price_per_m²": 6.45,
+            "Price": 600.0,
+            "m²": 93.02,
+            "Address": "Vaiņodes 20"
+        },
+        {
+            "Price_per_m²": 4.94,
+            "Price": 385.0,
+            "m²": 77.94,
+            "Address": "Ozolciema 16"
+        },
+        {
+            "Price_per_m²": 5.81,
+            "Price": 250.0,
+            "m²": 43.03,
+            "Address": "Valdeķu 61"
+        },
+        {
+            "Price_per_m²": 12.25,
+            "Price": 490.0,
+            "m²": 40.0,
+            "Address": "Tumes 25"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 400.0,
+            "m²": 48.02,
+            "Address": "Kartupeļu 56"
+        },
+        {
+            "Price_per_m²": 7.35,
+            "Price": 250.0,
+            "m²": 34.01,
+            "Address": "Ozolciema 8"
+        },
+        {
+            "Price_per_m²": 8.06,
+            "Price": 580.0,
+            "m²": 71.96,
+            "Address": "Bātas 3a"
+        },
+        {
+            "Price_per_m²": 7.4,
+            "Price": 370.0,
+            "m²": 50.0,
+            "Address": "Ēbeļmuižas 19"
+        },
+        {
+            "Price_per_m²": 5.33,
+            "Price": 240.0,
+            "m²": 45.03,
+            "Address": "Ozolciema 34"
+        },
+        {
+            "Price_per_m²": 7.78,
+            "Price": 350.0,
+            "m²": 44.99,
+            "Address": "Bauskas 55"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 250.0,
+            "m²": 30.01,
+            "Address": "Saulkalnes 7"
+        },
+        {
+            "Price_per_m²": 4.55,
+            "Price": 250.0,
+            "m²": 54.95,
+            "Address": "Bauskas 65"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 350.0,
+            "m²": 56.0,
+            "Address": "Ozolciema 12/2"
+        },
+        {
+            "Price_per_m²": 5.95,
+            "Price": 250.0,
+            "m²": 42.02,
+            "Address": "Valdeķu 13"
+        },
+        {
+            "Price_per_m²": 10.45,
+            "Price": 345.0,
+            "m²": 33.01,
+            "Address": "Saulkalnes 3"
+        },
+        {
+            "Price_per_m²": 7.43,
+            "Price": 260.0,
+            "m²": 34.99,
+            "Address": "Ēbeļmuižas 20"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 240.0,
+            "m²": 35.98,
+            "Address": "Ozolciema 40"
+        },
+        {
+            "Price_per_m²": 7.09,
+            "Price": 390.0,
+            "m²": 55.01,
+            "Address": "Bruknas 14"
+        },
+        {
+            "Price_per_m²": 9.41,
+            "Price": 640.0,
+            "m²": 68.01,
+            "Address": "Dignājas 3A"
+        },
+        {
+            "Price_per_m²": 7.1,
+            "Price": 440.0,
+            "m²": 61.97,
+            "Address": "Dižozolu 5"
+        },
+        {
+            "Price_per_m²": 5.78,
+            "Price": 370.0,
+            "m²": 64.01,
+            "Address": "Bērzlapu 2"
+        },
+        {
+            "Price_per_m²": 9.21,
+            "Price": 350.0,
+            "m²": 38.0,
+            "Address": "Saulkalnes 3"
+        },
+        {
+            "Price_per_m²": 6.92,
+            "Price": 270.0,
+            "m²": 39.02,
+            "Address": "Kalētu 4"
+        },
+        {
+            "Price_per_m²": 5.6,
+            "Price": 420.0,
+            "m²": 75.0,
+            "Address": "Ozolciema 12"
+        },
+        {
+            "Price_per_m²": 7.69,
+            "Price": 300.0,
+            "m²": 39.01,
+            "Address": "Kartupeļu 47"
+        },
+        {
+            "Price_per_m²": 6.94,
+            "Price": 250.0,
+            "m²": 36.02,
+            "Address": "Ozolciema 32k2"
+        },
+        {
+            "Price_per_m²": 6.73,
+            "Price": 350.0,
+            "m²": 52.01,
+            "Address": "Valdeķu 59"
+        },
+        {
+            "Price_per_m²": 6.83,
+            "Price": 430.0,
+            "m²": 62.96,
+            "Address": "Ziepniekkalna 64/1"
+        },
+        {
+            "Price_per_m²": 8.44,
+            "Price": 380.0,
+            "m²": 45.02,
+            "Address": "Kartupeļu 50A"
+        },
+        {
+            "Price_per_m²": 5.6,
+            "Price": 140.0,
+            "m²": 25.0,
+            "Address": "Ilmājas 3"
+        },
+        {
+            "Price_per_m²": 7.79,
+            "Price": 600.0,
+            "m²": 77.02,
+            "Address": "Ozolciema 12/2"
+        },
+        {
+            "Price_per_m²": 4.49,
+            "Price": 350.0,
+            "m²": 77.95,
+            "Address": "Valdeķu 69"
+        },
+        {
+            "Price_per_m²": 8.77,
+            "Price": 500.0,
+            "m²": 57.01,
+            "Address": "Liesmas 4"
+        },
+        {
+            "Price_per_m²": 5.0,
+            "Price": 250.0,
+            "m²": 50.0,
+            "Address": "Kartupeļu 52"
+        },
+        {
+            "Price_per_m²": 14.75,
+            "Price": 590.0,
+            "m²": 40.0,
+            "Address": "Tumes 25"
+        },
+        {
+            "Price_per_m²": 8.41,
+            "Price": 370.0,
+            "m²": 44.0,
+            "Address": "Ozolciema 38"
+        },
+        {
+            "Price_per_m²": 7.77,
+            "Price": 800.0,
+            "m²": 102.96,
+            "Address": "Vienības g. 1"
+        },
+        {
+            "Price_per_m²": 7.96,
+            "Price": 430.0,
+            "m²": 54.02,
+            "Address": "Dignājas 3a"
+        }
+    ],
+    "daily": [
+        {
+            "Price_per_m²": 1.11,
+            "Price": 50.0,
+            "m²": 45.05,
+            "Address": "Kartupeļu 19"
+        },
+        {
+            "Price_per_m²": 7.88,
+            "Price": 260.0,
+            "m²": 32.99,
+            "Address": "Dižozolu 25"
+        },
+        {
+            "Price_per_m²": 1.03,
+            "Price": 40.0,
+            "m²": 38.83,
+            "Address": "Zaļenieku 18"
+        }
+    ]
+}

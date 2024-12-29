@@ -1,0 +1,884 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 1552.0,
+            "Price": 135000.0,
+            "m²": 86.98,
+            "Address": "Zalves 25"
+        },
+        {
+            "Price_per_m²": 2283.0,
+            "Price": 210000.0,
+            "m²": 91.98,
+            "Address": "Zalves 47"
+        },
+        {
+            "Price_per_m²": 2222.0,
+            "Price": 200000.0,
+            "m²": 90.01,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 1197.0,
+            "Price": 39500.0,
+            "m²": 33.0,
+            "Address": "Zalves 52"
+        },
+        {
+            "Price_per_m²": 1533.0,
+            "Price": 18400.0,
+            "m²": 12.0,
+            "Address": "Stendes 7"
+        },
+        {
+            "Price_per_m²": 2592.0,
+            "Price": 173680.0,
+            "m²": 67.01,
+            "Address": "Lielirbes 15"
+        },
+        {
+            "Price_per_m²": 2588.0,
+            "Price": 168220.0,
+            "m²": 65.0,
+            "Address": "Lielirbes 15"
+        },
+        {
+            "Price_per_m²": 2600.0,
+            "Price": 148200.0,
+            "m²": 57.0,
+            "Address": "Lielirbes 15"
+        },
+        {
+            "Price_per_m²": 2594.0,
+            "Price": 220480.0,
+            "m²": 85.0,
+            "Address": "Lielirbes 15"
+        },
+        {
+            "Price_per_m²": 2594.0,
+            "Price": 238680.0,
+            "m²": 92.01,
+            "Address": "Lielirbes 15"
+        },
+        {
+            "Price_per_m²": 971.0,
+            "Price": 33000.0,
+            "m²": 33.99,
+            "Address": "Ventspils 65A"
+        },
+        {
+            "Price_per_m²": 622.0,
+            "Price": 39800.0,
+            "m²": 63.99,
+            "Address": "Ķemeru 4"
+        },
+        {
+            "Price_per_m²": 1317.0,
+            "Price": 54000.0,
+            "m²": 41.0,
+            "Address": "Stendes 7/5"
+        },
+        {
+            "Price_per_m²": 2592.0,
+            "Price": 85540.0,
+            "m²": 33.0,
+            "Address": "Lielirbes 15"
+        },
+        {
+            "Price_per_m²": 1269.0,
+            "Price": 85000.0,
+            "m²": 66.98,
+            "Address": "Zasulauka 16"
+        },
+        {
+            "Price_per_m²": 935.0,
+            "Price": 42999.0,
+            "m²": 45.99,
+            "Address": "Kalnciema 114"
+        },
+        {
+            "Price_per_m²": 1838.0,
+            "Price": 125000.0,
+            "m²": 68.01,
+            "Address": "Lielirbes 11"
+        },
+        {
+            "Price_per_m²": 2109.0,
+            "Price": 135000.0,
+            "m²": 64.01,
+            "Address": "Zalves 37"
+        },
+        {
+            "Price_per_m²": 1828.0,
+            "Price": 170000.0,
+            "m²": 93.0,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 1216.0,
+            "Price": 62000.0,
+            "m²": 50.99,
+            "Address": "Lielirbes 6"
+        },
+        {
+            "Price_per_m²": 1273.0,
+            "Price": 56000.0,
+            "m²": 43.99,
+            "Address": "Zasulauka 18a"
+        },
+        {
+            "Price_per_m²": 2011.0,
+            "Price": 140800.0,
+            "m²": 70.01,
+            "Address": "Zalves 37"
+        },
+        {
+            "Price_per_m²": 2644.0,
+            "Price": 349000.0,
+            "m²": 132.0,
+            "Address": "Zalves 47"
+        },
+        {
+            "Price_per_m²": 1263.0,
+            "Price": 51800.0,
+            "m²": 41.01,
+            "Address": "Stendes 7/5"
+        },
+        {
+            "Price_per_m²": 1136.0,
+            "Price": 25000.0,
+            "m²": 22.01,
+            "Address": "Kalnciema 147"
+        },
+        {
+            "Price_per_m²": 388.0,
+            "Price": 24800.0,
+            "m²": 63.92,
+            "Address": "Mikus 4"
+        },
+        {
+            "Price_per_m²": 614.0,
+            "Price": 35000.0,
+            "m²": 57.0,
+            "Address": "Kalnciema 102A"
+        },
+        {
+            "Price_per_m²": 2015.0,
+            "Price": 135000.0,
+            "m²": 67.0,
+            "Address": "Zalves 43"
+        },
+        {
+            "Price_per_m²": 1250.0,
+            "Price": 55000.0,
+            "m²": 44.0,
+            "Address": "Zasulauka 18а"
+        },
+        {
+            "Price_per_m²": 2234.0,
+            "Price": 210000.0,
+            "m²": 94.0,
+            "Address": "Zalves 39"
+        },
+        {
+            "Price_per_m²": 1225.0,
+            "Price": 58800.0,
+            "m²": 48.0,
+            "Address": "Lielirbes 6"
+        },
+        {
+            "Price_per_m²": 1318.0,
+            "Price": 58000.0,
+            "m²": 44.01,
+            "Address": "Zasulauka 18a"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 30000.0,
+            "m²": 30.0,
+            "Address": "Stendes 3"
+        },
+        {
+            "Price_per_m²": 1318.0,
+            "Price": 58000.0,
+            "m²": 44.01,
+            "Address": "Zolitūdes 18а"
+        },
+        {
+            "Price_per_m²": 1917.0,
+            "Price": 115000.0,
+            "m²": 59.99,
+            "Address": "Jūrkalnes 87"
+        },
+        {
+            "Price_per_m²": 814.0,
+            "Price": 35000.0,
+            "m²": 43.0,
+            "Address": "Volguntes 27A"
+        },
+        {
+            "Price_per_m²": 920.0,
+            "Price": 69000.0,
+            "m²": 75.0,
+            "Address": "Kalnciema 105"
+        },
+        {
+            "Price_per_m²": 884.0,
+            "Price": 38000.0,
+            "m²": 42.99,
+            "Address": "Volguntes 27a"
+        },
+        {
+            "Price_per_m²": 2333.0,
+            "Price": 210000.0,
+            "m²": 90.01,
+            "Address": "Lielirbes 11"
+        },
+        {
+            "Price_per_m²": 1831.0,
+            "Price": 119000.0,
+            "m²": 64.99,
+            "Address": "Zalves 37"
+        },
+        {
+            "Price_per_m²": 1026.0,
+            "Price": 69800.0,
+            "m²": 68.03,
+            "Address": "Irlavas 26a"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 99500.0,
+            "m²": 65.98,
+            "Address": "Irlavas 12"
+        },
+        {
+            "Price_per_m²": 1143.0,
+            "Price": 48000.0,
+            "m²": 41.99,
+            "Address": "Lielirbes 6"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Kalnciema 7"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 350.0,
+            "m²": 35.0,
+            "Address": "Irlavas 24"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 250.0,
+            "m²": 25.0,
+            "Address": "Ventspils 65"
+        },
+        {
+            "Price_per_m²": 15.0,
+            "Price": 420.0,
+            "m²": 28.0,
+            "Address": "Irlavas 16A-1"
+        },
+        {
+            "Price_per_m²": 7.58,
+            "Price": 250.0,
+            "m²": 32.98,
+            "Address": "Volguntes 5"
+        },
+        {
+            "Price_per_m²": 7.97,
+            "Price": 550.0,
+            "m²": 69.01,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 7.29,
+            "Price": 350.0,
+            "m²": 48.01,
+            "Address": "Kalnciema 97"
+        },
+        {
+            "Price_per_m²": 9.56,
+            "Price": 650.0,
+            "m²": 67.99,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 5.81,
+            "Price": 360.0,
+            "m²": 61.96,
+            "Address": "Volguntes 21"
+        },
+        {
+            "Price_per_m²": 9.0,
+            "Price": 360.0,
+            "m²": 40.0,
+            "Address": "Stendes 7"
+        },
+        {
+            "Price_per_m²": 5.85,
+            "Price": 380.0,
+            "m²": 64.96,
+            "Address": "Zalves 52"
+        },
+        {
+            "Price_per_m²": 15.0,
+            "Price": 600.0,
+            "m²": 40.0,
+            "Address": "Jūrkalnes 87"
+        },
+        {
+            "Price_per_m²": 9.56,
+            "Price": 650.0,
+            "m²": 67.99,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 14.37,
+            "Price": 1250.0,
+            "m²": 86.99,
+            "Address": "Ulmaņa g. 100"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 300.0,
+            "m²": 42.02,
+            "Address": "Rucavas 1A"
+        },
+        {
+            "Price_per_m²": 6.36,
+            "Price": 350.0,
+            "m²": 55.03,
+            "Address": "Kalnciema 97"
+        },
+        {
+            "Price_per_m²": 9.38,
+            "Price": 300.0,
+            "m²": 31.98,
+            "Address": "Šampētera 74"
+        },
+        {
+            "Price_per_m²": 6.22,
+            "Price": 610.0,
+            "m²": 98.07,
+            "Address": "Irlavas 20"
+        },
+        {
+            "Price_per_m²": 15.0,
+            "Price": 390.0,
+            "m²": 26.0,
+            "Address": "Kalnciema 135"
+        },
+        {
+            "Price_per_m²": 9.44,
+            "Price": 850.0,
+            "m²": 90.04,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 9.44,
+            "Price": 850.0,
+            "m²": 90.04,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 10.29,
+            "Price": 700.0,
+            "m²": 68.03,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 8.68,
+            "Price": 165.0,
+            "m²": 19.01,
+            "Address": "Stendes 7 k4"
+        },
+        {
+            "Price_per_m²": 8.7,
+            "Price": 600.0,
+            "m²": 68.97,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 7.35,
+            "Price": 250.0,
+            "m²": 34.01,
+            "Address": "Zalves 52"
+        },
+        {
+            "Price_per_m²": 6.16,
+            "Price": 610.0,
+            "m²": 99.03,
+            "Address": "Zalves 112"
+        },
+        {
+            "Price_per_m²": 9.5,
+            "Price": 380.0,
+            "m²": 40.0,
+            "Address": "Volguntes 27"
+        },
+        {
+            "Price_per_m²": 4.78,
+            "Price": 320.0,
+            "m²": 66.95,
+            "Address": "Zasulauka 16"
+        },
+        {
+            "Price_per_m²": 20.0,
+            "Price": 300.0,
+            "m²": 15.0,
+            "Address": "Zasulauka 28"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 350.0,
+            "m²": 49.02,
+            "Address": "Kauguru 5"
+        },
+        {
+            "Price_per_m²": 11.54,
+            "Price": 1500.0,
+            "m²": 129.98,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 7.27,
+            "Price": 400.0,
+            "m²": 55.02,
+            "Address": "Irlavas 26"
+        },
+        {
+            "Price_per_m²": 8.81,
+            "Price": 370.0,
+            "m²": 42.0,
+            "Address": "Volguntes 48"
+        },
+        {
+            "Price_per_m²": 11.0,
+            "Price": 440.0,
+            "m²": 40.0,
+            "Address": "Lielirbes 6"
+        },
+        {
+            "Price_per_m²": 14.86,
+            "Price": 1100.0,
+            "m²": 74.02,
+            "Address": "Ulmaņa g. 100"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 1600.0,
+            "m²": 179.98,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 7.62,
+            "Price": 320.0,
+            "m²": 41.99,
+            "Address": "Stendes 3"
+        },
+        {
+            "Price_per_m²": 6.15,
+            "Price": 320.0,
+            "m²": 52.03,
+            "Address": "Zasulauka 14a"
+        },
+        {
+            "Price_per_m²": 10.69,
+            "Price": 310.0,
+            "m²": 29.0,
+            "Address": "Kalnciema 29b"
+        },
+        {
+            "Price_per_m²": 8.06,
+            "Price": 750.0,
+            "m²": 93.05,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 8.04,
+            "Price": 370.0,
+            "m²": 46.02,
+            "Address": "Stendes 3"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 300.0,
+            "m²": 30.0,
+            "Address": "Stendes 1"
+        },
+        {
+            "Price_per_m²": 7.5,
+            "Price": 450.0,
+            "m²": 60.0,
+            "Address": "Kalnciema 116a"
+        },
+        {
+            "Price_per_m²": 8.06,
+            "Price": 750.0,
+            "m²": 93.05,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 9.78,
+            "Price": 900.0,
+            "m²": 92.02,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 900.0,
+            "m²": 90.0,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 420.0,
+            "m²": 42.0,
+            "Address": "Stendes 1 k6"
+        },
+        {
+            "Price_per_m²": 11.11,
+            "Price": 200.0,
+            "m²": 18.0,
+            "Address": "Stendes 8"
+        },
+        {
+            "Price_per_m²": 12.8,
+            "Price": 320.0,
+            "m²": 25.0,
+            "Address": "Volguntes 33A"
+        },
+        {
+            "Price_per_m²": 7.02,
+            "Price": 400.0,
+            "m²": 56.98,
+            "Address": "Kalnciema 116"
+        },
+        {
+            "Price_per_m²": 9.4,
+            "Price": 630.0,
+            "m²": 67.02,
+            "Address": "Zalves 45-2B"
+        },
+        {
+            "Price_per_m²": 14.84,
+            "Price": 1350.0,
+            "m²": 90.97,
+            "Address": "Ulmaņa g. 101"
+        },
+        {
+            "Price_per_m²": 19.0,
+            "Price": 380.0,
+            "m²": 20.0,
+            "Address": "Zasulauka 28"
+        },
+        {
+            "Price_per_m²": 9.15,
+            "Price": 650.0,
+            "m²": 71.04,
+            "Address": "Kalnciema 110"
+        },
+        {
+            "Price_per_m²": 9.78,
+            "Price": 900.0,
+            "m²": 92.02,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 5.56,
+            "Price": 500.0,
+            "m²": 89.93,
+            "Address": "Zalves 15"
+        },
+        {
+            "Price_per_m²": 9.44,
+            "Price": 850.0,
+            "m²": 90.04,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 9.44,
+            "Price": 850.0,
+            "m²": 90.04,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 9.44,
+            "Price": 850.0,
+            "m²": 90.04,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 12.22,
+            "Price": 1100.0,
+            "m²": 90.02,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 9.61,
+            "Price": 490.0,
+            "m²": 50.99,
+            "Address": "Kalnciema 122"
+        },
+        {
+            "Price_per_m²": 8.11,
+            "Price": 300.0,
+            "m²": 36.99,
+            "Address": "Kalnciema 101"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 200.0,
+            "m²": 20.0,
+            "Address": "Kalnciema 105"
+        },
+        {
+            "Price_per_m²": 7.75,
+            "Price": 550.0,
+            "m²": 70.97,
+            "Address": "Apuzes 30b"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 480.0,
+            "m²": 60.0,
+            "Address": "Zalves 37"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 350.0,
+            "m²": 42.02,
+            "Address": "Ventspils 65A"
+        },
+        {
+            "Price_per_m²": 6.5,
+            "Price": 260.0,
+            "m²": 40.0,
+            "Address": "Stendes 1 k-6"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 350.0,
+            "m²": 49.02,
+            "Address": "Astras 10a"
+        },
+        {
+            "Price_per_m²": 8.75,
+            "Price": 420.0,
+            "m²": 48.0,
+            "Address": "Lielirbes 6"
+        },
+        {
+            "Price_per_m²": 10.58,
+            "Price": 1100.0,
+            "m²": 103.97,
+            "Address": "Zalves 37"
+        },
+        {
+            "Price_per_m²": 6.45,
+            "Price": 400.0,
+            "m²": 62.02,
+            "Address": "Stendes 2"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 900.0,
+            "m²": 90.0,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 5.66,
+            "Price": 300.0,
+            "m²": 53.0,
+            "Address": "Stendes 2"
+        },
+        {
+            "Price_per_m²": 8.96,
+            "Price": 600.0,
+            "m²": 66.96,
+            "Address": "Lielirbes 11"
+        },
+        {
+            "Price_per_m²": 11.7,
+            "Price": 1100.0,
+            "m²": 94.02,
+            "Address": "Zalves 37"
+        },
+        {
+            "Price_per_m²": 11.11,
+            "Price": 1000.0,
+            "m²": 90.01,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 9.44,
+            "Price": 850.0,
+            "m²": 90.04,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 7.78,
+            "Price": 350.0,
+            "m²": 44.99,
+            "Address": "Kalnciema 151"
+        },
+        {
+            "Price_per_m²": 11.29,
+            "Price": 350.0,
+            "m²": 31.0,
+            "Address": "Lielirbes 6"
+        },
+        {
+            "Price_per_m²": 6.6,
+            "Price": 350.0,
+            "m²": 53.03,
+            "Address": "Kalnciema 114"
+        },
+        {
+            "Price_per_m²": 9.0,
+            "Price": 270.0,
+            "m²": 30.0,
+            "Address": "Stendes 1/3"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 350.0,
+            "m²": 49.02,
+            "Address": "Kalnciema 97"
+        },
+        {
+            "Price_per_m²": 8.75,
+            "Price": 350.0,
+            "m²": 40.0,
+            "Address": "Kalnciema 91"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 300.0,
+            "m²": 42.02,
+            "Address": "Rucavas 1A"
+        },
+        {
+            "Price_per_m²": 6.92,
+            "Price": 180.0,
+            "m²": 26.01,
+            "Address": "Kalnciema 128"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 350.0,
+            "m²": 49.02,
+            "Address": "Kalnciema 91"
+        },
+        {
+            "Price_per_m²": 5.95,
+            "Price": 250.0,
+            "m²": 42.02,
+            "Address": "Volguntes 5"
+        },
+        {
+            "Price_per_m²": 9.05,
+            "Price": 380.0,
+            "m²": 41.99,
+            "Address": "Stendes 3"
+        },
+        {
+            "Price_per_m²": 9.09,
+            "Price": 300.0,
+            "m²": 33.0,
+            "Address": "Kalnciema 110"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 400.0,
+            "m²": 64.0,
+            "Address": "Zalves 52"
+        },
+        {
+            "Price_per_m²": 9.15,
+            "Price": 650.0,
+            "m²": 71.04,
+            "Address": "Zalves 37"
+        },
+        {
+            "Price_per_m²": 7.23,
+            "Price": 470.0,
+            "m²": 65.01,
+            "Address": "Zalves 37"
+        },
+        {
+            "Price_per_m²": 9.68,
+            "Price": 300.0,
+            "m²": 30.99,
+            "Address": "Šampētera 125"
+        },
+        {
+            "Price_per_m²": 8.7,
+            "Price": 800.0,
+            "m²": 91.95,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 5.9,
+            "Price": 425.0,
+            "m²": 72.03,
+            "Address": "Kalnciema 110"
+        },
+        {
+            "Price_per_m²": 11.92,
+            "Price": 310.0,
+            "m²": 26.01,
+            "Address": "Irlavas 14"
+        },
+        {
+            "Price_per_m²": 21.67,
+            "Price": 325.0,
+            "m²": 15.0,
+            "Address": "Zasulauka 32"
+        },
+        {
+            "Price_per_m²": 13.08,
+            "Price": 1700.0,
+            "m²": 129.97,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 10.82,
+            "Price": 1006.0,
+            "m²": 92.98,
+            "Address": "Lielirbes 11"
+        },
+        {
+            "Price_per_m²": 8.67,
+            "Price": 390.0,
+            "m²": 44.98,
+            "Address": "Kalnciema 97A"
+        },
+        {
+            "Price_per_m²": 6.86,
+            "Price": 700.0,
+            "m²": 102.04,
+            "Address": "Zalves 43"
+        }
+    ],
+    "daily": [
+        {
+            "Price_per_m²": 0.833,
+            "Price": 150.0,
+            "m²": 180.07,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 1.18,
+            "Price": 80.0,
+            "m²": 67.8,
+            "Address": "Lielirbes 13"
+        }
+    ]
+}

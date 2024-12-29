@@ -1,0 +1,12 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 1125.0,
+            "Price": 45000.0,
+            "m²": 40.0,
+            "Address": "Kuldīgas 41a"
+        }
+    ],
+    "monthly": [],
+    "daily": []
+}

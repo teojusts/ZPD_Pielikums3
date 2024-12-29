@@ -1,0 +1,2047 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 1900.0,
+            "Price": 95000.0,
+            "m²": 50.0,
+            "Address": "Kaivas 50"
+        },
+        {
+            "Price_per_m²": 921.0,
+            "Price": 35000.0,
+            "m²": 38.0,
+            "Address": "Līduma 2"
+        },
+        {
+            "Price_per_m²": 2384.0,
+            "Price": 205000.0,
+            "m²": 85.99,
+            "Address": "Juglas 17"
+        },
+        {
+            "Price_per_m²": 1813.0,
+            "Price": 145000.0,
+            "m²": 79.98,
+            "Address": "Biķernieku 287"
+        },
+        {
+            "Price_per_m²": 1254.0,
+            "Price": 81480.0,
+            "m²": 64.98,
+            "Address": "Eizenšteina 45"
+        },
+        {
+            "Price_per_m²": 803.0,
+            "Price": 53000.0,
+            "m²": 66.0,
+            "Address": "Celmu 8"
+        },
+        {
+            "Price_per_m²": 1554.0,
+            "Price": 115000.0,
+            "m²": 74.0,
+            "Address": "Kaivas 50/1"
+        },
+        {
+            "Price_per_m²": 1647.0,
+            "Price": 93900.0,
+            "m²": 57.01,
+            "Address": "Hipokrāta 13"
+        },
+        {
+            "Price_per_m²": 2018.0,
+            "Price": 220000.0,
+            "m²": 109.02,
+            "Address": "Līduma 8a"
+        },
+        {
+            "Price_per_m²": 922.0,
+            "Price": 59000.0,
+            "m²": 63.99,
+            "Address": "Gaiļezera 4"
+        },
+        {
+            "Price_per_m²": 674.0,
+            "Price": 31000.0,
+            "m²": 45.99,
+            "Address": "Biķernieku 226"
+        },
+        {
+            "Price_per_m²": 2317.0,
+            "Price": 139000.0,
+            "m²": 59.99,
+            "Address": "Kaivas 31/3"
+        },
+        {
+            "Price_per_m²": 1222.0,
+            "Price": 55000.0,
+            "m²": 45.01,
+            "Address": "Biķernieku 220"
+        },
+        {
+            "Price_per_m²": 2468.0,
+            "Price": 190000.0,
+            "m²": 76.99,
+            "Address": "Biķernieku 160"
+        },
+        {
+            "Price_per_m²": 958.0,
+            "Price": 47900.0,
+            "m²": 50.0,
+            "Address": "Eizenšteina 57"
+        },
+        {
+            "Price_per_m²": 1786.0,
+            "Price": 125000.0,
+            "m²": 69.99,
+            "Address": "Kaivas 50"
+        },
+        {
+            "Price_per_m²": 2484.0,
+            "Price": 159000.0,
+            "m²": 64.01,
+            "Address": "Kaivas 11"
+        },
+        {
+            "Price_per_m²": 2478.0,
+            "Price": 158600.0,
+            "m²": 64.0,
+            "Address": "Kaivas 48a"
+        },
+        {
+            "Price_per_m²": 2266.0,
+            "Price": 120100.0,
+            "m²": 53.0,
+            "Address": "Kaivas 48A"
+        },
+        {
+            "Price_per_m²": 2017.0,
+            "Price": 117000.0,
+            "m²": 58.01,
+            "Address": "Biķernieku 160"
+        },
+        {
+            "Price_per_m²": 755.0,
+            "Price": 24900.0,
+            "m²": 32.98,
+            "Address": "Gaiļezera 4"
+        },
+        {
+            "Price_per_m²": 1250.0,
+            "Price": 40000.0,
+            "m²": 32.0,
+            "Address": "Gaiļezera 6"
+        },
+        {
+            "Price_per_m²": 1603.0,
+            "Price": 210000.0,
+            "m²": 131.0,
+            "Address": "Malienas 1k2"
+        },
+        {
+            "Price_per_m²": 887.0,
+            "Price": 55000.0,
+            "m²": 62.01,
+            "Address": "Eizenšteina 31"
+        },
+        {
+            "Price_per_m²": 2327.0,
+            "Price": 128000.0,
+            "m²": 55.01,
+            "Address": "Biķernieku 160"
+        },
+        {
+            "Price_per_m²": 1800.0,
+            "Price": 153000.0,
+            "m²": 85.0,
+            "Address": "Vecā Biķernieku 37"
+        },
+        {
+            "Price_per_m²": 959.0,
+            "Price": 71000.0,
+            "m²": 74.04,
+            "Address": "Hipokrāta 13"
+        },
+        {
+            "Price_per_m²": 965.0,
+            "Price": 59800.0,
+            "m²": 61.97,
+            "Address": "Hipokrāta 21"
+        },
+        {
+            "Price_per_m²": 2268.0,
+            "Price": 186000.0,
+            "m²": 82.01,
+            "Address": "Hipokrāta 24"
+        },
+        {
+            "Price_per_m²": 829.0,
+            "Price": 39800.0,
+            "m²": 48.01,
+            "Address": "Celmu 10"
+        },
+        {
+            "Price_per_m²": 1688.0,
+            "Price": 116500.0,
+            "m²": 69.02,
+            "Address": "Kaivas 50 k-1"
+        },
+        {
+            "Price_per_m²": 1875.0,
+            "Price": 240000.0,
+            "m²": 128.0,
+            "Address": "Kaivas 31/2"
+        },
+        {
+            "Price_per_m²": 2267.0,
+            "Price": 131500.0,
+            "m²": 58.01,
+            "Address": "Kaivas 33/4"
+        },
+        {
+            "Price_per_m²": 1750.0,
+            "Price": 70000.0,
+            "m²": 40.0,
+            "Address": "Kaivas 50"
+        },
+        {
+            "Price_per_m²": 1296.0,
+            "Price": 70000.0,
+            "m²": 54.01,
+            "Address": "Celmu 5"
+        },
+        {
+            "Price_per_m²": 2333.0,
+            "Price": 189000.0,
+            "m²": 81.01,
+            "Address": "Kaivas 33/1"
+        },
+        {
+            "Price_per_m²": 1853.0,
+            "Price": 129700.0,
+            "m²": 69.99,
+            "Address": "Kaivas 50/3"
+        },
+        {
+            "Price_per_m²": 2347.0,
+            "Price": 169000.0,
+            "m²": 72.01,
+            "Address": "Biķernieku 160/13"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 77000.0,
+            "m²": 77.0,
+            "Address": "Eizenšteina 31"
+        },
+        {
+            "Price_per_m²": 1115.0,
+            "Price": 37900.0,
+            "m²": 33.99,
+            "Address": "Hipokrāta 37"
+        },
+        {
+            "Price_per_m²": 1603.0,
+            "Price": 147500.0,
+            "m²": 92.01,
+            "Address": "Kaivas 50"
+        },
+        {
+            "Price_per_m²": 1106.0,
+            "Price": 38700.0,
+            "m²": 34.99,
+            "Address": "Palsas 1"
+        },
+        {
+            "Price_per_m²": 826.0,
+            "Price": 54500.0,
+            "m²": 65.98,
+            "Address": "Līduma 8"
+        },
+        {
+            "Price_per_m²": 1333.0,
+            "Price": 68000.0,
+            "m²": 51.01,
+            "Address": "Eizenšteina 37"
+        },
+        {
+            "Price_per_m²": 1491.0,
+            "Price": 85000.0,
+            "m²": 57.01,
+            "Address": "Hipokrāta 9"
+        },
+        {
+            "Price_per_m²": 1115.0,
+            "Price": 37900.0,
+            "m²": 33.99,
+            "Address": "Hipokrāta 37"
+        },
+        {
+            "Price_per_m²": 2018.0,
+            "Price": 220000.0,
+            "m²": 109.02,
+            "Address": "Līduma 8a"
+        },
+        {
+            "Price_per_m²": 1088.0,
+            "Price": 34800.0,
+            "m²": 31.99,
+            "Address": "Eizenšteina 73"
+        },
+        {
+            "Price_per_m²": 2240.0,
+            "Price": 129900.0,
+            "m²": 57.99,
+            "Address": "Biķernieku 160"
+        },
+        {
+            "Price_per_m²": 1121.0,
+            "Price": 69500.0,
+            "m²": 62.0,
+            "Address": "Eizenšteina 71"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 130000.0,
+            "m²": 120.04,
+            "Address": "Eizenšteina 57"
+        },
+        {
+            "Price_per_m²": 1141.0,
+            "Price": 89000.0,
+            "m²": 78.0,
+            "Address": "Gaiļezera 6"
+        },
+        {
+            "Price_per_m²": 949.0,
+            "Price": 59800.0,
+            "m²": 63.01,
+            "Address": "Gaiļezera 2"
+        },
+        {
+            "Price_per_m²": 909.0,
+            "Price": 30000.0,
+            "m²": 33.0,
+            "Address": "Eizenšteina 63"
+        },
+        {
+            "Price_per_m²": 876.0,
+            "Price": 42900.0,
+            "m²": 48.97,
+            "Address": "Mežciema 23"
+        },
+        {
+            "Price_per_m²": 1709.0,
+            "Price": 270000.0,
+            "m²": 157.99,
+            "Address": "Malienas 1k-2"
+        },
+        {
+            "Price_per_m²": 741.0,
+            "Price": 43000.0,
+            "m²": 58.03,
+            "Address": "Biķernieku 224"
+        },
+        {
+            "Price_per_m²": 992.0,
+            "Price": 63500.0,
+            "m²": 64.01,
+            "Address": "Eizenšteina 39"
+        },
+        {
+            "Price_per_m²": 987.0,
+            "Price": 75000.0,
+            "m²": 75.99,
+            "Address": "Druvienas 36"
+        },
+        {
+            "Price_per_m²": 2172.0,
+            "Price": 189000.0,
+            "m²": 87.02,
+            "Address": "Gaiļezera 9"
+        },
+        {
+            "Price_per_m²": 1258.0,
+            "Price": 78000.0,
+            "m²": 62.0,
+            "Address": "Druvienas 18"
+        },
+        {
+            "Price_per_m²": 2259.0,
+            "Price": 122000.0,
+            "m²": 54.01,
+            "Address": "Biķernieku 160/10"
+        },
+        {
+            "Price_per_m²": 552.0,
+            "Price": 16000.0,
+            "m²": 28.99,
+            "Address": "Biķernieku 266"
+        },
+        {
+            "Price_per_m²": 1733.0,
+            "Price": 175000.0,
+            "m²": 100.98,
+            "Address": "Līduma 8A"
+        },
+        {
+            "Price_per_m²": 1318.0,
+            "Price": 43500.0,
+            "m²": 33.0,
+            "Address": "Hipokrāta 45"
+        },
+        {
+            "Price_per_m²": 908.0,
+            "Price": 69000.0,
+            "m²": 75.99,
+            "Address": "Hipokrāta 17"
+        },
+        {
+            "Price_per_m²": 2224.0,
+            "Price": 149000.0,
+            "m²": 67.0,
+            "Address": "Gaiļezera 9"
+        },
+        {
+            "Price_per_m²": 2374.0,
+            "Price": 118700.0,
+            "m²": 50.0,
+            "Address": "Juglas 45"
+        },
+        {
+            "Price_per_m²": 1141.0,
+            "Price": 71900.0,
+            "m²": 63.01,
+            "Address": "Malienas 1"
+        },
+        {
+            "Price_per_m²": 1220.0,
+            "Price": 61000.0,
+            "m²": 50.0,
+            "Address": "Hipokrāta 23"
+        },
+        {
+            "Price_per_m²": 743.0,
+            "Price": 46800.0,
+            "m²": 62.99,
+            "Address": "Eizenšteina 71"
+        },
+        {
+            "Price_per_m²": 1607.0,
+            "Price": 90000.0,
+            "m²": 56.0,
+            "Address": "Kaivas 50/5"
+        },
+        {
+            "Price_per_m²": 1082.0,
+            "Price": 72500.0,
+            "m²": 67.01,
+            "Address": "Hipokrāta 13"
+        },
+        {
+            "Price_per_m²": 1944.0,
+            "Price": 105000.0,
+            "m²": 54.01,
+            "Address": "Kaivas 50/3"
+        },
+        {
+            "Price_per_m²": 1056.0,
+            "Price": 95000.0,
+            "m²": 89.96,
+            "Address": "Hipokrāta 19"
+        },
+        {
+            "Price_per_m²": 2017.0,
+            "Price": 121000.0,
+            "m²": 59.99,
+            "Address": "Kaivas 50"
+        },
+        {
+            "Price_per_m²": 2270.0,
+            "Price": 143000.0,
+            "m²": 63.0,
+            "Address": "Juglas 101"
+        },
+        {
+            "Price_per_m²": 1771.0,
+            "Price": 109800.0,
+            "m²": 62.0,
+            "Address": "Kaivas 50"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 51000.0,
+            "m²": 51.0,
+            "Address": "Malienas 1"
+        },
+        {
+            "Price_per_m²": 2300.0,
+            "Price": 207000.0,
+            "m²": 90.0,
+            "Address": "Kaivas 29/2"
+        },
+        {
+            "Price_per_m²": 815.0,
+            "Price": 50500.0,
+            "m²": 61.96,
+            "Address": "Eizenšteina 33"
+        },
+        {
+            "Price_per_m²": 1208.0,
+            "Price": 145000.0,
+            "m²": 120.03,
+            "Address": "Mežciema 57"
+        },
+        {
+            "Price_per_m²": 841.0,
+            "Price": 37000.0,
+            "m²": 44.0,
+            "Address": "Celmu 10"
+        },
+        {
+            "Price_per_m²": 1167.0,
+            "Price": 35000.0,
+            "m²": 29.99,
+            "Address": "Eizenšteina 13"
+        },
+        {
+            "Price_per_m²": 841.0,
+            "Price": 53000.0,
+            "m²": 63.02,
+            "Address": "Gaiļezera 2"
+        },
+        {
+            "Price_per_m²": 1922.0,
+            "Price": 124900.0,
+            "m²": 64.98,
+            "Address": "Eizenšteina 23"
+        },
+        {
+            "Price_per_m²": 1079.0,
+            "Price": 68000.0,
+            "m²": 63.02,
+            "Address": "Malienas 1"
+        },
+        {
+            "Price_per_m²": 904.0,
+            "Price": 42500.0,
+            "m²": 47.01,
+            "Address": "Eizenšteina 79"
+        },
+        {
+            "Price_per_m²": 775.0,
+            "Price": 48800.0,
+            "m²": 62.97,
+            "Address": "Eizenšteina 71"
+        },
+        {
+            "Price_per_m²": 841.0,
+            "Price": 55500.0,
+            "m²": 65.99,
+            "Address": "Līduma 8"
+        },
+        {
+            "Price_per_m²": 1325.0,
+            "Price": 83500.0,
+            "m²": 63.02,
+            "Address": "Druvienas 36"
+        },
+        {
+            "Price_per_m²": 1149.0,
+            "Price": 58600.0,
+            "m²": 51.0,
+            "Address": "Eizenšteina 45"
+        },
+        {
+            "Price_per_m²": 1772.0,
+            "Price": 140000.0,
+            "m²": 79.01,
+            "Address": "Kaivas 50"
+        },
+        {
+            "Price_per_m²": 833.0,
+            "Price": 32500.0,
+            "m²": 39.02,
+            "Address": "Līduma 2"
+        },
+        {
+            "Price_per_m²": 1366.0,
+            "Price": 235000.0,
+            "m²": 172.04,
+            "Address": "Vecā Biķernieku 41"
+        },
+        {
+            "Price_per_m²": 1246.0,
+            "Price": 78500.0,
+            "m²": 63.0,
+            "Address": "Gaiļezera 4"
+        },
+        {
+            "Price_per_m²": 1121.0,
+            "Price": 37000.0,
+            "m²": 33.01,
+            "Address": "Druvienas 18"
+        },
+        {
+            "Price_per_m²": 1815.0,
+            "Price": 98000.0,
+            "m²": 53.99,
+            "Address": "Kaivas 50/3"
+        },
+        {
+            "Price_per_m²": 1604.0,
+            "Price": 85000.0,
+            "m²": 52.99,
+            "Address": "Kaivas 50k3"
+        },
+        {
+            "Price_per_m²": 829.0,
+            "Price": 58000.0,
+            "m²": 69.96,
+            "Address": "Biķernieku 226"
+        },
+        {
+            "Price_per_m²": 944.0,
+            "Price": 67000.0,
+            "m²": 70.97,
+            "Address": "Hipokrāta 11"
+        },
+        {
+            "Price_per_m²": 905.0,
+            "Price": 67000.0,
+            "m²": 74.03,
+            "Address": "Hipokrāta 11"
+        },
+        {
+            "Price_per_m²": 1037.0,
+            "Price": 56000.0,
+            "m²": 54.0,
+            "Address": "Gaiļezera 4"
+        },
+        {
+            "Price_per_m²": 1031.0,
+            "Price": 33000.0,
+            "m²": 32.01,
+            "Address": "Eizenšteina 63"
+        },
+        {
+            "Price_per_m²": 1944.0,
+            "Price": 175000.0,
+            "m²": 90.02,
+            "Address": "Kaivas 50/1"
+        },
+        {
+            "Price_per_m²": 1053.0,
+            "Price": 80000.0,
+            "m²": 75.97,
+            "Address": "Druvienas 36"
+        },
+        {
+            "Price_per_m²": 982.0,
+            "Price": 69700.0,
+            "m²": 70.98,
+            "Address": "Hipokrāta 13"
+        },
+        {
+            "Price_per_m²": 957.0,
+            "Price": 45000.0,
+            "m²": 47.02,
+            "Address": "Eizenšteina 79"
+        },
+        {
+            "Price_per_m²": 1840.0,
+            "Price": 92000.0,
+            "m²": 50.0,
+            "Address": "Kaivas 50"
+        },
+        {
+            "Price_per_m²": 1830.0,
+            "Price": 161000.0,
+            "m²": 87.98,
+            "Address": "Biķernieku 160"
+        },
+        {
+            "Price_per_m²": 825.0,
+            "Price": 52000.0,
+            "m²": 63.03,
+            "Address": "Eizenšteina 71"
+        },
+        {
+            "Price_per_m²": 2375.0,
+            "Price": 133000.0,
+            "m²": 56.0,
+            "Address": "Kaivas 31/5"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 95000.0,
+            "m²": 95.0,
+            "Address": "Hipokrāta 19-1"
+        },
+        {
+            "Price_per_m²": 902.0,
+            "Price": 55000.0,
+            "m²": 60.98,
+            "Address": "Druvienas 21"
+        },
+        {
+            "Price_per_m²": 1031.0,
+            "Price": 33000.0,
+            "m²": 32.01,
+            "Address": "Eizenšteina 57"
+        },
+        {
+            "Price_per_m²": 1169.0,
+            "Price": 86500.0,
+            "m²": 73.99,
+            "Address": "Mežciema 23/1"
+        },
+        {
+            "Price_per_m²": 2411.0,
+            "Price": 135000.0,
+            "m²": 55.99,
+            "Address": "Kaivas 50-1"
+        },
+        {
+            "Price_per_m²": 1743.0,
+            "Price": 129000.0,
+            "m²": 74.01,
+            "Address": "Kaivas 50/K-1"
+        },
+        {
+            "Price_per_m²": 1048.0,
+            "Price": 65000.0,
+            "m²": 62.02,
+            "Address": "Hipokrāta 19"
+        },
+        {
+            "Price_per_m²": 2143.0,
+            "Price": 150000.0,
+            "m²": 70.0,
+            "Address": "Biķernieku 160"
+        },
+        {
+            "Price_per_m²": 917.0,
+            "Price": 57750.0,
+            "m²": 62.98,
+            "Address": "Eizenšteina 65"
+        },
+        {
+            "Price_per_m²": 863.0,
+            "Price": 53500.0,
+            "m²": 61.99,
+            "Address": "Eizenšteina 71"
+        },
+        {
+            "Price_per_m²": 736.0,
+            "Price": 55900.0,
+            "m²": 75.95,
+            "Address": "Hipokrāta 21"
+        },
+        {
+            "Price_per_m²": 1735.0,
+            "Price": 85000.0,
+            "m²": 48.99,
+            "Address": "Kaivas 50/1"
+        },
+        {
+            "Price_per_m²": 553.0,
+            "Price": 21000.0,
+            "m²": 37.97,
+            "Address": "Biķernieku 250"
+        },
+        {
+            "Price_per_m²": 897.0,
+            "Price": 56500.0,
+            "m²": 62.99,
+            "Address": "Eizenšteina 71"
+        },
+        {
+            "Price_per_m²": 1792.0,
+            "Price": 189900.0,
+            "m²": 105.97,
+            "Address": "Kaivas 29/4"
+        },
+        {
+            "Price_per_m²": 960.0,
+            "Price": 48000.0,
+            "m²": 50.0,
+            "Address": "Gaiļezera 4"
+        },
+        {
+            "Price_per_m²": 1795.0,
+            "Price": 210000.0,
+            "m²": 116.99,
+            "Address": "Vecā Biķernieku 37"
+        },
+        {
+            "Price_per_m²": 1960.0,
+            "Price": 98000.0,
+            "m²": 50.0,
+            "Address": "Kaivas 50/3"
+        },
+        {
+            "Price_per_m²": 1913.0,
+            "Price": 244900.0,
+            "m²": 128.02,
+            "Address": "Kaivas 31/2"
+        },
+        {
+            "Price_per_m²": 938.0,
+            "Price": 75000.0,
+            "m²": 79.96,
+            "Address": "Eizenšteina 55"
+        },
+        {
+            "Price_per_m²": 1088.0,
+            "Price": 87000.0,
+            "m²": 79.96,
+            "Address": "Eizenšteina 77"
+        },
+        {
+            "Price_per_m²": 682.0,
+            "Price": 30000.0,
+            "m²": 43.99,
+            "Address": "Biķernieku 258"
+        },
+        {
+            "Price_per_m²": 1094.0,
+            "Price": 35000.0,
+            "m²": 31.99,
+            "Address": "Eizenšteina 61"
+        },
+        {
+            "Price_per_m²": 1826.0,
+            "Price": 155200.0,
+            "m²": 84.99,
+            "Address": "Vecā Biķernieku 37"
+        },
+        {
+            "Price_per_m²": 1020.0,
+            "Price": 51000.0,
+            "m²": 50.0,
+            "Address": "Gaiļezera 4"
+        },
+        {
+            "Price_per_m²": 889.0,
+            "Price": 56000.0,
+            "m²": 62.99,
+            "Address": "Hipokrāta 35"
+        },
+        {
+            "Price_per_m²": 740.0,
+            "Price": 37001.0,
+            "m²": 50.0,
+            "Address": "Celmu 10"
+        },
+        {
+            "Price_per_m²": 1194.0,
+            "Price": 74000.0,
+            "m²": 61.98,
+            "Address": "Eizenšteina 61"
+        },
+        {
+            "Price_per_m²": 1043.0,
+            "Price": 72000.0,
+            "m²": 69.03,
+            "Address": "Hipokrāta 9"
+        },
+        {
+            "Price_per_m²": 1125.0,
+            "Price": 88900.0,
+            "m²": 79.02,
+            "Address": "Eizenšteina 61"
+        },
+        {
+            "Price_per_m²": 1952.0,
+            "Price": 249900.0,
+            "m²": 128.02,
+            "Address": "Kaivas 31/2"
+        },
+        {
+            "Price_per_m²": 1031.0,
+            "Price": 66000.0,
+            "m²": 64.02,
+            "Address": "Gaiļezera 4"
+        },
+        {
+            "Price_per_m²": 1094.0,
+            "Price": 35000.0,
+            "m²": 31.99,
+            "Address": "Eizenšteina 37"
+        },
+        {
+            "Price_per_m²": 1050.0,
+            "Price": 84000.0,
+            "m²": 80.0,
+            "Address": "Eizenšteina 63"
+        },
+        {
+            "Price_per_m²": 1975.0,
+            "Price": 160000.0,
+            "m²": 81.01,
+            "Address": "Kaivas 29/1"
+        },
+        {
+            "Price_per_m²": 1181.0,
+            "Price": 42500.0,
+            "m²": 35.99,
+            "Address": "Palsas 1"
+        },
+        {
+            "Price_per_m²": 1181.0,
+            "Price": 42500.0,
+            "m²": 35.99,
+            "Address": "Palsas 1"
+        },
+        {
+            "Price_per_m²": 1870.0,
+            "Price": 129000.0,
+            "m²": 68.98,
+            "Address": "Kaivas 50 k-2"
+        },
+        {
+            "Price_per_m²": 1165.0,
+            "Price": 89700.0,
+            "m²": 77.0,
+            "Address": "Eizenšteina 45"
+        },
+        {
+            "Price_per_m²": 1080.0,
+            "Price": 54000.0,
+            "m²": 50.0,
+            "Address": "Hipokrāta 17"
+        },
+        {
+            "Price_per_m²": 1731.0,
+            "Price": 90000.0,
+            "m²": 51.99,
+            "Address": "Kaivas 50/4"
+        },
+        {
+            "Price_per_m²": 1094.0,
+            "Price": 35000.0,
+            "m²": 31.99,
+            "Address": "Eizenšteina 77"
+        },
+        {
+            "Price_per_m²": 1065.0,
+            "Price": 82000.0,
+            "m²": 77.0,
+            "Address": "Eizenšteina 41"
+        },
+        {
+            "Price_per_m²": 1188.0,
+            "Price": 38000.0,
+            "m²": 31.99,
+            "Address": "Druvienas 36"
+        },
+        {
+            "Price_per_m²": 1989.0,
+            "Price": 175000.0,
+            "m²": 87.98,
+            "Address": "Biķernieku 160"
+        },
+        {
+            "Price_per_m²": 1267.0,
+            "Price": 38000.0,
+            "m²": 29.99,
+            "Address": "Hipokrāta 35"
+        },
+        {
+            "Price_per_m²": 943.0,
+            "Price": 33000.0,
+            "m²": 34.99,
+            "Address": "Biķernieku 220"
+        },
+        {
+            "Price_per_m²": 889.0,
+            "Price": 24000.0,
+            "m²": 27.0,
+            "Address": "Biķernieku 258"
+        },
+        {
+            "Price_per_m²": 1900.0,
+            "Price": 95000.0,
+            "m²": 50.0,
+            "Address": "Kaivas 50"
+        },
+        {
+            "Price_per_m²": 921.0,
+            "Price": 35000.0,
+            "m²": 38.0,
+            "Address": "Līduma 2"
+        },
+        {
+            "Price_per_m²": 2384.0,
+            "Price": 205000.0,
+            "m²": 85.99,
+            "Address": "Juglas 17"
+        },
+        {
+            "Price_per_m²": 1813.0,
+            "Price": 145000.0,
+            "m²": 79.98,
+            "Address": "Biķernieku 287"
+        },
+        {
+            "Price_per_m²": 1254.0,
+            "Price": 81480.0,
+            "m²": 64.98,
+            "Address": "Eizenšteina 45"
+        },
+        {
+            "Price_per_m²": 803.0,
+            "Price": 53000.0,
+            "m²": 66.0,
+            "Address": "Celmu 8"
+        },
+        {
+            "Price_per_m²": 1554.0,
+            "Price": 115000.0,
+            "m²": 74.0,
+            "Address": "Kaivas 50/1"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 7.42,
+            "Price": 230.0,
+            "m²": 31.0,
+            "Address": "Hipokrāta 19"
+        },
+        {
+            "Price_per_m²": 5.0,
+            "Price": 260.0,
+            "m²": 52.0,
+            "Address": "Eizenšteina 28"
+        },
+        {
+            "Price_per_m²": 8.13,
+            "Price": 780.0,
+            "m²": 95.94,
+            "Address": "Kaivas 29/3"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 350.0,
+            "m²": 49.02,
+            "Address": "Celmu 10"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 360.0,
+            "m²": 45.0,
+            "Address": "Kaivas 50"
+        },
+        {
+            "Price_per_m²": 10.31,
+            "Price": 330.0,
+            "m²": 32.01,
+            "Address": "Kaivas 50/1"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 220.0,
+            "m²": 32.98,
+            "Address": "Eizenšteina 37"
+        },
+        {
+            "Price_per_m²": 5.0,
+            "Price": 350.0,
+            "m²": 70.0,
+            "Address": "Hipokrāta 13"
+        },
+        {
+            "Price_per_m²": 6.6,
+            "Price": 330.0,
+            "m²": 50.0,
+            "Address": "Eizenšteina 35"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 200.0,
+            "m²": 32.0,
+            "Address": "Malienas 21"
+        },
+        {
+            "Price_per_m²": 5.56,
+            "Price": 400.0,
+            "m²": 71.94,
+            "Address": "Hipokrāta 11"
+        },
+        {
+            "Price_per_m²": 7.58,
+            "Price": 250.0,
+            "m²": 32.98,
+            "Address": "Eizenšteina 41"
+        },
+        {
+            "Price_per_m²": 12.75,
+            "Price": 650.0,
+            "m²": 50.98,
+            "Address": "Biķernieku 222"
+        },
+        {
+            "Price_per_m²": 6.73,
+            "Price": 350.0,
+            "m²": 52.01,
+            "Address": "Eizenšteina 39"
+        },
+        {
+            "Price_per_m²": 4.85,
+            "Price": 320.0,
+            "m²": 65.98,
+            "Address": "Līduma 2"
+        },
+        {
+            "Price_per_m²": 15.28,
+            "Price": 550.0,
+            "m²": 35.99,
+            "Address": "Hipokrāta 24"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 450.0,
+            "m²": 54.02,
+            "Address": "Biķernieku 216"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 450.0,
+            "m²": 72.0,
+            "Address": "Hipokrāta 11"
+        },
+        {
+            "Price_per_m²": 9.66,
+            "Price": 850.0,
+            "m²": 87.99,
+            "Address": "Gaiļezera 15"
+        },
+        {
+            "Price_per_m²": 9.66,
+            "Price": 280.0,
+            "m²": 28.99,
+            "Address": "Biķernieku 248"
+        },
+        {
+            "Price_per_m²": 5.59,
+            "Price": 190.0,
+            "m²": 33.99,
+            "Address": "Biķernieku 218"
+        },
+        {
+            "Price_per_m²": 5.27,
+            "Price": 290.0,
+            "m²": 55.03,
+            "Address": "Eizenšteina 55"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 700.0,
+            "m²": 70.0,
+            "Address": "Kaivas 50"
+        },
+        {
+            "Price_per_m²": 5.0,
+            "Price": 350.0,
+            "m²": 70.0,
+            "Address": "Mežciema 23"
+        },
+        {
+            "Price_per_m²": 9.11,
+            "Price": 410.0,
+            "m²": 45.01,
+            "Address": "Kaivas 50/2"
+        },
+        {
+            "Price_per_m²": 8.52,
+            "Price": 750.0,
+            "m²": 88.03,
+            "Address": "Gaiļezera 15"
+        },
+        {
+            "Price_per_m²": 5.11,
+            "Price": 230.0,
+            "m²": 45.01,
+            "Address": "Biķernieku 226"
+        },
+        {
+            "Price_per_m²": 8.38,
+            "Price": 570.0,
+            "m²": 68.02,
+            "Address": "Kaivas 29"
+        },
+        {
+            "Price_per_m²": 6.97,
+            "Price": 230.0,
+            "m²": 33.0,
+            "Address": "Eizenšteina 69"
+        },
+        {
+            "Price_per_m²": 9.25,
+            "Price": 370.0,
+            "m²": 40.0,
+            "Address": "Kaivas 50"
+        },
+        {
+            "Price_per_m²": 6.84,
+            "Price": 260.0,
+            "m²": 38.01,
+            "Address": "Biķernieku 228"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 150.0,
+            "m²": 21.01,
+            "Address": "Hipokrāta 23"
+        },
+        {
+            "Price_per_m²": 8.67,
+            "Price": 520.0,
+            "m²": 59.98,
+            "Address": "Vecā Biķernieku 33"
+        },
+        {
+            "Price_per_m²": 9.81,
+            "Price": 520.0,
+            "m²": 53.01,
+            "Address": "Vecā Biķernieku 33"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 500.0,
+            "m²": 70.03,
+            "Address": "Kaivas 50/5"
+        },
+        {
+            "Price_per_m²": 5.6,
+            "Price": 280.0,
+            "m²": 50.0,
+            "Address": "Biķernieku 232"
+        },
+        {
+            "Price_per_m²": 6.45,
+            "Price": 200.0,
+            "m²": 31.01,
+            "Address": "Druvienas 36"
+        },
+        {
+            "Price_per_m²": 8.24,
+            "Price": 280.0,
+            "m²": 33.98,
+            "Address": "Eizenšteina 65"
+        },
+        {
+            "Price_per_m²": 5.88,
+            "Price": 300.0,
+            "m²": 51.02,
+            "Address": "Gaiļezera 4"
+        },
+        {
+            "Price_per_m²": 3.46,
+            "Price": 180.0,
+            "m²": 52.02,
+            "Address": "Hipokrāta 45"
+        },
+        {
+            "Price_per_m²": 9.0,
+            "Price": 450.0,
+            "m²": 50.0,
+            "Address": "Biķernieku 102"
+        },
+        {
+            "Price_per_m²": 11.88,
+            "Price": 380.0,
+            "m²": 31.99,
+            "Address": "Eizenšteina 65"
+        },
+        {
+            "Price_per_m²": 6.17,
+            "Price": 370.0,
+            "m²": 59.97,
+            "Address": "Eizenšteina 79"
+        },
+        {
+            "Price_per_m²": 7.81,
+            "Price": 250.0,
+            "m²": 32.01,
+            "Address": "Eizenšteina 39"
+        },
+        {
+            "Price_per_m²": 6.58,
+            "Price": 250.0,
+            "m²": 37.99,
+            "Address": "Līduma 8"
+        },
+        {
+            "Price_per_m²": 5.83,
+            "Price": 350.0,
+            "m²": 60.03,
+            "Address": "Hipokrāta 9"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Eizenšteina 79"
+        },
+        {
+            "Price_per_m²": 4.03,
+            "Price": 250.0,
+            "m²": 62.03,
+            "Address": "Hipokrāta 19"
+        },
+        {
+            "Price_per_m²": 5.29,
+            "Price": 180.0,
+            "m²": 34.03,
+            "Address": "Biķernieku 218"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 220.0,
+            "m²": 32.98,
+            "Address": "Eizenšteina 45"
+        },
+        {
+            "Price_per_m²": 11.43,
+            "Price": 400.0,
+            "m²": 35.0,
+            "Address": "Kaivas 46"
+        },
+        {
+            "Price_per_m²": 11.67,
+            "Price": 350.0,
+            "m²": 29.99,
+            "Address": "Eizenšteina 17"
+        },
+        {
+            "Price_per_m²": 5.17,
+            "Price": 150.0,
+            "m²": 29.01,
+            "Address": "Biķernieku 266"
+        },
+        {
+            "Price_per_m²": 11.76,
+            "Price": 400.0,
+            "m²": 34.01,
+            "Address": "Kaivas 50"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Eizenšteina 65"
+        },
+        {
+            "Price_per_m²": 6.72,
+            "Price": 363.0,
+            "m²": 54.02,
+            "Address": "Malienas 3"
+        },
+        {
+            "Price_per_m²": 2.63,
+            "Price": 200.0,
+            "m²": 76.05,
+            "Address": "Hipokrāta 17"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 400.0,
+            "m²": 59.97,
+            "Address": "Celmu 10"
+        },
+        {
+            "Price_per_m²": 7.24,
+            "Price": 210.0,
+            "m²": 29.01,
+            "Address": "Biķernieku 262"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Gaiļezera 102"
+        },
+        {
+            "Price_per_m²": 6.62,
+            "Price": 860.0,
+            "m²": 129.91,
+            "Address": "Vecā Biķernieku 29"
+        },
+        {
+            "Price_per_m²": 7.5,
+            "Price": 450.0,
+            "m²": 60.0,
+            "Address": "Vecā Biķernieku 13"
+        },
+        {
+            "Price_per_m²": 9.65,
+            "Price": 550.0,
+            "m²": 56.99,
+            "Address": "Kaivas 50/k4"
+        },
+        {
+            "Price_per_m²": 13.75,
+            "Price": 550.0,
+            "m²": 40.0,
+            "Address": "Hipokrāta 24"
+        },
+        {
+            "Price_per_m²": 14.81,
+            "Price": 400.0,
+            "m²": 27.01,
+            "Address": "Eizenšteina 17"
+        },
+        {
+            "Price_per_m²": 6.92,
+            "Price": 270.0,
+            "m²": 39.02,
+            "Address": "Malienas 15"
+        },
+        {
+            "Price_per_m²": 8.43,
+            "Price": 590.0,
+            "m²": 69.99,
+            "Address": "Kaivas 50/3"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 400.0,
+            "m²": 48.02,
+            "Address": "Kaivas 50"
+        },
+        {
+            "Price_per_m²": 16.54,
+            "Price": 215.0,
+            "m²": 13.0,
+            "Address": "Biķernieku 250"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 500.0,
+            "m²": 60.02,
+            "Address": "Kaivas 50 k1"
+        },
+        {
+            "Price_per_m²": 5.4,
+            "Price": 270.0,
+            "m²": 50.0,
+            "Address": "Druvienas 36"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 240.0,
+            "m²": 27.0,
+            "Address": "Celmu 10"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 250.0,
+            "m²": 30.01,
+            "Address": "Eizenšteina 13"
+        },
+        {
+            "Price_per_m²": 10.77,
+            "Price": 700.0,
+            "m²": 65.0,
+            "Address": "Gaiļezera 13"
+        },
+        {
+            "Price_per_m²": 6.43,
+            "Price": 450.0,
+            "m²": 69.98,
+            "Address": "Mežciema 23/1"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 350.0,
+            "m²": 50.0,
+            "Address": "Eizenšteina 79"
+        },
+        {
+            "Price_per_m²": 12.97,
+            "Price": 480.0,
+            "m²": 37.01,
+            "Address": "Kaivas 50"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 250.0,
+            "m²": 35.01,
+            "Address": "Hipokrāta 19"
+        },
+        {
+            "Price_per_m²": 7.2,
+            "Price": 180.0,
+            "m²": 25.0,
+            "Address": "Biķernieku 226"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 220.0,
+            "m²": 32.98,
+            "Address": "Biķernieku 228"
+        },
+        {
+            "Price_per_m²": 8.13,
+            "Price": 780.0,
+            "m²": 95.94,
+            "Address": "Kaivas 29/3"
+        },
+        {
+            "Price_per_m²": 10.61,
+            "Price": 350.0,
+            "m²": 32.99,
+            "Address": "Kaivas 50k-4"
+        },
+        {
+            "Price_per_m²": 7.5,
+            "Price": 240.0,
+            "m²": 32.0,
+            "Address": "Hipokrāta 47"
+        },
+        {
+            "Price_per_m²": 5.18,
+            "Price": 145.0,
+            "m²": 27.99,
+            "Address": "Biķernieku 262"
+        },
+        {
+            "Price_per_m²": 8.29,
+            "Price": 580.0,
+            "m²": 69.96,
+            "Address": "Kaivas 50k2"
+        },
+        {
+            "Price_per_m²": 8.24,
+            "Price": 700.0,
+            "m²": 84.95,
+            "Address": "Vecā Biķernieku 11"
+        },
+        {
+            "Price_per_m²": 10.48,
+            "Price": 650.0,
+            "m²": 62.02,
+            "Address": "Kaivas 50"
+        },
+        {
+            "Price_per_m²": 11.46,
+            "Price": 550.0,
+            "m²": 47.99,
+            "Address": "Juglas 101"
+        },
+        {
+            "Price_per_m²": 9.69,
+            "Price": 475.0,
+            "m²": 49.02,
+            "Address": "Kaivas 50"
+        },
+        {
+            "Price_per_m²": 11.97,
+            "Price": 790.0,
+            "m²": 66.0,
+            "Address": "Gaiļezera 7"
+        },
+        {
+            "Price_per_m²": 5.56,
+            "Price": 350.0,
+            "m²": 62.95,
+            "Address": "Eizenšteina 75"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 500.0,
+            "m²": 49.02,
+            "Address": "Kaivas 50-4"
+        },
+        {
+            "Price_per_m²": 9.22,
+            "Price": 295.0,
+            "m²": 32.0,
+            "Address": "Kaivas 50"
+        },
+        {
+            "Price_per_m²": 5.87,
+            "Price": 370.0,
+            "m²": 63.03,
+            "Address": "Druvienas 11"
+        },
+        {
+            "Price_per_m²": 8.85,
+            "Price": 850.0,
+            "m²": 96.05,
+            "Address": "Kaivas 29"
+        },
+        {
+            "Price_per_m²": 4.48,
+            "Price": 300.0,
+            "m²": 66.96,
+            "Address": "Druvienas 18"
+        },
+        {
+            "Price_per_m²": 7.86,
+            "Price": 550.0,
+            "m²": 69.97,
+            "Address": "Kaivas 50/4"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 350.0,
+            "m²": 50.0,
+            "Address": "Mežciema 6"
+        },
+        {
+            "Price_per_m²": 6.79,
+            "Price": 380.0,
+            "m²": 55.96,
+            "Address": "Druvienas 32"
+        },
+        {
+            "Price_per_m²": 6.86,
+            "Price": 350.0,
+            "m²": 51.02,
+            "Address": "Druvienas 36"
+        },
+        {
+            "Price_per_m²": 6.03,
+            "Price": 380.0,
+            "m²": 63.02,
+            "Address": "Eizenšteina 77"
+        },
+        {
+            "Price_per_m²": 5.92,
+            "Price": 450.0,
+            "m²": 76.01,
+            "Address": "Hipokrāta 35"
+        },
+        {
+            "Price_per_m²": 10.31,
+            "Price": 330.0,
+            "m²": 32.01,
+            "Address": "Kaivas 5"
+        },
+        {
+            "Price_per_m²": 6.53,
+            "Price": 320.0,
+            "m²": 49.0,
+            "Address": "Hipokrāta 13"
+        },
+        {
+            "Price_per_m²": 9.41,
+            "Price": 480.0,
+            "m²": 51.01,
+            "Address": "Kaivas 50"
+        },
+        {
+            "Price_per_m²": 10.25,
+            "Price": 820.0,
+            "m²": 80.0,
+            "Address": "Kaivas 31k2"
+        },
+        {
+            "Price_per_m²": 5.77,
+            "Price": 450.0,
+            "m²": 77.99,
+            "Address": "Eizenšteina 55"
+        },
+        {
+            "Price_per_m²": 8.21,
+            "Price": 320.0,
+            "m²": 38.98,
+            "Address": "Līduma 8"
+        },
+        {
+            "Price_per_m²": 7.45,
+            "Price": 380.0,
+            "m²": 51.01,
+            "Address": "Eizenšteina 55"
+        },
+        {
+            "Price_per_m²": 3.95,
+            "Price": 300.0,
+            "m²": 75.95,
+            "Address": "Eizenšteina 57"
+        },
+        {
+            "Price_per_m²": 7.42,
+            "Price": 230.0,
+            "m²": 31.0,
+            "Address": "Hipokrāta 19"
+        },
+        {
+            "Price_per_m²": 2.33,
+            "Price": 140.0,
+            "m²": 60.09,
+            "Address": "Eizenšteina 42"
+        },
+        {
+            "Price_per_m²": 4.68,
+            "Price": 290.0,
+            "m²": 61.97,
+            "Address": "Eizenšteina 57"
+        },
+        {
+            "Price_per_m²": 5.38,
+            "Price": 350.0,
+            "m²": 65.06,
+            "Address": "Druvienas 34"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 450.0,
+            "m²": 54.02,
+            "Address": "Malienas 31"
+        },
+        {
+            "Price_per_m²": 10.83,
+            "Price": 650.0,
+            "m²": 60.02,
+            "Address": "Kaivas 29"
+        },
+        {
+            "Price_per_m²": 9.35,
+            "Price": 290.0,
+            "m²": 31.02,
+            "Address": "Eizenšteina 45"
+        },
+        {
+            "Price_per_m²": 9.38,
+            "Price": 300.0,
+            "m²": 31.98,
+            "Address": "Druvienas 36"
+        },
+        {
+            "Price_per_m²": 9.06,
+            "Price": 290.0,
+            "m²": 32.01,
+            "Address": "Gaiļezera 4"
+        },
+        {
+            "Price_per_m²": 5.0,
+            "Price": 250.0,
+            "m²": 50.0,
+            "Address": "Biķernieku 224"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 400.0,
+            "m²": 50.0,
+            "Address": "Eizenšteina 15"
+        },
+        {
+            "Price_per_m²": 7.2,
+            "Price": 360.0,
+            "m²": 50.0,
+            "Address": "Mežciema 11"
+        },
+        {
+            "Price_per_m²": 5.21,
+            "Price": 250.0,
+            "m²": 47.98,
+            "Address": "Biķernieku 102"
+        },
+        {
+            "Price_per_m²": 9.69,
+            "Price": 310.0,
+            "m²": 31.99,
+            "Address": "Kaivas 50K-4"
+        },
+        {
+            "Price_per_m²": 7.6,
+            "Price": 380.0,
+            "m²": 50.0,
+            "Address": "Eizenšteina 79"
+        },
+        {
+            "Price_per_m²": 3.86,
+            "Price": 170.0,
+            "m²": 44.04,
+            "Address": "Biķernieku 258"
+        },
+        {
+            "Price_per_m²": 4.87,
+            "Price": 190.0,
+            "m²": 39.01,
+            "Address": "Malienas 19"
+        },
+        {
+            "Price_per_m²": 7.47,
+            "Price": 650.0,
+            "m²": 87.01,
+            "Address": "Biķernieku 160 k-1.."
+        },
+        {
+            "Price_per_m²": 8.21,
+            "Price": 230.0,
+            "m²": 28.01,
+            "Address": "Druvienas 21"
+        },
+        {
+            "Price_per_m²": 7.74,
+            "Price": 650.0,
+            "m²": 83.98,
+            "Address": "Vecā Biķernieku 19"
+        },
+        {
+            "Price_per_m²": 11.82,
+            "Price": 650.0,
+            "m²": 54.99,
+            "Address": "Kaivas 29"
+        },
+        {
+            "Price_per_m²": 10.29,
+            "Price": 350.0,
+            "m²": 34.01,
+            "Address": "Kaivas 50/4"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 850.0,
+            "m²": 85.0,
+            "Address": "Kaivas 33"
+        },
+        {
+            "Price_per_m²": 9.69,
+            "Price": 310.0,
+            "m²": 31.99,
+            "Address": "Gaiļezera 4"
+        },
+        {
+            "Price_per_m²": 9.72,
+            "Price": 700.0,
+            "m²": 72.02,
+            "Address": "Kaivas 33"
+        },
+        {
+            "Price_per_m²": 11.5,
+            "Price": 460.0,
+            "m²": 40.0,
+            "Address": "Kaivas 50"
+        },
+        {
+            "Price_per_m²": 5.2,
+            "Price": 260.0,
+            "m²": 50.0,
+            "Address": "Malienas 1"
+        },
+        {
+            "Price_per_m²": 10.83,
+            "Price": 650.0,
+            "m²": 60.02,
+            "Address": "Kaivas 29"
+        },
+        {
+            "Price_per_m²": 11.43,
+            "Price": 400.0,
+            "m²": 35.0,
+            "Address": "Kaivas 50"
+        },
+        {
+            "Price_per_m²": 8.65,
+            "Price": 450.0,
+            "m²": 52.02,
+            "Address": "Kaivas 50/4"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 480.0,
+            "m²": 80.0,
+            "Address": "Eizenšteina 37"
+        },
+        {
+            "Price_per_m²": 18.57,
+            "Price": 650.0,
+            "m²": 35.0,
+            "Address": "Hipokrāta 20"
+        },
+        {
+            "Price_per_m²": 9.26,
+            "Price": 500.0,
+            "m²": 54.0,
+            "Address": "Malienas 31"
+        },
+        {
+            "Price_per_m²": 9.33,
+            "Price": 280.0,
+            "m²": 30.01,
+            "Address": "Druvienas 32"
+        },
+        {
+            "Price_per_m²": 9.38,
+            "Price": 750.0,
+            "m²": 79.96,
+            "Address": "Kaivas 29"
+        },
+        {
+            "Price_per_m²": 8.39,
+            "Price": 470.0,
+            "m²": 56.02,
+            "Address": "Hipokrāta 13"
+        },
+        {
+            "Price_per_m²": 12.0,
+            "Price": 480.0,
+            "m²": 40.0,
+            "Address": "Kaivas 50/1"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 360.0,
+            "m²": 60.0,
+            "Address": "Mežciema 23/1"
+        },
+        {
+            "Price_per_m²": 11.56,
+            "Price": 370.0,
+            "m²": 32.01,
+            "Address": "Kaivas 50"
+        },
+        {
+            "Price_per_m²": 5.0,
+            "Price": 250.0,
+            "m²": 50.0,
+            "Address": "Hipokrāta 9"
+        },
+        {
+            "Price_per_m²": 5.35,
+            "Price": 230.0,
+            "m²": 42.99,
+            "Address": "Biķernieku 102"
+        },
+        {
+            "Price_per_m²": 8.83,
+            "Price": 530.0,
+            "m²": 60.02,
+            "Address": "Vecā Biķernieku 31"
+        },
+        {
+            "Price_per_m²": 9.41,
+            "Price": 480.0,
+            "m²": 51.01,
+            "Address": "Kaivas 50/1"
+        },
+        {
+            "Price_per_m²": 5.81,
+            "Price": 180.0,
+            "m²": 30.98,
+            "Address": "Hipokrāta 41"
+        },
+        {
+            "Price_per_m²": 10.42,
+            "Price": 500.0,
+            "m²": 47.98,
+            "Address": "Juglas 101"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 500.0,
+            "m²": 58.0,
+            "Address": "Kaivas 50/1"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Druvienas 36"
+        },
+        {
+            "Price_per_m²": 7.42,
+            "Price": 230.0,
+            "m²": 31.0,
+            "Address": "Hipokrāta 19"
+        },
+        {
+            "Price_per_m²": 5.0,
+            "Price": 260.0,
+            "m²": 52.0,
+            "Address": "Eizenšteina 28"
+        },
+        {
+            "Price_per_m²": 8.13,
+            "Price": 780.0,
+            "m²": 95.94,
+            "Address": "Kaivas 29/3"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 350.0,
+            "m²": 49.02,
+            "Address": "Celmu 10"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 360.0,
+            "m²": 45.0,
+            "Address": "Kaivas 50"
+        },
+        {
+            "Price_per_m²": 10.31,
+            "Price": 330.0,
+            "m²": 32.01,
+            "Address": "Kaivas 50/1"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 220.0,
+            "m²": 32.98,
+            "Address": "Eizenšteina 37"
+        },
+        {
+            "Price_per_m²": 5.0,
+            "Price": 350.0,
+            "m²": 70.0,
+            "Address": "Hipokrāta 13"
+        },
+        {
+            "Price_per_m²": 6.6,
+            "Price": 330.0,
+            "m²": 50.0,
+            "Address": "Eizenšteina 35"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 200.0,
+            "m²": 32.0,
+            "Address": "Malienas 21"
+        },
+        {
+            "Price_per_m²": 5.56,
+            "Price": 400.0,
+            "m²": 71.94,
+            "Address": "Hipokrāta 11"
+        },
+        {
+            "Price_per_m²": 7.58,
+            "Price": 250.0,
+            "m²": 32.98,
+            "Address": "Eizenšteina 41"
+        },
+        {
+            "Price_per_m²": 12.75,
+            "Price": 650.0,
+            "m²": 50.98,
+            "Address": "Biķernieku 222"
+        },
+        {
+            "Price_per_m²": 6.73,
+            "Price": 350.0,
+            "m²": 52.01,
+            "Address": "Eizenšteina 39"
+        },
+        {
+            "Price_per_m²": 4.85,
+            "Price": 320.0,
+            "m²": 65.98,
+            "Address": "Līduma 2"
+        },
+        {
+            "Price_per_m²": 15.28,
+            "Price": 550.0,
+            "m²": 35.99,
+            "Address": "Hipokrāta 24"
+        }
+    ],
+    "daily": []
+}

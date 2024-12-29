@@ -1,0 +1,2084 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 934.0,
+            "Price": 35500.0,
+            "m²": 38.01,
+            "Address": "Riekstu 10"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 33500.0,
+            "m²": 39.98,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 660.0,
+            "Price": 27700.0,
+            "m²": 41.97,
+            "Address": "Grīvas 9"
+        },
+        {
+            "Price_per_m²": 428.0,
+            "Price": 7700.0,
+            "m²": 17.99,
+            "Address": "Stūres 2"
+        },
+        {
+            "Price_per_m²": 1214.0,
+            "Price": 76500.0,
+            "m²": 63.01,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 849.0,
+            "Price": 45000.0,
+            "m²": 53.0,
+            "Address": "Lilijas 21"
+        },
+        {
+            "Price_per_m²": 815.0,
+            "Price": 44000.0,
+            "m²": 53.99,
+            "Address": "Palangas 1"
+        },
+        {
+            "Price_per_m²": 1163.0,
+            "Price": 57000.0,
+            "m²": 49.01,
+            "Address": "Dzirciema 61"
+        },
+        {
+            "Price_per_m²": 1086.0,
+            "Price": 47800.0,
+            "m²": 44.01,
+            "Address": "Buļļu 42А"
+        },
+        {
+            "Price_per_m²": 450.0,
+            "Price": 13500.0,
+            "m²": 30.0,
+            "Address": "Baltā 12"
+        },
+        {
+            "Price_per_m²": 809.0,
+            "Price": 55000.0,
+            "m²": 67.99,
+            "Address": "Spilves 13"
+        },
+        {
+            "Price_per_m²": 917.0,
+            "Price": 55000.0,
+            "m²": 59.98,
+            "Address": "Stūres 6"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 42000.0,
+            "m²": 42.0,
+            "Address": "Vaidelotes 19"
+        },
+        {
+            "Price_per_m²": 856.0,
+            "Price": 38500.0,
+            "m²": 44.98,
+            "Address": "V. Buļļu 14"
+        },
+        {
+            "Price_per_m²": 824.0,
+            "Price": 42000.0,
+            "m²": 50.97,
+            "Address": "Dzirciema 57"
+        },
+        {
+            "Price_per_m²": 694.0,
+            "Price": 46500.0,
+            "m²": 67.0,
+            "Address": "Skodas 4"
+        },
+        {
+            "Price_per_m²": 1181.0,
+            "Price": 85000.0,
+            "m²": 71.97,
+            "Address": "Baltā 19"
+        },
+        {
+            "Price_per_m²": 755.0,
+            "Price": 41500.0,
+            "m²": 54.97,
+            "Address": "Saulgožu 2"
+        },
+        {
+            "Price_per_m²": 987.0,
+            "Price": 22700.0,
+            "m²": 23.0,
+            "Address": "Lilijas 3A"
+        },
+        {
+            "Price_per_m²": 603.0,
+            "Price": 23500.0,
+            "m²": 38.97,
+            "Address": "Riekstu 7"
+        },
+        {
+            "Price_per_m²": 768.0,
+            "Price": 43000.0,
+            "m²": 55.99,
+            "Address": "Lidoņu 30"
+        },
+        {
+            "Price_per_m²": 949.0,
+            "Price": 37000.0,
+            "m²": 38.99,
+            "Address": "Riekstu 9"
+        },
+        {
+            "Price_per_m²": 1616.0,
+            "Price": 69500.0,
+            "m²": 43.01,
+            "Address": "Dzirciema 70"
+        },
+        {
+            "Price_per_m²": 1234.0,
+            "Price": 58000.0,
+            "m²": 47.0,
+            "Address": "Šauļu 2b"
+        },
+        {
+            "Price_per_m²": 942.0,
+            "Price": 49900.0,
+            "m²": 52.97,
+            "Address": "Lilijas 15"
+        },
+        {
+            "Price_per_m²": 921.0,
+            "Price": 35000.0,
+            "m²": 38.0,
+            "Address": "Dzirciema 89"
+        },
+        {
+            "Price_per_m²": 814.0,
+            "Price": 35000.0,
+            "m²": 43.0,
+            "Address": "Olaines 1"
+        },
+        {
+            "Price_per_m²": 1042.0,
+            "Price": 62500.0,
+            "m²": 59.98,
+            "Address": "Lidoņu 7"
+        },
+        {
+            "Price_per_m²": 889.0,
+            "Price": 40000.0,
+            "m²": 44.99,
+            "Address": "Skujenes 9"
+        },
+        {
+            "Price_per_m²": 903.0,
+            "Price": 26200.0,
+            "m²": 29.01,
+            "Address": "Daugavgrīvas 132 k.."
+        },
+        {
+            "Price_per_m²": 955.0,
+            "Price": 53500.0,
+            "m²": 56.02,
+            "Address": "Spilves 35"
+        },
+        {
+            "Price_per_m²": 695.0,
+            "Price": 27800.0,
+            "m²": 40.0,
+            "Address": "Saulgožu 21"
+        },
+        {
+            "Price_per_m²": 685.0,
+            "Price": 31500.0,
+            "m²": 45.99,
+            "Address": "Saulgožu 13"
+        },
+        {
+            "Price_per_m²": 863.0,
+            "Price": 25900.0,
+            "m²": 30.01,
+            "Address": "Daugavgrīvas 55"
+        },
+        {
+            "Price_per_m²": 1230.0,
+            "Price": 75000.0,
+            "m²": 60.98,
+            "Address": "Dzirciema 47"
+        },
+        {
+            "Price_per_m²": 750.0,
+            "Price": 37500.0,
+            "m²": 50.0,
+            "Address": "Spilves 37B"
+        },
+        {
+            "Price_per_m²": 492.0,
+            "Price": 30000.0,
+            "m²": 60.98,
+            "Address": "Daugavgrīvas 1B"
+        },
+        {
+            "Price_per_m²": 526.0,
+            "Price": 40000.0,
+            "m²": 76.05,
+            "Address": "Viļņas 3B"
+        },
+        {
+            "Price_per_m²": 940.0,
+            "Price": 40400.0,
+            "m²": 42.98,
+            "Address": "Vaidelotes 13"
+        },
+        {
+            "Price_per_m²": 728.0,
+            "Price": 49500.0,
+            "m²": 67.99,
+            "Address": "Baltā 24"
+        },
+        {
+            "Price_per_m²": 1159.0,
+            "Price": 64900.0,
+            "m²": 56.0,
+            "Address": "Spilves 35"
+        },
+        {
+            "Price_per_m²": 655.0,
+            "Price": 27500.0,
+            "m²": 41.98,
+            "Address": "Grīvas 9"
+        },
+        {
+            "Price_per_m²": 1034.0,
+            "Price": 60000.0,
+            "m²": 58.03,
+            "Address": "Vaidelotes 26"
+        },
+        {
+            "Price_per_m²": 815.0,
+            "Price": 43990.0,
+            "m²": 53.98,
+            "Address": "Palangas 7"
+        },
+        {
+            "Price_per_m²": 1344.0,
+            "Price": 215000.0,
+            "m²": 159.97,
+            "Address": "Lilijas 22"
+        },
+        {
+            "Price_per_m²": 724.0,
+            "Price": 36200.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 7"
+        },
+        {
+            "Price_per_m²": 941.0,
+            "Price": 64000.0,
+            "m²": 68.01,
+            "Address": "Spilves 35"
+        },
+        {
+            "Price_per_m²": 1835.0,
+            "Price": 124800.0,
+            "m²": 68.01,
+            "Address": "Lilijas 22"
+        },
+        {
+            "Price_per_m²": 800.0,
+            "Price": 40000.0,
+            "m²": 50.0,
+            "Address": "Lidoņu 15"
+        },
+        {
+            "Price_per_m²": 1286.0,
+            "Price": 28300.0,
+            "m²": 22.01,
+            "Address": "Motoru 3"
+        },
+        {
+            "Price_per_m²": 890.0,
+            "Price": 27600.0,
+            "m²": 31.01,
+            "Address": "Skujenes 9"
+        },
+        {
+            "Price_per_m²": 1431.0,
+            "Price": 68700.0,
+            "m²": 48.01,
+            "Address": "Daugavgrīvas 132 k.."
+        },
+        {
+            "Price_per_m²": 1080.0,
+            "Price": 52900.0,
+            "m²": 48.98,
+            "Address": "Spilves 33"
+        },
+        {
+            "Price_per_m²": 884.0,
+            "Price": 38000.0,
+            "m²": 42.99,
+            "Address": "Lilijas 9"
+        },
+        {
+            "Price_per_m²": 658.0,
+            "Price": 25000.0,
+            "m²": 37.99,
+            "Address": "Riekstu 7"
+        },
+        {
+            "Price_per_m²": 920.0,
+            "Price": 46000.0,
+            "m²": 50.0,
+            "Address": "Reņģes 2b"
+        },
+        {
+            "Price_per_m²": 840.0,
+            "Price": 41999.0,
+            "m²": 50.0,
+            "Address": "Spilves 15"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 58500.0,
+            "m²": 54.02,
+            "Address": "Palangas 6"
+        },
+        {
+            "Price_per_m²": 768.0,
+            "Price": 31500.0,
+            "m²": 41.02,
+            "Address": "Vaidelotes 18"
+        },
+        {
+            "Price_per_m²": 947.0,
+            "Price": 36000.0,
+            "m²": 38.01,
+            "Address": "Skodas 4"
+        },
+        {
+            "Price_per_m²": 795.0,
+            "Price": 47700.0,
+            "m²": 60.0,
+            "Address": "Spilves 35"
+        },
+        {
+            "Price_per_m²": 667.0,
+            "Price": 24000.0,
+            "m²": 35.98,
+            "Address": "Stūres 2"
+        },
+        {
+            "Price_per_m²": 953.0,
+            "Price": 42900.0,
+            "m²": 45.02,
+            "Address": "Grīvas 21"
+        },
+        {
+            "Price_per_m²": 759.0,
+            "Price": 47800.0,
+            "m²": 62.98,
+            "Address": "Daugavgrīvas 41"
+        },
+        {
+            "Price_per_m²": 789.0,
+            "Price": 35500.0,
+            "m²": 44.99,
+            "Address": "Dāvida 22"
+        },
+        {
+            "Price_per_m²": 934.0,
+            "Price": 35500.0,
+            "m²": 38.01,
+            "Address": "Riekstu 10"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 33500.0,
+            "m²": 39.98,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 660.0,
+            "Price": 27700.0,
+            "m²": 41.97,
+            "Address": "Grīvas 9"
+        },
+        {
+            "Price_per_m²": 428.0,
+            "Price": 7700.0,
+            "m²": 17.99,
+            "Address": "Stūres 2"
+        },
+        {
+            "Price_per_m²": 1214.0,
+            "Price": 76500.0,
+            "m²": 63.01,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 849.0,
+            "Price": 45000.0,
+            "m²": 53.0,
+            "Address": "Lilijas 21"
+        },
+        {
+            "Price_per_m²": 815.0,
+            "Price": 44000.0,
+            "m²": 53.99,
+            "Address": "Palangas 1"
+        },
+        {
+            "Price_per_m²": 1163.0,
+            "Price": 57000.0,
+            "m²": 49.01,
+            "Address": "Dzirciema 61"
+        },
+        {
+            "Price_per_m²": 1086.0,
+            "Price": 47800.0,
+            "m²": 44.01,
+            "Address": "Buļļu 42А"
+        },
+        {
+            "Price_per_m²": 450.0,
+            "Price": 13500.0,
+            "m²": 30.0,
+            "Address": "Baltā 12"
+        },
+        {
+            "Price_per_m²": 809.0,
+            "Price": 55000.0,
+            "m²": 67.99,
+            "Address": "Spilves 13"
+        },
+        {
+            "Price_per_m²": 917.0,
+            "Price": 55000.0,
+            "m²": 59.98,
+            "Address": "Stūres 6"
+        },
+        {
+            "Price_per_m²": 934.0,
+            "Price": 35500.0,
+            "m²": 38.01,
+            "Address": "Riekstu 10"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 33500.0,
+            "m²": 39.98,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 660.0,
+            "Price": 27700.0,
+            "m²": 41.97,
+            "Address": "Grīvas 9"
+        },
+        {
+            "Price_per_m²": 428.0,
+            "Price": 7700.0,
+            "m²": 17.99,
+            "Address": "Stūres 2"
+        },
+        {
+            "Price_per_m²": 1214.0,
+            "Price": 76500.0,
+            "m²": 63.01,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 849.0,
+            "Price": 45000.0,
+            "m²": 53.0,
+            "Address": "Lilijas 21"
+        },
+        {
+            "Price_per_m²": 815.0,
+            "Price": 44000.0,
+            "m²": 53.99,
+            "Address": "Palangas 1"
+        },
+        {
+            "Price_per_m²": 1163.0,
+            "Price": 57000.0,
+            "m²": 49.01,
+            "Address": "Dzirciema 61"
+        },
+        {
+            "Price_per_m²": 1086.0,
+            "Price": 47800.0,
+            "m²": 44.01,
+            "Address": "Buļļu 42А"
+        },
+        {
+            "Price_per_m²": 450.0,
+            "Price": 13500.0,
+            "m²": 30.0,
+            "Address": "Baltā 12"
+        },
+        {
+            "Price_per_m²": 809.0,
+            "Price": 55000.0,
+            "m²": 67.99,
+            "Address": "Spilves 13"
+        },
+        {
+            "Price_per_m²": 917.0,
+            "Price": 55000.0,
+            "m²": 59.98,
+            "Address": "Stūres 6"
+        },
+        {
+            "Price_per_m²": 934.0,
+            "Price": 35500.0,
+            "m²": 38.01,
+            "Address": "Riekstu 10"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 33500.0,
+            "m²": 39.98,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 660.0,
+            "Price": 27700.0,
+            "m²": 41.97,
+            "Address": "Grīvas 9"
+        },
+        {
+            "Price_per_m²": 428.0,
+            "Price": 7700.0,
+            "m²": 17.99,
+            "Address": "Stūres 2"
+        },
+        {
+            "Price_per_m²": 1214.0,
+            "Price": 76500.0,
+            "m²": 63.01,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 849.0,
+            "Price": 45000.0,
+            "m²": 53.0,
+            "Address": "Lilijas 21"
+        },
+        {
+            "Price_per_m²": 815.0,
+            "Price": 44000.0,
+            "m²": 53.99,
+            "Address": "Palangas 1"
+        },
+        {
+            "Price_per_m²": 1163.0,
+            "Price": 57000.0,
+            "m²": 49.01,
+            "Address": "Dzirciema 61"
+        },
+        {
+            "Price_per_m²": 1086.0,
+            "Price": 47800.0,
+            "m²": 44.01,
+            "Address": "Buļļu 42А"
+        },
+        {
+            "Price_per_m²": 450.0,
+            "Price": 13500.0,
+            "m²": 30.0,
+            "Address": "Baltā 12"
+        },
+        {
+            "Price_per_m²": 809.0,
+            "Price": 55000.0,
+            "m²": 67.99,
+            "Address": "Spilves 13"
+        },
+        {
+            "Price_per_m²": 917.0,
+            "Price": 55000.0,
+            "m²": 59.98,
+            "Address": "Stūres 6"
+        },
+        {
+            "Price_per_m²": 934.0,
+            "Price": 35500.0,
+            "m²": 38.01,
+            "Address": "Riekstu 10"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 33500.0,
+            "m²": 39.98,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 660.0,
+            "Price": 27700.0,
+            "m²": 41.97,
+            "Address": "Grīvas 9"
+        },
+        {
+            "Price_per_m²": 428.0,
+            "Price": 7700.0,
+            "m²": 17.99,
+            "Address": "Stūres 2"
+        },
+        {
+            "Price_per_m²": 1214.0,
+            "Price": 76500.0,
+            "m²": 63.01,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 849.0,
+            "Price": 45000.0,
+            "m²": 53.0,
+            "Address": "Lilijas 21"
+        },
+        {
+            "Price_per_m²": 815.0,
+            "Price": 44000.0,
+            "m²": 53.99,
+            "Address": "Palangas 1"
+        },
+        {
+            "Price_per_m²": 1163.0,
+            "Price": 57000.0,
+            "m²": 49.01,
+            "Address": "Dzirciema 61"
+        },
+        {
+            "Price_per_m²": 1086.0,
+            "Price": 47800.0,
+            "m²": 44.01,
+            "Address": "Buļļu 42А"
+        },
+        {
+            "Price_per_m²": 450.0,
+            "Price": 13500.0,
+            "m²": 30.0,
+            "Address": "Baltā 12"
+        },
+        {
+            "Price_per_m²": 809.0,
+            "Price": 55000.0,
+            "m²": 67.99,
+            "Address": "Spilves 13"
+        },
+        {
+            "Price_per_m²": 917.0,
+            "Price": 55000.0,
+            "m²": 59.98,
+            "Address": "Stūres 6"
+        },
+        {
+            "Price_per_m²": 934.0,
+            "Price": 35500.0,
+            "m²": 38.01,
+            "Address": "Riekstu 10"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 33500.0,
+            "m²": 39.98,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 660.0,
+            "Price": 27700.0,
+            "m²": 41.97,
+            "Address": "Grīvas 9"
+        },
+        {
+            "Price_per_m²": 428.0,
+            "Price": 7700.0,
+            "m²": 17.99,
+            "Address": "Stūres 2"
+        },
+        {
+            "Price_per_m²": 1214.0,
+            "Price": 76500.0,
+            "m²": 63.01,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 849.0,
+            "Price": 45000.0,
+            "m²": 53.0,
+            "Address": "Lilijas 21"
+        },
+        {
+            "Price_per_m²": 815.0,
+            "Price": 44000.0,
+            "m²": 53.99,
+            "Address": "Palangas 1"
+        },
+        {
+            "Price_per_m²": 1163.0,
+            "Price": 57000.0,
+            "m²": 49.01,
+            "Address": "Dzirciema 61"
+        },
+        {
+            "Price_per_m²": 1086.0,
+            "Price": 47800.0,
+            "m²": 44.01,
+            "Address": "Buļļu 42А"
+        },
+        {
+            "Price_per_m²": 450.0,
+            "Price": 13500.0,
+            "m²": 30.0,
+            "Address": "Baltā 12"
+        },
+        {
+            "Price_per_m²": 809.0,
+            "Price": 55000.0,
+            "m²": 67.99,
+            "Address": "Spilves 13"
+        },
+        {
+            "Price_per_m²": 917.0,
+            "Price": 55000.0,
+            "m²": 59.98,
+            "Address": "Stūres 6"
+        },
+        {
+            "Price_per_m²": 934.0,
+            "Price": 35500.0,
+            "m²": 38.01,
+            "Address": "Riekstu 10"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 33500.0,
+            "m²": 39.98,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 660.0,
+            "Price": 27700.0,
+            "m²": 41.97,
+            "Address": "Grīvas 9"
+        },
+        {
+            "Price_per_m²": 428.0,
+            "Price": 7700.0,
+            "m²": 17.99,
+            "Address": "Stūres 2"
+        },
+        {
+            "Price_per_m²": 1214.0,
+            "Price": 76500.0,
+            "m²": 63.01,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 849.0,
+            "Price": 45000.0,
+            "m²": 53.0,
+            "Address": "Lilijas 21"
+        },
+        {
+            "Price_per_m²": 815.0,
+            "Price": 44000.0,
+            "m²": 53.99,
+            "Address": "Palangas 1"
+        },
+        {
+            "Price_per_m²": 1163.0,
+            "Price": 57000.0,
+            "m²": 49.01,
+            "Address": "Dzirciema 61"
+        },
+        {
+            "Price_per_m²": 1086.0,
+            "Price": 47800.0,
+            "m²": 44.01,
+            "Address": "Buļļu 42А"
+        },
+        {
+            "Price_per_m²": 450.0,
+            "Price": 13500.0,
+            "m²": 30.0,
+            "Address": "Baltā 12"
+        },
+        {
+            "Price_per_m²": 809.0,
+            "Price": 55000.0,
+            "m²": 67.99,
+            "Address": "Spilves 13"
+        },
+        {
+            "Price_per_m²": 917.0,
+            "Price": 55000.0,
+            "m²": 59.98,
+            "Address": "Stūres 6"
+        },
+        {
+            "Price_per_m²": 934.0,
+            "Price": 35500.0,
+            "m²": 38.01,
+            "Address": "Riekstu 10"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 33500.0,
+            "m²": 39.98,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 660.0,
+            "Price": 27700.0,
+            "m²": 41.97,
+            "Address": "Grīvas 9"
+        },
+        {
+            "Price_per_m²": 428.0,
+            "Price": 7700.0,
+            "m²": 17.99,
+            "Address": "Stūres 2"
+        },
+        {
+            "Price_per_m²": 1214.0,
+            "Price": 76500.0,
+            "m²": 63.01,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 849.0,
+            "Price": 45000.0,
+            "m²": 53.0,
+            "Address": "Lilijas 21"
+        },
+        {
+            "Price_per_m²": 815.0,
+            "Price": 44000.0,
+            "m²": 53.99,
+            "Address": "Palangas 1"
+        },
+        {
+            "Price_per_m²": 1163.0,
+            "Price": 57000.0,
+            "m²": 49.01,
+            "Address": "Dzirciema 61"
+        },
+        {
+            "Price_per_m²": 1086.0,
+            "Price": 47800.0,
+            "m²": 44.01,
+            "Address": "Buļļu 42А"
+        },
+        {
+            "Price_per_m²": 450.0,
+            "Price": 13500.0,
+            "m²": 30.0,
+            "Address": "Baltā 12"
+        },
+        {
+            "Price_per_m²": 809.0,
+            "Price": 55000.0,
+            "m²": 67.99,
+            "Address": "Spilves 13"
+        },
+        {
+            "Price_per_m²": 917.0,
+            "Price": 55000.0,
+            "m²": 59.98,
+            "Address": "Stūres 6"
+        },
+        {
+            "Price_per_m²": 934.0,
+            "Price": 35500.0,
+            "m²": 38.01,
+            "Address": "Riekstu 10"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 33500.0,
+            "m²": 39.98,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 660.0,
+            "Price": 27700.0,
+            "m²": 41.97,
+            "Address": "Grīvas 9"
+        },
+        {
+            "Price_per_m²": 428.0,
+            "Price": 7700.0,
+            "m²": 17.99,
+            "Address": "Stūres 2"
+        },
+        {
+            "Price_per_m²": 1214.0,
+            "Price": 76500.0,
+            "m²": 63.01,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 849.0,
+            "Price": 45000.0,
+            "m²": 53.0,
+            "Address": "Lilijas 21"
+        },
+        {
+            "Price_per_m²": 815.0,
+            "Price": 44000.0,
+            "m²": 53.99,
+            "Address": "Palangas 1"
+        },
+        {
+            "Price_per_m²": 1163.0,
+            "Price": 57000.0,
+            "m²": 49.01,
+            "Address": "Dzirciema 61"
+        },
+        {
+            "Price_per_m²": 1086.0,
+            "Price": 47800.0,
+            "m²": 44.01,
+            "Address": "Buļļu 42А"
+        },
+        {
+            "Price_per_m²": 450.0,
+            "Price": 13500.0,
+            "m²": 30.0,
+            "Address": "Baltā 12"
+        },
+        {
+            "Price_per_m²": 809.0,
+            "Price": 55000.0,
+            "m²": 67.99,
+            "Address": "Spilves 13"
+        },
+        {
+            "Price_per_m²": 917.0,
+            "Price": 55000.0,
+            "m²": 59.98,
+            "Address": "Stūres 6"
+        },
+        {
+            "Price_per_m²": 934.0,
+            "Price": 35500.0,
+            "m²": 38.01,
+            "Address": "Riekstu 10"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 33500.0,
+            "m²": 39.98,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 660.0,
+            "Price": 27700.0,
+            "m²": 41.97,
+            "Address": "Grīvas 9"
+        },
+        {
+            "Price_per_m²": 428.0,
+            "Price": 7700.0,
+            "m²": 17.99,
+            "Address": "Stūres 2"
+        },
+        {
+            "Price_per_m²": 1214.0,
+            "Price": 76500.0,
+            "m²": 63.01,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 849.0,
+            "Price": 45000.0,
+            "m²": 53.0,
+            "Address": "Lilijas 21"
+        },
+        {
+            "Price_per_m²": 815.0,
+            "Price": 44000.0,
+            "m²": 53.99,
+            "Address": "Palangas 1"
+        },
+        {
+            "Price_per_m²": 1163.0,
+            "Price": 57000.0,
+            "m²": 49.01,
+            "Address": "Dzirciema 61"
+        },
+        {
+            "Price_per_m²": 1086.0,
+            "Price": 47800.0,
+            "m²": 44.01,
+            "Address": "Buļļu 42А"
+        },
+        {
+            "Price_per_m²": 450.0,
+            "Price": 13500.0,
+            "m²": 30.0,
+            "Address": "Baltā 12"
+        },
+        {
+            "Price_per_m²": 809.0,
+            "Price": 55000.0,
+            "m²": 67.99,
+            "Address": "Spilves 13"
+        },
+        {
+            "Price_per_m²": 917.0,
+            "Price": 55000.0,
+            "m²": 59.98,
+            "Address": "Stūres 6"
+        },
+        {
+            "Price_per_m²": 934.0,
+            "Price": 35500.0,
+            "m²": 38.01,
+            "Address": "Riekstu 10"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 33500.0,
+            "m²": 39.98,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 660.0,
+            "Price": 27700.0,
+            "m²": 41.97,
+            "Address": "Grīvas 9"
+        },
+        {
+            "Price_per_m²": 428.0,
+            "Price": 7700.0,
+            "m²": 17.99,
+            "Address": "Stūres 2"
+        },
+        {
+            "Price_per_m²": 1214.0,
+            "Price": 76500.0,
+            "m²": 63.01,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 849.0,
+            "Price": 45000.0,
+            "m²": 53.0,
+            "Address": "Lilijas 21"
+        },
+        {
+            "Price_per_m²": 815.0,
+            "Price": 44000.0,
+            "m²": 53.99,
+            "Address": "Palangas 1"
+        },
+        {
+            "Price_per_m²": 1163.0,
+            "Price": 57000.0,
+            "m²": 49.01,
+            "Address": "Dzirciema 61"
+        },
+        {
+            "Price_per_m²": 1086.0,
+            "Price": 47800.0,
+            "m²": 44.01,
+            "Address": "Buļļu 42А"
+        },
+        {
+            "Price_per_m²": 450.0,
+            "Price": 13500.0,
+            "m²": 30.0,
+            "Address": "Baltā 12"
+        },
+        {
+            "Price_per_m²": 809.0,
+            "Price": 55000.0,
+            "m²": 67.99,
+            "Address": "Spilves 13"
+        },
+        {
+            "Price_per_m²": 917.0,
+            "Price": 55000.0,
+            "m²": 59.98,
+            "Address": "Stūres 6"
+        },
+        {
+            "Price_per_m²": 934.0,
+            "Price": 35500.0,
+            "m²": 38.01,
+            "Address": "Riekstu 10"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 33500.0,
+            "m²": 39.98,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 660.0,
+            "Price": 27700.0,
+            "m²": 41.97,
+            "Address": "Grīvas 9"
+        },
+        {
+            "Price_per_m²": 428.0,
+            "Price": 7700.0,
+            "m²": 17.99,
+            "Address": "Stūres 2"
+        },
+        {
+            "Price_per_m²": 1214.0,
+            "Price": 76500.0,
+            "m²": 63.01,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 849.0,
+            "Price": 45000.0,
+            "m²": 53.0,
+            "Address": "Lilijas 21"
+        },
+        {
+            "Price_per_m²": 815.0,
+            "Price": 44000.0,
+            "m²": 53.99,
+            "Address": "Palangas 1"
+        },
+        {
+            "Price_per_m²": 1163.0,
+            "Price": 57000.0,
+            "m²": 49.01,
+            "Address": "Dzirciema 61"
+        },
+        {
+            "Price_per_m²": 1086.0,
+            "Price": 47800.0,
+            "m²": 44.01,
+            "Address": "Buļļu 42А"
+        },
+        {
+            "Price_per_m²": 450.0,
+            "Price": 13500.0,
+            "m²": 30.0,
+            "Address": "Baltā 12"
+        },
+        {
+            "Price_per_m²": 809.0,
+            "Price": 55000.0,
+            "m²": 67.99,
+            "Address": "Spilves 13"
+        },
+        {
+            "Price_per_m²": 917.0,
+            "Price": 55000.0,
+            "m²": 59.98,
+            "Address": "Stūres 6"
+        },
+        {
+            "Price_per_m²": 934.0,
+            "Price": 35500.0,
+            "m²": 38.01,
+            "Address": "Riekstu 10"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 33500.0,
+            "m²": 39.98,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 660.0,
+            "Price": 27700.0,
+            "m²": 41.97,
+            "Address": "Grīvas 9"
+        },
+        {
+            "Price_per_m²": 428.0,
+            "Price": 7700.0,
+            "m²": 17.99,
+            "Address": "Stūres 2"
+        },
+        {
+            "Price_per_m²": 1214.0,
+            "Price": 76500.0,
+            "m²": 63.01,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 849.0,
+            "Price": 45000.0,
+            "m²": 53.0,
+            "Address": "Lilijas 21"
+        },
+        {
+            "Price_per_m²": 815.0,
+            "Price": 44000.0,
+            "m²": 53.99,
+            "Address": "Palangas 1"
+        },
+        {
+            "Price_per_m²": 1163.0,
+            "Price": 57000.0,
+            "m²": 49.01,
+            "Address": "Dzirciema 61"
+        },
+        {
+            "Price_per_m²": 1086.0,
+            "Price": 47800.0,
+            "m²": 44.01,
+            "Address": "Buļļu 42А"
+        },
+        {
+            "Price_per_m²": 450.0,
+            "Price": 13500.0,
+            "m²": 30.0,
+            "Address": "Baltā 12"
+        },
+        {
+            "Price_per_m²": 809.0,
+            "Price": 55000.0,
+            "m²": 67.99,
+            "Address": "Spilves 13"
+        },
+        {
+            "Price_per_m²": 917.0,
+            "Price": 55000.0,
+            "m²": 59.98,
+            "Address": "Stūres 6"
+        },
+        {
+            "Price_per_m²": 934.0,
+            "Price": 35500.0,
+            "m²": 38.01,
+            "Address": "Riekstu 10"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 33500.0,
+            "m²": 39.98,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 660.0,
+            "Price": 27700.0,
+            "m²": 41.97,
+            "Address": "Grīvas 9"
+        },
+        {
+            "Price_per_m²": 428.0,
+            "Price": 7700.0,
+            "m²": 17.99,
+            "Address": "Stūres 2"
+        },
+        {
+            "Price_per_m²": 1214.0,
+            "Price": 76500.0,
+            "m²": 63.01,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 849.0,
+            "Price": 45000.0,
+            "m²": 53.0,
+            "Address": "Lilijas 21"
+        },
+        {
+            "Price_per_m²": 815.0,
+            "Price": 44000.0,
+            "m²": 53.99,
+            "Address": "Palangas 1"
+        },
+        {
+            "Price_per_m²": 1163.0,
+            "Price": 57000.0,
+            "m²": 49.01,
+            "Address": "Dzirciema 61"
+        },
+        {
+            "Price_per_m²": 1086.0,
+            "Price": 47800.0,
+            "m²": 44.01,
+            "Address": "Buļļu 42А"
+        },
+        {
+            "Price_per_m²": 450.0,
+            "Price": 13500.0,
+            "m²": 30.0,
+            "Address": "Baltā 12"
+        },
+        {
+            "Price_per_m²": 809.0,
+            "Price": 55000.0,
+            "m²": 67.99,
+            "Address": "Spilves 13"
+        },
+        {
+            "Price_per_m²": 917.0,
+            "Price": 55000.0,
+            "m²": 59.98,
+            "Address": "Stūres 6"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 1"
+        },
+        {
+            "Price_per_m²": 6.73,
+            "Price": 330.0,
+            "m²": 49.03,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 6.11,
+            "Price": 220.0,
+            "m²": 36.01,
+            "Address": "V. Buļļu 10"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Lidoņu 3a"
+        },
+        {
+            "Price_per_m²": 5.78,
+            "Price": 260.0,
+            "m²": 44.98,
+            "Address": "Lilijas 15k2"
+        },
+        {
+            "Price_per_m²": 6.72,
+            "Price": 450.0,
+            "m²": 66.96,
+            "Address": "Stūres 5"
+        },
+        {
+            "Price_per_m²": 6.45,
+            "Price": 400.0,
+            "m²": 62.02,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 6.73,
+            "Price": 330.0,
+            "m²": 49.03,
+            "Address": "Dzirciema 91"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 150.0,
+            "m²": 18.01,
+            "Address": "Stūres 2"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 250.0,
+            "m²": 25.0,
+            "Address": "Dzirciema 115"
+        },
+        {
+            "Price_per_m²": 11.11,
+            "Price": 200.0,
+            "m²": 18.0,
+            "Address": "Riekstu 9"
+        },
+        {
+            "Price_per_m²": 5.56,
+            "Price": 300.0,
+            "m²": 53.96,
+            "Address": "Bēnes 2"
+        },
+        {
+            "Price_per_m²": 5.0,
+            "Price": 250.0,
+            "m²": 50.0,
+            "Address": "Reņģes 2a"
+        },
+        {
+            "Price_per_m²": 10.73,
+            "Price": 440.0,
+            "m²": 41.01,
+            "Address": "Vaidelotes 19"
+        },
+        {
+            "Price_per_m²": 5.74,
+            "Price": 390.0,
+            "m²": 67.94,
+            "Address": "Spilves 7"
+        },
+        {
+            "Price_per_m²": 6.63,
+            "Price": 325.0,
+            "m²": 49.02,
+            "Address": "Spilves 37b"
+        },
+        {
+            "Price_per_m²": 5.11,
+            "Price": 230.0,
+            "m²": 45.01,
+            "Address": "Grīvas 21"
+        },
+        {
+            "Price_per_m²": 4.17,
+            "Price": 200.0,
+            "m²": 47.96,
+            "Address": "Palangas 6"
+        },
+        {
+            "Price_per_m²": 7.22,
+            "Price": 130.0,
+            "m²": 18.01,
+            "Address": "Stūres 2"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 1"
+        },
+        {
+            "Price_per_m²": 6.73,
+            "Price": 330.0,
+            "m²": 49.03,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 6.11,
+            "Price": 220.0,
+            "m²": 36.01,
+            "Address": "V. Buļļu 10"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Lidoņu 3a"
+        },
+        {
+            "Price_per_m²": 5.78,
+            "Price": 260.0,
+            "m²": 44.98,
+            "Address": "Lilijas 15k2"
+        },
+        {
+            "Price_per_m²": 6.72,
+            "Price": 450.0,
+            "m²": 66.96,
+            "Address": "Stūres 5"
+        },
+        {
+            "Price_per_m²": 6.45,
+            "Price": 400.0,
+            "m²": 62.02,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 1"
+        },
+        {
+            "Price_per_m²": 6.73,
+            "Price": 330.0,
+            "m²": 49.03,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 6.11,
+            "Price": 220.0,
+            "m²": 36.01,
+            "Address": "V. Buļļu 10"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Lidoņu 3a"
+        },
+        {
+            "Price_per_m²": 5.78,
+            "Price": 260.0,
+            "m²": 44.98,
+            "Address": "Lilijas 15k2"
+        },
+        {
+            "Price_per_m²": 6.72,
+            "Price": 450.0,
+            "m²": 66.96,
+            "Address": "Stūres 5"
+        },
+        {
+            "Price_per_m²": 6.45,
+            "Price": 400.0,
+            "m²": 62.02,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 1"
+        },
+        {
+            "Price_per_m²": 6.73,
+            "Price": 330.0,
+            "m²": 49.03,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 6.11,
+            "Price": 220.0,
+            "m²": 36.01,
+            "Address": "V. Buļļu 10"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Lidoņu 3a"
+        },
+        {
+            "Price_per_m²": 5.78,
+            "Price": 260.0,
+            "m²": 44.98,
+            "Address": "Lilijas 15k2"
+        },
+        {
+            "Price_per_m²": 6.72,
+            "Price": 450.0,
+            "m²": 66.96,
+            "Address": "Stūres 5"
+        },
+        {
+            "Price_per_m²": 6.45,
+            "Price": 400.0,
+            "m²": 62.02,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 1"
+        },
+        {
+            "Price_per_m²": 6.73,
+            "Price": 330.0,
+            "m²": 49.03,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 6.11,
+            "Price": 220.0,
+            "m²": 36.01,
+            "Address": "V. Buļļu 10"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Lidoņu 3a"
+        },
+        {
+            "Price_per_m²": 5.78,
+            "Price": 260.0,
+            "m²": 44.98,
+            "Address": "Lilijas 15k2"
+        },
+        {
+            "Price_per_m²": 6.72,
+            "Price": 450.0,
+            "m²": 66.96,
+            "Address": "Stūres 5"
+        },
+        {
+            "Price_per_m²": 6.45,
+            "Price": 400.0,
+            "m²": 62.02,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 1"
+        },
+        {
+            "Price_per_m²": 6.73,
+            "Price": 330.0,
+            "m²": 49.03,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 6.11,
+            "Price": 220.0,
+            "m²": 36.01,
+            "Address": "V. Buļļu 10"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Lidoņu 3a"
+        },
+        {
+            "Price_per_m²": 5.78,
+            "Price": 260.0,
+            "m²": 44.98,
+            "Address": "Lilijas 15k2"
+        },
+        {
+            "Price_per_m²": 6.72,
+            "Price": 450.0,
+            "m²": 66.96,
+            "Address": "Stūres 5"
+        },
+        {
+            "Price_per_m²": 6.45,
+            "Price": 400.0,
+            "m²": 62.02,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 1"
+        },
+        {
+            "Price_per_m²": 6.73,
+            "Price": 330.0,
+            "m²": 49.03,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 6.11,
+            "Price": 220.0,
+            "m²": 36.01,
+            "Address": "V. Buļļu 10"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Lidoņu 3a"
+        },
+        {
+            "Price_per_m²": 5.78,
+            "Price": 260.0,
+            "m²": 44.98,
+            "Address": "Lilijas 15k2"
+        },
+        {
+            "Price_per_m²": 6.72,
+            "Price": 450.0,
+            "m²": 66.96,
+            "Address": "Stūres 5"
+        },
+        {
+            "Price_per_m²": 6.45,
+            "Price": 400.0,
+            "m²": 62.02,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 1"
+        },
+        {
+            "Price_per_m²": 6.73,
+            "Price": 330.0,
+            "m²": 49.03,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 6.11,
+            "Price": 220.0,
+            "m²": 36.01,
+            "Address": "V. Buļļu 10"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Lidoņu 3a"
+        },
+        {
+            "Price_per_m²": 5.78,
+            "Price": 260.0,
+            "m²": 44.98,
+            "Address": "Lilijas 15k2"
+        },
+        {
+            "Price_per_m²": 6.72,
+            "Price": 450.0,
+            "m²": 66.96,
+            "Address": "Stūres 5"
+        },
+        {
+            "Price_per_m²": 6.45,
+            "Price": 400.0,
+            "m²": 62.02,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 1"
+        },
+        {
+            "Price_per_m²": 6.73,
+            "Price": 330.0,
+            "m²": 49.03,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 6.11,
+            "Price": 220.0,
+            "m²": 36.01,
+            "Address": "V. Buļļu 10"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Lidoņu 3a"
+        },
+        {
+            "Price_per_m²": 5.78,
+            "Price": 260.0,
+            "m²": 44.98,
+            "Address": "Lilijas 15k2"
+        },
+        {
+            "Price_per_m²": 6.72,
+            "Price": 450.0,
+            "m²": 66.96,
+            "Address": "Stūres 5"
+        },
+        {
+            "Price_per_m²": 6.45,
+            "Price": 400.0,
+            "m²": 62.02,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 1"
+        },
+        {
+            "Price_per_m²": 6.73,
+            "Price": 330.0,
+            "m²": 49.03,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 6.11,
+            "Price": 220.0,
+            "m²": 36.01,
+            "Address": "V. Buļļu 10"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Lidoņu 3a"
+        },
+        {
+            "Price_per_m²": 5.78,
+            "Price": 260.0,
+            "m²": 44.98,
+            "Address": "Lilijas 15k2"
+        },
+        {
+            "Price_per_m²": 6.72,
+            "Price": 450.0,
+            "m²": 66.96,
+            "Address": "Stūres 5"
+        },
+        {
+            "Price_per_m²": 6.45,
+            "Price": 400.0,
+            "m²": 62.02,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 1"
+        },
+        {
+            "Price_per_m²": 6.73,
+            "Price": 330.0,
+            "m²": 49.03,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 6.11,
+            "Price": 220.0,
+            "m²": 36.01,
+            "Address": "V. Buļļu 10"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Lidoņu 3a"
+        },
+        {
+            "Price_per_m²": 5.78,
+            "Price": 260.0,
+            "m²": 44.98,
+            "Address": "Lilijas 15k2"
+        },
+        {
+            "Price_per_m²": 6.72,
+            "Price": 450.0,
+            "m²": 66.96,
+            "Address": "Stūres 5"
+        },
+        {
+            "Price_per_m²": 6.45,
+            "Price": 400.0,
+            "m²": 62.02,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 1"
+        },
+        {
+            "Price_per_m²": 6.73,
+            "Price": 330.0,
+            "m²": 49.03,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 6.11,
+            "Price": 220.0,
+            "m²": 36.01,
+            "Address": "V. Buļļu 10"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Lidoņu 3a"
+        },
+        {
+            "Price_per_m²": 5.78,
+            "Price": 260.0,
+            "m²": 44.98,
+            "Address": "Lilijas 15k2"
+        },
+        {
+            "Price_per_m²": 6.72,
+            "Price": 450.0,
+            "m²": 66.96,
+            "Address": "Stūres 5"
+        },
+        {
+            "Price_per_m²": 6.45,
+            "Price": 400.0,
+            "m²": 62.02,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 1"
+        },
+        {
+            "Price_per_m²": 6.73,
+            "Price": 330.0,
+            "m²": 49.03,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 6.11,
+            "Price": 220.0,
+            "m²": 36.01,
+            "Address": "V. Buļļu 10"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Lidoņu 3a"
+        },
+        {
+            "Price_per_m²": 5.78,
+            "Price": 260.0,
+            "m²": 44.98,
+            "Address": "Lilijas 15k2"
+        },
+        {
+            "Price_per_m²": 6.72,
+            "Price": 450.0,
+            "m²": 66.96,
+            "Address": "Stūres 5"
+        },
+        {
+            "Price_per_m²": 6.45,
+            "Price": 400.0,
+            "m²": 62.02,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 1"
+        },
+        {
+            "Price_per_m²": 6.73,
+            "Price": 330.0,
+            "m²": 49.03,
+            "Address": "Reņģes 1"
+        },
+        {
+            "Price_per_m²": 6.11,
+            "Price": 220.0,
+            "m²": 36.01,
+            "Address": "V. Buļļu 10"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Lidoņu 3a"
+        },
+        {
+            "Price_per_m²": 5.78,
+            "Price": 260.0,
+            "m²": 44.98,
+            "Address": "Lilijas 15k2"
+        },
+        {
+            "Price_per_m²": 6.72,
+            "Price": 450.0,
+            "m²": 66.96,
+            "Address": "Stūres 5"
+        },
+        {
+            "Price_per_m²": 6.45,
+            "Price": 400.0,
+            "m²": 62.02,
+            "Address": "Dzirciema 71"
+        }
+    ],
+    "daily": [
+        {
+            "Price_per_m²": 1.08,
+            "Price": 65.0,
+            "m²": 60.19,
+            "Address": "M. Buļļu 11"
+        },
+        {
+            "Price_per_m²": 0.967,
+            "Price": 29.0,
+            "m²": 29.99,
+            "Address": "Grīvas 17"
+        },
+        {
+            "Price_per_m²": 1.08,
+            "Price": 65.0,
+            "m²": 60.19,
+            "Address": "M. Buļļu 11"
+        },
+        {
+            "Price_per_m²": 1.08,
+            "Price": 65.0,
+            "m²": 60.19,
+            "Address": "M. Buļļu 11"
+        },
+        {
+            "Price_per_m²": 1.08,
+            "Price": 65.0,
+            "m²": 60.19,
+            "Address": "M. Buļļu 11"
+        },
+        {
+            "Price_per_m²": 1.08,
+            "Price": 65.0,
+            "m²": 60.19,
+            "Address": "M. Buļļu 11"
+        },
+        {
+            "Price_per_m²": 1.08,
+            "Price": 65.0,
+            "m²": 60.19,
+            "Address": "M. Buļļu 11"
+        },
+        {
+            "Price_per_m²": 1.08,
+            "Price": 65.0,
+            "m²": 60.19,
+            "Address": "M. Buļļu 11"
+        },
+        {
+            "Price_per_m²": 1.08,
+            "Price": 65.0,
+            "m²": 60.19,
+            "Address": "M. Buļļu 11"
+        },
+        {
+            "Price_per_m²": 1.08,
+            "Price": 65.0,
+            "m²": 60.19,
+            "Address": "M. Buļļu 11"
+        },
+        {
+            "Price_per_m²": 1.08,
+            "Price": 65.0,
+            "m²": 60.19,
+            "Address": "M. Buļļu 11"
+        },
+        {
+            "Price_per_m²": 1.08,
+            "Price": 65.0,
+            "m²": 60.19,
+            "Address": "M. Buļļu 11"
+        },
+        {
+            "Price_per_m²": 1.08,
+            "Price": 65.0,
+            "m²": 60.19,
+            "Address": "M. Buļļu 11"
+        },
+        {
+            "Price_per_m²": 1.08,
+            "Price": 65.0,
+            "m²": 60.19,
+            "Address": "M. Buļļu 11"
+        },
+        {
+            "Price_per_m²": 1.08,
+            "Price": 65.0,
+            "m²": 60.19,
+            "Address": "M. Buļļu 11"
+        }
+    ]
+}

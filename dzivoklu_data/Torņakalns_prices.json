@@ -1,0 +1,889 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 2101.0,
+            "Price": 395000.0,
+            "m²": 188.01,
+            "Address": "Jelgavas 63"
+        },
+        {
+            "Price_per_m²": 674.0,
+            "Price": 31000.0,
+            "m²": 45.99,
+            "Address": "Altonavas 17"
+        },
+        {
+            "Price_per_m²": 946.0,
+            "Price": 53000.0,
+            "m²": 56.03,
+            "Address": "Jelgavas 92"
+        },
+        {
+            "Price_per_m²": 2018.0,
+            "Price": 113000.0,
+            "m²": 56.0,
+            "Address": "Satiksmes 3"
+        },
+        {
+            "Price_per_m²": 1150.0,
+            "Price": 115000.0,
+            "m²": 100.0,
+            "Address": "Bauskas 29k2"
+        },
+        {
+            "Price_per_m²": 893.0,
+            "Price": 25000.0,
+            "m²": 28.0,
+            "Address": "Vēja 16"
+        },
+        {
+            "Price_per_m²": 1035.0,
+            "Price": 26900.0,
+            "m²": 25.99,
+            "Address": "Robežu 24"
+        },
+        {
+            "Price_per_m²": 2381.0,
+            "Price": 150000.0,
+            "m²": 63.0,
+            "Address": "Mūkusalas 29"
+        },
+        {
+            "Price_per_m²": 1753.0,
+            "Price": 135000.0,
+            "m²": 77.01,
+            "Address": "Neretas 2"
+        },
+        {
+            "Price_per_m²": 2941.0,
+            "Price": 41180.0,
+            "m²": 14.0,
+            "Address": "Jelgavas 14"
+        },
+        {
+            "Price_per_m²": 2913.0,
+            "Price": 64090.0,
+            "m²": 22.0,
+            "Address": "Jelgavas 14"
+        },
+        {
+            "Price_per_m²": 2931.0,
+            "Price": 82070.0,
+            "m²": 28.0,
+            "Address": "Jelgavas 14"
+        },
+        {
+            "Price_per_m²": 2935.0,
+            "Price": 73370.0,
+            "m²": 25.0,
+            "Address": "Jelgavas 14"
+        },
+        {
+            "Price_per_m²": 2093.0,
+            "Price": 113043.0,
+            "m²": 54.01,
+            "Address": "Āpšu 4"
+        },
+        {
+            "Price_per_m²": 781.0,
+            "Price": 25000.0,
+            "m²": 32.01,
+            "Address": "Indriķa 18"
+        },
+        {
+            "Price_per_m²": 986.0,
+            "Price": 71000.0,
+            "m²": 72.01,
+            "Address": "Indriķa 18"
+        },
+        {
+            "Price_per_m²": 894.0,
+            "Price": 29500.0,
+            "m²": 33.0,
+            "Address": "Āpšu 3"
+        },
+        {
+            "Price_per_m²": 2009.0,
+            "Price": 136600.0,
+            "m²": 67.99,
+            "Address": "Bauskas 57"
+        },
+        {
+            "Price_per_m²": 535.0,
+            "Price": 12300.0,
+            "m²": 22.99,
+            "Address": "Ludviķa 1"
+        },
+        {
+            "Price_per_m²": 1208.0,
+            "Price": 72500.0,
+            "m²": 60.02,
+            "Address": "Neretas 2"
+        },
+        {
+            "Price_per_m²": 2026.0,
+            "Price": 119522.0,
+            "m²": 58.99,
+            "Address": "Āpšu 4"
+        },
+        {
+            "Price_per_m²": 832.0,
+            "Price": 49900.0,
+            "m²": 59.98,
+            "Address": "Akmeņu 19"
+        },
+        {
+            "Price_per_m²": 318.0,
+            "Price": 15900.0,
+            "m²": 50.0,
+            "Address": "Bauskas 151"
+        },
+        {
+            "Price_per_m²": 2627.0,
+            "Price": 68300.0,
+            "m²": 26.0,
+            "Address": "Mūkusalas 56"
+        },
+        {
+            "Price_per_m²": 1889.0,
+            "Price": 85000.0,
+            "m²": 45.0,
+            "Address": "Bauskas 41"
+        },
+        {
+            "Price_per_m²": 441.0,
+            "Price": 12790.0,
+            "m²": 29.0,
+            "Address": "Cepļa 14"
+        },
+        {
+            "Price_per_m²": 2014.0,
+            "Price": 112800.0,
+            "m²": 56.01,
+            "Address": "Āpšu 4"
+        },
+        {
+            "Price_per_m²": 673.0,
+            "Price": 26900.0,
+            "m²": 39.97,
+            "Address": "Mūkusalas 35"
+        },
+        {
+            "Price_per_m²": 1986.0,
+            "Price": 111200.0,
+            "m²": 55.99,
+            "Address": "Āpšu 4"
+        },
+        {
+            "Price_per_m²": 2101.0,
+            "Price": 395000.0,
+            "m²": 188.01,
+            "Address": "Jelgavas 63"
+        },
+        {
+            "Price_per_m²": 674.0,
+            "Price": 31000.0,
+            "m²": 45.99,
+            "Address": "Altonavas 17"
+        },
+        {
+            "Price_per_m²": 946.0,
+            "Price": 53000.0,
+            "m²": 56.03,
+            "Address": "Jelgavas 92"
+        },
+        {
+            "Price_per_m²": 2018.0,
+            "Price": 113000.0,
+            "m²": 56.0,
+            "Address": "Satiksmes 3"
+        },
+        {
+            "Price_per_m²": 1150.0,
+            "Price": 115000.0,
+            "m²": 100.0,
+            "Address": "Bauskas 29k2"
+        },
+        {
+            "Price_per_m²": 893.0,
+            "Price": 25000.0,
+            "m²": 28.0,
+            "Address": "Vēja 16"
+        },
+        {
+            "Price_per_m²": 1035.0,
+            "Price": 26900.0,
+            "m²": 25.99,
+            "Address": "Robežu 24"
+        },
+        {
+            "Price_per_m²": 2381.0,
+            "Price": 150000.0,
+            "m²": 63.0,
+            "Address": "Mūkusalas 29"
+        },
+        {
+            "Price_per_m²": 1753.0,
+            "Price": 135000.0,
+            "m²": 77.01,
+            "Address": "Neretas 2"
+        },
+        {
+            "Price_per_m²": 2941.0,
+            "Price": 41180.0,
+            "m²": 14.0,
+            "Address": "Jelgavas 14"
+        },
+        {
+            "Price_per_m²": 2913.0,
+            "Price": 64090.0,
+            "m²": 22.0,
+            "Address": "Jelgavas 14"
+        },
+        {
+            "Price_per_m²": 2931.0,
+            "Price": 82070.0,
+            "m²": 28.0,
+            "Address": "Jelgavas 14"
+        },
+        {
+            "Price_per_m²": 2935.0,
+            "Price": 73370.0,
+            "m²": 25.0,
+            "Address": "Jelgavas 14"
+        },
+        {
+            "Price_per_m²": 2093.0,
+            "Price": 113043.0,
+            "m²": 54.01,
+            "Address": "Āpšu 4"
+        },
+        {
+            "Price_per_m²": 781.0,
+            "Price": 25000.0,
+            "m²": 32.01,
+            "Address": "Indriķa 18"
+        },
+        {
+            "Price_per_m²": 986.0,
+            "Price": 71000.0,
+            "m²": 72.01,
+            "Address": "Indriķa 18"
+        },
+        {
+            "Price_per_m²": 894.0,
+            "Price": 29500.0,
+            "m²": 33.0,
+            "Address": "Āpšu 3"
+        },
+        {
+            "Price_per_m²": 2009.0,
+            "Price": 136600.0,
+            "m²": 67.99,
+            "Address": "Bauskas 57"
+        },
+        {
+            "Price_per_m²": 535.0,
+            "Price": 12300.0,
+            "m²": 22.99,
+            "Address": "Ludviķa 1"
+        },
+        {
+            "Price_per_m²": 2101.0,
+            "Price": 395000.0,
+            "m²": 188.01,
+            "Address": "Jelgavas 63"
+        },
+        {
+            "Price_per_m²": 674.0,
+            "Price": 31000.0,
+            "m²": 45.99,
+            "Address": "Altonavas 17"
+        },
+        {
+            "Price_per_m²": 946.0,
+            "Price": 53000.0,
+            "m²": 56.03,
+            "Address": "Jelgavas 92"
+        },
+        {
+            "Price_per_m²": 2018.0,
+            "Price": 113000.0,
+            "m²": 56.0,
+            "Address": "Satiksmes 3"
+        },
+        {
+            "Price_per_m²": 1150.0,
+            "Price": 115000.0,
+            "m²": 100.0,
+            "Address": "Bauskas 29k2"
+        },
+        {
+            "Price_per_m²": 893.0,
+            "Price": 25000.0,
+            "m²": 28.0,
+            "Address": "Vēja 16"
+        },
+        {
+            "Price_per_m²": 1035.0,
+            "Price": 26900.0,
+            "m²": 25.99,
+            "Address": "Robežu 24"
+        },
+        {
+            "Price_per_m²": 2381.0,
+            "Price": 150000.0,
+            "m²": 63.0,
+            "Address": "Mūkusalas 29"
+        },
+        {
+            "Price_per_m²": 1753.0,
+            "Price": 135000.0,
+            "m²": 77.01,
+            "Address": "Neretas 2"
+        },
+        {
+            "Price_per_m²": 2941.0,
+            "Price": 41180.0,
+            "m²": 14.0,
+            "Address": "Jelgavas 14"
+        },
+        {
+            "Price_per_m²": 2913.0,
+            "Price": 64090.0,
+            "m²": 22.0,
+            "Address": "Jelgavas 14"
+        },
+        {
+            "Price_per_m²": 2931.0,
+            "Price": 82070.0,
+            "m²": 28.0,
+            "Address": "Jelgavas 14"
+        },
+        {
+            "Price_per_m²": 2935.0,
+            "Price": 73370.0,
+            "m²": 25.0,
+            "Address": "Jelgavas 14"
+        },
+        {
+            "Price_per_m²": 2093.0,
+            "Price": 113043.0,
+            "m²": 54.01,
+            "Address": "Āpšu 4"
+        },
+        {
+            "Price_per_m²": 781.0,
+            "Price": 25000.0,
+            "m²": 32.01,
+            "Address": "Indriķa 18"
+        },
+        {
+            "Price_per_m²": 986.0,
+            "Price": 71000.0,
+            "m²": 72.01,
+            "Address": "Indriķa 18"
+        },
+        {
+            "Price_per_m²": 894.0,
+            "Price": 29500.0,
+            "m²": 33.0,
+            "Address": "Āpšu 3"
+        },
+        {
+            "Price_per_m²": 2009.0,
+            "Price": 136600.0,
+            "m²": 67.99,
+            "Address": "Bauskas 57"
+        },
+        {
+            "Price_per_m²": 535.0,
+            "Price": 12300.0,
+            "m²": 22.99,
+            "Address": "Ludviķa 1"
+        },
+        {
+            "Price_per_m²": 2101.0,
+            "Price": 395000.0,
+            "m²": 188.01,
+            "Address": "Jelgavas 63"
+        },
+        {
+            "Price_per_m²": 674.0,
+            "Price": 31000.0,
+            "m²": 45.99,
+            "Address": "Altonavas 17"
+        },
+        {
+            "Price_per_m²": 946.0,
+            "Price": 53000.0,
+            "m²": 56.03,
+            "Address": "Jelgavas 92"
+        },
+        {
+            "Price_per_m²": 2018.0,
+            "Price": 113000.0,
+            "m²": 56.0,
+            "Address": "Satiksmes 3"
+        },
+        {
+            "Price_per_m²": 1150.0,
+            "Price": 115000.0,
+            "m²": 100.0,
+            "Address": "Bauskas 29k2"
+        },
+        {
+            "Price_per_m²": 893.0,
+            "Price": 25000.0,
+            "m²": 28.0,
+            "Address": "Vēja 16"
+        },
+        {
+            "Price_per_m²": 1035.0,
+            "Price": 26900.0,
+            "m²": 25.99,
+            "Address": "Robežu 24"
+        },
+        {
+            "Price_per_m²": 2381.0,
+            "Price": 150000.0,
+            "m²": 63.0,
+            "Address": "Mūkusalas 29"
+        },
+        {
+            "Price_per_m²": 1753.0,
+            "Price": 135000.0,
+            "m²": 77.01,
+            "Address": "Neretas 2"
+        },
+        {
+            "Price_per_m²": 2941.0,
+            "Price": 41180.0,
+            "m²": 14.0,
+            "Address": "Jelgavas 14"
+        },
+        {
+            "Price_per_m²": 2913.0,
+            "Price": 64090.0,
+            "m²": 22.0,
+            "Address": "Jelgavas 14"
+        },
+        {
+            "Price_per_m²": 2931.0,
+            "Price": 82070.0,
+            "m²": 28.0,
+            "Address": "Jelgavas 14"
+        },
+        {
+            "Price_per_m²": 2935.0,
+            "Price": 73370.0,
+            "m²": 25.0,
+            "Address": "Jelgavas 14"
+        },
+        {
+            "Price_per_m²": 2093.0,
+            "Price": 113043.0,
+            "m²": 54.01,
+            "Address": "Āpšu 4"
+        },
+        {
+            "Price_per_m²": 781.0,
+            "Price": 25000.0,
+            "m²": 32.01,
+            "Address": "Indriķa 18"
+        },
+        {
+            "Price_per_m²": 986.0,
+            "Price": 71000.0,
+            "m²": 72.01,
+            "Address": "Indriķa 18"
+        },
+        {
+            "Price_per_m²": 894.0,
+            "Price": 29500.0,
+            "m²": 33.0,
+            "Address": "Āpšu 3"
+        },
+        {
+            "Price_per_m²": 2009.0,
+            "Price": 136600.0,
+            "m²": 67.99,
+            "Address": "Bauskas 57"
+        },
+        {
+            "Price_per_m²": 535.0,
+            "Price": 12300.0,
+            "m²": 22.99,
+            "Address": "Ludviķa 1"
+        },
+        {
+            "Price_per_m²": 2101.0,
+            "Price": 395000.0,
+            "m²": 188.01,
+            "Address": "Jelgavas 63"
+        },
+        {
+            "Price_per_m²": 674.0,
+            "Price": 31000.0,
+            "m²": 45.99,
+            "Address": "Altonavas 17"
+        },
+        {
+            "Price_per_m²": 946.0,
+            "Price": 53000.0,
+            "m²": 56.03,
+            "Address": "Jelgavas 92"
+        },
+        {
+            "Price_per_m²": 2018.0,
+            "Price": 113000.0,
+            "m²": 56.0,
+            "Address": "Satiksmes 3"
+        },
+        {
+            "Price_per_m²": 1150.0,
+            "Price": 115000.0,
+            "m²": 100.0,
+            "Address": "Bauskas 29k2"
+        },
+        {
+            "Price_per_m²": 893.0,
+            "Price": 25000.0,
+            "m²": 28.0,
+            "Address": "Vēja 16"
+        },
+        {
+            "Price_per_m²": 1035.0,
+            "Price": 26900.0,
+            "m²": 25.99,
+            "Address": "Robežu 24"
+        },
+        {
+            "Price_per_m²": 2381.0,
+            "Price": 150000.0,
+            "m²": 63.0,
+            "Address": "Mūkusalas 29"
+        },
+        {
+            "Price_per_m²": 1753.0,
+            "Price": 135000.0,
+            "m²": 77.01,
+            "Address": "Neretas 2"
+        },
+        {
+            "Price_per_m²": 2941.0,
+            "Price": 41180.0,
+            "m²": 14.0,
+            "Address": "Jelgavas 14"
+        },
+        {
+            "Price_per_m²": 2913.0,
+            "Price": 64090.0,
+            "m²": 22.0,
+            "Address": "Jelgavas 14"
+        },
+        {
+            "Price_per_m²": 2931.0,
+            "Price": 82070.0,
+            "m²": 28.0,
+            "Address": "Jelgavas 14"
+        },
+        {
+            "Price_per_m²": 2935.0,
+            "Price": 73370.0,
+            "m²": 25.0,
+            "Address": "Jelgavas 14"
+        },
+        {
+            "Price_per_m²": 2093.0,
+            "Price": 113043.0,
+            "m²": 54.01,
+            "Address": "Āpšu 4"
+        },
+        {
+            "Price_per_m²": 781.0,
+            "Price": 25000.0,
+            "m²": 32.01,
+            "Address": "Indriķa 18"
+        },
+        {
+            "Price_per_m²": 986.0,
+            "Price": 71000.0,
+            "m²": 72.01,
+            "Address": "Indriķa 18"
+        },
+        {
+            "Price_per_m²": 894.0,
+            "Price": 29500.0,
+            "m²": 33.0,
+            "Address": "Āpšu 3"
+        },
+        {
+            "Price_per_m²": 2009.0,
+            "Price": 136600.0,
+            "m²": 67.99,
+            "Address": "Bauskas 57"
+        },
+        {
+            "Price_per_m²": 535.0,
+            "Price": 12300.0,
+            "m²": 22.99,
+            "Address": "Ludviķa 1"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 6.88,
+            "Price": 220.0,
+            "m²": 31.98,
+            "Address": "Vienības g. 102"
+        },
+        {
+            "Price_per_m²": 13.18,
+            "Price": 290.0,
+            "m²": 22.0,
+            "Address": "Olīvu 5"
+        },
+        {
+            "Price_per_m²": 4.23,
+            "Price": 300.0,
+            "m²": 70.92,
+            "Address": "Robežu 18"
+        },
+        {
+            "Price_per_m²": 11.88,
+            "Price": 570.0,
+            "m²": 47.98,
+            "Address": "Ģimnastikas 19a"
+        },
+        {
+            "Price_per_m²": 13.75,
+            "Price": 550.0,
+            "m²": 40.0,
+            "Address": "Torņakalna 2"
+        },
+        {
+            "Price_per_m²": 6.96,
+            "Price": 160.0,
+            "m²": 22.99,
+            "Address": "Jelgavas 62/64"
+        },
+        {
+            "Price_per_m²": 4.0,
+            "Price": 500.0,
+            "m²": 125.0,
+            "Address": "Dīķa 22"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 200.0,
+            "m²": 29.99,
+            "Address": "Altonavas 9"
+        },
+        {
+            "Price_per_m²": 5.56,
+            "Price": 250.0,
+            "m²": 44.96,
+            "Address": "Altonavas 9"
+        },
+        {
+            "Price_per_m²": 12.69,
+            "Price": 495.0,
+            "m²": 39.01,
+            "Address": "Ludviķa 2"
+        },
+        {
+            "Price_per_m²": 6.88,
+            "Price": 220.0,
+            "m²": 31.98,
+            "Address": "Vienības g. 102"
+        },
+        {
+            "Price_per_m²": 13.18,
+            "Price": 290.0,
+            "m²": 22.0,
+            "Address": "Olīvu 5"
+        },
+        {
+            "Price_per_m²": 4.23,
+            "Price": 300.0,
+            "m²": 70.92,
+            "Address": "Robežu 18"
+        },
+        {
+            "Price_per_m²": 11.88,
+            "Price": 570.0,
+            "m²": 47.98,
+            "Address": "Ģimnastikas 19a"
+        },
+        {
+            "Price_per_m²": 13.75,
+            "Price": 550.0,
+            "m²": 40.0,
+            "Address": "Torņakalna 2"
+        },
+        {
+            "Price_per_m²": 6.96,
+            "Price": 160.0,
+            "m²": 22.99,
+            "Address": "Jelgavas 62/64"
+        },
+        {
+            "Price_per_m²": 4.0,
+            "Price": 500.0,
+            "m²": 125.0,
+            "Address": "Dīķa 22"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 200.0,
+            "m²": 29.99,
+            "Address": "Altonavas 9"
+        },
+        {
+            "Price_per_m²": 6.88,
+            "Price": 220.0,
+            "m²": 31.98,
+            "Address": "Vienības g. 102"
+        },
+        {
+            "Price_per_m²": 13.18,
+            "Price": 290.0,
+            "m²": 22.0,
+            "Address": "Olīvu 5"
+        },
+        {
+            "Price_per_m²": 4.23,
+            "Price": 300.0,
+            "m²": 70.92,
+            "Address": "Robežu 18"
+        },
+        {
+            "Price_per_m²": 11.88,
+            "Price": 570.0,
+            "m²": 47.98,
+            "Address": "Ģimnastikas 19a"
+        },
+        {
+            "Price_per_m²": 13.75,
+            "Price": 550.0,
+            "m²": 40.0,
+            "Address": "Torņakalna 2"
+        },
+        {
+            "Price_per_m²": 6.96,
+            "Price": 160.0,
+            "m²": 22.99,
+            "Address": "Jelgavas 62/64"
+        },
+        {
+            "Price_per_m²": 4.0,
+            "Price": 500.0,
+            "m²": 125.0,
+            "Address": "Dīķa 22"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 200.0,
+            "m²": 29.99,
+            "Address": "Altonavas 9"
+        },
+        {
+            "Price_per_m²": 6.88,
+            "Price": 220.0,
+            "m²": 31.98,
+            "Address": "Vienības g. 102"
+        },
+        {
+            "Price_per_m²": 13.18,
+            "Price": 290.0,
+            "m²": 22.0,
+            "Address": "Olīvu 5"
+        },
+        {
+            "Price_per_m²": 4.23,
+            "Price": 300.0,
+            "m²": 70.92,
+            "Address": "Robežu 18"
+        },
+        {
+            "Price_per_m²": 11.88,
+            "Price": 570.0,
+            "m²": 47.98,
+            "Address": "Ģimnastikas 19a"
+        },
+        {
+            "Price_per_m²": 13.75,
+            "Price": 550.0,
+            "m²": 40.0,
+            "Address": "Torņakalna 2"
+        },
+        {
+            "Price_per_m²": 6.96,
+            "Price": 160.0,
+            "m²": 22.99,
+            "Address": "Jelgavas 62/64"
+        },
+        {
+            "Price_per_m²": 4.0,
+            "Price": 500.0,
+            "m²": 125.0,
+            "Address": "Dīķa 22"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 200.0,
+            "m²": 29.99,
+            "Address": "Altonavas 9"
+        },
+        {
+            "Price_per_m²": 6.88,
+            "Price": 220.0,
+            "m²": 31.98,
+            "Address": "Vienības g. 102"
+        },
+        {
+            "Price_per_m²": 13.18,
+            "Price": 290.0,
+            "m²": 22.0,
+            "Address": "Olīvu 5"
+        },
+        {
+            "Price_per_m²": 4.23,
+            "Price": 300.0,
+            "m²": 70.92,
+            "Address": "Robežu 18"
+        },
+        {
+            "Price_per_m²": 11.88,
+            "Price": 570.0,
+            "m²": 47.98,
+            "Address": "Ģimnastikas 19a"
+        },
+        {
+            "Price_per_m²": 13.75,
+            "Price": 550.0,
+            "m²": 40.0,
+            "Address": "Torņakalna 2"
+        },
+        {
+            "Price_per_m²": 6.96,
+            "Price": 160.0,
+            "m²": 22.99,
+            "Address": "Jelgavas 62/64"
+        },
+        {
+            "Price_per_m²": 4.0,
+            "Price": 500.0,
+            "m²": 125.0,
+            "Address": "Dīķa 22"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 200.0,
+            "m²": 29.99,
+            "Address": "Altonavas 9"
+        }
+    ],
+    "daily": []
+}

@@ -1,0 +1,2066 @@
+[
+    {
+        "Price_per_m²": 2086.0,
+        "Price": 279500.0,
+        "m²": 133.99,
+        "Address": "Indrānu 8"
+    },
+    {
+        "Price_per_m²": 2206.0,
+        "Price": 225000.0,
+        "m²": 101.99,
+        "Address": "Brīvības 39А"
+    },
+    {
+        "Price_per_m²": 1635.0,
+        "Price": 85000.0,
+        "m²": 51.99,
+        "Address": "Brīvības 92/94"
+    },
+    {
+        "Price_per_m²": 1766.0,
+        "Price": 83000.0,
+        "m²": 47.0,
+        "Address": "Upes 6"
+    },
+    {
+        "Price_per_m²": 2381.0,
+        "Price": 250000.0,
+        "m²": 105.0,
+        "Address": "Brīvības 39A"
+    },
+    {
+        "Price_per_m²": 2222.0,
+        "Price": 120000.0,
+        "m²": 54.01,
+        "Address": "Klijānu 16"
+    },
+    {
+        "Price_per_m²": 1500.0,
+        "Price": 30000.0,
+        "m²": 20.0,
+        "Address": "Klusā 21"
+    },
+    {
+        "Price_per_m²": 1682.0,
+        "Price": 37000.0,
+        "m²": 22.0,
+        "Address": "Miera 101"
+    },
+    {
+        "Price_per_m²": 943.0,
+        "Price": 115000.0,
+        "m²": 121.95,
+        "Address": "Brīvības 159"
+    },
+    {
+        "Price_per_m²": 2800.0,
+        "Price": 98000.0,
+        "m²": 35.0,
+        "Address": "Brīvības 91"
+    },
+    {
+        "Price_per_m²": 1279.0,
+        "Price": 49900.0,
+        "m²": 39.01,
+        "Address": "Miera 95"
+    },
+    {
+        "Price_per_m²": 1838.0,
+        "Price": 125000.0,
+        "m²": 68.01,
+        "Address": "Vesetas 25"
+    },
+    {
+        "Price_per_m²": 1597.0,
+        "Price": 115000.0,
+        "m²": 72.01,
+        "Address": "Senču 7"
+    },
+    {
+        "Price_per_m²": 2312.0,
+        "Price": 289000.0,
+        "m²": 125.0,
+        "Address": "Indrānu 5"
+    },
+    {
+        "Price_per_m²": 1008.0,
+        "Price": 125000.0,
+        "m²": 124.01,
+        "Address": "Brīvības 159"
+    },
+    {
+        "Price_per_m²": 1324.0,
+        "Price": 45000.0,
+        "m²": 33.99,
+        "Address": "Zirņu 5"
+    },
+    {
+        "Price_per_m²": 1405.0,
+        "Price": 59000.0,
+        "m²": 41.99,
+        "Address": "Brīvības 181"
+    },
+    {
+        "Price_per_m²": 1579.0,
+        "Price": 90000.0,
+        "m²": 57.0,
+        "Address": "Brīvības 129"
+    },
+    {
+        "Price_per_m²": 1778.0,
+        "Price": 96000.0,
+        "m²": 53.99,
+        "Address": "Brīvības 162k2"
+    },
+    {
+        "Price_per_m²": 2643.0,
+        "Price": 74000.0,
+        "m²": 28.0,
+        "Address": "Brīvības 91"
+    },
+    {
+        "Price_per_m²": 2500.0,
+        "Price": 100000.0,
+        "m²": 40.0,
+        "Address": "Brīvības 91"
+    },
+    {
+        "Price_per_m²": 2469.0,
+        "Price": 79000.0,
+        "m²": 32.0,
+        "Address": "Brīvības 91"
+    },
+    {
+        "Price_per_m²": 2526.0,
+        "Price": 96000.0,
+        "m²": 38.0,
+        "Address": "Brīvības 91"
+    },
+    {
+        "Price_per_m²": 2679.0,
+        "Price": 75000.0,
+        "m²": 28.0,
+        "Address": "Brīvības 91"
+    },
+    {
+        "Price_per_m²": 2868.0,
+        "Price": 109000.0,
+        "m²": 38.01,
+        "Address": "Brīvības 91"
+    },
+    {
+        "Price_per_m²": 2842.0,
+        "Price": 108000.0,
+        "m²": 38.0,
+        "Address": "Brīvības 91"
+    },
+    {
+        "Price_per_m²": 2944.0,
+        "Price": 106000.0,
+        "m²": 36.01,
+        "Address": "Brīvības 91"
+    },
+    {
+        "Price_per_m²": 2667.0,
+        "Price": 72000.0,
+        "m²": 27.0,
+        "Address": "Brīvības 91"
+    },
+    {
+        "Price_per_m²": 2792.0,
+        "Price": 67000.0,
+        "m²": 24.0,
+        "Address": "Brīvības 91"
+    },
+    {
+        "Price_per_m²": 2368.0,
+        "Price": 135000.0,
+        "m²": 57.01,
+        "Address": "Brīvības 91"
+    },
+    {
+        "Price_per_m²": 1145.0,
+        "Price": 80155.0,
+        "m²": 70.0,
+        "Address": "Brīvības 158"
+    },
+    {
+        "Price_per_m²": 1163.0,
+        "Price": 62800.0,
+        "m²": 54.0,
+        "Address": "Hospitāļu 25"
+    },
+    {
+        "Price_per_m²": 1563.0,
+        "Price": 75000.0,
+        "m²": 47.98,
+        "Address": "Brīvības 127"
+    },
+    {
+        "Price_per_m²": 1580.0,
+        "Price": 88500.0,
+        "m²": 56.01,
+        "Address": "Hospitāļu 7"
+    },
+    {
+        "Price_per_m²": 1538.0,
+        "Price": 80000.0,
+        "m²": 52.02,
+        "Address": "Brīvības 90"
+    },
+    {
+        "Price_per_m²": 694.0,
+        "Price": 11100.0,
+        "m²": 15.99,
+        "Address": "Ieroču 6"
+    },
+    {
+        "Price_per_m²": 889.0,
+        "Price": 32000.0,
+        "m²": 36.0,
+        "Address": "Klusā 20"
+    },
+    {
+        "Price_per_m²": 1383.0,
+        "Price": 112000.0,
+        "m²": 80.98,
+        "Address": "Brīvības 158"
+    },
+    {
+        "Price_per_m²": 2216.0,
+        "Price": 113000.0,
+        "m²": 50.99,
+        "Address": "Miera 93"
+    },
+    {
+        "Price_per_m²": 1745.0,
+        "Price": 89000.0,
+        "m²": 51.0,
+        "Address": "Brīvības 148"
+    },
+    {
+        "Price_per_m²": 1616.0,
+        "Price": 69500.0,
+        "m²": 43.01,
+        "Address": "Upes 10A"
+    },
+    {
+        "Price_per_m²": 1376.0,
+        "Price": 50900.0,
+        "m²": 36.99,
+        "Address": "Klusā 20"
+    },
+    {
+        "Price_per_m²": 1396.0,
+        "Price": 74000.0,
+        "m²": 53.01,
+        "Address": "Miera 76"
+    },
+    {
+        "Price_per_m²": 1000.0,
+        "Price": 33000.0,
+        "m²": 33.0,
+        "Address": "Miera 101"
+    },
+    {
+        "Price_per_m²": 2313.0,
+        "Price": 259000.0,
+        "m²": 111.98,
+        "Address": "Vesetas 15"
+    },
+    {
+        "Price_per_m²": 1233.0,
+        "Price": 37000.0,
+        "m²": 30.01,
+        "Address": "Miera 101"
+    },
+    {
+        "Price_per_m²": 607.0,
+        "Price": 17000.0,
+        "m²": 28.01,
+        "Address": "Ēveles 5"
+    },
+    {
+        "Price_per_m²": 3973.0,
+        "Price": 735000.0,
+        "m²": 185.0,
+        "Address": "Vesetas 6"
+    },
+    {
+        "Price_per_m²": 1471.0,
+        "Price": 49999.0,
+        "m²": 33.99,
+        "Address": "Hospitāļu 7"
+    },
+    {
+        "Price_per_m²": 1518.0,
+        "Price": 85000.0,
+        "m²": 55.99,
+        "Address": "Upes 2a"
+    },
+    {
+        "Price_per_m²": 2279.0,
+        "Price": 155000.0,
+        "m²": 68.01,
+        "Address": "Brīvības 84"
+    },
+    {
+        "Price_per_m²": 1563.0,
+        "Price": 125000.0,
+        "m²": 79.97,
+        "Address": "Klusā 23"
+    },
+    {
+        "Price_per_m²": 2032.0,
+        "Price": 63000.0,
+        "m²": 31.0,
+        "Address": "Klijānu 20"
+    },
+    {
+        "Price_per_m²": 1638.0,
+        "Price": 68800.0,
+        "m²": 42.0,
+        "Address": "Indrānu 21"
+    },
+    {
+        "Price_per_m²": 2120.0,
+        "Price": 195000.0,
+        "m²": 91.98,
+        "Address": "Brīvības 74"
+    },
+    {
+        "Price_per_m²": 2913.0,
+        "Price": 370000.0,
+        "m²": 127.02,
+        "Address": "Brīvības 46"
+    },
+    {
+        "Price_per_m²": 1458.0,
+        "Price": 35000.0,
+        "m²": 24.01,
+        "Address": "Hospitāļu 3"
+    },
+    {
+        "Price_per_m²": 1464.0,
+        "Price": 41000.0,
+        "m²": 28.01,
+        "Address": "Klusā 7"
+    },
+    {
+        "Price_per_m²": 2683.0,
+        "Price": 110000.0,
+        "m²": 41.0,
+        "Address": "Mēness 22"
+    },
+    {
+        "Price_per_m²": 2310.0,
+        "Price": 97000.0,
+        "m²": 41.99,
+        "Address": "Miera 74"
+    },
+    {
+        "Price_per_m²": 1407.0,
+        "Price": 114000.0,
+        "m²": 81.02,
+        "Address": "Brīvības 158"
+    },
+    {
+        "Price_per_m²": 2321.0,
+        "Price": 259900.0,
+        "m²": 111.98,
+        "Address": "Brīvības 52"
+    },
+    {
+        "Price_per_m²": 1527.0,
+        "Price": 200000.0,
+        "m²": 130.98,
+        "Address": "Brīvības 99"
+    },
+    {
+        "Price_per_m²": 1404.0,
+        "Price": 139000.0,
+        "m²": 99.0,
+        "Address": "Vesetas 10"
+    },
+    {
+        "Price_per_m²": 2076.0,
+        "Price": 153624.0,
+        "m²": 74.0,
+        "Address": "Brīvības 183 k-1"
+    },
+    {
+        "Price_per_m²": 1024.0,
+        "Price": 43000.0,
+        "m²": 41.99,
+        "Address": "Miera 101"
+    },
+    {
+        "Price_per_m²": 1732.0,
+        "Price": 329000.0,
+        "m²": 189.95,
+        "Address": "Hospitāļu 38"
+    },
+    {
+        "Price_per_m²": 975.0,
+        "Price": 119000.0,
+        "m²": 122.05,
+        "Address": "Brīvības 159"
+    },
+    {
+        "Price_per_m²": 329.0,
+        "Price": 11500.0,
+        "m²": 34.95,
+        "Address": "Ieroču 6"
+    },
+    {
+        "Price_per_m²": 2556.0,
+        "Price": 115000.0,
+        "m²": 44.99,
+        "Address": "Brīvības 59"
+    },
+    {
+        "Price_per_m²": 1306.0,
+        "Price": 141000.0,
+        "m²": 107.96,
+        "Address": "Brīvības 114"
+    },
+    {
+        "Price_per_m²": 1350.0,
+        "Price": 270000.0,
+        "m²": 200.0,
+        "Address": "Klijānu 16"
+    },
+    {
+        "Price_per_m²": 1413.0,
+        "Price": 65000.0,
+        "m²": 46.0,
+        "Address": "Brīvības 160"
+    },
+    {
+        "Price_per_m²": 1568.0,
+        "Price": 79980.0,
+        "m²": 51.01,
+        "Address": "Hospitāļu 33A"
+    },
+    {
+        "Price_per_m²": 1420.0,
+        "Price": 35500.0,
+        "m²": 25.0,
+        "Address": "Klusā 7"
+    },
+    {
+        "Price_per_m²": 1427.0,
+        "Price": 117000.0,
+        "m²": 81.99,
+        "Address": "Brīvības 104"
+    },
+    {
+        "Price_per_m²": 1630.0,
+        "Price": 44000.0,
+        "m²": 26.99,
+        "Address": "Klusā 7"
+    },
+    {
+        "Price_per_m²": 1773.0,
+        "Price": 39000.0,
+        "m²": 22.0,
+        "Address": "Klusā 7"
+    },
+    {
+        "Price_per_m²": 1682.0,
+        "Price": 37000.0,
+        "m²": 22.0,
+        "Address": "Klusā 7"
+    },
+    {
+        "Price_per_m²": 1346.0,
+        "Price": 35000.0,
+        "m²": 26.0,
+        "Address": "Klusā 7"
+    },
+    {
+        "Price_per_m²": 1074.0,
+        "Price": 29000.0,
+        "m²": 27.0,
+        "Address": "Klusā 7"
+    },
+    {
+        "Price_per_m²": 1268.0,
+        "Price": 52000.0,
+        "m²": 41.01,
+        "Address": "Klusā 7A"
+    },
+    {
+        "Price_per_m²": 1276.0,
+        "Price": 37000.0,
+        "m²": 29.0,
+        "Address": "Klusā 7A"
+    },
+    {
+        "Price_per_m²": 1923.0,
+        "Price": 100000.0,
+        "m²": 52.0,
+        "Address": "Brīvības 66"
+    },
+    {
+        "Price_per_m²": 985.0,
+        "Price": 32500.0,
+        "m²": 32.99,
+        "Address": "Klusā 7"
+    },
+    {
+        "Price_per_m²": 1620.0,
+        "Price": 175000.0,
+        "m²": 108.02,
+        "Address": "Brīvības 142"
+    },
+    {
+        "Price_per_m²": 2055.0,
+        "Price": 150000.0,
+        "m²": 72.99,
+        "Address": "Miera 76"
+    },
+    {
+        "Price_per_m²": 2000.0,
+        "Price": 102000.0,
+        "m²": 51.0,
+        "Address": "Vesetas 25"
+    },
+    {
+        "Price_per_m²": 853.0,
+        "Price": 29000.0,
+        "m²": 34.0,
+        "Address": "Cēsu 30"
+    },
+    {
+        "Price_per_m²": 1529.0,
+        "Price": 52000.0,
+        "m²": 34.01,
+        "Address": "Upes 2a"
+    },
+    {
+        "Price_per_m²": 1280.0,
+        "Price": 44800.0,
+        "m²": 35.0,
+        "Address": "Hospitāļu 7"
+    },
+    {
+        "Price_per_m²": 944.0,
+        "Price": 58500.0,
+        "m²": 61.97,
+        "Address": "Brīvības 156"
+    },
+    {
+        "Price_per_m²": 2500.0,
+        "Price": 259990.0,
+        "m²": 104.0,
+        "Address": "Brīvības 39A"
+    },
+    {
+        "Price_per_m²": 1590.0,
+        "Price": 52480.0,
+        "m²": 33.01,
+        "Address": "Brīvības 146"
+    },
+    {
+        "Price_per_m²": 1607.0,
+        "Price": 172000.0,
+        "m²": 107.03,
+        "Address": "Brīvības 72"
+    },
+    {
+        "Price_per_m²": 2185.0,
+        "Price": 142000.0,
+        "m²": 64.99,
+        "Address": "Brīvības 95"
+    },
+    {
+        "Price_per_m²": 1426.0,
+        "Price": 134000.0,
+        "m²": 93.97,
+        "Address": "Brīvības 142"
+    },
+    {
+        "Price_per_m²": 2078.0,
+        "Price": 106000.0,
+        "m²": 51.01,
+        "Address": "Brīvības 142"
+    },
+    {
+        "Price_per_m²": 1573.0,
+        "Price": 86500.0,
+        "m²": 54.99,
+        "Address": "Brīvības 132"
+    },
+    {
+        "Price_per_m²": 857.0,
+        "Price": 42000.0,
+        "m²": 49.01,
+        "Address": "Zirņu 5"
+    },
+    {
+        "Price_per_m²": 1700.0,
+        "Price": 51000.0,
+        "m²": 30.0,
+        "Address": "Zirņu 4"
+    },
+    {
+        "Price_per_m²": 893.0,
+        "Price": 50000.0,
+        "m²": 55.99,
+        "Address": "Zirņu 4"
+    },
+    {
+        "Price_per_m²": 1958.0,
+        "Price": 94000.0,
+        "m²": 48.01,
+        "Address": "Mēness 23"
+    },
+    {
+        "Price_per_m²": 2409.0,
+        "Price": 265000.0,
+        "m²": 110.0,
+        "Address": "Brīvības 52"
+    },
+    {
+        "Price_per_m²": 1383.0,
+        "Price": 112000.0,
+        "m²": 80.98,
+        "Address": "Brīvības 158"
+    },
+    {
+        "Price_per_m²": 1382.0,
+        "Price": 47000.0,
+        "m²": 34.01,
+        "Address": "Zirņu 5"
+    },
+    {
+        "Price_per_m²": 2167.0,
+        "Price": 179900.0,
+        "m²": 83.02,
+        "Address": "Brīvības 95"
+    },
+    {
+        "Price_per_m²": 2105.0,
+        "Price": 120000.0,
+        "m²": 57.01,
+        "Address": "Klijānu 16"
+    },
+    {
+        "Price_per_m²": 2105.0,
+        "Price": 120000.0,
+        "m²": 57.01,
+        "Address": "Klijānu 16"
+    },
+    {
+        "Price_per_m²": 1057.0,
+        "Price": 129000.0,
+        "m²": 122.04,
+        "Address": "Brīvības 159"
+    },
+    {
+        "Price_per_m²": 1780.0,
+        "Price": 89000.0,
+        "m²": 50.0,
+        "Address": "Vesetas 25"
+    },
+    {
+        "Price_per_m²": 2000.0,
+        "Price": 180000.0,
+        "m²": 90.0,
+        "Address": "Klijānu 5"
+    },
+    {
+        "Price_per_m²": 645.0,
+        "Price": 39990.0,
+        "m²": 62.0,
+        "Address": "Mēness 14"
+    },
+    {
+        "Price_per_m²": 2378.0,
+        "Price": 195000.0,
+        "m²": 82.0,
+        "Address": "Brīvības 84"
+    },
+    {
+        "Price_per_m²": 2013.0,
+        "Price": 78500.0,
+        "m²": 39.0,
+        "Address": "Klijānu 16"
+    },
+    {
+        "Price_per_m²": 1714.0,
+        "Price": 60000.0,
+        "m²": 35.01,
+        "Address": "Kazarmu 2a"
+    },
+    {
+        "Price_per_m²": 2252.0,
+        "Price": 295000.0,
+        "m²": 130.99,
+        "Address": "Hospitāļu 23"
+    },
+    {
+        "Price_per_m²": 1440.0,
+        "Price": 115200.0,
+        "m²": 80.0,
+        "Address": "Brīvības 158"
+    },
+    {
+        "Price_per_m²": 1590.0,
+        "Price": 97000.0,
+        "m²": 61.01,
+        "Address": "Zirņu 5 k-2"
+    },
+    {
+        "Price_per_m²": 3551.0,
+        "Price": 380000.0,
+        "m²": 107.01,
+        "Address": "Miera 57a"
+    },
+    {
+        "Price_per_m²": 1667.0,
+        "Price": 130000.0,
+        "m²": 77.98,
+        "Address": "Brīvības 111"
+    },
+    {
+        "Price_per_m²": 1148.0,
+        "Price": 62000.0,
+        "m²": 54.01,
+        "Address": "Kazarmu 7"
+    },
+    {
+        "Price_per_m²": 1140.0,
+        "Price": 56990.0,
+        "m²": 49.99,
+        "Address": "Hospitāļu 15"
+    },
+    {
+        "Price_per_m²": 1557.0,
+        "Price": 95000.0,
+        "m²": 61.01,
+        "Address": "Klijānu 5"
+    },
+    {
+        "Price_per_m²": 2246.0,
+        "Price": 128000.0,
+        "m²": 56.99,
+        "Address": "Miera 61"
+    },
+    {
+        "Price_per_m²": 2481.0,
+        "Price": 67000.0,
+        "m²": 27.01,
+        "Address": "Brīvības 150"
+    },
+    {
+        "Price_per_m²": 1341.0,
+        "Price": 55000.0,
+        "m²": 41.01,
+        "Address": "Klusā 20"
+    },
+    {
+        "Price_per_m²": 2340.0,
+        "Price": 189500.0,
+        "m²": 80.98,
+        "Address": "Brīvības 39A"
+    },
+    {
+        "Price_per_m²": 1100.0,
+        "Price": 99000.0,
+        "m²": 90.0,
+        "Address": "Ieroču 1"
+    },
+    {
+        "Price_per_m²": 1625.0,
+        "Price": 208000.0,
+        "m²": 128.0,
+        "Address": "Brīvības 99"
+    },
+    {
+        "Price_per_m²": 1219.0,
+        "Price": 121890.0,
+        "m²": 99.99,
+        "Address": "Brīvības 99"
+    },
+    {
+        "Price_per_m²": 1490.0,
+        "Price": 44700.0,
+        "m²": 30.0,
+        "Address": "Brīvības 146"
+    },
+    {
+        "Price_per_m²": 1464.0,
+        "Price": 61480.0,
+        "m²": 41.99,
+        "Address": "Brīvības 99"
+    },
+    {
+        "Price_per_m²": 1457.0,
+        "Price": 119480.0,
+        "m²": 82.0,
+        "Address": "Brīvības 146"
+    },
+    {
+        "Price_per_m²": 1373.0,
+        "Price": 92000.0,
+        "m²": 67.01,
+        "Address": "Brīvības 154"
+    },
+    {
+        "Price_per_m²": 2792.0,
+        "Price": 67000.0,
+        "m²": 24.0,
+        "Address": "Brīvības 91"
+    },
+    {
+        "Price_per_m²": 1297.0,
+        "Price": 169910.0,
+        "m²": 131.0,
+        "Address": "Brīvības 99"
+    },
+    {
+        "Price_per_m²": 2257.0,
+        "Price": 167000.0,
+        "m²": 73.99,
+        "Address": "Brīvības 80"
+    },
+    {
+        "Price_per_m²": 1130.0,
+        "Price": 61000.0,
+        "m²": 53.98,
+        "Address": "Klijānu 3"
+    },
+    {
+        "Price_per_m²": 1659.0,
+        "Price": 68000.0,
+        "m²": 40.99,
+        "Address": "Brīvības 148"
+    },
+    {
+        "Price_per_m²": 1030.0,
+        "Price": 138000.0,
+        "m²": 133.98,
+        "Address": "Brīvības 148"
+    },
+    {
+        "Price_per_m²": 1721.0,
+        "Price": 120500.0,
+        "m²": 70.02,
+        "Address": "Brīvības 84"
+    },
+    {
+        "Price_per_m²": 1686.0,
+        "Price": 59000.0,
+        "m²": 34.99,
+        "Address": "Klusā 20"
+    },
+    {
+        "Price_per_m²": 2367.0,
+        "Price": 142000.0,
+        "m²": 59.99,
+        "Address": "Miera 58"
+    },
+    {
+        "Price_per_m²": 1107.0,
+        "Price": 135000.0,
+        "m²": 121.95,
+        "Address": "Brīvības 159"
+    },
+    {
+        "Price_per_m²": 388.0,
+        "Price": 23283.0,
+        "m²": 60.01,
+        "Address": "Klijānu 20"
+    },
+    {
+        "Price_per_m²": 1867.0,
+        "Price": 113900.0,
+        "m²": 61.01,
+        "Address": "Miera 29"
+    },
+    {
+        "Price_per_m²": 1600.0,
+        "Price": 88000.0,
+        "m²": 55.0,
+        "Address": "Brīvības 132"
+    },
+    {
+        "Price_per_m²": 1298.0,
+        "Price": 61000.0,
+        "m²": 47.0,
+        "Address": "Hospitāļu 36"
+    },
+    {
+        "Price_per_m²": 1782.0,
+        "Price": 98000.0,
+        "m²": 54.99,
+        "Address": "Klijānu 5"
+    },
+    {
+        "Price_per_m²": 1250.0,
+        "Price": 90000.0,
+        "m²": 72.0,
+        "Address": "Brīvības 111"
+    },
+    {
+        "Price_per_m²": 2500.0,
+        "Price": 125000.0,
+        "m²": 50.0,
+        "Address": "Miera 54a"
+    },
+    {
+        "Price_per_m²": 1390.0,
+        "Price": 57000.0,
+        "m²": 41.01,
+        "Address": "Hospitāļu 16"
+    },
+    {
+        "Price_per_m²": 2281.0,
+        "Price": 130000.0,
+        "m²": 56.99,
+        "Address": "Indrānu 8"
+    },
+    {
+        "Price_per_m²": 1924.0,
+        "Price": 152000.0,
+        "m²": 79.0,
+        "Address": "Indrānu 15"
+    },
+    {
+        "Price_per_m²": 1029.0,
+        "Price": 36000.0,
+        "m²": 34.99,
+        "Address": "Mēness 16"
+    },
+    {
+        "Price_per_m²": 1786.0,
+        "Price": 100000.0,
+        "m²": 55.99,
+        "Address": "Hospitāļu 14"
+    },
+    {
+        "Price_per_m²": 1220.0,
+        "Price": 50000.0,
+        "m²": 40.98,
+        "Address": "Hospitāļu 15"
+    },
+    {
+        "Price_per_m²": 1635.0,
+        "Price": 89900.0,
+        "m²": 54.98,
+        "Address": "Brīvības 132"
+    },
+    {
+        "Price_per_m²": 1765.0,
+        "Price": 150000.0,
+        "m²": 84.99,
+        "Address": "Miera 27"
+    },
+    {
+        "Price_per_m²": 1655.0,
+        "Price": 69500.0,
+        "m²": 41.99,
+        "Address": "Brīvības 334"
+    },
+    {
+        "Price_per_m²": 2235.0,
+        "Price": 38000.0,
+        "m²": 17.0,
+        "Address": "Klijānu 16"
+    },
+    {
+        "Price_per_m²": 2193.0,
+        "Price": 125000.0,
+        "m²": 57.0,
+        "Address": "Indrānu 8"
+    },
+    {
+        "Price_per_m²": 1544.0,
+        "Price": 105000.0,
+        "m²": 68.01,
+        "Address": "Vesetas 25"
+    },
+    {
+        "Price_per_m²": 1780.0,
+        "Price": 89000.0,
+        "m²": 50.0,
+        "Address": "Klijānu 6"
+    },
+    {
+        "Price_per_m²": 1827.0,
+        "Price": 137000.0,
+        "m²": 74.99,
+        "Address": "Vesetas 34"
+    },
+    {
+        "Price_per_m²": 1200.0,
+        "Price": 146400.0,
+        "m²": 122.0,
+        "Address": "Brīvības 159"
+    },
+    {
+        "Price_per_m²": 656.0,
+        "Price": 10500.0,
+        "m²": 16.01,
+        "Address": "Ieroču 6"
+    },
+    {
+        "Price_per_m²": 1019.0,
+        "Price": 55000.0,
+        "m²": 53.97,
+        "Address": "Miera 94"
+    },
+    {
+        "Price_per_m²": 1279.0,
+        "Price": 275000.0,
+        "m²": 215.01,
+        "Address": "Brīvības 139"
+    },
+    {
+        "Price_per_m²": 583.0,
+        "Price": 10500.0,
+        "m²": 18.01,
+        "Address": "Ieroču 6"
+    },
+    {
+        "Price_per_m²": 2589.0,
+        "Price": 189000.0,
+        "m²": 73.0,
+        "Address": "Hospitāļu 39"
+    },
+    {
+        "Price_per_m²": 1700.0,
+        "Price": 170000.0,
+        "m²": 100.0,
+        "Address": "Brīvības 142"
+    },
+    {
+        "Price_per_m²": 1581.0,
+        "Price": 147000.0,
+        "m²": 92.98,
+        "Address": "Vesetas 10"
+    },
+    {
+        "Price_per_m²": 2442.0,
+        "Price": 105000.0,
+        "m²": 43.0,
+        "Address": "Mēness 22"
+    },
+    {
+        "Price_per_m²": 1457.0,
+        "Price": 119480.0,
+        "m²": 82.0,
+        "Address": "Brīvības 146"
+    },
+    {
+        "Price_per_m²": 1505.0,
+        "Price": 45150.0,
+        "m²": 30.0,
+        "Address": "Brīvības 146"
+    },
+    {
+        "Price_per_m²": 1727.0,
+        "Price": 209000.0,
+        "m²": 121.02,
+        "Address": "Brīvības 72k2"
+    },
+    {
+        "Price_per_m²": 1236.0,
+        "Price": 110000.0,
+        "m²": 89.0,
+        "Address": "Brīvības 150"
+    },
+    {
+        "Price_per_m²": 1071.0,
+        "Price": 45000.0,
+        "m²": 42.02,
+        "Address": "Kazarmu 10"
+    },
+    {
+        "Price_per_m²": 1627.0,
+        "Price": 135000.0,
+        "m²": 82.97,
+        "Address": "Brīvības 132"
+    },
+    {
+        "Price_per_m²": 2467.0,
+        "Price": 370000.0,
+        "m²": 149.98,
+        "Address": "Brīvības 84"
+    },
+    {
+        "Price_per_m²": 1667.0,
+        "Price": 55000.0,
+        "m²": 32.99,
+        "Address": "Brīvības 162 K-2"
+    },
+    {
+        "Price_per_m²": 1242.0,
+        "Price": 95660.0,
+        "m²": 77.02,
+        "Address": "Brīvības 99"
+    },
+    {
+        "Price_per_m²": 1185.0,
+        "Price": 150500.0,
+        "m²": 127.0,
+        "Address": "Brīvības 99"
+    },
+    {
+        "Price_per_m²": 1762.0,
+        "Price": 74000.0,
+        "m²": 42.0,
+        "Address": "Hospitāļu 16"
+    },
+    {
+        "Price_per_m²": 1759.0,
+        "Price": 102000.0,
+        "m²": 57.99,
+        "Address": "Klijānu 6"
+    },
+    {
+        "Price_per_m²": 750.0,
+        "Price": 12000.0,
+        "m²": 16.0,
+        "Address": "Ieroču 6"
+    },
+    {
+        "Price_per_m²": 3200.0,
+        "Price": 144000.0,
+        "m²": 45.0,
+        "Address": "Vesetas 26"
+    },
+    {
+        "Price_per_m²": 1805.0,
+        "Price": 157000.0,
+        "m²": 86.98,
+        "Address": "Miera 94"
+    },
+    {
+        "Price_per_m²": 1200.0,
+        "Price": 36000.0,
+        "m²": 30.0,
+        "Address": "Klijānu 20"
+    },
+    {
+        "Price_per_m²": 1295.0,
+        "Price": 167050.0,
+        "m²": 129.0,
+        "Address": "Kazarmu 2A"
+    },
+    {
+        "Price_per_m²": 978.0,
+        "Price": 45000.0,
+        "m²": 46.01,
+        "Address": "Kazarmu 10"
+    },
+    {
+        "Price_per_m²": 2131.0,
+        "Price": 130000.0,
+        "m²": 61.0,
+        "Address": "Brīvības 103"
+    },
+    {
+        "Price_per_m²": 1093.0,
+        "Price": 174900.0,
+        "m²": 160.02,
+        "Address": "Brīvības 132"
+    },
+    {
+        "Price_per_m²": 1911.0,
+        "Price": 430000.0,
+        "m²": 225.01,
+        "Address": "Brīvības 103"
+    },
+    {
+        "Price_per_m²": 2383.0,
+        "Price": 143000.0,
+        "m²": 60.01,
+        "Address": "Miera 58"
+    },
+    {
+        "Price_per_m²": 1417.0,
+        "Price": 51000.0,
+        "m²": 35.99,
+        "Address": "Brīvības 170"
+    },
+    {
+        "Price_per_m²": 1229.0,
+        "Price": 43001.0,
+        "m²": 34.99,
+        "Address": "Hospitāļu 7"
+    },
+    {
+        "Price_per_m²": 1929.0,
+        "Price": 135000.0,
+        "m²": 69.98,
+        "Address": "Brīvības 183"
+    },
+    {
+        "Price_per_m²": 1164.0,
+        "Price": 142000.0,
+        "m²": 121.99,
+        "Address": "Brīvības 159"
+    },
+    {
+        "Price_per_m²": 2758.0,
+        "Price": 146200.0,
+        "m²": 53.01,
+        "Address": "Brīvības 95"
+    },
+    {
+        "Price_per_m²": 1655.0,
+        "Price": 91000.0,
+        "m²": 54.98,
+        "Address": "Brīvības 132"
+    },
+    {
+        "Price_per_m²": 864.0,
+        "Price": 19000.0,
+        "m²": 21.99,
+        "Address": "Ēveles 5"
+    },
+    {
+        "Price_per_m²": 1548.0,
+        "Price": 65000.0,
+        "m²": 41.99,
+        "Address": "Miera 97"
+    },
+    {
+        "Price_per_m²": 1302.0,
+        "Price": 220000.0,
+        "m²": 168.97,
+        "Address": "Hospitāļu 8"
+    },
+    {
+        "Price_per_m²": 1917.0,
+        "Price": 115000.0,
+        "m²": 59.99,
+        "Address": "Zirņu 5 k-2"
+    },
+    {
+        "Price_per_m²": 1200.0,
+        "Price": 59990.0,
+        "m²": 49.99,
+        "Address": "Hospitāļu 13"
+    },
+    {
+        "Price_per_m²": 954.0,
+        "Price": 51500.0,
+        "m²": 53.98,
+        "Address": "Brīvības 148"
+    },
+    {
+        "Price_per_m²": 1864.0,
+        "Price": 82000.0,
+        "m²": 43.99,
+        "Address": "Brīvības 84"
+    },
+    {
+        "Price_per_m²": 1452.0,
+        "Price": 106000.0,
+        "m²": 73.0,
+        "Address": "Ieroču 1"
+    },
+    {
+        "Price_per_m²": 1236.0,
+        "Price": 110000.0,
+        "m²": 89.0,
+        "Address": "Brīvības 150"
+    },
+    {
+        "Price_per_m²": 1650.0,
+        "Price": 135300.0,
+        "m²": 82.0,
+        "Address": "Brīvības 64"
+    },
+    {
+        "Price_per_m²": 1354.0,
+        "Price": 52800.0,
+        "m²": 39.0,
+        "Address": "Hospitāļu 26"
+    },
+    {
+        "Price_per_m²": 1099.0,
+        "Price": 98888.0,
+        "m²": 89.98,
+        "Address": "Ieroču 1"
+    },
+    {
+        "Price_per_m²": 2000.0,
+        "Price": 130000.0,
+        "m²": 65.0,
+        "Address": "Brīvības 132"
+    },
+    {
+        "Price_per_m²": 1159.0,
+        "Price": 76500.0,
+        "m²": 66.01,
+        "Address": "Upes 7"
+    },
+    {
+        "Price_per_m²": 2409.0,
+        "Price": 265000.0,
+        "m²": 110.0,
+        "Address": "Brīvības 52"
+    },
+    {
+        "Price_per_m²": 1340.0,
+        "Price": 104500.0,
+        "m²": 77.99,
+        "Address": "Brīvības 64"
+    },
+    {
+        "Price_per_m²": 1900.0,
+        "Price": 114000.0,
+        "m²": 60.0,
+        "Address": "Cēsu 30"
+    },
+    {
+        "Price_per_m²": 2275.0,
+        "Price": 293500.0,
+        "m²": 129.01,
+        "Address": "Hospitāļu 23"
+    },
+    {
+        "Price_per_m²": 2045.0,
+        "Price": 45000.0,
+        "m²": 22.0,
+        "Address": "Brīvības 148"
+    },
+    {
+        "Price_per_m²": 1340.0,
+        "Price": 109900.0,
+        "m²": 82.01,
+        "Address": "Miera 76"
+    },
+    {
+        "Price_per_m²": 2400.0,
+        "Price": 108000.0,
+        "m²": 45.0,
+        "Address": "Miera 93"
+    },
+    {
+        "Price_per_m²": 2355.0,
+        "Price": 259000.0,
+        "m²": 109.98,
+        "Address": "Vesetas 15"
+    },
+    {
+        "Price_per_m²": 1042.0,
+        "Price": 50000.0,
+        "m²": 47.98,
+        "Address": "Lejas 3B"
+    },
+    {
+        "Price_per_m²": 3000.0,
+        "Price": 168000.0,
+        "m²": 56.0,
+        "Address": "Miera 103"
+    },
+    {
+        "Price_per_m²": 2153.0,
+        "Price": 155000.0,
+        "m²": 71.99,
+        "Address": "Hospitāļu 39"
+    },
+    {
+        "Price_per_m²": 3183.0,
+        "Price": 203700.0,
+        "m²": 64.0,
+        "Address": "Brīvības 95"
+    },
+    {
+        "Price_per_m²": 1667.0,
+        "Price": 55000.0,
+        "m²": 32.99,
+        "Address": "Brīvības 162/2"
+    },
+    {
+        "Price_per_m²": 1159.0,
+        "Price": 64900.0,
+        "m²": 56.0,
+        "Address": "Hospitāļu 7"
+    },
+    {
+        "Price_per_m²": 1090.0,
+        "Price": 45760.0,
+        "m²": 41.98,
+        "Address": "Klijānu 20"
+    },
+    {
+        "Price_per_m²": 1396.0,
+        "Price": 222000.0,
+        "m²": 159.03,
+        "Address": "Brīvības 64"
+    },
+    {
+        "Price_per_m²": 2829.0,
+        "Price": 99000.0,
+        "m²": 34.99,
+        "Address": "Brīvības 91"
+    },
+    {
+        "Price_per_m²": 4938.0,
+        "Price": 800000.0,
+        "m²": 162.01,
+        "Address": "Brīvības 105"
+    },
+    {
+        "Price_per_m²": 3017.0,
+        "Price": 175000.0,
+        "m²": 58.0,
+        "Address": "Vesetas 24"
+    },
+    {
+        "Price_per_m²": 2180.0,
+        "Price": 54500.0,
+        "m²": 25.0,
+        "Address": "Brīvības 114"
+    },
+    {
+        "Price_per_m²": 1514.0,
+        "Price": 109000.0,
+        "m²": 71.99,
+        "Address": "Cēsu 3"
+    },
+    {
+        "Price_per_m²": 1720.0,
+        "Price": 86000.0,
+        "m²": 50.0,
+        "Address": "Vesetas 25"
+    },
+    {
+        "Price_per_m²": 1421.0,
+        "Price": 226000.0,
+        "m²": 159.04,
+        "Address": "Brīvības 64"
+    },
+    {
+        "Price_per_m²": 1262.0,
+        "Price": 53000.0,
+        "m²": 42.0,
+        "Address": "Miera 95"
+    },
+    {
+        "Price_per_m²": 1148.0,
+        "Price": 62000.0,
+        "m²": 54.01,
+        "Address": "Kazarmu 7"
+    },
+    {
+        "Price_per_m²": 2400.0,
+        "Price": 108000.0,
+        "m²": 45.0,
+        "Address": "Miera 93"
+    },
+    {
+        "Price_per_m²": 2156.0,
+        "Price": 138000.0,
+        "m²": 64.01,
+        "Address": "Miera 103"
+    },
+    {
+        "Price_per_m²": 2310.0,
+        "Price": 97000.0,
+        "m²": 41.99,
+        "Address": "Miera 103"
+    },
+    {
+        "Price_per_m²": 1727.0,
+        "Price": 95000.0,
+        "m²": 55.01,
+        "Address": "Brīvības 132"
+    },
+    {
+        "Price_per_m²": 1339.0,
+        "Price": 30800.0,
+        "m²": 23.0,
+        "Address": "Klusā 18"
+    },
+    {
+        "Price_per_m²": 1924.0,
+        "Price": 152000.0,
+        "m²": 79.0,
+        "Address": "Indrānu 15"
+    },
+    {
+        "Price_per_m²": 2841.0,
+        "Price": 179000.0,
+        "m²": 63.01,
+        "Address": "Vesetas 26"
+    },
+    {
+        "Price_per_m²": 952.0,
+        "Price": 157000.0,
+        "m²": 164.92,
+        "Address": "Brīvības 132"
+    },
+    {
+        "Price_per_m²": 2086.0,
+        "Price": 146000.0,
+        "m²": 69.99,
+        "Address": "Hospitāļu 8"
+    },
+    {
+        "Price_per_m²": 1065.0,
+        "Price": 115000.0,
+        "m²": 107.98,
+        "Address": "Ieroču 1"
+    },
+    {
+        "Price_per_m²": 1200.0,
+        "Price": 66000.0,
+        "m²": 55.0,
+        "Address": "Klusā 20"
+    },
+    {
+        "Price_per_m²": 1556.0,
+        "Price": 126000.0,
+        "m²": 80.98,
+        "Address": "Vesetas 34"
+    },
+    {
+        "Price_per_m²": 1244.0,
+        "Price": 53500.0,
+        "m²": 43.01,
+        "Address": "Miera 63"
+    },
+    {
+        "Price_per_m²": 1867.0,
+        "Price": 84000.0,
+        "m²": 44.99,
+        "Address": "Cēsu 43"
+    },
+    {
+        "Price_per_m²": 1359.0,
+        "Price": 62500.0,
+        "m²": 45.99,
+        "Address": "Hospitāļu 17"
+    },
+    {
+        "Price_per_m²": 1703.0,
+        "Price": 54500.0,
+        "m²": 32.0,
+        "Address": "Brīvības 64"
+    },
+    {
+        "Price_per_m²": 781.0,
+        "Price": 89000.0,
+        "m²": 113.96,
+        "Address": "Cēsu 41/1"
+    },
+    {
+        "Price_per_m²": 2962.0,
+        "Price": 157000.0,
+        "m²": 53.0,
+        "Address": "Brīvības 132"
+    },
+    {
+        "Price_per_m²": 1636.0,
+        "Price": 175000.0,
+        "m²": 106.97,
+        "Address": "Brīvības 72k2"
+    },
+    {
+        "Price_per_m²": 1155.0,
+        "Price": 67000.0,
+        "m²": 58.01,
+        "Address": "Brīvības 60"
+    },
+    {
+        "Price_per_m²": 1457.0,
+        "Price": 119480.0,
+        "m²": 82.0,
+        "Address": "Brīvības 146"
+    },
+    {
+        "Price_per_m²": 1539.0,
+        "Price": 41550.0,
+        "m²": 27.0,
+        "Address": "Brīvības 146"
+    },
+    {
+        "Price_per_m²": 2163.0,
+        "Price": 179500.0,
+        "m²": 82.99,
+        "Address": "Miera 105"
+    },
+    {
+        "Price_per_m²": 2889.0,
+        "Price": 260000.0,
+        "m²": 90.0,
+        "Address": "Brīvības 19"
+    },
+    {
+        "Price_per_m²": 2482.0,
+        "Price": 203500.0,
+        "m²": 81.99,
+        "Address": "Brīvības 72"
+    },
+    {
+        "Price_per_m²": 1656.0,
+        "Price": 135800.0,
+        "m²": 82.0,
+        "Address": "Brīvības 64"
+    },
+    {
+        "Price_per_m²": 2983.0,
+        "Price": 179000.0,
+        "m²": 60.01,
+        "Address": "Vesetas 24"
+    },
+    {
+        "Price_per_m²": 1427.0,
+        "Price": 44230.0,
+        "m²": 31.0,
+        "Address": "Brīvības 146"
+    },
+    {
+        "Price_per_m²": 1798.0,
+        "Price": 84500.0,
+        "m²": 47.0,
+        "Address": "Brīvības 147"
+    },
+    {
+        "Price_per_m²": 1266.0,
+        "Price": 135500.0,
+        "m²": 107.03,
+        "Address": "Brīvības 72"
+    },
+    {
+        "Price_per_m²": 2538.0,
+        "Price": 99000.0,
+        "m²": 39.01,
+        "Address": "Brīvības 150"
+    },
+    {
+        "Price_per_m²": 2828.0,
+        "Price": 181000.0,
+        "m²": 64.0,
+        "Address": "Vesetas 26"
+    },
+    {
+        "Price_per_m²": 2319.0,
+        "Price": 160000.0,
+        "m²": 69.0,
+        "Address": "Hospitāļu 39"
+    },
+    {
+        "Price_per_m²": 1700.0,
+        "Price": 85000.0,
+        "m²": 50.0,
+        "Address": "Vesetas 25"
+    },
+    {
+        "Price_per_m²": 1279.0,
+        "Price": 43500.0,
+        "m²": 34.01,
+        "Address": "Vesetas 34"
+    },
+    {
+        "Price_per_m²": 1200.0,
+        "Price": 31200.0,
+        "m²": 26.0,
+        "Address": "Hospitāļu 3"
+    },
+    {
+        "Price_per_m²": 1366.0,
+        "Price": 47800.0,
+        "m²": 34.99,
+        "Address": "Cēsu 13c"
+    },
+    {
+        "Price_per_m²": 1353.0,
+        "Price": 115000.0,
+        "m²": 85.0,
+        "Address": "Ēveles 6"
+    },
+    {
+        "Price_per_m²": 1851.0,
+        "Price": 137000.0,
+        "m²": 74.01,
+        "Address": "Cēsu 43"
+    },
+    {
+        "Price_per_m²": 2400.0,
+        "Price": 300000.0,
+        "m²": 125.0,
+        "Address": "Miera 57a"
+    },
+    {
+        "Price_per_m²": 1184.0,
+        "Price": 43800.0,
+        "m²": 36.99,
+        "Address": "Vesetas 32"
+    },
+    {
+        "Price_per_m²": 1818.0,
+        "Price": 100000.0,
+        "m²": 55.01,
+        "Address": "Brīvības 140"
+    },
+    {
+        "Price_per_m²": 1519.0,
+        "Price": 243000.0,
+        "m²": 159.97,
+        "Address": "Hospitāļu 8"
+    },
+    {
+        "Price_per_m²": 1467.0,
+        "Price": 110000.0,
+        "m²": 74.98,
+        "Address": "Cēsu 43"
+    },
+    {
+        "Price_per_m²": 864.0,
+        "Price": 19000.0,
+        "m²": 21.99,
+        "Address": "Ēveles 5"
+    },
+    {
+        "Price_per_m²": 2202.0,
+        "Price": 185000.0,
+        "m²": 84.01,
+        "Address": "Klijānu 16"
+    },
+    {
+        "Price_per_m²": 1330.0,
+        "Price": 145000.0,
+        "m²": 109.02,
+        "Address": "Brīvības 114"
+    },
+    {
+        "Price_per_m²": 1470.0,
+        "Price": 44100.0,
+        "m²": 30.0,
+        "Address": "Hospitāļu 45"
+    },
+    {
+        "Price_per_m²": 1881.0,
+        "Price": 79000.0,
+        "m²": 42.0,
+        "Address": "Klusā 9"
+    },
+    {
+        "Price_per_m²": 1639.0,
+        "Price": 100000.0,
+        "m²": 61.01,
+        "Address": "Brīvības 163"
+    },
+    {
+        "Price_per_m²": 892.0,
+        "Price": 33000.0,
+        "m²": 37.0,
+        "Address": "Klusā 20"
+    },
+    {
+        "Price_per_m²": 1375.0,
+        "Price": 44000.0,
+        "m²": 32.0,
+        "Address": "Zirņu 1"
+    },
+    {
+        "Price_per_m²": 1390.0,
+        "Price": 63930.0,
+        "m²": 45.99,
+        "Address": "Brīvības 99"
+    },
+    {
+        "Price_per_m²": 1950.0,
+        "Price": 117000.0,
+        "m²": 60.0,
+        "Address": "Zirņu 5-k2"
+    },
+    {
+        "Price_per_m²": 2266.0,
+        "Price": 179000.0,
+        "m²": 78.99,
+        "Address": "Indrānu 15"
+    },
+    {
+        "Price_per_m²": 1650.0,
+        "Price": 330000.0,
+        "m²": 200.0,
+        "Address": "Klijānu 16"
+    },
+    {
+        "Price_per_m²": 3750.0,
+        "Price": 165000.0,
+        "m²": 44.0,
+        "Address": "Vesetas 24"
+    },
+    {
+        "Price_per_m²": 1047.0,
+        "Price": 45000.0,
+        "m²": 42.98,
+        "Address": "Zirņu 4"
+    },
+    {
+        "Price_per_m²": 2772.0,
+        "Price": 219000.0,
+        "m²": 79.0,
+        "Address": "Brīvības 95"
+    },
+    {
+        "Price_per_m²": 2381.0,
+        "Price": 178580.0,
+        "m²": 75.0,
+        "Address": "Brīvības 95"
+    },
+    {
+        "Price_per_m²": 1797.0,
+        "Price": 142000.0,
+        "m²": 79.02,
+        "Address": "Klijānu 6"
+    },
+    {
+        "Price_per_m²": 1903.0,
+        "Price": 59000.0,
+        "m²": 31.0,
+        "Address": "Kazarmu 2a"
+    },
+    {
+        "Price_per_m²": 1951.0,
+        "Price": 119000.0,
+        "m²": 60.99,
+        "Address": "Vesetas 10"
+    },
+    {
+        "Price_per_m²": 1025.0,
+        "Price": 32800.0,
+        "m²": 32.0,
+        "Address": "Cēsu 13C"
+    },
+    {
+        "Price_per_m²": 857.0,
+        "Price": 30000.0,
+        "m²": 35.01,
+        "Address": "Klusā 20"
+    },
+    {
+        "Price_per_m²": 1739.0,
+        "Price": 80000.0,
+        "m²": 46.0,
+        "Address": "Brīvības 132"
+    },
+    {
+        "Price_per_m²": 1160.0,
+        "Price": 58000.0,
+        "m²": 50.0,
+        "Address": "Zirņu 5-1"
+    },
+    {
+        "Price_per_m²": 1491.0,
+        "Price": 85000.0,
+        "m²": 57.01,
+        "Address": "Brīvības 129"
+    },
+    {
+        "Price_per_m²": 2569.0,
+        "Price": 185000.0,
+        "m²": 72.01,
+        "Address": "Cēsu 5"
+    },
+    {
+        "Price_per_m²": 1474.0,
+        "Price": 61888.0,
+        "m²": 41.99,
+        "Address": "Vesetas 28"
+    },
+    {
+        "Price_per_m²": 638.0,
+        "Price": 60000.0,
+        "m²": 94.04,
+        "Address": "Klusā 20"
+    },
+    {
+        "Price_per_m²": 1194.0,
+        "Price": 119400.0,
+        "m²": 100.0,
+        "Address": "Brīvības 99"
+    },
+    {
+        "Price_per_m²": 1746.0,
+        "Price": 151900.0,
+        "m²": 87.0,
+        "Address": "Miera 94"
+    },
+    {
+        "Price_per_m²": 2771.0,
+        "Price": 97000.0,
+        "m²": 35.01,
+        "Address": "Brīvības 95"
+    },
+    {
+        "Price_per_m²": 2927.0,
+        "Price": 360000.0,
+        "m²": 122.99,
+        "Address": "Vesetas 15"
+    },
+    {
+        "Price_per_m²": 1805.0,
+        "Price": 148000.0,
+        "m²": 81.99,
+        "Address": "Miera 54a"
+    },
+    {
+        "Price_per_m²": 2386.0,
+        "Price": 52500.0,
+        "m²": 22.0,
+        "Address": "Brīvības 148"
+    },
+    {
+        "Price_per_m²": 1212.0,
+        "Price": 80000.0,
+        "m²": 66.01,
+        "Address": "Brīvības 99a"
+    },
+    {
+        "Price_per_m²": 1651.0,
+        "Price": 180000.0,
+        "m²": 109.02,
+        "Address": "Ieroču 1"
+    },
+    {
+        "Price_per_m²": 2294.0,
+        "Price": 195000.0,
+        "m²": 85.0,
+        "Address": "Brīvības 95"
+    },
+    {
+        "Price_per_m²": 1365.0,
+        "Price": 50500.0,
+        "m²": 37.0,
+        "Address": "Brīvības 133"
+    },
+    {
+        "Price_per_m²": 1567.0,
+        "Price": 45450.0,
+        "m²": 29.0,
+        "Address": "Ieroču 2"
+    },
+    {
+        "Price_per_m²": 2042.0,
+        "Price": 145000.0,
+        "m²": 71.01,
+        "Address": "Brīvības 80"
+    },
+    {
+        "Price_per_m²": 1535.0,
+        "Price": 109000.0,
+        "m²": 71.01,
+        "Address": "Hospitāļu 28"
+    },
+    {
+        "Price_per_m²": 1604.0,
+        "Price": 85000.0,
+        "m²": 52.99,
+        "Address": "Ieroču 14"
+    },
+    {
+        "Price_per_m²": 2083.0,
+        "Price": 50000.0,
+        "m²": 24.0,
+        "Address": "Brīvības 148"
+    },
+    {
+        "Price_per_m²": 1848.0,
+        "Price": 85000.0,
+        "m²": 46.0,
+        "Address": "Brīvības 134"
+    },
+    {
+        "Price_per_m²": 1411.0,
+        "Price": 64900.0,
+        "m²": 46.0,
+        "Address": "Hospitāļu 15"
+    },
+    {
+        "Price_per_m²": 652.0,
+        "Price": 14990.0,
+        "m²": 22.99,
+        "Address": "Cēsu 13"
+    },
+    {
+        "Price_per_m²": 1400.0,
+        "Price": 63000.0,
+        "m²": 45.0,
+        "Address": "Brīvības 148"
+    },
+    {
+        "Price_per_m²": 2054.0,
+        "Price": 189000.0,
+        "m²": 92.02,
+        "Address": "Brīvības 103"
+    },
+    {
+        "Price_per_m²": 1848.0,
+        "Price": 85000.0,
+        "m²": 46.0,
+        "Address": "Brīvības 132"
+    },
+    {
+        "Price_per_m²": 2625.0,
+        "Price": 147000.0,
+        "m²": 56.0,
+        "Address": "Miera 28"
+    },
+    {
+        "Price_per_m²": 1553.0,
+        "Price": 132000.0,
+        "m²": 85.0,
+        "Address": "Upes 2A"
+    },
+    {
+        "Price_per_m²": 2356.0,
+        "Price": 278000.0,
+        "m²": 118.0,
+        "Address": "Brīvības 39a"
+    },
+    {
+        "Price_per_m²": 1160.0,
+        "Price": 58000.0,
+        "m²": 50.0,
+        "Address": "Zirņu 5k-1"
+    },
+    {
+        "Price_per_m²": 1069.0,
+        "Price": 44900.0,
+        "m²": 42.0,
+        "Address": "Hospitāļu 45a"
+    },
+    {
+        "Price_per_m²": 1712.0,
+        "Price": 56500.0,
+        "m²": 33.0,
+        "Address": "Zirņu 5/2"
+    },
+    {
+        "Price_per_m²": 2458.0,
+        "Price": 118000.0,
+        "m²": 48.01,
+        "Address": "Miera 105"
+    },
+    {
+        "Price_per_m²": 1761.0,
+        "Price": 81000.0,
+        "m²": 46.0,
+        "Address": "Vesetas 10"
+    },
+    {
+        "Price_per_m²": 1531.0,
+        "Price": 73500.0,
+        "m²": 48.01,
+        "Address": "Brīvības 90"
+    },
+    {
+        "Price_per_m²": 1787.0,
+        "Price": 159000.0,
+        "m²": 88.98,
+        "Address": "Brīvības 136"
+    }
+]

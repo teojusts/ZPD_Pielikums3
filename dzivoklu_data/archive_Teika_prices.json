@@ -1,0 +1,3482 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 1037.0,
+            "Price": 28000.0,
+            "m²": 27.0,
+            "Address": "Tālivalža 20/1"
+        },
+        {
+            "Price_per_m²": 1491.0,
+            "Price": 79000.0,
+            "m²": 52.98,
+            "Address": "Ropažu 22"
+        },
+        {
+            "Price_per_m²": 2258.0,
+            "Price": 144500.0,
+            "m²": 63.99,
+            "Address": "Ropažu 14 k-1"
+        },
+        {
+            "Price_per_m²": 1354.0,
+            "Price": 130000.0,
+            "m²": 96.01,
+            "Address": "Lielvārdes 21"
+        },
+        {
+            "Price_per_m²": 1333.0,
+            "Price": 32000.0,
+            "m²": 24.01,
+            "Address": "Brīvības 275 k-1"
+        },
+        {
+            "Price_per_m²": 1538.0,
+            "Price": 100000.0,
+            "m²": 65.02,
+            "Address": "Ropažu 60a"
+        },
+        {
+            "Price_per_m²": 664.0,
+            "Price": 77000.0,
+            "m²": 115.96,
+            "Address": "Ropažu 39"
+        },
+        {
+            "Price_per_m²": 1574.0,
+            "Price": 85000.0,
+            "m²": 54.0,
+            "Address": "Brīvības 358"
+        },
+        {
+            "Price_per_m²": 1654.0,
+            "Price": 43000.0,
+            "m²": 26.0,
+            "Address": "Raunas 36"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 54000.0,
+            "m²": 54.0,
+            "Address": "Zālīša 3"
+        },
+        {
+            "Price_per_m²": 1368.0,
+            "Price": 78000.0,
+            "m²": 57.02,
+            "Address": "Ieriķu 23"
+        },
+        {
+            "Price_per_m²": 2021.0,
+            "Price": 181900.0,
+            "m²": 90.0,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 1715.0,
+            "Price": 102900.0,
+            "m²": 60.0,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 1683.0,
+            "Price": 119500.0,
+            "m²": 71.0,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 2145.0,
+            "Price": 81500.0,
+            "m²": 38.0,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 1985.0,
+            "Price": 135000.0,
+            "m²": 68.01,
+            "Address": "Apes 10"
+        },
+        {
+            "Price_per_m²": 1217.0,
+            "Price": 73000.0,
+            "m²": 59.98,
+            "Address": "Palmu 5"
+        },
+        {
+            "Price_per_m²": 1585.0,
+            "Price": 65000.0,
+            "m²": 41.01,
+            "Address": "Raunas 45k-3"
+        },
+        {
+            "Price_per_m²": 1181.0,
+            "Price": 85000.0,
+            "m²": 71.97,
+            "Address": "Ropažu 56"
+        },
+        {
+            "Price_per_m²": 1381.0,
+            "Price": 87000.0,
+            "m²": 63.0,
+            "Address": "Biķernieku 53"
+        },
+        {
+            "Price_per_m²": 1142.0,
+            "Price": 62800.0,
+            "m²": 54.99,
+            "Address": "Brīvības 209"
+        },
+        {
+            "Price_per_m²": 1752.0,
+            "Price": 127900.0,
+            "m²": 73.0,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 2141.0,
+            "Price": 83500.0,
+            "m²": 39.0,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 1752.0,
+            "Price": 162900.0,
+            "m²": 92.98,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 1870.0,
+            "Price": 230000.0,
+            "m²": 122.99,
+            "Address": "Stūrīša 32"
+        },
+        {
+            "Price_per_m²": 2143.0,
+            "Price": 210000.0,
+            "m²": 97.99,
+            "Address": "Burtnieku 13"
+        },
+        {
+            "Price_per_m²": 907.0,
+            "Price": 49000.0,
+            "m²": 54.02,
+            "Address": "Caunes 17"
+        },
+        {
+            "Price_per_m²": 1782.0,
+            "Price": 180000.0,
+            "m²": 101.01,
+            "Address": "Remīnes 10"
+        },
+        {
+            "Price_per_m²": 1330.0,
+            "Price": 39900.0,
+            "m²": 30.0,
+            "Address": "Ropažu 5"
+        },
+        {
+            "Price_per_m²": 1452.0,
+            "Price": 91500.0,
+            "m²": 63.02,
+            "Address": "Biķernieku 53"
+        },
+        {
+            "Price_per_m²": 1339.0,
+            "Price": 75000.0,
+            "m²": 56.01,
+            "Address": "Brīvības 234"
+        },
+        {
+            "Price_per_m²": 1927.0,
+            "Price": 79000.0,
+            "m²": 41.0,
+            "Address": "Kastrānes 7"
+        },
+        {
+            "Price_per_m²": 1368.0,
+            "Price": 104000.0,
+            "m²": 76.02,
+            "Address": "Ropažu 50"
+        },
+        {
+            "Price_per_m²": 1438.0,
+            "Price": 149500.0,
+            "m²": 103.96,
+            "Address": "Āraišu 24"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 56000.0,
+            "m²": 56.0,
+            "Address": "Tirzas 3"
+        },
+        {
+            "Price_per_m²": 1167.0,
+            "Price": 63000.0,
+            "m²": 53.98,
+            "Address": "Launkalnes 12"
+        },
+        {
+            "Price_per_m²": 1040.0,
+            "Price": 52000.0,
+            "m²": 50.0,
+            "Address": "Biķernieku 10/2"
+        },
+        {
+            "Price_per_m²": 1429.0,
+            "Price": 70000.0,
+            "m²": 48.99,
+            "Address": "Piebalgas 8"
+        },
+        {
+            "Price_per_m²": 1730.0,
+            "Price": 275000.0,
+            "m²": 158.96,
+            "Address": "Aizkraukles 12A"
+        },
+        {
+            "Price_per_m²": 1381.0,
+            "Price": 87000.0,
+            "m²": 63.0,
+            "Address": "Raunas 19"
+        },
+        {
+            "Price_per_m²": 1590.0,
+            "Price": 79500.0,
+            "m²": 50.0,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 1752.0,
+            "Price": 134900.0,
+            "m²": 77.0,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 1909.0,
+            "Price": 156500.0,
+            "m²": 81.98,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 2200.0,
+            "Price": 132000.0,
+            "m²": 60.0,
+            "Address": "Zemgala 80"
+        },
+        {
+            "Price_per_m²": 1283.0,
+            "Price": 46200.0,
+            "m²": 36.01,
+            "Address": "Vangažu 15"
+        },
+        {
+            "Price_per_m²": 1527.0,
+            "Price": 200000.0,
+            "m²": 130.98,
+            "Address": "Brīvības 313"
+        },
+        {
+            "Price_per_m²": 1138.0,
+            "Price": 89900.0,
+            "m²": 79.0,
+            "Address": "Apes 10"
+        },
+        {
+            "Price_per_m²": 1827.0,
+            "Price": 179000.0,
+            "m²": 97.97,
+            "Address": "Biķernieku 16"
+        },
+        {
+            "Price_per_m²": 1858.0,
+            "Price": 118900.0,
+            "m²": 63.99,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 2011.0,
+            "Price": 162900.0,
+            "m²": 81.0,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 1819.0,
+            "Price": 181900.0,
+            "m²": 100.0,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 2023.0,
+            "Price": 78900.0,
+            "m²": 39.0,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 1090.0,
+            "Price": 54500.0,
+            "m²": 50.0,
+            "Address": "Ieriķu 66"
+        },
+        {
+            "Price_per_m²": 1364.0,
+            "Price": 75000.0,
+            "m²": 54.99,
+            "Address": "Brīvības 324"
+        },
+        {
+            "Price_per_m²": 950.0,
+            "Price": 28500.0,
+            "m²": 30.0,
+            "Address": "Brīvības 320"
+        },
+        {
+            "Price_per_m²": 1730.0,
+            "Price": 275000.0,
+            "m²": 158.96,
+            "Address": "Aizkraukles 12A"
+        },
+        {
+            "Price_per_m²": 1725.0,
+            "Price": 144900.0,
+            "m²": 84.0,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 1725.0,
+            "Price": 144900.0,
+            "m²": 84.0,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 1090.0,
+            "Price": 54500.0,
+            "m²": 50.0,
+            "Address": "Ieriķu 66"
+        },
+        {
+            "Price_per_m²": 1143.0,
+            "Price": 32000.0,
+            "m²": 28.0,
+            "Address": "Palmu 20"
+        },
+        {
+            "Price_per_m²": 1550.0,
+            "Price": 77500.0,
+            "m²": 50.0,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 1608.0,
+            "Price": 125400.0,
+            "m²": 77.99,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 2681.0,
+            "Price": 72400.0,
+            "m²": 27.0,
+            "Address": "Vijciema 8"
+        },
+        {
+            "Price_per_m²": 1827.0,
+            "Price": 179000.0,
+            "m²": 97.97,
+            "Address": "Biķernieku 16"
+        },
+        {
+            "Price_per_m²": 1461.0,
+            "Price": 130000.0,
+            "m²": 88.98,
+            "Address": "Zemgala 80"
+        },
+        {
+            "Price_per_m²": 1732.0,
+            "Price": 123000.0,
+            "m²": 71.02,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 1164.0,
+            "Price": 78000.0,
+            "m²": 67.01,
+            "Address": "Ropažu 5"
+        },
+        {
+            "Price_per_m²": 1299.0,
+            "Price": 58455.0,
+            "m²": 45.0,
+            "Address": "Ieriķu 11"
+        },
+        {
+            "Price_per_m²": 3182.0,
+            "Price": 165440.0,
+            "m²": 51.99,
+            "Address": "Kaukāza 11"
+        },
+        {
+            "Price_per_m²": 3184.0,
+            "Price": 251520.0,
+            "m²": 78.99,
+            "Address": "Kaukāza 11"
+        },
+        {
+            "Price_per_m²": 3190.0,
+            "Price": 421120.0,
+            "m²": 132.01,
+            "Address": "Kaukāza 11"
+        },
+        {
+            "Price_per_m²": 1468.0,
+            "Price": 226000.0,
+            "m²": 153.95,
+            "Address": "Ķeguma 52"
+        },
+        {
+            "Price_per_m²": 811.0,
+            "Price": 43000.0,
+            "m²": 53.02,
+            "Address": "Biķernieku 79"
+        },
+        {
+            "Price_per_m²": 2739.0,
+            "Price": 63000.0,
+            "m²": 23.0,
+            "Address": "Vairoga 32"
+        },
+        {
+            "Price_per_m²": 1888.0,
+            "Price": 185000.0,
+            "m²": 97.99,
+            "Address": "Biķernieku 16"
+        },
+        {
+            "Price_per_m²": 1420.0,
+            "Price": 98000.0,
+            "m²": 69.01,
+            "Address": "Brīvības 236"
+        },
+        {
+            "Price_per_m²": 1090.0,
+            "Price": 54500.0,
+            "m²": 50.0,
+            "Address": "Ieriķu 66"
+        },
+        {
+            "Price_per_m²": 1106.0,
+            "Price": 73000.0,
+            "m²": 66.0,
+            "Address": "Brīvības 231"
+        },
+        {
+            "Price_per_m²": 1223.0,
+            "Price": 63600.0,
+            "m²": 52.0,
+            "Address": "Brīvības 237"
+        },
+        {
+            "Price_per_m²": 2143.0,
+            "Price": 162900.0,
+            "m²": 76.01,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 1507.0,
+            "Price": 110000.0,
+            "m²": 72.99,
+            "Address": "Raunas 19A"
+        },
+        {
+            "Price_per_m²": 2145.0,
+            "Price": 81500.0,
+            "m²": 38.0,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 1817.0,
+            "Price": 169000.0,
+            "m²": 93.01,
+            "Address": "Āraišu 38"
+        },
+        {
+            "Price_per_m²": 1344.0,
+            "Price": 121000.0,
+            "m²": 90.03,
+            "Address": "Brīvības 217"
+        },
+        {
+            "Price_per_m²": 1125.0,
+            "Price": 49500.0,
+            "m²": 44.0,
+            "Address": "Bērzpils 65"
+        },
+        {
+            "Price_per_m²": 882.0,
+            "Price": 45000.0,
+            "m²": 51.02,
+            "Address": "Brīvības 249"
+        },
+        {
+            "Price_per_m²": 1371.0,
+            "Price": 47995.0,
+            "m²": 35.01,
+            "Address": "Vangažu 15"
+        },
+        {
+            "Price_per_m²": 958.0,
+            "Price": 46000.0,
+            "m²": 48.02,
+            "Address": "Apes 12"
+        },
+        {
+            "Price_per_m²": 1048.0,
+            "Price": 44000.0,
+            "m²": 41.98,
+            "Address": "Ropažu 22"
+        },
+        {
+            "Price_per_m²": 2159.0,
+            "Price": 149000.0,
+            "m²": 69.01,
+            "Address": "Biķernieku 16"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 95000.0,
+            "m²": 63.0,
+            "Address": "Biķernieku 75"
+        },
+        {
+            "Price_per_m²": 1229.0,
+            "Price": 72500.0,
+            "m²": 58.99,
+            "Address": "Vijciema 16"
+        },
+        {
+            "Price_per_m²": 1507.0,
+            "Price": 100999.0,
+            "m²": 67.02,
+            "Address": "Brīvības 236"
+        },
+        {
+            "Price_per_m²": 2200.0,
+            "Price": 132000.0,
+            "m²": 60.0,
+            "Address": "Zemgala 80"
+        },
+        {
+            "Price_per_m²": 2020.0,
+            "Price": 198000.0,
+            "m²": 98.02,
+            "Address": "Biķernieku 16"
+        },
+        {
+            "Price_per_m²": 1890.0,
+            "Price": 94500.0,
+            "m²": 50.0,
+            "Address": "Lielvārdes 40"
+        },
+        {
+            "Price_per_m²": 1300.0,
+            "Price": 89700.0,
+            "m²": 69.0,
+            "Address": "Raunas 19-k2"
+        },
+        {
+            "Price_per_m²": 1111.0,
+            "Price": 99995.0,
+            "m²": 90.0,
+            "Address": "Ropažu 106"
+        },
+        {
+            "Price_per_m²": 2047.0,
+            "Price": 88000.0,
+            "m²": 42.99,
+            "Address": "Burtnieku 1"
+        },
+        {
+            "Price_per_m²": 1979.0,
+            "Price": 188000.0,
+            "m²": 95.0,
+            "Address": "Āraišu 2"
+        },
+        {
+            "Price_per_m²": 844.0,
+            "Price": 38000.0,
+            "m²": 45.02,
+            "Address": "Ieriķu 29"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 54000.0,
+            "m²": 54.0,
+            "Address": "Zālīša 3"
+        },
+        {
+            "Price_per_m²": 1723.0,
+            "Price": 81000.0,
+            "m²": 47.01,
+            "Address": "Brīvības 308"
+        },
+        {
+            "Price_per_m²": 1339.0,
+            "Price": 125888.0,
+            "m²": 94.02,
+            "Address": "Brīvības 215b"
+        },
+        {
+            "Price_per_m²": 846.0,
+            "Price": 42300.0,
+            "m²": 50.0,
+            "Address": "Ropažu 76"
+        },
+        {
+            "Price_per_m²": 1333.0,
+            "Price": 40000.0,
+            "m²": 30.01,
+            "Address": "Ropažu 5"
+        },
+        {
+            "Price_per_m²": 1623.0,
+            "Price": 99000.0,
+            "m²": 61.0,
+            "Address": "Brīvības 215"
+        },
+        {
+            "Price_per_m²": 2020.0,
+            "Price": 198000.0,
+            "m²": 98.02,
+            "Address": "Biķernieku 16"
+        },
+        {
+            "Price_per_m²": 1114.0,
+            "Price": 24500.0,
+            "m²": 21.99,
+            "Address": "Tālivalža 20 k-2"
+        },
+        {
+            "Price_per_m²": 2641.0,
+            "Price": 169000.0,
+            "m²": 63.99,
+            "Address": "Ropažu 16B"
+        },
+        {
+            "Price_per_m²": 1600.0,
+            "Price": 120000.0,
+            "m²": 75.0,
+            "Address": "Ropažu 12"
+        },
+        {
+            "Price_per_m²": 2971.0,
+            "Price": 130725.0,
+            "m²": 44.0,
+            "Address": "Laimdotas 38"
+        },
+        {
+            "Price_per_m²": 954.0,
+            "Price": 47700.0,
+            "m²": 50.0,
+            "Address": "Brīvības 209"
+        },
+        {
+            "Price_per_m²": 2150.0,
+            "Price": 129000.0,
+            "m²": 60.0,
+            "Address": "Zemgala 80"
+        },
+        {
+            "Price_per_m²": 800.0,
+            "Price": 14400.0,
+            "m²": 18.0,
+            "Address": "Burtnieku 33"
+        },
+        {
+            "Price_per_m²": 894.0,
+            "Price": 42000.0,
+            "m²": 46.98,
+            "Address": "Biķernieku 35A"
+        },
+        {
+            "Price_per_m²": 1900.0,
+            "Price": 57000.0,
+            "m²": 30.0,
+            "Address": "Brīvības 209"
+        },
+        {
+            "Price_per_m²": 1904.0,
+            "Price": 89500.0,
+            "m²": 47.01,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 1315.0,
+            "Price": 69700.0,
+            "m²": 53.0,
+            "Address": "Brīvības 237"
+        },
+        {
+            "Price_per_m²": 1135.0,
+            "Price": 59000.0,
+            "m²": 51.98,
+            "Address": "Brīvības 249"
+        },
+        {
+            "Price_per_m²": 2711.0,
+            "Price": 225000.0,
+            "m²": 83.0,
+            "Address": "Zemgala 78"
+        },
+        {
+            "Price_per_m²": 1972.0,
+            "Price": 140000.0,
+            "m²": 70.99,
+            "Address": "Ropažu 12"
+        },
+        {
+            "Price_per_m²": 1213.0,
+            "Price": 99500.0,
+            "m²": 82.03,
+            "Address": "Biķernieku 67"
+        },
+        {
+            "Price_per_m²": 1241.0,
+            "Price": 86875.0,
+            "m²": 70.0,
+            "Address": "Ūnijas 37"
+        },
+        {
+            "Price_per_m²": 2066.0,
+            "Price": 202500.0,
+            "m²": 98.02,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 1538.0,
+            "Price": 61500.0,
+            "m²": 39.99,
+            "Address": "Kastrānes 2A"
+        },
+        {
+            "Price_per_m²": 878.0,
+            "Price": 43000.0,
+            "m²": 48.97,
+            "Address": "Laimdotas 61"
+        },
+        {
+            "Price_per_m²": 1699.0,
+            "Price": 115500.0,
+            "m²": 67.98,
+            "Address": "Zalkšu 10"
+        },
+        {
+            "Price_per_m²": 1696.0,
+            "Price": 95000.0,
+            "m²": 56.01,
+            "Address": "Brīvības 310"
+        },
+        {
+            "Price_per_m²": 2500.0,
+            "Price": 160000.0,
+            "m²": 64.0,
+            "Address": "Zemgala 78"
+        },
+        {
+            "Price_per_m²": 1333.0,
+            "Price": 40000.0,
+            "m²": 30.01,
+            "Address": "Ropažu 24"
+        },
+        {
+            "Price_per_m²": 1344.0,
+            "Price": 36300.0,
+            "m²": 27.01,
+            "Address": "Brīvības 239"
+        },
+        {
+            "Price_per_m²": 2135.0,
+            "Price": 91800.0,
+            "m²": 43.0,
+            "Address": "Burtnieku 1"
+        },
+        {
+            "Price_per_m²": 1340.0,
+            "Price": 71000.0,
+            "m²": 52.99,
+            "Address": "Brīvības 237"
+        },
+        {
+            "Price_per_m²": 1041.0,
+            "Price": 51000.0,
+            "m²": 48.99,
+            "Address": "Ropažu 37"
+        },
+        {
+            "Price_per_m²": 1011.0,
+            "Price": 94000.0,
+            "m²": 92.98,
+            "Address": "Burtnieku 19"
+        },
+        {
+            "Price_per_m²": 858.0,
+            "Price": 57500.0,
+            "m²": 67.02,
+            "Address": "Brīvības 215"
+        },
+        {
+            "Price_per_m²": 1708.0,
+            "Price": 287000.0,
+            "m²": 168.03,
+            "Address": "Bajāru 59"
+        },
+        {
+            "Price_per_m²": 2214.0,
+            "Price": 93000.0,
+            "m²": 42.01,
+            "Address": "Ropažu 75"
+        },
+        {
+            "Price_per_m²": 1224.0,
+            "Price": 82000.0,
+            "m²": 66.99,
+            "Address": "Zālīša 5"
+        },
+        {
+            "Price_per_m²": 1533.0,
+            "Price": 162500.0,
+            "m²": 106.0,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 957.0,
+            "Price": 45000.0,
+            "m²": 47.02,
+            "Address": "Biķernieku 35A"
+        },
+        {
+            "Price_per_m²": 1792.0,
+            "Price": 116500.0,
+            "m²": 65.01,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 1980.0,
+            "Price": 89100.0,
+            "m²": 45.0,
+            "Address": "Brīvības 338"
+        },
+        {
+            "Price_per_m²": 938.0,
+            "Price": 34700.0,
+            "m²": 36.99,
+            "Address": "Raunas 58 k-3"
+        },
+        {
+            "Price_per_m²": 1774.0,
+            "Price": 173900.0,
+            "m²": 98.03,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 2167.0,
+            "Price": 149500.0,
+            "m²": 68.99,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 1358.0,
+            "Price": 72000.0,
+            "m²": 53.02,
+            "Address": "Zālīša 3"
+        },
+        {
+            "Price_per_m²": 2682.0,
+            "Price": 198500.0,
+            "m²": 74.01,
+            "Address": "Ķeguma 39"
+        },
+        {
+            "Price_per_m²": 1218.0,
+            "Price": 145000.0,
+            "m²": 119.05,
+            "Address": "Pīkola 27"
+        },
+        {
+            "Price_per_m²": 1010.0,
+            "Price": 100000.0,
+            "m²": 99.01,
+            "Address": "Brīvības 356a"
+        },
+        {
+            "Price_per_m²": 1067.0,
+            "Price": 48000.0,
+            "m²": 44.99,
+            "Address": "Ieriķu 29"
+        },
+        {
+            "Price_per_m²": 1091.0,
+            "Price": 60000.0,
+            "m²": 55.0,
+            "Address": "Brīvības 278"
+        },
+        {
+            "Price_per_m²": 1934.0,
+            "Price": 61900.0,
+            "m²": 32.01,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 1160.0,
+            "Price": 29000.0,
+            "m²": 25.0,
+            "Address": "Ropažu 17"
+        },
+        {
+            "Price_per_m²": 3021.0,
+            "Price": 290000.0,
+            "m²": 95.99,
+            "Address": "Ķeguma 39"
+        },
+        {
+            "Price_per_m²": 1868.0,
+            "Price": 63500.0,
+            "m²": 33.99,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 1923.0,
+            "Price": 100000.0,
+            "m²": 52.0,
+            "Address": "Struktoru 5"
+        },
+        {
+            "Price_per_m²": 1256.0,
+            "Price": 49000.0,
+            "m²": 39.01,
+            "Address": "Raunas 62"
+        },
+        {
+            "Price_per_m²": 1383.0,
+            "Price": 83000.0,
+            "m²": 60.01,
+            "Address": "Brīvības 225a"
+        },
+        {
+            "Price_per_m²": 2373.0,
+            "Price": 280000.0,
+            "m²": 117.99,
+            "Address": "Zemgala 78"
+        },
+        {
+            "Price_per_m²": 1243.0,
+            "Price": 89500.0,
+            "m²": 72.0,
+            "Address": "Brīvības 352"
+        },
+        {
+            "Price_per_m²": 1447.0,
+            "Price": 55000.0,
+            "m²": 38.01,
+            "Address": "Brīvības 229"
+        },
+        {
+            "Price_per_m²": 1250.0,
+            "Price": 75000.0,
+            "m²": 60.0,
+            "Address": "Vijciema 16"
+        },
+        {
+            "Price_per_m²": 2554.0,
+            "Price": 189000.0,
+            "m²": 74.0,
+            "Address": "Ķeguma 39"
+        },
+        {
+            "Price_per_m²": 1319.0,
+            "Price": 62000.0,
+            "m²": 47.01,
+            "Address": "Ūnijas 30"
+        },
+        {
+            "Price_per_m²": 1193.0,
+            "Price": 48900.0,
+            "m²": 40.99,
+            "Address": "Kastrānes 7"
+        },
+        {
+            "Price_per_m²": 1010.0,
+            "Price": 100000.0,
+            "m²": 99.01,
+            "Address": "Brīvības 356a"
+        },
+        {
+            "Price_per_m²": 1430.0,
+            "Price": 61500.0,
+            "m²": 43.01,
+            "Address": "Ropažu 78"
+        },
+        {
+            "Price_per_m²": 2254.0,
+            "Price": 135255.0,
+            "m²": 60.01,
+            "Address": "Zemgala 80"
+        },
+        {
+            "Price_per_m²": 2042.0,
+            "Price": 145000.0,
+            "m²": 71.01,
+            "Address": "Zemgala 80"
+        },
+        {
+            "Price_per_m²": 1794.0,
+            "Price": 30500.0,
+            "m²": 17.0,
+            "Address": "Kuršu 25"
+        },
+        {
+            "Price_per_m²": 583.0,
+            "Price": 21000.0,
+            "m²": 36.02,
+            "Address": "Ropažu 98"
+        },
+        {
+            "Price_per_m²": 1022.0,
+            "Price": 46000.0,
+            "m²": 45.01,
+            "Address": "Raunas 58k7"
+        },
+        {
+            "Price_per_m²": 1468.0,
+            "Price": 91000.0,
+            "m²": 61.99,
+            "Address": "Ieriķu 43"
+        },
+        {
+            "Price_per_m²": 2739.0,
+            "Price": 63000.0,
+            "m²": 23.0,
+            "Address": "Vairoga 32"
+        },
+        {
+            "Price_per_m²": 2073.0,
+            "Price": 170000.0,
+            "m²": 82.01,
+            "Address": "Ūnijas 12a"
+        },
+        {
+            "Price_per_m²": 2690.0,
+            "Price": 196350.0,
+            "m²": 72.99,
+            "Address": "Laimdotas 38"
+        },
+        {
+            "Price_per_m²": 1008.0,
+            "Price": 65500.0,
+            "m²": 64.98,
+            "Address": "Ūnijas 28"
+        },
+        {
+            "Price_per_m²": 1165.0,
+            "Price": 69900.0,
+            "m²": 60.0,
+            "Address": "Bērzpils 71"
+        },
+        {
+            "Price_per_m²": 959.0,
+            "Price": 47000.0,
+            "m²": 49.01,
+            "Address": "Laimdotas 61"
+        },
+        {
+            "Price_per_m²": 1643.0,
+            "Price": 69000.0,
+            "m²": 42.0,
+            "Address": "Ropažu 26"
+        },
+        {
+            "Price_per_m²": 1614.0,
+            "Price": 92000.0,
+            "m²": 57.0,
+            "Address": "Brīvības 249"
+        },
+        {
+            "Price_per_m²": 1090.0,
+            "Price": 42500.0,
+            "m²": 38.99,
+            "Address": "Ropažu 78"
+        },
+        {
+            "Price_per_m²": 1462.0,
+            "Price": 95000.0,
+            "m²": 64.98,
+            "Address": "Ieriķu 60"
+        },
+        {
+            "Price_per_m²": 1429.0,
+            "Price": 110000.0,
+            "m²": 76.98,
+            "Address": "Ieriķu 31"
+        },
+        {
+            "Price_per_m²": 2000.0,
+            "Price": 110000.0,
+            "m²": 55.0,
+            "Address": "Brīvības 236"
+        },
+        {
+            "Price_per_m²": 3182.0,
+            "Price": 165440.0,
+            "m²": 51.99,
+            "Address": "Kaukāza 11"
+        },
+        {
+            "Price_per_m²": 1604.0,
+            "Price": 85000.0,
+            "m²": 52.99,
+            "Address": "Brīvības 282"
+        },
+        {
+            "Price_per_m²": 1206.0,
+            "Price": 41000.0,
+            "m²": 34.0,
+            "Address": "Vairoga 21"
+        },
+        {
+            "Price_per_m²": 1533.0,
+            "Price": 115000.0,
+            "m²": 75.02,
+            "Address": "Brīvības 228"
+        },
+        {
+            "Price_per_m²": 1721.0,
+            "Price": 105000.0,
+            "m²": 61.01,
+            "Address": "Brīvības 215"
+        },
+        {
+            "Price_per_m²": 3190.0,
+            "Price": 421120.0,
+            "m²": 132.01,
+            "Address": "Kaukāza 11"
+        },
+        {
+            "Price_per_m²": 3184.0,
+            "Price": 251520.0,
+            "m²": 78.99,
+            "Address": "Kaukāza 11"
+        },
+        {
+            "Price_per_m²": 2868.0,
+            "Price": 195000.0,
+            "m²": 67.99,
+            "Address": "Ropažu 14b"
+        },
+        {
+            "Price_per_m²": 1172.0,
+            "Price": 75000.0,
+            "m²": 63.99,
+            "Address": "Zālīša 3"
+        },
+        {
+            "Price_per_m²": 2391.0,
+            "Price": 165000.0,
+            "m²": 69.01,
+            "Address": "Biķernieku 16"
+        },
+        {
+            "Price_per_m²": 1153.0,
+            "Price": 56500.0,
+            "m²": 49.0,
+            "Address": "Ropažu 101"
+        },
+        {
+            "Price_per_m²": 926.0,
+            "Price": 75000.0,
+            "m²": 80.99,
+            "Address": "Brīvības 281"
+        },
+        {
+            "Price_per_m²": 1506.0,
+            "Price": 51200.0,
+            "m²": 34.0,
+            "Address": "Ropažu 98"
+        },
+        {
+            "Price_per_m²": 974.0,
+            "Price": 37000.0,
+            "m²": 37.99,
+            "Address": "Ropažu 87"
+        },
+        {
+            "Price_per_m²": 985.0,
+            "Price": 69900.0,
+            "m²": 70.96,
+            "Address": "Palmu 14"
+        },
+        {
+            "Price_per_m²": 1049.0,
+            "Price": 43000.0,
+            "m²": 40.99,
+            "Address": "Bērzpils 7"
+        },
+        {
+            "Price_per_m²": 1700.0,
+            "Price": 159800.0,
+            "m²": 94.0,
+            "Address": "Ūnijas 12A"
+        },
+        {
+            "Price_per_m²": 2130.0,
+            "Price": 115000.0,
+            "m²": 53.99,
+            "Address": "Turaidas 4"
+        },
+        {
+            "Price_per_m²": 1291.0,
+            "Price": 55500.0,
+            "m²": 42.99,
+            "Address": "Raunas 35"
+        },
+        {
+            "Price_per_m²": 1516.0,
+            "Price": 139500.0,
+            "m²": 92.02,
+            "Address": "Burtnieku 19"
+        },
+        {
+            "Price_per_m²": 1574.0,
+            "Price": 107000.0,
+            "m²": 67.98,
+            "Address": "M. Ropažu 11"
+        },
+        {
+            "Price_per_m²": 1667.0,
+            "Price": 95000.0,
+            "m²": 56.99,
+            "Address": "Zemgala 60"
+        },
+        {
+            "Price_per_m²": 2287.0,
+            "Price": 231000.0,
+            "m²": 101.01,
+            "Address": "Ieriķu 28a"
+        },
+        {
+            "Price_per_m²": 1744.0,
+            "Price": 75000.0,
+            "m²": 43.0,
+            "Address": "Stāmerienas 2"
+        },
+        {
+            "Price_per_m²": 1400.0,
+            "Price": 42000.0,
+            "m²": 30.0,
+            "Address": "Ropažu 5"
+        },
+        {
+            "Price_per_m²": 14000.0,
+            "Price": 420000.0,
+            "m²": 30.0,
+            "Address": "Ropažu 5"
+        },
+        {
+            "Price_per_m²": 1989.0,
+            "Price": 187000.0,
+            "m²": 94.02,
+            "Address": "Zemgala 80"
+        },
+        {
+            "Price_per_m²": 1091.0,
+            "Price": 36000.0,
+            "m²": 33.0,
+            "Address": "Biķernieku 39"
+        },
+        {
+            "Price_per_m²": 1950.0,
+            "Price": 241800.0,
+            "m²": 124.0,
+            "Address": "Ropažu 12"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 32500.0,
+            "m²": 30.01,
+            "Address": "Raunas 43"
+        },
+        {
+            "Price_per_m²": 1125.0,
+            "Price": 27000.0,
+            "m²": 24.0,
+            "Address": "Ropažu 17"
+        },
+        {
+            "Price_per_m²": 2254.0,
+            "Price": 135255.0,
+            "m²": 60.01,
+            "Address": "Zemgala 80"
+        },
+        {
+            "Price_per_m²": 1106.0,
+            "Price": 51990.0,
+            "m²": 47.01,
+            "Address": "Biķernieku 28"
+        },
+        {
+            "Price_per_m²": 1695.0,
+            "Price": 69500.0,
+            "m²": 41.0,
+            "Address": "Caunes 8A"
+        },
+        {
+            "Price_per_m²": 2412.0,
+            "Price": 82000.0,
+            "m²": 34.0,
+            "Address": "Burtnieku 1"
+        },
+        {
+            "Price_per_m²": 1222.0,
+            "Price": 55000.0,
+            "m²": 45.01,
+            "Address": "Ieriķu 13"
+        },
+        {
+            "Price_per_m²": 2143.0,
+            "Price": 165000.0,
+            "m²": 76.99,
+            "Address": "Zemgala 80"
+        },
+        {
+            "Price_per_m²": 2194.0,
+            "Price": 79000.0,
+            "m²": 36.01,
+            "Address": "Burtnieku 1"
+        },
+        {
+            "Price_per_m²": 1333.0,
+            "Price": 36000.0,
+            "m²": 27.01,
+            "Address": "Biķernieku 77"
+        },
+        {
+            "Price_per_m²": 2500.0,
+            "Price": 85000.0,
+            "m²": 34.0,
+            "Address": "Burtnieku 1"
+        },
+        {
+            "Price_per_m²": 1805.0,
+            "Price": 102900.0,
+            "m²": 57.01,
+            "Address": "Brīvības 201"
+        },
+        {
+            "Price_per_m²": 2520.0,
+            "Price": 189000.0,
+            "m²": 75.0,
+            "Address": "Ķeguma 39"
+        },
+        {
+            "Price_per_m²": 1893.0,
+            "Price": 106000.0,
+            "m²": 56.0,
+            "Address": "Pīkola 30"
+        },
+        {
+            "Price_per_m²": 1813.0,
+            "Price": 145000.0,
+            "m²": 79.98,
+            "Address": "Biķernieku 13"
+        },
+        {
+            "Price_per_m²": 1591.0,
+            "Price": 105000.0,
+            "m²": 66.0,
+            "Address": "Brīvības 236"
+        },
+        {
+            "Price_per_m²": 1790.0,
+            "Price": 51900.0,
+            "m²": 28.99,
+            "Address": "Struktoru 5"
+        },
+        {
+            "Price_per_m²": 1377.0,
+            "Price": 84000.0,
+            "m²": 61.0,
+            "Address": "Bērzpils 69"
+        },
+        {
+            "Price_per_m²": 1985.0,
+            "Price": 135000.0,
+            "m²": 68.01,
+            "Address": "Biķernieku 24a"
+        },
+        {
+            "Price_per_m²": 2868.0,
+            "Price": 195000.0,
+            "m²": 67.99,
+            "Address": "Ropažu 14b"
+        },
+        {
+            "Price_per_m²": 1288.0,
+            "Price": 67000.0,
+            "m²": 52.02,
+            "Address": "Brīvības 281"
+        },
+        {
+            "Price_per_m²": 1917.0,
+            "Price": 115000.0,
+            "m²": 59.99,
+            "Address": "Brīvības 338"
+        },
+        {
+            "Price_per_m²": 1742.0,
+            "Price": 115000.0,
+            "m²": 66.02,
+            "Address": "Brīvības 236"
+        },
+        {
+            "Price_per_m²": 1038.0,
+            "Price": 67500.0,
+            "m²": 65.03,
+            "Address": "Ūnijas 28"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 39000.0,
+            "m²": 39.0,
+            "Address": "Raunas 58k-7"
+        },
+        {
+            "Price_per_m²": 1147.0,
+            "Price": 39000.0,
+            "m²": 34.0,
+            "Address": "Zālīša 5"
+        },
+        {
+            "Price_per_m²": 1063.0,
+            "Price": 51000.0,
+            "m²": 47.98,
+            "Address": "Brīvības 317"
+        },
+        {
+            "Price_per_m²": 2896.0,
+            "Price": 194000.0,
+            "m²": 66.99,
+            "Address": "Stārķu 2"
+        },
+        {
+            "Price_per_m²": 1150.0,
+            "Price": 56350.0,
+            "m²": 49.0,
+            "Address": "Ropažu 101"
+        },
+        {
+            "Price_per_m²": 1352.0,
+            "Price": 36500.0,
+            "m²": 27.0,
+            "Address": "Brīvības 239"
+        },
+        {
+            "Price_per_m²": 1237.0,
+            "Price": 120000.0,
+            "m²": 97.01,
+            "Address": "Apes 12"
+        },
+        {
+            "Price_per_m²": 1037.0,
+            "Price": 28000.0,
+            "m²": 27.0,
+            "Address": "Tālivalža 20/1"
+        },
+        {
+            "Price_per_m²": 1491.0,
+            "Price": 79000.0,
+            "m²": 52.98,
+            "Address": "Ropažu 22"
+        },
+        {
+            "Price_per_m²": 2258.0,
+            "Price": 144500.0,
+            "m²": 63.99,
+            "Address": "Ropažu 14 k-1"
+        },
+        {
+            "Price_per_m²": 1354.0,
+            "Price": 130000.0,
+            "m²": 96.01,
+            "Address": "Lielvārdes 21"
+        },
+        {
+            "Price_per_m²": 1333.0,
+            "Price": 32000.0,
+            "m²": 24.01,
+            "Address": "Brīvības 275 k-1"
+        },
+        {
+            "Price_per_m²": 1538.0,
+            "Price": 100000.0,
+            "m²": 65.02,
+            "Address": "Ropažu 60a"
+        },
+        {
+            "Price_per_m²": 664.0,
+            "Price": 77000.0,
+            "m²": 115.96,
+            "Address": "Ropažu 39"
+        },
+        {
+            "Price_per_m²": 1574.0,
+            "Price": 85000.0,
+            "m²": 54.0,
+            "Address": "Brīvības 358"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 8.97,
+            "Price": 350.0,
+            "m²": 39.02,
+            "Address": "Brīvības 229"
+        },
+        {
+            "Price_per_m²": 8.18,
+            "Price": 450.0,
+            "m²": 55.01,
+            "Address": "Struktoru 6"
+        },
+        {
+            "Price_per_m²": 8.16,
+            "Price": 400.0,
+            "m²": 49.02,
+            "Address": "Biķernieku 79"
+        },
+        {
+            "Price_per_m²": 11.67,
+            "Price": 210.0,
+            "m²": 17.99,
+            "Address": "Burtnieku 33"
+        },
+        {
+            "Price_per_m²": 5.65,
+            "Price": 350.0,
+            "m²": 61.95,
+            "Address": "Brīvības 313"
+        },
+        {
+            "Price_per_m²": 12.43,
+            "Price": 460.0,
+            "m²": 37.01,
+            "Address": "Brīvības 215"
+        },
+        {
+            "Price_per_m²": 8.82,
+            "Price": 300.0,
+            "m²": 34.01,
+            "Address": "Kastrānes 1"
+        },
+        {
+            "Price_per_m²": 6.79,
+            "Price": 360.0,
+            "m²": 53.02,
+            "Address": "Laimdotas 45"
+        },
+        {
+            "Price_per_m²": 12.78,
+            "Price": 230.0,
+            "m²": 18.0,
+            "Address": "Kastrānes 1"
+        },
+        {
+            "Price_per_m²": 12.34,
+            "Price": 790.0,
+            "m²": 64.02,
+            "Address": "Zemgala 78"
+        },
+        {
+            "Price_per_m²": 12.34,
+            "Price": 790.0,
+            "m²": 64.02,
+            "Address": "Zemgala 78"
+        },
+        {
+            "Price_per_m²": 5.28,
+            "Price": 280.0,
+            "m²": 53.03,
+            "Address": "Apes 12"
+        },
+        {
+            "Price_per_m²": 11.94,
+            "Price": 370.0,
+            "m²": 30.99,
+            "Address": "Struktoru 7"
+        },
+        {
+            "Price_per_m²": 12.21,
+            "Price": 1099.0,
+            "m²": 90.01,
+            "Address": "Brīvības 276"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 600.0,
+            "m²": 75.0,
+            "Address": "Ieriķu 27"
+        },
+        {
+            "Price_per_m²": 13.0,
+            "Price": 520.0,
+            "m²": 40.0,
+            "Address": "Launkalnes 1"
+        },
+        {
+            "Price_per_m²": 6.15,
+            "Price": 400.0,
+            "m²": 65.04,
+            "Address": "Ropažu 60a"
+        },
+        {
+            "Price_per_m²": 15.56,
+            "Price": 280.0,
+            "m²": 17.99,
+            "Address": "Kuršu 25"
+        },
+        {
+            "Price_per_m²": 9.44,
+            "Price": 340.0,
+            "m²": 36.02,
+            "Address": "Kastrānes 1 k2"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 200.0,
+            "m²": 20.0,
+            "Address": "Burtnieku 33"
+        },
+        {
+            "Price_per_m²": 7.32,
+            "Price": 300.0,
+            "m²": 40.98,
+            "Address": "Brīvības 320"
+        },
+        {
+            "Price_per_m²": 13.33,
+            "Price": 280.0,
+            "m²": 21.01,
+            "Address": "Tālivalža 20/1"
+        },
+        {
+            "Price_per_m²": 8.7,
+            "Price": 600.0,
+            "m²": 68.97,
+            "Address": "Ūnijas 31"
+        },
+        {
+            "Price_per_m²": 7.65,
+            "Price": 260.0,
+            "m²": 33.99,
+            "Address": "Biķernieku 26"
+        },
+        {
+            "Price_per_m²": 9.29,
+            "Price": 650.0,
+            "m²": 69.97,
+            "Address": "Biķernieku 16"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 420.0,
+            "m²": 42.0,
+            "Address": "Raunas 58"
+        },
+        {
+            "Price_per_m²": 8.54,
+            "Price": 350.0,
+            "m²": 40.98,
+            "Address": "Raunas 46"
+        },
+        {
+            "Price_per_m²": 13.0,
+            "Price": 390.0,
+            "m²": 30.0,
+            "Address": "Struktoru 7"
+        },
+        {
+            "Price_per_m²": 11.0,
+            "Price": 220.0,
+            "m²": 20.0,
+            "Address": "Burtnieku 33"
+        },
+        {
+            "Price_per_m²": 10.71,
+            "Price": 750.0,
+            "m²": 70.03,
+            "Address": "Brīvības 276"
+        },
+        {
+            "Price_per_m²": 9.09,
+            "Price": 400.0,
+            "m²": 44.0,
+            "Address": "Remīnes 15"
+        },
+        {
+            "Price_per_m²": 7.69,
+            "Price": 500.0,
+            "m²": 65.02,
+            "Address": "Lēdmanes 1"
+        },
+        {
+            "Price_per_m²": 8.53,
+            "Price": 290.0,
+            "m²": 34.0,
+            "Address": "Pīkola 19"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 320.0,
+            "m²": 47.98,
+            "Address": "Brīvības 356"
+        },
+        {
+            "Price_per_m²": 9.38,
+            "Price": 450.0,
+            "m²": 47.97,
+            "Address": "Stāmerienas 2"
+        },
+        {
+            "Price_per_m²": 11.61,
+            "Price": 650.0,
+            "m²": 55.99,
+            "Address": "Stūrīša 29"
+        },
+        {
+            "Price_per_m²": 7.5,
+            "Price": 330.0,
+            "m²": 44.0,
+            "Address": "Brīvības 334"
+        },
+        {
+            "Price_per_m²": 9.08,
+            "Price": 590.0,
+            "m²": 64.98,
+            "Address": "Ropažu 12"
+        },
+        {
+            "Price_per_m²": 7.67,
+            "Price": 230.0,
+            "m²": 29.99,
+            "Address": "Raunas 20a"
+        },
+        {
+            "Price_per_m²": 11.59,
+            "Price": 800.0,
+            "m²": 69.03,
+            "Address": "Biķernieku 16"
+        },
+        {
+            "Price_per_m²": 9.21,
+            "Price": 350.0,
+            "m²": 38.0,
+            "Address": "Tālivalža 21"
+        },
+        {
+            "Price_per_m²": 10.71,
+            "Price": 300.0,
+            "m²": 28.01,
+            "Address": "Piebalgas 10a"
+        },
+        {
+            "Price_per_m²": 7.02,
+            "Price": 330.0,
+            "m²": 47.01,
+            "Address": "Brīvības 308"
+        },
+        {
+            "Price_per_m²": 12.76,
+            "Price": 370.0,
+            "m²": 29.0,
+            "Address": "Brīvības 215"
+        },
+        {
+            "Price_per_m²": 12.22,
+            "Price": 220.0,
+            "m²": 18.0,
+            "Address": "Burtnieku 33"
+        },
+        {
+            "Price_per_m²": 10.67,
+            "Price": 320.0,
+            "m²": 29.99,
+            "Address": "Ropažu 22"
+        },
+        {
+            "Price_per_m²": 10.67,
+            "Price": 320.0,
+            "m²": 29.99,
+            "Address": "Ropažu 22"
+        },
+        {
+            "Price_per_m²": 9.74,
+            "Price": 370.0,
+            "m²": 37.99,
+            "Address": "Tālivalža 14"
+        },
+        {
+            "Price_per_m²": 10.71,
+            "Price": 450.0,
+            "m²": 42.02,
+            "Address": "Kastrānes 7"
+        },
+        {
+            "Price_per_m²": 30.56,
+            "Price": 550.0,
+            "m²": 18.0,
+            "Address": "Zemgala 77"
+        },
+        {
+            "Price_per_m²": 35.29,
+            "Price": 600.0,
+            "m²": 17.0,
+            "Address": "Zemgala 77"
+        },
+        {
+            "Price_per_m²": 9.3,
+            "Price": 400.0,
+            "m²": 43.01,
+            "Address": "Kastrānes 7"
+        },
+        {
+            "Price_per_m²": 7.64,
+            "Price": 420.0,
+            "m²": 54.97,
+            "Address": "Biķernieku 12"
+        },
+        {
+            "Price_per_m²": 7.35,
+            "Price": 250.0,
+            "m²": 34.01,
+            "Address": "Ropažu 56"
+        },
+        {
+            "Price_per_m²": 9.0,
+            "Price": 270.0,
+            "m²": 30.0,
+            "Address": "Brīvības 226"
+        },
+        {
+            "Price_per_m²": 6.92,
+            "Price": 450.0,
+            "m²": 65.03,
+            "Address": "Džutas 13A"
+        },
+        {
+            "Price_per_m²": 6.86,
+            "Price": 295.0,
+            "m²": 43.0,
+            "Address": "Aizkraukles 34"
+        },
+        {
+            "Price_per_m²": 9.67,
+            "Price": 290.0,
+            "m²": 29.99,
+            "Address": "Brīvības 226"
+        },
+        {
+            "Price_per_m²": 13.89,
+            "Price": 250.0,
+            "m²": 18.0,
+            "Address": "Kastrānes 1 k-1"
+        },
+        {
+            "Price_per_m²": 11.67,
+            "Price": 350.0,
+            "m²": 29.99,
+            "Address": "Brīvības 209"
+        },
+        {
+            "Price_per_m²": 8.82,
+            "Price": 670.0,
+            "m²": 75.96,
+            "Address": "Zemgala 80"
+        },
+        {
+            "Price_per_m²": 9.74,
+            "Price": 370.0,
+            "m²": 37.99,
+            "Address": "Tālivalža 21"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 400.0,
+            "m²": 48.02,
+            "Address": "Ieriķu 21"
+        },
+        {
+            "Price_per_m²": 9.5,
+            "Price": 950.0,
+            "m²": 100.0,
+            "Address": "Ropažu 14b"
+        },
+        {
+            "Price_per_m²": 9.21,
+            "Price": 350.0,
+            "m²": 38.0,
+            "Address": "Ropažu 87"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 550.0,
+            "m²": 55.0,
+            "Address": "Tālivalža 21"
+        },
+        {
+            "Price_per_m²": 8.09,
+            "Price": 550.0,
+            "m²": 67.99,
+            "Address": "Brīvības 356"
+        },
+        {
+            "Price_per_m²": 11.03,
+            "Price": 430.0,
+            "m²": 38.98,
+            "Address": "Launkalnes 1"
+        },
+        {
+            "Price_per_m²": 12.0,
+            "Price": 420.0,
+            "m²": 35.0,
+            "Address": "Piebalgas 10a"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 450.0,
+            "m²": 54.02,
+            "Address": "Struktoru 6"
+        },
+        {
+            "Price_per_m²": 11.0,
+            "Price": 220.0,
+            "m²": 20.0,
+            "Address": "Kastrānes 1"
+        },
+        {
+            "Price_per_m²": 14.31,
+            "Price": 730.0,
+            "m²": 51.01,
+            "Address": "Ropažu 16"
+        },
+        {
+            "Price_per_m²": 7.69,
+            "Price": 500.0,
+            "m²": 65.02,
+            "Address": "Lēdmanes 1"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 400.0,
+            "m²": 56.02,
+            "Address": "Zālīša 3"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 210.0,
+            "m²": 12.0,
+            "Address": "Burtnieku 35"
+        },
+        {
+            "Price_per_m²": 8.82,
+            "Price": 450.0,
+            "m²": 51.02,
+            "Address": "Bajāru 14"
+        },
+        {
+            "Price_per_m²": 14.25,
+            "Price": 570.0,
+            "m²": 40.0,
+            "Address": "Kuršu 27B"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 300.0,
+            "m²": 36.01,
+            "Address": "Brīvības 232"
+        },
+        {
+            "Price_per_m²": 8.57,
+            "Price": 240.0,
+            "m²": 28.0,
+            "Address": "Piebalgas 10a"
+        },
+        {
+            "Price_per_m²": 10.19,
+            "Price": 540.0,
+            "m²": 52.99,
+            "Address": "Brīvības 282"
+        },
+        {
+            "Price_per_m²": 9.52,
+            "Price": 400.0,
+            "m²": 42.02,
+            "Address": "Biķernieku 107"
+        },
+        {
+            "Price_per_m²": 15.48,
+            "Price": 650.0,
+            "m²": 41.99,
+            "Address": "Turaidas 6"
+        },
+        {
+            "Price_per_m²": 5.61,
+            "Price": 550.0,
+            "m²": 98.04,
+            "Address": "Apes 12"
+        },
+        {
+            "Price_per_m²": 12.16,
+            "Price": 620.0,
+            "m²": 50.99,
+            "Address": "Bajāru 14"
+        },
+        {
+            "Price_per_m²": 6.03,
+            "Price": 350.0,
+            "m²": 58.04,
+            "Address": "Brīvības 318"
+        },
+        {
+            "Price_per_m²": 11.7,
+            "Price": 620.0,
+            "m²": 52.99,
+            "Address": "Ropažu 14A"
+        },
+        {
+            "Price_per_m²": 7.5,
+            "Price": 300.0,
+            "m²": 40.0,
+            "Address": "Brīvības 229"
+        },
+        {
+            "Price_per_m²": 6.73,
+            "Price": 330.0,
+            "m²": 49.03,
+            "Address": "Ropažu 76"
+        },
+        {
+            "Price_per_m²": 7.74,
+            "Price": 480.0,
+            "m²": 62.02,
+            "Address": "Džutas 13A"
+        },
+        {
+            "Price_per_m²": 15.16,
+            "Price": 970.0,
+            "m²": 63.98,
+            "Address": "Ropažu 16b"
+        },
+        {
+            "Price_per_m²": 15.75,
+            "Price": 315.0,
+            "m²": 20.0,
+            "Address": "Kuršu 25"
+        },
+        {
+            "Price_per_m²": 7.17,
+            "Price": 330.0,
+            "m²": 46.03,
+            "Address": "Ropažu 28"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 400.0,
+            "m²": 50.0,
+            "Address": "Lielvārdes 17"
+        },
+        {
+            "Price_per_m²": 15.42,
+            "Price": 370.0,
+            "m²": 23.99,
+            "Address": "Brīvības 217"
+        },
+        {
+            "Price_per_m²": 11.03,
+            "Price": 430.0,
+            "m²": 38.98,
+            "Address": "Brīvības 215"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 210.0,
+            "m²": 12.0,
+            "Address": "Burtnieku 35"
+        },
+        {
+            "Price_per_m²": 19.0,
+            "Price": 285.0,
+            "m²": 15.0,
+            "Address": "Kuršu 25"
+        },
+        {
+            "Price_per_m²": 7.29,
+            "Price": 350.0,
+            "m²": 48.01,
+            "Address": "Biķernieku 77"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 300.0,
+            "m²": 30.0,
+            "Address": "Raunas 43"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 400.0,
+            "m²": 50.0,
+            "Address": "Brīvības 237"
+        },
+        {
+            "Price_per_m²": 8.57,
+            "Price": 300.0,
+            "m²": 35.01,
+            "Address": "Ropažu 76"
+        },
+        {
+            "Price_per_m²": 5.83,
+            "Price": 350.0,
+            "m²": 60.03,
+            "Address": "Ūnijas 68"
+        },
+        {
+            "Price_per_m²": 7.29,
+            "Price": 350.0,
+            "m²": 48.01,
+            "Address": "Biķernieku 77"
+        },
+        {
+            "Price_per_m²": 6.36,
+            "Price": 280.0,
+            "m²": 44.03,
+            "Address": "Vidrižu 4"
+        },
+        {
+            "Price_per_m²": 13.89,
+            "Price": 250.0,
+            "m²": 18.0,
+            "Address": "Kastrānes 1/2"
+        },
+        {
+            "Price_per_m²": 7.92,
+            "Price": 380.0,
+            "m²": 47.98,
+            "Address": "Ropažu 45/"
+        },
+        {
+            "Price_per_m²": 9.68,
+            "Price": 300.0,
+            "m²": 30.99,
+            "Address": "Ropažu 24"
+        },
+        {
+            "Price_per_m²": 7.62,
+            "Price": 320.0,
+            "m²": 41.99,
+            "Address": "Ropažu 22"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 440.0,
+            "m²": 44.0,
+            "Address": "Brīvības 205"
+        },
+        {
+            "Price_per_m²": 5.0,
+            "Price": 150.0,
+            "m²": 30.0,
+            "Address": "Ropažu 41"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 150.0,
+            "m²": 25.0,
+            "Address": "M. Ropažu 3"
+        },
+        {
+            "Price_per_m²": 11.8,
+            "Price": 590.0,
+            "m²": 50.0,
+            "Address": "Vairoga 32"
+        },
+        {
+            "Price_per_m²": 10.91,
+            "Price": 240.0,
+            "m²": 22.0,
+            "Address": "Piebalgas 10a"
+        },
+        {
+            "Price_per_m²": 7.58,
+            "Price": 500.0,
+            "m²": 65.96,
+            "Address": "Ūnijas 12a"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 340.0,
+            "m²": 34.0,
+            "Address": "Kastrānes 1k2"
+        },
+        {
+            "Price_per_m²": 15.6,
+            "Price": 390.0,
+            "m²": 25.0,
+            "Address": "Brīvības 217"
+        },
+        {
+            "Price_per_m²": 9.91,
+            "Price": 575.0,
+            "m²": 58.02,
+            "Address": "Āraišu 1"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 250.0,
+            "m²": 30.01,
+            "Address": "Raunas 39"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 240.0,
+            "m²": 27.0,
+            "Address": "Raunas 39"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Raunas 58/5"
+        },
+        {
+            "Price_per_m²": 12.2,
+            "Price": 610.0,
+            "m²": 50.0,
+            "Address": "Vairoga 32"
+        },
+        {
+            "Price_per_m²": 7.35,
+            "Price": 250.0,
+            "m²": 34.01,
+            "Address": "Vairoga 21"
+        },
+        {
+            "Price_per_m²": 10.42,
+            "Price": 750.0,
+            "m²": 71.98,
+            "Address": "Brīvības 247"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 500.0,
+            "m²": 60.02,
+            "Address": "Vairoga 24"
+        },
+        {
+            "Price_per_m²": 8.46,
+            "Price": 220.0,
+            "m²": 26.0,
+            "Address": "Bērzpils 1"
+        },
+        {
+            "Price_per_m²": 10.19,
+            "Price": 550.0,
+            "m²": 53.97,
+            "Address": "Brīvības 354"
+        },
+        {
+            "Price_per_m²": 14.17,
+            "Price": 170.0,
+            "m²": 12.0,
+            "Address": "Ropažu 45"
+        },
+        {
+            "Price_per_m²": 5.88,
+            "Price": 200.0,
+            "m²": 34.01,
+            "Address": "Brīvības 231"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 250.0,
+            "m²": 30.01,
+            "Address": "Brīvības 226"
+        },
+        {
+            "Price_per_m²": 5.24,
+            "Price": 220.0,
+            "m²": 41.98,
+            "Address": "Ropažu 87"
+        },
+        {
+            "Price_per_m²": 7.53,
+            "Price": 640.0,
+            "m²": 84.99,
+            "Address": "Biķernieku 4c"
+        },
+        {
+            "Price_per_m²": 13.71,
+            "Price": 850.0,
+            "m²": 62.0,
+            "Address": "Ropažu 16B"
+        },
+        {
+            "Price_per_m²": 14.29,
+            "Price": 600.0,
+            "m²": 41.99,
+            "Address": "Turaidas 4"
+        },
+        {
+            "Price_per_m²": 12.07,
+            "Price": 350.0,
+            "m²": 29.0,
+            "Address": "Zemgaļu 7"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 580.0,
+            "m²": 58.0,
+            "Address": "Āraišu 1"
+        },
+        {
+            "Price_per_m²": 7.35,
+            "Price": 375.0,
+            "m²": 51.02,
+            "Address": "Zemgala 52"
+        },
+        {
+            "Price_per_m²": 7.69,
+            "Price": 500.0,
+            "m²": 65.02,
+            "Address": "Džutas 13A"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 550.0,
+            "m²": 66.03,
+            "Address": "Ūnijas 12a"
+        },
+        {
+            "Price_per_m²": 9.35,
+            "Price": 290.0,
+            "m²": 31.02,
+            "Address": "Bērzpils 3"
+        },
+        {
+            "Price_per_m²": 9.25,
+            "Price": 370.0,
+            "m²": 40.0,
+            "Address": "Raunas 43"
+        },
+        {
+            "Price_per_m²": 7.1,
+            "Price": 220.0,
+            "m²": 30.99,
+            "Address": "Raunas 58/7"
+        },
+        {
+            "Price_per_m²": 10.48,
+            "Price": 440.0,
+            "m²": 41.98,
+            "Address": "Brīvības 334"
+        },
+        {
+            "Price_per_m²": 9.62,
+            "Price": 250.0,
+            "m²": 25.99,
+            "Address": "Bērzpils 1"
+        },
+        {
+            "Price_per_m²": 11.58,
+            "Price": 440.0,
+            "m²": 38.0,
+            "Address": "Turaidas 6"
+        },
+        {
+            "Price_per_m²": 9.33,
+            "Price": 280.0,
+            "m²": 30.01,
+            "Address": "Brīvības 359"
+        },
+        {
+            "Price_per_m²": 7.7,
+            "Price": 570.0,
+            "m²": 74.03,
+            "Address": "Brīvības 232"
+        },
+        {
+            "Price_per_m²": 30.56,
+            "Price": 550.0,
+            "m²": 18.0,
+            "Address": "Zemgala 77"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 350.0,
+            "m²": 49.02,
+            "Address": "Zemgaļu 23A"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 290.0,
+            "m²": 29.0,
+            "Address": "Kastrānes 2A"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 150.0,
+            "m²": 18.01,
+            "Address": "Burtnieku 33"
+        },
+        {
+            "Price_per_m²": 6.86,
+            "Price": 350.0,
+            "m²": 51.02,
+            "Address": "Brīvības 342"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 280.0,
+            "m²": 40.0,
+            "Address": "Raunas 45"
+        },
+        {
+            "Price_per_m²": 11.96,
+            "Price": 550.0,
+            "m²": 45.99,
+            "Address": "Apes 12"
+        },
+        {
+            "Price_per_m²": 9.39,
+            "Price": 385.0,
+            "m²": 41.0,
+            "Address": "Palmu 5"
+        },
+        {
+            "Price_per_m²": 9.11,
+            "Price": 410.0,
+            "m²": 45.01,
+            "Address": "Brīvības 287"
+        },
+        {
+            "Price_per_m²": 5.93,
+            "Price": 350.0,
+            "m²": 59.02,
+            "Address": "Zemitāna lauk. 2"
+        },
+        {
+            "Price_per_m²": 13.33,
+            "Price": 280.0,
+            "m²": 21.01,
+            "Address": "Tālivalža 20"
+        },
+        {
+            "Price_per_m²": 7.84,
+            "Price": 400.0,
+            "m²": 51.02,
+            "Address": "Brīvības 262"
+        },
+        {
+            "Price_per_m²": 10.4,
+            "Price": 260.0,
+            "m²": 25.0,
+            "Address": "Biķernieku 7"
+        },
+        {
+            "Price_per_m²": 12.8,
+            "Price": 320.0,
+            "m²": 25.0,
+            "Address": "Raunas 35"
+        },
+        {
+            "Price_per_m²": 8.54,
+            "Price": 350.0,
+            "m²": 40.98,
+            "Address": "Raunas 45 k-3"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 250.0,
+            "m²": 40.0,
+            "Address": "Zemgala 67"
+        },
+        {
+            "Price_per_m²": 11.11,
+            "Price": 400.0,
+            "m²": 36.0,
+            "Address": "Caunes 17"
+        },
+        {
+            "Price_per_m²": 9.25,
+            "Price": 370.0,
+            "m²": 40.0,
+            "Address": "Bajāru 16"
+        },
+        {
+            "Price_per_m²": 11.33,
+            "Price": 170.0,
+            "m²": 15.0,
+            "Address": "Struktoru 13"
+        },
+        {
+            "Price_per_m²": 15.5,
+            "Price": 620.0,
+            "m²": 40.0,
+            "Address": "Laimdotas 38"
+        },
+        {
+            "Price_per_m²": 12.92,
+            "Price": 310.0,
+            "m²": 23.99,
+            "Address": "Brīvības 302A"
+        },
+        {
+            "Price_per_m²": 9.57,
+            "Price": 450.0,
+            "m²": 47.02,
+            "Address": "Palmu 6"
+        },
+        {
+            "Price_per_m²": 5.82,
+            "Price": 320.0,
+            "m²": 54.98,
+            "Address": "Brīvības 302"
+        },
+        {
+            "Price_per_m²": 9.52,
+            "Price": 400.0,
+            "m²": 42.02,
+            "Address": "Ropažu 26"
+        },
+        {
+            "Price_per_m²": 7.93,
+            "Price": 230.0,
+            "m²": 29.0,
+            "Address": "Biķernieku 6"
+        },
+        {
+            "Price_per_m²": 6.11,
+            "Price": 110.0,
+            "m²": 18.0,
+            "Address": "Burtnieku 33"
+        },
+        {
+            "Price_per_m²": 10.71,
+            "Price": 300.0,
+            "m²": 28.01,
+            "Address": "Biķernieku 29"
+        },
+        {
+            "Price_per_m²": 14.29,
+            "Price": 600.0,
+            "m²": 41.99,
+            "Address": "Stārķu 4"
+        },
+        {
+            "Price_per_m²": 15.23,
+            "Price": 335.0,
+            "m²": 22.0,
+            "Address": "Kuršu 25"
+        },
+        {
+            "Price_per_m²": 18.93,
+            "Price": 265.0,
+            "m²": 14.0,
+            "Address": "Kuršu 25"
+        },
+        {
+            "Price_per_m²": 9.83,
+            "Price": 295.0,
+            "m²": 30.01,
+            "Address": "Raunas 39"
+        },
+        {
+            "Price_per_m²": 6.42,
+            "Price": 340.0,
+            "m²": 52.96,
+            "Address": "Brīvības 227"
+        },
+        {
+            "Price_per_m²": 8.54,
+            "Price": 350.0,
+            "m²": 40.98,
+            "Address": "Ropažu 24"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 400.0,
+            "m²": 59.97,
+            "Address": "Zemgala 60"
+        },
+        {
+            "Price_per_m²": 7.86,
+            "Price": 330.0,
+            "m²": 41.98,
+            "Address": "Brīvības 334"
+        },
+        {
+            "Price_per_m²": 6.19,
+            "Price": 390.0,
+            "m²": 63.0,
+            "Address": "Biķernieku 75"
+        },
+        {
+            "Price_per_m²": 8.48,
+            "Price": 280.0,
+            "m²": 33.02,
+            "Address": "Biķernieku 39"
+        },
+        {
+            "Price_per_m²": 7.62,
+            "Price": 320.0,
+            "m²": 41.99,
+            "Address": "Ķeguma 31"
+        },
+        {
+            "Price_per_m²": 18.93,
+            "Price": 265.0,
+            "m²": 14.0,
+            "Address": "Kuršu 25"
+        },
+        {
+            "Price_per_m²": 7.5,
+            "Price": 300.0,
+            "m²": 40.0,
+            "Address": "Brīvības 263"
+        },
+        {
+            "Price_per_m²": 6.73,
+            "Price": 350.0,
+            "m²": 52.01,
+            "Address": "Brīvības 215"
+        },
+        {
+            "Price_per_m²": 9.38,
+            "Price": 450.0,
+            "m²": 47.97,
+            "Address": "Aizpriežu 56"
+        },
+        {
+            "Price_per_m²": 12.78,
+            "Price": 230.0,
+            "m²": 18.0,
+            "Address": "Burtnieku 35"
+        },
+        {
+            "Price_per_m²": 9.32,
+            "Price": 410.0,
+            "m²": 43.99,
+            "Address": "Brīvības 320"
+        },
+        {
+            "Price_per_m²": 13.41,
+            "Price": 550.0,
+            "m²": 41.01,
+            "Address": "Ķeguma 39"
+        },
+        {
+            "Price_per_m²": 5.75,
+            "Price": 690.0,
+            "m²": 120.0,
+            "Address": "Ķeguma 050"
+        },
+        {
+            "Price_per_m²": 10.39,
+            "Price": 800.0,
+            "m²": 77.0,
+            "Address": "Zemgala 80"
+        },
+        {
+            "Price_per_m²": 7.41,
+            "Price": 200.0,
+            "m²": 26.99,
+            "Address": "Piebalgas 6"
+        },
+        {
+            "Price_per_m²": 6.6,
+            "Price": 350.0,
+            "m²": 53.03,
+            "Address": "Brīvības 278"
+        },
+        {
+            "Price_per_m²": 7.07,
+            "Price": 290.0,
+            "m²": 41.02,
+            "Address": "Biķernieku 109A"
+        },
+        {
+            "Price_per_m²": 6.71,
+            "Price": 275.0,
+            "m²": 40.98,
+            "Address": "Ropažu 28"
+        },
+        {
+            "Price_per_m²": 9.03,
+            "Price": 560.0,
+            "m²": 62.02,
+            "Address": "Brīvības 236"
+        },
+        {
+            "Price_per_m²": 8.18,
+            "Price": 450.0,
+            "m²": 55.01,
+            "Address": "Brīvības 239"
+        },
+        {
+            "Price_per_m²": 7.03,
+            "Price": 450.0,
+            "m²": 64.01,
+            "Address": "Pēkšēna 11"
+        },
+        {
+            "Price_per_m²": 9.41,
+            "Price": 320.0,
+            "m²": 34.01,
+            "Address": "Lēdmanes 1A"
+        },
+        {
+            "Price_per_m²": 8.86,
+            "Price": 620.0,
+            "m²": 69.98,
+            "Address": "Brīvības 336"
+        },
+        {
+            "Price_per_m²": 18.75,
+            "Price": 225.0,
+            "m²": 12.0,
+            "Address": "Kuršu 25"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 420.0,
+            "m²": 42.0,
+            "Address": "Biķernieku 67"
+        },
+        {
+            "Price_per_m²": 6.43,
+            "Price": 180.0,
+            "m²": 27.99,
+            "Address": "Raunas 39"
+        },
+        {
+            "Price_per_m²": 9.3,
+            "Price": 400.0,
+            "m²": 43.01,
+            "Address": "Pudiķa 16"
+        },
+        {
+            "Price_per_m²": 11.11,
+            "Price": 200.0,
+            "m²": 18.0,
+            "Address": "Burtnieku 33"
+        },
+        {
+            "Price_per_m²": 10.47,
+            "Price": 450.0,
+            "m²": 42.98,
+            "Address": "Brīvības 334"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 550.0,
+            "m²": 55.0,
+            "Address": "Biķernieku 31"
+        },
+        {
+            "Price_per_m²": 6.11,
+            "Price": 220.0,
+            "m²": 36.01,
+            "Address": "Ropažu 87"
+        },
+        {
+            "Price_per_m²": 10.24,
+            "Price": 420.0,
+            "m²": 41.02,
+            "Address": "Ropažu 26"
+        },
+        {
+            "Price_per_m²": 12.96,
+            "Price": 350.0,
+            "m²": 27.01,
+            "Address": "Biķernieku 7"
+        },
+        {
+            "Price_per_m²": 5.97,
+            "Price": 400.0,
+            "m²": 67.0,
+            "Address": "Brīvības 280"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 400.0,
+            "m²": 48.02,
+            "Address": "Zemgaļu 21a"
+        },
+        {
+            "Price_per_m²": 4.81,
+            "Price": 250.0,
+            "m²": 51.98,
+            "Address": "Dzērbenes 1"
+        },
+        {
+            "Price_per_m²": 8.21,
+            "Price": 690.0,
+            "m²": 84.04,
+            "Address": "Ūnijas 12A"
+        },
+        {
+            "Price_per_m²": 11.61,
+            "Price": 720.0,
+            "m²": 62.02,
+            "Address": "Ropažu 14A"
+        },
+        {
+            "Price_per_m²": 16.71,
+            "Price": 585.0,
+            "m²": 35.01,
+            "Address": "Burtnieku 1"
+        },
+        {
+            "Price_per_m²": 11.93,
+            "Price": 680.0,
+            "m²": 57.0,
+            "Address": "Bajāru 8"
+        },
+        {
+            "Price_per_m²": 7.29,
+            "Price": 350.0,
+            "m²": 48.01,
+            "Address": "Biķernieku 35a"
+        },
+        {
+            "Price_per_m²": 6.04,
+            "Price": 320.0,
+            "m²": 52.98,
+            "Address": "Ūnijas 55"
+        },
+        {
+            "Price_per_m²": 6.48,
+            "Price": 350.0,
+            "m²": 54.01,
+            "Address": "Vairoga 21"
+        },
+        {
+            "Price_per_m²": 13.75,
+            "Price": 220.0,
+            "m²": 16.0,
+            "Address": "Burtnieku 33"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 290.0,
+            "m²": 29.0,
+            "Address": "Krustabaznīcas 5"
+        },
+        {
+            "Price_per_m²": 12.32,
+            "Price": 850.0,
+            "m²": 68.99,
+            "Address": "Ropažu 14b"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Raunas 58/6"
+        },
+        {
+            "Price_per_m²": 7.35,
+            "Price": 250.0,
+            "m²": 34.01,
+            "Address": "Ropažu 93"
+        },
+        {
+            "Price_per_m²": 6.52,
+            "Price": 300.0,
+            "m²": 46.01,
+            "Address": "Biķernieku 81"
+        },
+        {
+            "Price_per_m²": 9.44,
+            "Price": 255.0,
+            "m²": 27.01,
+            "Address": "Biķernieku 6"
+        },
+        {
+            "Price_per_m²": 7.96,
+            "Price": 390.0,
+            "m²": 48.99,
+            "Address": "Apes 5"
+        },
+        {
+            "Price_per_m²": 10.8,
+            "Price": 270.0,
+            "m²": 25.0,
+            "Address": "Piebalgas 10a"
+        },
+        {
+            "Price_per_m²": 8.57,
+            "Price": 360.0,
+            "m²": 42.01,
+            "Address": "Laimdotas 57"
+        },
+        {
+            "Price_per_m²": 10.23,
+            "Price": 450.0,
+            "m²": 43.99,
+            "Address": "Laimdotas 57"
+        },
+        {
+            "Price_per_m²": 12.26,
+            "Price": 650.0,
+            "m²": 53.02,
+            "Address": "Bajāru 14-5"
+        },
+        {
+            "Price_per_m²": 10.28,
+            "Price": 370.0,
+            "m²": 35.99,
+            "Address": "Ropažu 33"
+        },
+        {
+            "Price_per_m²": 9.52,
+            "Price": 400.0,
+            "m²": 42.02,
+            "Address": "Ropažu 26"
+        },
+        {
+            "Price_per_m²": 9.46,
+            "Price": 350.0,
+            "m²": 37.0,
+            "Address": "Brīvības 231 k-1"
+        },
+        {
+            "Price_per_m²": 11.0,
+            "Price": 440.0,
+            "m²": 40.0,
+            "Address": "Ropažu 101"
+        },
+        {
+            "Price_per_m²": 10.14,
+            "Price": 720.0,
+            "m²": 71.01,
+            "Address": "Bajāru 14"
+        },
+        {
+            "Price_per_m²": 11.71,
+            "Price": 480.0,
+            "m²": 40.99,
+            "Address": "Brīvības 215"
+        },
+        {
+            "Price_per_m²": 11.29,
+            "Price": 350.0,
+            "m²": 31.0,
+            "Address": "Brīvības 362"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 320.0,
+            "m²": 32.0,
+            "Address": "Brīvības 357"
+        },
+        {
+            "Price_per_m²": 11.32,
+            "Price": 215.0,
+            "m²": 18.99,
+            "Address": "Burtnieku 33"
+        },
+        {
+            "Price_per_m²": 12.88,
+            "Price": 644.0,
+            "m²": 50.0,
+            "Address": "Brīvības 262"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 700.0,
+            "m²": 70.0,
+            "Address": "Brīvības 342"
+        },
+        {
+            "Price_per_m²": 16.25,
+            "Price": 390.0,
+            "m²": 24.0,
+            "Address": "Brīvības 217"
+        },
+        {
+            "Price_per_m²": 11.11,
+            "Price": 200.0,
+            "m²": 18.0,
+            "Address": "Aizpriežu 56"
+        },
+        {
+            "Price_per_m²": 12.6,
+            "Price": 630.0,
+            "m²": 50.0,
+            "Address": "Vairoga 32"
+        },
+        {
+            "Price_per_m²": 9.46,
+            "Price": 700.0,
+            "m²": 74.0,
+            "Address": "Zemgala 80"
+        },
+        {
+            "Price_per_m²": 16.18,
+            "Price": 550.0,
+            "m²": 33.99,
+            "Address": "Vairoga 32"
+        },
+        {
+            "Price_per_m²": 6.46,
+            "Price": 420.0,
+            "m²": 65.02,
+            "Address": "Brīvības 306"
+        },
+        {
+            "Price_per_m²": 7.04,
+            "Price": 500.0,
+            "m²": 71.02,
+            "Address": "Vijciema 16"
+        },
+        {
+            "Price_per_m²": 10.77,
+            "Price": 280.0,
+            "m²": 26.0,
+            "Address": "Raunas 37"
+        },
+        {
+            "Price_per_m²": 4.63,
+            "Price": 250.0,
+            "m²": 54.0,
+            "Address": "Zālīša 5"
+        },
+        {
+            "Price_per_m²": 8.64,
+            "Price": 190.0,
+            "m²": 21.99,
+            "Address": "Piebalgas 10a"
+        },
+        {
+            "Price_per_m²": 11.19,
+            "Price": 750.0,
+            "m²": 67.02,
+            "Address": "Ropažu 14/1"
+        },
+        {
+            "Price_per_m²": 10.67,
+            "Price": 320.0,
+            "m²": 29.99,
+            "Address": "Ropažu 24"
+        },
+        {
+            "Price_per_m²": 14.0,
+            "Price": 280.0,
+            "m²": 20.0,
+            "Address": "Piebalgas 10a"
+        },
+        {
+            "Price_per_m²": 10.95,
+            "Price": 460.0,
+            "m²": 42.01,
+            "Address": "Ķeguma 39"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 400.0,
+            "m²": 40.0,
+            "Address": "Biķernieku 63"
+        },
+        {
+            "Price_per_m²": 6.04,
+            "Price": 290.0,
+            "m²": 48.01,
+            "Address": "Zemitāna lauk. 2a"
+        },
+        {
+            "Price_per_m²": 8.82,
+            "Price": 300.0,
+            "m²": 34.01,
+            "Address": "Biķernieku 28"
+        },
+        {
+            "Price_per_m²": 8.06,
+            "Price": 250.0,
+            "m²": 31.02,
+            "Address": "Kastrānes 3"
+        },
+        {
+            "Price_per_m²": 9.52,
+            "Price": 400.0,
+            "m²": 42.02,
+            "Address": "Ropažu 87"
+        },
+        {
+            "Price_per_m²": 11.07,
+            "Price": 310.0,
+            "m²": 28.0,
+            "Address": "Ropažu 45"
+        },
+        {
+            "Price_per_m²": 10.57,
+            "Price": 465.0,
+            "m²": 43.99,
+            "Address": "Ropažu 22"
+        },
+        {
+            "Price_per_m²": 10.29,
+            "Price": 350.0,
+            "m²": 34.01,
+            "Address": "Vangažu 26"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 250.0,
+            "m²": 30.01,
+            "Address": "Brīvības 229"
+        },
+        {
+            "Price_per_m²": 8.24,
+            "Price": 280.0,
+            "m²": 33.98,
+            "Address": "Brīvības 231"
+        },
+        {
+            "Price_per_m²": 9.29,
+            "Price": 130.0,
+            "m²": 13.99,
+            "Address": "Ūnijas 55"
+        },
+        {
+            "Price_per_m²": 5.43,
+            "Price": 250.0,
+            "m²": 46.04,
+            "Address": "Brīvības 227"
+        },
+        {
+            "Price_per_m²": 8.72,
+            "Price": 375.0,
+            "m²": 43.0,
+            "Address": "Raunas 45"
+        },
+        {
+            "Price_per_m²": 16.67,
+            "Price": 700.0,
+            "m²": 41.99,
+            "Address": "Ropažu 16A"
+        },
+        {
+            "Price_per_m²": 12.84,
+            "Price": 950.0,
+            "m²": 73.99,
+            "Address": "Ropažu 14"
+        },
+        {
+            "Price_per_m²": 6.56,
+            "Price": 400.0,
+            "m²": 60.98,
+            "Address": "Bērzpils 69"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 120.0,
+            "m²": 20.0,
+            "Address": "Bērzpils 75"
+        },
+        {
+            "Price_per_m²": 6.6,
+            "Price": 330.0,
+            "m²": 50.0,
+            "Address": "Brīvības 308"
+        },
+        {
+            "Price_per_m²": 9.77,
+            "Price": 420.0,
+            "m²": 42.99,
+            "Address": "Ropažu 33a"
+        },
+        {
+            "Price_per_m²": 11.25,
+            "Price": 180.0,
+            "m²": 16.0,
+            "Address": "Struktoru 13"
+        },
+        {
+            "Price_per_m²": 8.44,
+            "Price": 650.0,
+            "m²": 77.01,
+            "Address": "Zemgala 80"
+        },
+        {
+            "Price_per_m²": 4.6,
+            "Price": 230.0,
+            "m²": 50.0,
+            "Address": "Bērzpils 5"
+        },
+        {
+            "Price_per_m²": 13.1,
+            "Price": 550.0,
+            "m²": 41.98,
+            "Address": "Ķeguma 39"
+        },
+        {
+            "Price_per_m²": 9.26,
+            "Price": 500.0,
+            "m²": 54.0,
+            "Address": "Bajāru 16"
+        },
+        {
+            "Price_per_m²": 5.1,
+            "Price": 250.0,
+            "m²": 49.02,
+            "Address": "Biķernieku 93"
+        },
+        {
+            "Price_per_m²": 7.82,
+            "Price": 430.0,
+            "m²": 54.99,
+            "Address": "Zālīša 3"
+        },
+        {
+            "Price_per_m²": 5.96,
+            "Price": 310.0,
+            "m²": 52.01,
+            "Address": "Zemitāna lauk. 2a"
+        },
+        {
+            "Price_per_m²": 14.44,
+            "Price": 260.0,
+            "m²": 18.01,
+            "Address": "Remīnes 3"
+        },
+        {
+            "Price_per_m²": 12.24,
+            "Price": 600.0,
+            "m²": 49.02,
+            "Address": "Zemgala 80"
+        },
+        {
+            "Price_per_m²": 16.22,
+            "Price": 730.0,
+            "m²": 45.01,
+            "Address": "Laimdotas 38"
+        },
+        {
+            "Price_per_m²": 10.61,
+            "Price": 350.0,
+            "m²": 32.99,
+            "Address": "Struktoru 5"
+        },
+        {
+            "Price_per_m²": 7.16,
+            "Price": 480.0,
+            "m²": 67.04,
+            "Address": "Ūnijas 36"
+        },
+        {
+            "Price_per_m²": 14.81,
+            "Price": 400.0,
+            "m²": 27.01,
+            "Address": "Brīvības 320"
+        },
+        {
+            "Price_per_m²": 1.9,
+            "Price": 40.0,
+            "m²": 21.05,
+            "Address": "Zemgala 77"
+        },
+        {
+            "Price_per_m²": 7.29,
+            "Price": 350.0,
+            "m²": 48.01,
+            "Address": "Remīnes 7"
+        },
+        {
+            "Price_per_m²": 7.78,
+            "Price": 350.0,
+            "m²": 44.99,
+            "Address": "Ieriķu 37"
+        },
+        {
+            "Price_per_m²": 8.97,
+            "Price": 350.0,
+            "m²": 39.02,
+            "Address": "Brīvības 229"
+        },
+        {
+            "Price_per_m²": 8.18,
+            "Price": 450.0,
+            "m²": 55.01,
+            "Address": "Struktoru 6"
+        },
+        {
+            "Price_per_m²": 8.16,
+            "Price": 400.0,
+            "m²": 49.02,
+            "Address": "Biķernieku 79"
+        },
+        {
+            "Price_per_m²": 11.67,
+            "Price": 210.0,
+            "m²": 17.99,
+            "Address": "Burtnieku 33"
+        },
+        {
+            "Price_per_m²": 5.65,
+            "Price": 350.0,
+            "m²": 61.95,
+            "Address": "Brīvības 313"
+        },
+        {
+            "Price_per_m²": 12.43,
+            "Price": 460.0,
+            "m²": 37.01,
+            "Address": "Brīvības 215"
+        },
+        {
+            "Price_per_m²": 8.82,
+            "Price": 300.0,
+            "m²": 34.01,
+            "Address": "Kastrānes 1"
+        },
+        {
+            "Price_per_m²": 6.79,
+            "Price": 360.0,
+            "m²": 53.02,
+            "Address": "Laimdotas 45"
+        },
+        {
+            "Price_per_m²": 12.78,
+            "Price": 230.0,
+            "m²": 18.0,
+            "Address": "Kastrānes 1"
+        },
+        {
+            "Price_per_m²": 12.34,
+            "Price": 790.0,
+            "m²": 64.02,
+            "Address": "Zemgala 78"
+        },
+        {
+            "Price_per_m²": 12.34,
+            "Price": 790.0,
+            "m²": 64.02,
+            "Address": "Zemgala 78"
+        },
+        {
+            "Price_per_m²": 5.28,
+            "Price": 280.0,
+            "m²": 53.03,
+            "Address": "Apes 12"
+        },
+        {
+            "Price_per_m²": 11.94,
+            "Price": 370.0,
+            "m²": 30.99,
+            "Address": "Struktoru 7"
+        },
+        {
+            "Price_per_m²": 12.21,
+            "Price": 1099.0,
+            "m²": 90.01,
+            "Address": "Brīvības 276"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 600.0,
+            "m²": 75.0,
+            "Address": "Ieriķu 27"
+        },
+        {
+            "Price_per_m²": 13.0,
+            "Price": 520.0,
+            "m²": 40.0,
+            "Address": "Launkalnes 1"
+        },
+        {
+            "Price_per_m²": 6.15,
+            "Price": 400.0,
+            "m²": 65.04,
+            "Address": "Ropažu 60a"
+        },
+        {
+            "Price_per_m²": 15.56,
+            "Price": 280.0,
+            "m²": 17.99,
+            "Address": "Kuršu 25"
+        },
+        {
+            "Price_per_m²": 9.44,
+            "Price": 340.0,
+            "m²": 36.02,
+            "Address": "Kastrānes 1 k2"
+        }
+    ],
+    "daily": [
+        {
+            "Price_per_m²": 0.833,
+            "Price": 25.0,
+            "m²": 30.01,
+            "Address": "Ūnijas 72"
+        },
+        {
+            "Price_per_m²": 0.833,
+            "Price": 25.0,
+            "m²": 30.01,
+            "Address": "Ūnijas 72"
+        },
+        {
+            "Price_per_m²": 1.11,
+            "Price": 40.0,
+            "m²": 36.04,
+            "Address": "Turaidas 6"
+        },
+        {
+            "Price_per_m²": 0.667,
+            "Price": 30.0,
+            "m²": 44.98,
+            "Address": "Ūnijas 60"
+        },
+        {
+            "Price_per_m²": 1.14,
+            "Price": 40.0,
+            "m²": 35.09,
+            "Address": "Turaidas 6"
+        },
+        {
+            "Price_per_m²": 1.25,
+            "Price": 40.0,
+            "m²": 32.0,
+            "Address": "Brīvības 219"
+        },
+        {
+            "Price_per_m²": 0.556,
+            "Price": 25.0,
+            "m²": 44.96,
+            "Address": "Ūnijas 70"
+        },
+        {
+            "Price_per_m²": 2.11,
+            "Price": 40.0,
+            "m²": 18.96,
+            "Address": "Zemgala 77"
+        },
+        {
+            "Price_per_m²": 1.67,
+            "Price": 40.0,
+            "m²": 23.95,
+            "Address": "Zemgala 77"
+        },
+        {
+            "Price_per_m²": 1.05,
+            "Price": 20.0,
+            "m²": 19.05,
+            "Address": "Zemgala 77"
+        }
+    ]
+}

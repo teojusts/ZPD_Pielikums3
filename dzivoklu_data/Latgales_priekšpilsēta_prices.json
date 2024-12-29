@@ -1,0 +1,1927 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 2130.0,
+            "Price": 91590.0,
+            "m²": 43.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1771.0,
+            "Price": 54900.0,
+            "m²": 31.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1705.0,
+            "Price": 110840.0,
+            "m²": 65.01,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1771.0,
+            "Price": 54900.0,
+            "m²": 31.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 2229.0,
+            "Price": 71325.0,
+            "m²": 32.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 624.0,
+            "Price": 30600.0,
+            "m²": 49.04,
+            "Address": "Dzirnavu 157"
+        },
+        {
+            "Price_per_m²": 1367.0,
+            "Price": 61500.0,
+            "m²": 44.99,
+            "Address": "Kalupes 14"
+        },
+        {
+            "Price_per_m²": 1469.0,
+            "Price": 119000.0,
+            "m²": 81.01,
+            "Address": "Jersikas 21A"
+        },
+        {
+            "Price_per_m²": 837.0,
+            "Price": 36000.0,
+            "m²": 43.01,
+            "Address": "Latgales 237a"
+        },
+        {
+            "Price_per_m²": 958.0,
+            "Price": 23000.0,
+            "m²": 24.01,
+            "Address": "Daugavpils 41"
+        },
+        {
+            "Price_per_m²": 2383.0,
+            "Price": 224000.0,
+            "m²": 94.0,
+            "Address": "Virsaišu 4"
+        },
+        {
+            "Price_per_m²": 804.0,
+            "Price": 22500.0,
+            "m²": 27.99,
+            "Address": "Daugavpils 52"
+        },
+        {
+            "Price_per_m²": 667.0,
+            "Price": 16668.0,
+            "m²": 24.99,
+            "Address": "M. Lubānas 17"
+        },
+        {
+            "Price_per_m²": 1261.0,
+            "Price": 169000.0,
+            "m²": 134.02,
+            "Address": "Latgales 131"
+        },
+        {
+            "Price_per_m²": 783.0,
+            "Price": 65000.0,
+            "m²": 83.01,
+            "Address": "Balvu 15"
+        },
+        {
+            "Price_per_m²": 1664.0,
+            "Price": 54900.0,
+            "m²": 32.99,
+            "Address": "Katoļu 31"
+        },
+        {
+            "Price_per_m²": 1077.0,
+            "Price": 42000.0,
+            "m²": 39.0,
+            "Address": "Kalupes 12"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 31000.0,
+            "m²": 36.99,
+            "Address": "Latgales 279"
+        },
+        {
+            "Price_per_m²": 958.0,
+            "Price": 24900.0,
+            "m²": 25.99,
+            "Address": "Daugavpils 76"
+        },
+        {
+            "Price_per_m²": 1406.0,
+            "Price": 45000.0,
+            "m²": 32.01,
+            "Address": "Ludzas 56A"
+        },
+        {
+            "Price_per_m²": 1482.0,
+            "Price": 84500.0,
+            "m²": 57.02,
+            "Address": "Jersikas 21"
+        },
+        {
+            "Price_per_m²": 1357.0,
+            "Price": 76000.0,
+            "m²": 56.01,
+            "Address": "Jersikas 21"
+        },
+        {
+            "Price_per_m²": 848.0,
+            "Price": 41550.0,
+            "m²": 49.0,
+            "Address": "Ludzas 36 k-1"
+        },
+        {
+            "Price_per_m²": 722.0,
+            "Price": 26000.0,
+            "m²": 36.01,
+            "Address": "Līksnas 20"
+        },
+        {
+            "Price_per_m²": 864.0,
+            "Price": 28500.0,
+            "m²": 32.99,
+            "Address": "Krāslavas 21"
+        },
+        {
+            "Price_per_m²": 929.0,
+            "Price": 65000.0,
+            "m²": 69.97,
+            "Address": "Ebreju 10"
+        },
+        {
+            "Price_per_m²": 679.0,
+            "Price": 38000.0,
+            "m²": 55.96,
+            "Address": "Jēkabpils 25"
+        },
+        {
+            "Price_per_m²": 683.0,
+            "Price": 20500.0,
+            "m²": 30.01,
+            "Address": "Daugavpils 49"
+        },
+        {
+            "Price_per_m²": 683.0,
+            "Price": 20500.0,
+            "m²": 30.01,
+            "Address": "Daugavpils 49"
+        },
+        {
+            "Price_per_m²": 499.0,
+            "Price": 11480.0,
+            "m²": 23.01,
+            "Address": "Līksnas 20A"
+        },
+        {
+            "Price_per_m²": 1310.0,
+            "Price": 78600.0,
+            "m²": 60.0,
+            "Address": "Rēznas 5"
+        },
+        {
+            "Price_per_m²": 958.0,
+            "Price": 23000.0,
+            "m²": 24.01,
+            "Address": "Ludzas 54"
+        },
+        {
+            "Price_per_m²": 1722.0,
+            "Price": 93000.0,
+            "m²": 54.01,
+            "Address": "Latgales 140"
+        },
+        {
+            "Price_per_m²": 1482.0,
+            "Price": 84500.0,
+            "m²": 57.02,
+            "Address": "Jersikas 21A"
+        },
+        {
+            "Price_per_m²": 778.0,
+            "Price": 28000.0,
+            "m²": 35.99,
+            "Address": "Daugavpils 19"
+        },
+        {
+            "Price_per_m²": 958.0,
+            "Price": 23000.0,
+            "m²": 24.01,
+            "Address": "Jersikas 29"
+        },
+        {
+            "Price_per_m²": 988.0,
+            "Price": 85000.0,
+            "m²": 86.03,
+            "Address": "Katoļu 33"
+        },
+        {
+            "Price_per_m²": 722.0,
+            "Price": 26000.0,
+            "m²": 36.01,
+            "Address": "Ludzas 52"
+        },
+        {
+            "Price_per_m²": 2000.0,
+            "Price": 48000.0,
+            "m²": 24.0,
+            "Address": "Latgales 146"
+        },
+        {
+            "Price_per_m²": 1788.0,
+            "Price": 59000.0,
+            "m²": 33.0,
+            "Address": "Latgales 146"
+        },
+        {
+            "Price_per_m²": 1633.0,
+            "Price": 49000.0,
+            "m²": 30.01,
+            "Address": "Latgales 146"
+        },
+        {
+            "Price_per_m²": 1652.0,
+            "Price": 38000.0,
+            "m²": 23.0,
+            "Address": "Latgales 146"
+        },
+        {
+            "Price_per_m²": 1933.0,
+            "Price": 29000.0,
+            "m²": 15.0,
+            "Address": "Latgales 146"
+        },
+        {
+            "Price_per_m²": 1690.0,
+            "Price": 49000.0,
+            "m²": 28.99,
+            "Address": "Latgales 146"
+        },
+        {
+            "Price_per_m²": 1735.0,
+            "Price": 39900.0,
+            "m²": 23.0,
+            "Address": "Latgales 146"
+        },
+        {
+            "Price_per_m²": 461.0,
+            "Price": 11990.0,
+            "m²": 26.01,
+            "Address": "Kalna 64"
+        },
+        {
+            "Price_per_m²": 1250.0,
+            "Price": 40000.0,
+            "m²": 32.0,
+            "Address": "Lubānas 16"
+        },
+        {
+            "Price_per_m²": 928.0,
+            "Price": 23200.0,
+            "m²": 25.0,
+            "Address": "Pirts 9"
+        },
+        {
+            "Price_per_m²": 382.0,
+            "Price": 21790.0,
+            "m²": 57.04,
+            "Address": "Pirts 13"
+        },
+        {
+            "Price_per_m²": 1463.0,
+            "Price": 79000.0,
+            "m²": 54.0,
+            "Address": "Jersikas 21"
+        },
+        {
+            "Price_per_m²": 1469.0,
+            "Price": 119000.0,
+            "m²": 81.01,
+            "Address": "Jersikas 21"
+        },
+        {
+            "Price_per_m²": 1681.0,
+            "Price": 79000.0,
+            "m²": 47.0,
+            "Address": "Jersikas 21"
+        },
+        {
+            "Price_per_m²": 1608.0,
+            "Price": 82000.0,
+            "m²": 51.0,
+            "Address": "Katoļu 9"
+        },
+        {
+            "Price_per_m²": 818.0,
+            "Price": 36000.0,
+            "m²": 44.01,
+            "Address": "Ludzas 42"
+        },
+        {
+            "Price_per_m²": 1068.0,
+            "Price": 59800.0,
+            "m²": 55.99,
+            "Address": "Latgales 108"
+        },
+        {
+            "Price_per_m²": 2031.0,
+            "Price": 130000.0,
+            "m²": 64.01,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 2000.0,
+            "Price": 130000.0,
+            "m²": 65.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1343.0,
+            "Price": 145000.0,
+            "m²": 107.97,
+            "Address": "Latgales 88"
+        },
+        {
+            "Price_per_m²": 2603.0,
+            "Price": 62475.0,
+            "m²": 24.0,
+            "Address": "Krāslavas 14"
+        },
+        {
+            "Price_per_m²": 1309.0,
+            "Price": 72000.0,
+            "m²": 55.0,
+            "Address": "Krāslavas 1"
+        },
+        {
+            "Price_per_m²": 1155.0,
+            "Price": 48500.0,
+            "m²": 41.99,
+            "Address": "Līksnas 25"
+        },
+        {
+            "Price_per_m²": 513.0,
+            "Price": 34900.0,
+            "m²": 68.03,
+            "Address": "Latgales 93"
+        },
+        {
+            "Price_per_m²": 796.0,
+            "Price": 39800.0,
+            "m²": 50.0,
+            "Address": "Latgales 53"
+        },
+        {
+            "Price_per_m²": 2130.0,
+            "Price": 91590.0,
+            "m²": 43.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1771.0,
+            "Price": 54900.0,
+            "m²": 31.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1705.0,
+            "Price": 110840.0,
+            "m²": 65.01,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1771.0,
+            "Price": 54900.0,
+            "m²": 31.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 2229.0,
+            "Price": 71325.0,
+            "m²": 32.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 624.0,
+            "Price": 30600.0,
+            "m²": 49.04,
+            "Address": "Dzirnavu 157"
+        },
+        {
+            "Price_per_m²": 1367.0,
+            "Price": 61500.0,
+            "m²": 44.99,
+            "Address": "Kalupes 14"
+        },
+        {
+            "Price_per_m²": 1469.0,
+            "Price": 119000.0,
+            "m²": 81.01,
+            "Address": "Jersikas 21A"
+        },
+        {
+            "Price_per_m²": 837.0,
+            "Price": 36000.0,
+            "m²": 43.01,
+            "Address": "Latgales 237a"
+        },
+        {
+            "Price_per_m²": 958.0,
+            "Price": 23000.0,
+            "m²": 24.01,
+            "Address": "Daugavpils 41"
+        },
+        {
+            "Price_per_m²": 2383.0,
+            "Price": 224000.0,
+            "m²": 94.0,
+            "Address": "Virsaišu 4"
+        },
+        {
+            "Price_per_m²": 804.0,
+            "Price": 22500.0,
+            "m²": 27.99,
+            "Address": "Daugavpils 52"
+        },
+        {
+            "Price_per_m²": 667.0,
+            "Price": 16668.0,
+            "m²": 24.99,
+            "Address": "M. Lubānas 17"
+        },
+        {
+            "Price_per_m²": 1261.0,
+            "Price": 169000.0,
+            "m²": 134.02,
+            "Address": "Latgales 131"
+        },
+        {
+            "Price_per_m²": 783.0,
+            "Price": 65000.0,
+            "m²": 83.01,
+            "Address": "Balvu 15"
+        },
+        {
+            "Price_per_m²": 1664.0,
+            "Price": 54900.0,
+            "m²": 32.99,
+            "Address": "Katoļu 31"
+        },
+        {
+            "Price_per_m²": 1077.0,
+            "Price": 42000.0,
+            "m²": 39.0,
+            "Address": "Kalupes 12"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 31000.0,
+            "m²": 36.99,
+            "Address": "Latgales 279"
+        },
+        {
+            "Price_per_m²": 958.0,
+            "Price": 24900.0,
+            "m²": 25.99,
+            "Address": "Daugavpils 76"
+        },
+        {
+            "Price_per_m²": 1406.0,
+            "Price": 45000.0,
+            "m²": 32.01,
+            "Address": "Ludzas 56A"
+        },
+        {
+            "Price_per_m²": 1482.0,
+            "Price": 84500.0,
+            "m²": 57.02,
+            "Address": "Jersikas 21"
+        },
+        {
+            "Price_per_m²": 1357.0,
+            "Price": 76000.0,
+            "m²": 56.01,
+            "Address": "Jersikas 21"
+        },
+        {
+            "Price_per_m²": 2130.0,
+            "Price": 91590.0,
+            "m²": 43.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1771.0,
+            "Price": 54900.0,
+            "m²": 31.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1705.0,
+            "Price": 110840.0,
+            "m²": 65.01,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1771.0,
+            "Price": 54900.0,
+            "m²": 31.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 2229.0,
+            "Price": 71325.0,
+            "m²": 32.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 624.0,
+            "Price": 30600.0,
+            "m²": 49.04,
+            "Address": "Dzirnavu 157"
+        },
+        {
+            "Price_per_m²": 1367.0,
+            "Price": 61500.0,
+            "m²": 44.99,
+            "Address": "Kalupes 14"
+        },
+        {
+            "Price_per_m²": 1469.0,
+            "Price": 119000.0,
+            "m²": 81.01,
+            "Address": "Jersikas 21A"
+        },
+        {
+            "Price_per_m²": 837.0,
+            "Price": 36000.0,
+            "m²": 43.01,
+            "Address": "Latgales 237a"
+        },
+        {
+            "Price_per_m²": 958.0,
+            "Price": 23000.0,
+            "m²": 24.01,
+            "Address": "Daugavpils 41"
+        },
+        {
+            "Price_per_m²": 2383.0,
+            "Price": 224000.0,
+            "m²": 94.0,
+            "Address": "Virsaišu 4"
+        },
+        {
+            "Price_per_m²": 804.0,
+            "Price": 22500.0,
+            "m²": 27.99,
+            "Address": "Daugavpils 52"
+        },
+        {
+            "Price_per_m²": 667.0,
+            "Price": 16668.0,
+            "m²": 24.99,
+            "Address": "M. Lubānas 17"
+        },
+        {
+            "Price_per_m²": 1261.0,
+            "Price": 169000.0,
+            "m²": 134.02,
+            "Address": "Latgales 131"
+        },
+        {
+            "Price_per_m²": 783.0,
+            "Price": 65000.0,
+            "m²": 83.01,
+            "Address": "Balvu 15"
+        },
+        {
+            "Price_per_m²": 1664.0,
+            "Price": 54900.0,
+            "m²": 32.99,
+            "Address": "Katoļu 31"
+        },
+        {
+            "Price_per_m²": 1077.0,
+            "Price": 42000.0,
+            "m²": 39.0,
+            "Address": "Kalupes 12"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 31000.0,
+            "m²": 36.99,
+            "Address": "Latgales 279"
+        },
+        {
+            "Price_per_m²": 958.0,
+            "Price": 24900.0,
+            "m²": 25.99,
+            "Address": "Daugavpils 76"
+        },
+        {
+            "Price_per_m²": 1406.0,
+            "Price": 45000.0,
+            "m²": 32.01,
+            "Address": "Ludzas 56A"
+        },
+        {
+            "Price_per_m²": 1482.0,
+            "Price": 84500.0,
+            "m²": 57.02,
+            "Address": "Jersikas 21"
+        },
+        {
+            "Price_per_m²": 1357.0,
+            "Price": 76000.0,
+            "m²": 56.01,
+            "Address": "Jersikas 21"
+        },
+        {
+            "Price_per_m²": 2130.0,
+            "Price": 91590.0,
+            "m²": 43.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1771.0,
+            "Price": 54900.0,
+            "m²": 31.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1705.0,
+            "Price": 110840.0,
+            "m²": 65.01,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1771.0,
+            "Price": 54900.0,
+            "m²": 31.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 2229.0,
+            "Price": 71325.0,
+            "m²": 32.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 624.0,
+            "Price": 30600.0,
+            "m²": 49.04,
+            "Address": "Dzirnavu 157"
+        },
+        {
+            "Price_per_m²": 1367.0,
+            "Price": 61500.0,
+            "m²": 44.99,
+            "Address": "Kalupes 14"
+        },
+        {
+            "Price_per_m²": 1469.0,
+            "Price": 119000.0,
+            "m²": 81.01,
+            "Address": "Jersikas 21A"
+        },
+        {
+            "Price_per_m²": 837.0,
+            "Price": 36000.0,
+            "m²": 43.01,
+            "Address": "Latgales 237a"
+        },
+        {
+            "Price_per_m²": 958.0,
+            "Price": 23000.0,
+            "m²": 24.01,
+            "Address": "Daugavpils 41"
+        },
+        {
+            "Price_per_m²": 2383.0,
+            "Price": 224000.0,
+            "m²": 94.0,
+            "Address": "Virsaišu 4"
+        },
+        {
+            "Price_per_m²": 804.0,
+            "Price": 22500.0,
+            "m²": 27.99,
+            "Address": "Daugavpils 52"
+        },
+        {
+            "Price_per_m²": 667.0,
+            "Price": 16668.0,
+            "m²": 24.99,
+            "Address": "M. Lubānas 17"
+        },
+        {
+            "Price_per_m²": 1261.0,
+            "Price": 169000.0,
+            "m²": 134.02,
+            "Address": "Latgales 131"
+        },
+        {
+            "Price_per_m²": 783.0,
+            "Price": 65000.0,
+            "m²": 83.01,
+            "Address": "Balvu 15"
+        },
+        {
+            "Price_per_m²": 1664.0,
+            "Price": 54900.0,
+            "m²": 32.99,
+            "Address": "Katoļu 31"
+        },
+        {
+            "Price_per_m²": 1077.0,
+            "Price": 42000.0,
+            "m²": 39.0,
+            "Address": "Kalupes 12"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 31000.0,
+            "m²": 36.99,
+            "Address": "Latgales 279"
+        },
+        {
+            "Price_per_m²": 958.0,
+            "Price": 24900.0,
+            "m²": 25.99,
+            "Address": "Daugavpils 76"
+        },
+        {
+            "Price_per_m²": 1406.0,
+            "Price": 45000.0,
+            "m²": 32.01,
+            "Address": "Ludzas 56A"
+        },
+        {
+            "Price_per_m²": 1482.0,
+            "Price": 84500.0,
+            "m²": 57.02,
+            "Address": "Jersikas 21"
+        },
+        {
+            "Price_per_m²": 1357.0,
+            "Price": 76000.0,
+            "m²": 56.01,
+            "Address": "Jersikas 21"
+        },
+        {
+            "Price_per_m²": 2130.0,
+            "Price": 91590.0,
+            "m²": 43.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1771.0,
+            "Price": 54900.0,
+            "m²": 31.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1705.0,
+            "Price": 110840.0,
+            "m²": 65.01,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1771.0,
+            "Price": 54900.0,
+            "m²": 31.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 2229.0,
+            "Price": 71325.0,
+            "m²": 32.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 624.0,
+            "Price": 30600.0,
+            "m²": 49.04,
+            "Address": "Dzirnavu 157"
+        },
+        {
+            "Price_per_m²": 1367.0,
+            "Price": 61500.0,
+            "m²": 44.99,
+            "Address": "Kalupes 14"
+        },
+        {
+            "Price_per_m²": 1469.0,
+            "Price": 119000.0,
+            "m²": 81.01,
+            "Address": "Jersikas 21A"
+        },
+        {
+            "Price_per_m²": 837.0,
+            "Price": 36000.0,
+            "m²": 43.01,
+            "Address": "Latgales 237a"
+        },
+        {
+            "Price_per_m²": 958.0,
+            "Price": 23000.0,
+            "m²": 24.01,
+            "Address": "Daugavpils 41"
+        },
+        {
+            "Price_per_m²": 2383.0,
+            "Price": 224000.0,
+            "m²": 94.0,
+            "Address": "Virsaišu 4"
+        },
+        {
+            "Price_per_m²": 804.0,
+            "Price": 22500.0,
+            "m²": 27.99,
+            "Address": "Daugavpils 52"
+        },
+        {
+            "Price_per_m²": 667.0,
+            "Price": 16668.0,
+            "m²": 24.99,
+            "Address": "M. Lubānas 17"
+        },
+        {
+            "Price_per_m²": 1261.0,
+            "Price": 169000.0,
+            "m²": 134.02,
+            "Address": "Latgales 131"
+        },
+        {
+            "Price_per_m²": 783.0,
+            "Price": 65000.0,
+            "m²": 83.01,
+            "Address": "Balvu 15"
+        },
+        {
+            "Price_per_m²": 1664.0,
+            "Price": 54900.0,
+            "m²": 32.99,
+            "Address": "Katoļu 31"
+        },
+        {
+            "Price_per_m²": 1077.0,
+            "Price": 42000.0,
+            "m²": 39.0,
+            "Address": "Kalupes 12"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 31000.0,
+            "m²": 36.99,
+            "Address": "Latgales 279"
+        },
+        {
+            "Price_per_m²": 958.0,
+            "Price": 24900.0,
+            "m²": 25.99,
+            "Address": "Daugavpils 76"
+        },
+        {
+            "Price_per_m²": 1406.0,
+            "Price": 45000.0,
+            "m²": 32.01,
+            "Address": "Ludzas 56A"
+        },
+        {
+            "Price_per_m²": 1482.0,
+            "Price": 84500.0,
+            "m²": 57.02,
+            "Address": "Jersikas 21"
+        },
+        {
+            "Price_per_m²": 1357.0,
+            "Price": 76000.0,
+            "m²": 56.01,
+            "Address": "Jersikas 21"
+        },
+        {
+            "Price_per_m²": 2130.0,
+            "Price": 91590.0,
+            "m²": 43.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1771.0,
+            "Price": 54900.0,
+            "m²": 31.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1705.0,
+            "Price": 110840.0,
+            "m²": 65.01,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1771.0,
+            "Price": 54900.0,
+            "m²": 31.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 2229.0,
+            "Price": 71325.0,
+            "m²": 32.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 624.0,
+            "Price": 30600.0,
+            "m²": 49.04,
+            "Address": "Dzirnavu 157"
+        },
+        {
+            "Price_per_m²": 1367.0,
+            "Price": 61500.0,
+            "m²": 44.99,
+            "Address": "Kalupes 14"
+        },
+        {
+            "Price_per_m²": 1469.0,
+            "Price": 119000.0,
+            "m²": 81.01,
+            "Address": "Jersikas 21A"
+        },
+        {
+            "Price_per_m²": 837.0,
+            "Price": 36000.0,
+            "m²": 43.01,
+            "Address": "Latgales 237a"
+        },
+        {
+            "Price_per_m²": 958.0,
+            "Price": 23000.0,
+            "m²": 24.01,
+            "Address": "Daugavpils 41"
+        },
+        {
+            "Price_per_m²": 2383.0,
+            "Price": 224000.0,
+            "m²": 94.0,
+            "Address": "Virsaišu 4"
+        },
+        {
+            "Price_per_m²": 804.0,
+            "Price": 22500.0,
+            "m²": 27.99,
+            "Address": "Daugavpils 52"
+        },
+        {
+            "Price_per_m²": 667.0,
+            "Price": 16668.0,
+            "m²": 24.99,
+            "Address": "M. Lubānas 17"
+        },
+        {
+            "Price_per_m²": 1261.0,
+            "Price": 169000.0,
+            "m²": 134.02,
+            "Address": "Latgales 131"
+        },
+        {
+            "Price_per_m²": 783.0,
+            "Price": 65000.0,
+            "m²": 83.01,
+            "Address": "Balvu 15"
+        },
+        {
+            "Price_per_m²": 1664.0,
+            "Price": 54900.0,
+            "m²": 32.99,
+            "Address": "Katoļu 31"
+        },
+        {
+            "Price_per_m²": 1077.0,
+            "Price": 42000.0,
+            "m²": 39.0,
+            "Address": "Kalupes 12"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 31000.0,
+            "m²": 36.99,
+            "Address": "Latgales 279"
+        },
+        {
+            "Price_per_m²": 958.0,
+            "Price": 24900.0,
+            "m²": 25.99,
+            "Address": "Daugavpils 76"
+        },
+        {
+            "Price_per_m²": 1406.0,
+            "Price": 45000.0,
+            "m²": 32.01,
+            "Address": "Ludzas 56A"
+        },
+        {
+            "Price_per_m²": 1482.0,
+            "Price": 84500.0,
+            "m²": 57.02,
+            "Address": "Jersikas 21"
+        },
+        {
+            "Price_per_m²": 1357.0,
+            "Price": 76000.0,
+            "m²": 56.01,
+            "Address": "Jersikas 21"
+        },
+        {
+            "Price_per_m²": 2130.0,
+            "Price": 91590.0,
+            "m²": 43.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1771.0,
+            "Price": 54900.0,
+            "m²": 31.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1705.0,
+            "Price": 110840.0,
+            "m²": 65.01,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1771.0,
+            "Price": 54900.0,
+            "m²": 31.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 2229.0,
+            "Price": 71325.0,
+            "m²": 32.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 624.0,
+            "Price": 30600.0,
+            "m²": 49.04,
+            "Address": "Dzirnavu 157"
+        },
+        {
+            "Price_per_m²": 1367.0,
+            "Price": 61500.0,
+            "m²": 44.99,
+            "Address": "Kalupes 14"
+        },
+        {
+            "Price_per_m²": 1469.0,
+            "Price": 119000.0,
+            "m²": 81.01,
+            "Address": "Jersikas 21A"
+        },
+        {
+            "Price_per_m²": 837.0,
+            "Price": 36000.0,
+            "m²": 43.01,
+            "Address": "Latgales 237a"
+        },
+        {
+            "Price_per_m²": 958.0,
+            "Price": 23000.0,
+            "m²": 24.01,
+            "Address": "Daugavpils 41"
+        },
+        {
+            "Price_per_m²": 2383.0,
+            "Price": 224000.0,
+            "m²": 94.0,
+            "Address": "Virsaišu 4"
+        },
+        {
+            "Price_per_m²": 804.0,
+            "Price": 22500.0,
+            "m²": 27.99,
+            "Address": "Daugavpils 52"
+        },
+        {
+            "Price_per_m²": 667.0,
+            "Price": 16668.0,
+            "m²": 24.99,
+            "Address": "M. Lubānas 17"
+        },
+        {
+            "Price_per_m²": 1261.0,
+            "Price": 169000.0,
+            "m²": 134.02,
+            "Address": "Latgales 131"
+        },
+        {
+            "Price_per_m²": 783.0,
+            "Price": 65000.0,
+            "m²": 83.01,
+            "Address": "Balvu 15"
+        },
+        {
+            "Price_per_m²": 1664.0,
+            "Price": 54900.0,
+            "m²": 32.99,
+            "Address": "Katoļu 31"
+        },
+        {
+            "Price_per_m²": 1077.0,
+            "Price": 42000.0,
+            "m²": 39.0,
+            "Address": "Kalupes 12"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 31000.0,
+            "m²": 36.99,
+            "Address": "Latgales 279"
+        },
+        {
+            "Price_per_m²": 958.0,
+            "Price": 24900.0,
+            "m²": 25.99,
+            "Address": "Daugavpils 76"
+        },
+        {
+            "Price_per_m²": 1406.0,
+            "Price": 45000.0,
+            "m²": 32.01,
+            "Address": "Ludzas 56A"
+        },
+        {
+            "Price_per_m²": 1482.0,
+            "Price": 84500.0,
+            "m²": 57.02,
+            "Address": "Jersikas 21"
+        },
+        {
+            "Price_per_m²": 1357.0,
+            "Price": 76000.0,
+            "m²": 56.01,
+            "Address": "Jersikas 21"
+        },
+        {
+            "Price_per_m²": 2130.0,
+            "Price": 91590.0,
+            "m²": 43.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1771.0,
+            "Price": 54900.0,
+            "m²": 31.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1705.0,
+            "Price": 110840.0,
+            "m²": 65.01,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1771.0,
+            "Price": 54900.0,
+            "m²": 31.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 2229.0,
+            "Price": 71325.0,
+            "m²": 32.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 624.0,
+            "Price": 30600.0,
+            "m²": 49.04,
+            "Address": "Dzirnavu 157"
+        },
+        {
+            "Price_per_m²": 1367.0,
+            "Price": 61500.0,
+            "m²": 44.99,
+            "Address": "Kalupes 14"
+        },
+        {
+            "Price_per_m²": 1469.0,
+            "Price": 119000.0,
+            "m²": 81.01,
+            "Address": "Jersikas 21A"
+        },
+        {
+            "Price_per_m²": 837.0,
+            "Price": 36000.0,
+            "m²": 43.01,
+            "Address": "Latgales 237a"
+        },
+        {
+            "Price_per_m²": 958.0,
+            "Price": 23000.0,
+            "m²": 24.01,
+            "Address": "Daugavpils 41"
+        },
+        {
+            "Price_per_m²": 2383.0,
+            "Price": 224000.0,
+            "m²": 94.0,
+            "Address": "Virsaišu 4"
+        },
+        {
+            "Price_per_m²": 804.0,
+            "Price": 22500.0,
+            "m²": 27.99,
+            "Address": "Daugavpils 52"
+        },
+        {
+            "Price_per_m²": 667.0,
+            "Price": 16668.0,
+            "m²": 24.99,
+            "Address": "M. Lubānas 17"
+        },
+        {
+            "Price_per_m²": 1261.0,
+            "Price": 169000.0,
+            "m²": 134.02,
+            "Address": "Latgales 131"
+        },
+        {
+            "Price_per_m²": 783.0,
+            "Price": 65000.0,
+            "m²": 83.01,
+            "Address": "Balvu 15"
+        },
+        {
+            "Price_per_m²": 1664.0,
+            "Price": 54900.0,
+            "m²": 32.99,
+            "Address": "Katoļu 31"
+        },
+        {
+            "Price_per_m²": 1077.0,
+            "Price": 42000.0,
+            "m²": 39.0,
+            "Address": "Kalupes 12"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 31000.0,
+            "m²": 36.99,
+            "Address": "Latgales 279"
+        },
+        {
+            "Price_per_m²": 958.0,
+            "Price": 24900.0,
+            "m²": 25.99,
+            "Address": "Daugavpils 76"
+        },
+        {
+            "Price_per_m²": 1406.0,
+            "Price": 45000.0,
+            "m²": 32.01,
+            "Address": "Ludzas 56A"
+        },
+        {
+            "Price_per_m²": 1482.0,
+            "Price": 84500.0,
+            "m²": 57.02,
+            "Address": "Jersikas 21"
+        },
+        {
+            "Price_per_m²": 1357.0,
+            "Price": 76000.0,
+            "m²": 56.01,
+            "Address": "Jersikas 21"
+        },
+        {
+            "Price_per_m²": 2130.0,
+            "Price": 91590.0,
+            "m²": 43.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1771.0,
+            "Price": 54900.0,
+            "m²": 31.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1705.0,
+            "Price": 110840.0,
+            "m²": 65.01,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 1771.0,
+            "Price": 54900.0,
+            "m²": 31.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 2229.0,
+            "Price": 71325.0,
+            "m²": 32.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 624.0,
+            "Price": 30600.0,
+            "m²": 49.04,
+            "Address": "Dzirnavu 157"
+        },
+        {
+            "Price_per_m²": 1367.0,
+            "Price": 61500.0,
+            "m²": 44.99,
+            "Address": "Kalupes 14"
+        },
+        {
+            "Price_per_m²": 1469.0,
+            "Price": 119000.0,
+            "m²": 81.01,
+            "Address": "Jersikas 21A"
+        },
+        {
+            "Price_per_m²": 837.0,
+            "Price": 36000.0,
+            "m²": 43.01,
+            "Address": "Latgales 237a"
+        },
+        {
+            "Price_per_m²": 958.0,
+            "Price": 23000.0,
+            "m²": 24.01,
+            "Address": "Daugavpils 41"
+        },
+        {
+            "Price_per_m²": 2383.0,
+            "Price": 224000.0,
+            "m²": 94.0,
+            "Address": "Virsaišu 4"
+        },
+        {
+            "Price_per_m²": 804.0,
+            "Price": 22500.0,
+            "m²": 27.99,
+            "Address": "Daugavpils 52"
+        },
+        {
+            "Price_per_m²": 667.0,
+            "Price": 16668.0,
+            "m²": 24.99,
+            "Address": "M. Lubānas 17"
+        },
+        {
+            "Price_per_m²": 1261.0,
+            "Price": 169000.0,
+            "m²": 134.02,
+            "Address": "Latgales 131"
+        },
+        {
+            "Price_per_m²": 783.0,
+            "Price": 65000.0,
+            "m²": 83.01,
+            "Address": "Balvu 15"
+        },
+        {
+            "Price_per_m²": 1664.0,
+            "Price": 54900.0,
+            "m²": 32.99,
+            "Address": "Katoļu 31"
+        },
+        {
+            "Price_per_m²": 1077.0,
+            "Price": 42000.0,
+            "m²": 39.0,
+            "Address": "Kalupes 12"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 31000.0,
+            "m²": 36.99,
+            "Address": "Latgales 279"
+        },
+        {
+            "Price_per_m²": 958.0,
+            "Price": 24900.0,
+            "m²": 25.99,
+            "Address": "Daugavpils 76"
+        },
+        {
+            "Price_per_m²": 1406.0,
+            "Price": 45000.0,
+            "m²": 32.01,
+            "Address": "Ludzas 56A"
+        },
+        {
+            "Price_per_m²": 1482.0,
+            "Price": 84500.0,
+            "m²": 57.02,
+            "Address": "Jersikas 21"
+        },
+        {
+            "Price_per_m²": 1357.0,
+            "Price": 76000.0,
+            "m²": 56.01,
+            "Address": "Jersikas 21"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 11.0,
+            "Price": 220.0,
+            "m²": 20.0,
+            "Address": "Ludzas 87"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 400.0,
+            "m²": 56.02,
+            "Address": "Grēdu 1"
+        },
+        {
+            "Price_per_m²": 8.87,
+            "Price": 550.0,
+            "m²": 62.01,
+            "Address": "Jēkabpils 2"
+        },
+        {
+            "Price_per_m²": 13.18,
+            "Price": 290.0,
+            "m²": 22.0,
+            "Address": "Latgales 146a"
+        },
+        {
+            "Price_per_m²": 11.6,
+            "Price": 290.0,
+            "m²": 25.0,
+            "Address": "Latgales 146a"
+        },
+        {
+            "Price_per_m²": 11.48,
+            "Price": 310.0,
+            "m²": 27.0,
+            "Address": "Ludzas 17"
+        },
+        {
+            "Price_per_m²": 9.66,
+            "Price": 280.0,
+            "m²": 28.99,
+            "Address": "Latgales 146"
+        },
+        {
+            "Price_per_m²": 8.77,
+            "Price": 500.0,
+            "m²": 57.01,
+            "Address": "Krāslavas 7"
+        },
+        {
+            "Price_per_m²": 3.43,
+            "Price": 120.0,
+            "m²": 34.99,
+            "Address": "Daugavpils 53"
+        },
+        {
+            "Price_per_m²": 10.32,
+            "Price": 320.0,
+            "m²": 31.01,
+            "Address": "Latgales 146"
+        },
+        {
+            "Price_per_m²": 9.38,
+            "Price": 225.0,
+            "m²": 23.99,
+            "Address": "Jersikas 29"
+        },
+        {
+            "Price_per_m²": 5.13,
+            "Price": 400.0,
+            "m²": 77.97,
+            "Address": "Latgales 243"
+        },
+        {
+            "Price_per_m²": 10.48,
+            "Price": 220.0,
+            "m²": 20.99,
+            "Address": "Daugavpils 49"
+        },
+        {
+            "Price_per_m²": 14.11,
+            "Price": 395.0,
+            "m²": 27.99,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 10.37,
+            "Price": 280.0,
+            "m²": 27.0,
+            "Address": "Daugavpils 52"
+        },
+        {
+            "Price_per_m²": 10.87,
+            "Price": 250.0,
+            "m²": 23.0,
+            "Address": "Kalupes 15"
+        },
+        {
+            "Price_per_m²": 12.73,
+            "Price": 280.0,
+            "m²": 22.0,
+            "Address": "Latgales 146a"
+        },
+        {
+            "Price_per_m²": 6.86,
+            "Price": 240.0,
+            "m²": 34.99,
+            "Address": "Daugavpils 19"
+        },
+        {
+            "Price_per_m²": 14.06,
+            "Price": 450.0,
+            "m²": 32.01,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 6.35,
+            "Price": 400.0,
+            "m²": 62.99,
+            "Address": "Krāslavas 7"
+        },
+        {
+            "Price_per_m²": 8.15,
+            "Price": 220.0,
+            "m²": 26.99,
+            "Address": "Daugavpils 70"
+        },
+        {
+            "Price_per_m²": 6.49,
+            "Price": 240.0,
+            "m²": 36.98,
+            "Address": "Jersikas 37"
+        },
+        {
+            "Price_per_m²": 17.19,
+            "Price": 550.0,
+            "m²": 32.0,
+            "Address": "Lauvas 7"
+        },
+        {
+            "Price_per_m²": 14.77,
+            "Price": 325.0,
+            "m²": 22.0,
+            "Address": "Ludzas 17"
+        },
+        {
+            "Price_per_m²": 13.7,
+            "Price": 370.0,
+            "m²": 27.01,
+            "Address": "Lubānas 13"
+        },
+        {
+            "Price_per_m²": 13.64,
+            "Price": 300.0,
+            "m²": 21.99,
+            "Address": "Lomonosova 2"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 260.0,
+            "m²": 26.0,
+            "Address": "Latgales 146"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 250.0,
+            "m²": 25.0,
+            "Address": "Viļānu 7"
+        },
+        {
+            "Price_per_m²": 13.04,
+            "Price": 300.0,
+            "m²": 23.01,
+            "Address": "Krāslavas 14"
+        },
+        {
+            "Price_per_m²": 8.17,
+            "Price": 670.0,
+            "m²": 82.01,
+            "Address": "Latgales 88"
+        },
+        {
+            "Price_per_m²": 10.83,
+            "Price": 650.0,
+            "m²": 60.02,
+            "Address": "Krāslavas 14"
+        },
+        {
+            "Price_per_m²": 6.55,
+            "Price": 360.0,
+            "m²": 54.96,
+            "Address": "Krāslavas 11"
+        },
+        {
+            "Price_per_m²": 7.86,
+            "Price": 220.0,
+            "m²": 27.99,
+            "Address": "Daugavpils 70"
+        },
+        {
+            "Price_per_m²": 11.0,
+            "Price": 220.0,
+            "m²": 20.0,
+            "Address": "Ludzas 87"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 400.0,
+            "m²": 56.02,
+            "Address": "Grēdu 1"
+        },
+        {
+            "Price_per_m²": 8.87,
+            "Price": 550.0,
+            "m²": 62.01,
+            "Address": "Jēkabpils 2"
+        },
+        {
+            "Price_per_m²": 13.18,
+            "Price": 290.0,
+            "m²": 22.0,
+            "Address": "Latgales 146a"
+        },
+        {
+            "Price_per_m²": 11.6,
+            "Price": 290.0,
+            "m²": 25.0,
+            "Address": "Latgales 146a"
+        },
+        {
+            "Price_per_m²": 11.48,
+            "Price": 310.0,
+            "m²": 27.0,
+            "Address": "Ludzas 17"
+        },
+        {
+            "Price_per_m²": 11.0,
+            "Price": 220.0,
+            "m²": 20.0,
+            "Address": "Ludzas 87"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 400.0,
+            "m²": 56.02,
+            "Address": "Grēdu 1"
+        },
+        {
+            "Price_per_m²": 8.87,
+            "Price": 550.0,
+            "m²": 62.01,
+            "Address": "Jēkabpils 2"
+        },
+        {
+            "Price_per_m²": 13.18,
+            "Price": 290.0,
+            "m²": 22.0,
+            "Address": "Latgales 146a"
+        },
+        {
+            "Price_per_m²": 11.6,
+            "Price": 290.0,
+            "m²": 25.0,
+            "Address": "Latgales 146a"
+        },
+        {
+            "Price_per_m²": 11.48,
+            "Price": 310.0,
+            "m²": 27.0,
+            "Address": "Ludzas 17"
+        },
+        {
+            "Price_per_m²": 11.0,
+            "Price": 220.0,
+            "m²": 20.0,
+            "Address": "Ludzas 87"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 400.0,
+            "m²": 56.02,
+            "Address": "Grēdu 1"
+        },
+        {
+            "Price_per_m²": 8.87,
+            "Price": 550.0,
+            "m²": 62.01,
+            "Address": "Jēkabpils 2"
+        },
+        {
+            "Price_per_m²": 13.18,
+            "Price": 290.0,
+            "m²": 22.0,
+            "Address": "Latgales 146a"
+        },
+        {
+            "Price_per_m²": 11.6,
+            "Price": 290.0,
+            "m²": 25.0,
+            "Address": "Latgales 146a"
+        },
+        {
+            "Price_per_m²": 11.48,
+            "Price": 310.0,
+            "m²": 27.0,
+            "Address": "Ludzas 17"
+        },
+        {
+            "Price_per_m²": 11.0,
+            "Price": 220.0,
+            "m²": 20.0,
+            "Address": "Ludzas 87"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 400.0,
+            "m²": 56.02,
+            "Address": "Grēdu 1"
+        },
+        {
+            "Price_per_m²": 8.87,
+            "Price": 550.0,
+            "m²": 62.01,
+            "Address": "Jēkabpils 2"
+        },
+        {
+            "Price_per_m²": 13.18,
+            "Price": 290.0,
+            "m²": 22.0,
+            "Address": "Latgales 146a"
+        },
+        {
+            "Price_per_m²": 11.6,
+            "Price": 290.0,
+            "m²": 25.0,
+            "Address": "Latgales 146a"
+        },
+        {
+            "Price_per_m²": 11.48,
+            "Price": 310.0,
+            "m²": 27.0,
+            "Address": "Ludzas 17"
+        },
+        {
+            "Price_per_m²": 11.0,
+            "Price": 220.0,
+            "m²": 20.0,
+            "Address": "Ludzas 87"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 400.0,
+            "m²": 56.02,
+            "Address": "Grēdu 1"
+        },
+        {
+            "Price_per_m²": 8.87,
+            "Price": 550.0,
+            "m²": 62.01,
+            "Address": "Jēkabpils 2"
+        },
+        {
+            "Price_per_m²": 13.18,
+            "Price": 290.0,
+            "m²": 22.0,
+            "Address": "Latgales 146a"
+        },
+        {
+            "Price_per_m²": 11.6,
+            "Price": 290.0,
+            "m²": 25.0,
+            "Address": "Latgales 146a"
+        },
+        {
+            "Price_per_m²": 11.48,
+            "Price": 310.0,
+            "m²": 27.0,
+            "Address": "Ludzas 17"
+        },
+        {
+            "Price_per_m²": 11.0,
+            "Price": 220.0,
+            "m²": 20.0,
+            "Address": "Ludzas 87"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 400.0,
+            "m²": 56.02,
+            "Address": "Grēdu 1"
+        },
+        {
+            "Price_per_m²": 8.87,
+            "Price": 550.0,
+            "m²": 62.01,
+            "Address": "Jēkabpils 2"
+        },
+        {
+            "Price_per_m²": 13.18,
+            "Price": 290.0,
+            "m²": 22.0,
+            "Address": "Latgales 146a"
+        },
+        {
+            "Price_per_m²": 11.6,
+            "Price": 290.0,
+            "m²": 25.0,
+            "Address": "Latgales 146a"
+        },
+        {
+            "Price_per_m²": 11.48,
+            "Price": 310.0,
+            "m²": 27.0,
+            "Address": "Ludzas 17"
+        },
+        {
+            "Price_per_m²": 11.0,
+            "Price": 220.0,
+            "m²": 20.0,
+            "Address": "Ludzas 87"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 400.0,
+            "m²": 56.02,
+            "Address": "Grēdu 1"
+        },
+        {
+            "Price_per_m²": 8.87,
+            "Price": 550.0,
+            "m²": 62.01,
+            "Address": "Jēkabpils 2"
+        },
+        {
+            "Price_per_m²": 13.18,
+            "Price": 290.0,
+            "m²": 22.0,
+            "Address": "Latgales 146a"
+        },
+        {
+            "Price_per_m²": 11.6,
+            "Price": 290.0,
+            "m²": 25.0,
+            "Address": "Latgales 146a"
+        },
+        {
+            "Price_per_m²": 11.48,
+            "Price": 310.0,
+            "m²": 27.0,
+            "Address": "Ludzas 17"
+        },
+        {
+            "Price_per_m²": 11.0,
+            "Price": 220.0,
+            "m²": 20.0,
+            "Address": "Ludzas 87"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 400.0,
+            "m²": 56.02,
+            "Address": "Grēdu 1"
+        },
+        {
+            "Price_per_m²": 8.87,
+            "Price": 550.0,
+            "m²": 62.01,
+            "Address": "Jēkabpils 2"
+        },
+        {
+            "Price_per_m²": 13.18,
+            "Price": 290.0,
+            "m²": 22.0,
+            "Address": "Latgales 146a"
+        },
+        {
+            "Price_per_m²": 11.6,
+            "Price": 290.0,
+            "m²": 25.0,
+            "Address": "Latgales 146a"
+        },
+        {
+            "Price_per_m²": 11.48,
+            "Price": 310.0,
+            "m²": 27.0,
+            "Address": "Ludzas 17"
+        }
+    ],
+    "daily": []
+}

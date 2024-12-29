@@ -1,0 +1,90 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 2106.0,
+            "Price": 166400.0,
+            "m²": 79.01,
+            "Address": "Valtera 1"
+        },
+        {
+            "Price_per_m²": 2415.0,
+            "Price": 161800.0,
+            "m²": 67.0,
+            "Address": "Valtera 1"
+        },
+        {
+            "Price_per_m²": 1300.0,
+            "Price": 65000.0,
+            "m²": 50.0,
+            "Address": "Valtera 5"
+        },
+        {
+            "Price_per_m²": 1554.0,
+            "Price": 115000.0,
+            "m²": 74.0,
+            "Address": "Kaivas 50 K-1"
+        },
+        {
+            "Price_per_m²": 1709.0,
+            "Price": 135000.0,
+            "m²": 78.99,
+            "Address": "Valtera 5"
+        },
+        {
+            "Price_per_m²": 2484.0,
+            "Price": 159000.0,
+            "m²": 64.01,
+            "Address": "Kaivas 7"
+        },
+        {
+            "Price_per_m²": 2496.0,
+            "Price": 117300.0,
+            "m²": 47.0,
+            "Address": "Kaivas 48A"
+        },
+        {
+            "Price_per_m²": 2106.0,
+            "Price": 166400.0,
+            "m²": 79.01,
+            "Address": "Valtera 1"
+        },
+        {
+            "Price_per_m²": 2415.0,
+            "Price": 161800.0,
+            "m²": 67.0,
+            "Address": "Valtera 1"
+        },
+        {
+            "Price_per_m²": 1300.0,
+            "Price": 65000.0,
+            "m²": 50.0,
+            "Address": "Valtera 5"
+        },
+        {
+            "Price_per_m²": 1554.0,
+            "Price": 115000.0,
+            "m²": 74.0,
+            "Address": "Kaivas 50 K-1"
+        },
+        {
+            "Price_per_m²": 1709.0,
+            "Price": 135000.0,
+            "m²": 78.99,
+            "Address": "Valtera 5"
+        },
+        {
+            "Price_per_m²": 2484.0,
+            "Price": 159000.0,
+            "m²": 64.01,
+            "Address": "Kaivas 7"
+        },
+        {
+            "Price_per_m²": 2496.0,
+            "Price": 117300.0,
+            "m²": 47.0,
+            "Address": "Kaivas 48A"
+        }
+    ],
+    "monthly": [],
+    "daily": []
+}

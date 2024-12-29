@@ -1,0 +1,1274 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 1103.0,
+            "Price": 69500.0,
+            "m²": 63.01,
+            "Address": "Vecmīlgrāvja 6"
+        },
+        {
+            "Price_per_m²": 806.0,
+            "Price": 29000.0,
+            "m²": 35.98,
+            "Address": "Vecmīlgrāvja 6"
+        },
+        {
+            "Price_per_m²": 810.0,
+            "Price": 40500.0,
+            "m²": 50.0,
+            "Address": "Sniega 3 k 1"
+        },
+        {
+            "Price_per_m²": 907.0,
+            "Price": 24500.0,
+            "m²": 27.01,
+            "Address": "Stiebru 1"
+        },
+        {
+            "Price_per_m²": 982.0,
+            "Price": 55000.0,
+            "m²": 56.01,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 782.0,
+            "Price": 29700.0,
+            "m²": 37.98,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 983.0,
+            "Price": 58000.0,
+            "m²": 59.0,
+            "Address": "Skuju 18"
+        },
+        {
+            "Price_per_m²": 804.0,
+            "Price": 37000.0,
+            "m²": 46.02,
+            "Address": "Kreimeņu 5"
+        },
+        {
+            "Price_per_m²": 618.0,
+            "Price": 31500.0,
+            "m²": 50.97,
+            "Address": "Meldru 28"
+        },
+        {
+            "Price_per_m²": 577.0,
+            "Price": 30000.0,
+            "m²": 51.99,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 529.0,
+            "Price": 36500.0,
+            "m²": 69.0,
+            "Address": "Skuju 5"
+        },
+        {
+            "Price_per_m²": 668.0,
+            "Price": 25400.0,
+            "m²": 38.02,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 962.0,
+            "Price": 37500.0,
+            "m²": 38.98,
+            "Address": "Kalngales 11"
+        },
+        {
+            "Price_per_m²": 750.0,
+            "Price": 27000.0,
+            "m²": 36.0,
+            "Address": "Kalngales 8"
+        },
+        {
+            "Price_per_m²": 615.0,
+            "Price": 8000.0,
+            "m²": 13.01,
+            "Address": "Dombrovska 11"
+        },
+        {
+            "Price_per_m²": 814.0,
+            "Price": 35000.0,
+            "m²": 43.0,
+            "Address": "Melīdas 2"
+        },
+        {
+            "Price_per_m²": 581.0,
+            "Price": 25000.0,
+            "m²": 43.03,
+            "Address": "Melīdas 1"
+        },
+        {
+            "Price_per_m²": 714.0,
+            "Price": 40000.0,
+            "m²": 56.02,
+            "Address": "Vanadziņa g. 4"
+        },
+        {
+            "Price_per_m²": 819.0,
+            "Price": 49980.0,
+            "m²": 61.03,
+            "Address": "Meldru 24"
+        },
+        {
+            "Price_per_m²": 698.0,
+            "Price": 30000.0,
+            "m²": 42.98,
+            "Address": "Vijolīšu 6"
+        },
+        {
+            "Price_per_m²": 730.0,
+            "Price": 36500.0,
+            "m²": 50.0,
+            "Address": "Edžiņa g. 9"
+        },
+        {
+            "Price_per_m²": 848.0,
+            "Price": 67000.0,
+            "m²": 79.01,
+            "Address": "Melīdas 11"
+        },
+        {
+            "Price_per_m²": 896.0,
+            "Price": 43900.0,
+            "m²": 49.0,
+            "Address": "Vecmīlgrāvja 8"
+        },
+        {
+            "Price_per_m²": 805.0,
+            "Price": 49900.0,
+            "m²": 61.99,
+            "Address": "Atlantijas 67"
+        },
+        {
+            "Price_per_m²": 984.0,
+            "Price": 59997.0,
+            "m²": 60.97,
+            "Address": "Meldru 28"
+        },
+        {
+            "Price_per_m²": 718.0,
+            "Price": 28000.0,
+            "m²": 39.0,
+            "Address": "Melīdas 6K3"
+        },
+        {
+            "Price_per_m²": 811.0,
+            "Price": 49500.0,
+            "m²": 61.04,
+            "Address": "Vanadziņa g. 1"
+        },
+        {
+            "Price_per_m²": 653.0,
+            "Price": 32000.0,
+            "m²": 49.0,
+            "Address": "Melīdas 3"
+        },
+        {
+            "Price_per_m²": 1098.0,
+            "Price": 61500.0,
+            "m²": 56.01,
+            "Address": "Sniega 2"
+        },
+        {
+            "Price_per_m²": 880.0,
+            "Price": 44000.0,
+            "m²": 50.0,
+            "Address": "Vecmīlgrāvja 6"
+        },
+        {
+            "Price_per_m²": 533.0,
+            "Price": 12800.0,
+            "m²": 24.02,
+            "Address": "Dombrovska 9B"
+        },
+        {
+            "Price_per_m²": 705.0,
+            "Price": 27500.0,
+            "m²": 39.01,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 585.0,
+            "Price": 39800.0,
+            "m²": 68.03,
+            "Address": "Vanadziņa g. 7"
+        },
+        {
+            "Price_per_m²": 998.0,
+            "Price": 55900.0,
+            "m²": 56.01,
+            "Address": "Dombrovska 13"
+        },
+        {
+            "Price_per_m²": 711.0,
+            "Price": 32700.0,
+            "m²": 45.99,
+            "Address": "Vecmīlgrāvja 6"
+        },
+        {
+            "Price_per_m²": 833.0,
+            "Price": 50000.0,
+            "m²": 60.02,
+            "Address": "Stiebru 1"
+        },
+        {
+            "Price_per_m²": 816.0,
+            "Price": 55500.0,
+            "m²": 68.01,
+            "Address": "Emmas 11"
+        },
+        {
+            "Price_per_m²": 930.0,
+            "Price": 55800.0,
+            "m²": 60.0,
+            "Address": "Stiebru 4"
+        },
+        {
+            "Price_per_m²": 714.0,
+            "Price": 20000.0,
+            "m²": 28.01,
+            "Address": "Emmas 7"
+        },
+        {
+            "Price_per_m²": 1529.0,
+            "Price": 26000.0,
+            "m²": 17.0,
+            "Address": "Emmas 28"
+        },
+        {
+            "Price_per_m²": 1031.0,
+            "Price": 33000.0,
+            "m²": 32.01,
+            "Address": "Dombrovska 39"
+        },
+        {
+            "Price_per_m²": 560.0,
+            "Price": 39200.0,
+            "m²": 70.0,
+            "Address": "Kreimeņu 3"
+        },
+        {
+            "Price_per_m²": 918.0,
+            "Price": 31200.0,
+            "m²": 33.99,
+            "Address": "Dombrovska 75"
+        },
+        {
+            "Price_per_m²": 963.0,
+            "Price": 52000.0,
+            "m²": 54.0,
+            "Address": "Dombrovska 77"
+        },
+        {
+            "Price_per_m²": 526.0,
+            "Price": 30000.0,
+            "m²": 57.03,
+            "Address": "Mildas 11"
+        },
+        {
+            "Price_per_m²": 1222.0,
+            "Price": 33000.0,
+            "m²": 27.0,
+            "Address": "Kāvu 4"
+        },
+        {
+            "Price_per_m²": 605.0,
+            "Price": 23000.0,
+            "m²": 38.02,
+            "Address": "Vecmīlgrāvja 9 k-1"
+        },
+        {
+            "Price_per_m²": 600.0,
+            "Price": 30000.0,
+            "m²": 50.0,
+            "Address": "Kreimeņu 5a"
+        },
+        {
+            "Price_per_m²": 776.0,
+            "Price": 38000.0,
+            "m²": 48.97,
+            "Address": "Melīdas 3"
+        },
+        {
+            "Price_per_m²": 743.0,
+            "Price": 26000.0,
+            "m²": 34.99,
+            "Address": "Kalngales 9"
+        },
+        {
+            "Price_per_m²": 702.0,
+            "Price": 40000.0,
+            "m²": 56.98,
+            "Address": "Emmas 5"
+        },
+        {
+            "Price_per_m²": 827.0,
+            "Price": 45500.0,
+            "m²": 55.02,
+            "Address": "Skuju 2"
+        },
+        {
+            "Price_per_m²": 1103.0,
+            "Price": 69500.0,
+            "m²": 63.01,
+            "Address": "Vecmīlgrāvja 6"
+        },
+        {
+            "Price_per_m²": 806.0,
+            "Price": 29000.0,
+            "m²": 35.98,
+            "Address": "Vecmīlgrāvja 6"
+        },
+        {
+            "Price_per_m²": 810.0,
+            "Price": 40500.0,
+            "m²": 50.0,
+            "Address": "Sniega 3 k 1"
+        },
+        {
+            "Price_per_m²": 907.0,
+            "Price": 24500.0,
+            "m²": 27.01,
+            "Address": "Stiebru 1"
+        },
+        {
+            "Price_per_m²": 982.0,
+            "Price": 55000.0,
+            "m²": 56.01,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 782.0,
+            "Price": 29700.0,
+            "m²": 37.98,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 983.0,
+            "Price": 58000.0,
+            "m²": 59.0,
+            "Address": "Skuju 18"
+        },
+        {
+            "Price_per_m²": 804.0,
+            "Price": 37000.0,
+            "m²": 46.02,
+            "Address": "Kreimeņu 5"
+        },
+        {
+            "Price_per_m²": 618.0,
+            "Price": 31500.0,
+            "m²": 50.97,
+            "Address": "Meldru 28"
+        },
+        {
+            "Price_per_m²": 577.0,
+            "Price": 30000.0,
+            "m²": 51.99,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 529.0,
+            "Price": 36500.0,
+            "m²": 69.0,
+            "Address": "Skuju 5"
+        },
+        {
+            "Price_per_m²": 668.0,
+            "Price": 25400.0,
+            "m²": 38.02,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 962.0,
+            "Price": 37500.0,
+            "m²": 38.98,
+            "Address": "Kalngales 11"
+        },
+        {
+            "Price_per_m²": 750.0,
+            "Price": 27000.0,
+            "m²": 36.0,
+            "Address": "Kalngales 8"
+        },
+        {
+            "Price_per_m²": 615.0,
+            "Price": 8000.0,
+            "m²": 13.01,
+            "Address": "Dombrovska 11"
+        },
+        {
+            "Price_per_m²": 1103.0,
+            "Price": 69500.0,
+            "m²": 63.01,
+            "Address": "Vecmīlgrāvja 6"
+        },
+        {
+            "Price_per_m²": 806.0,
+            "Price": 29000.0,
+            "m²": 35.98,
+            "Address": "Vecmīlgrāvja 6"
+        },
+        {
+            "Price_per_m²": 810.0,
+            "Price": 40500.0,
+            "m²": 50.0,
+            "Address": "Sniega 3 k 1"
+        },
+        {
+            "Price_per_m²": 907.0,
+            "Price": 24500.0,
+            "m²": 27.01,
+            "Address": "Stiebru 1"
+        },
+        {
+            "Price_per_m²": 982.0,
+            "Price": 55000.0,
+            "m²": 56.01,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 782.0,
+            "Price": 29700.0,
+            "m²": 37.98,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 983.0,
+            "Price": 58000.0,
+            "m²": 59.0,
+            "Address": "Skuju 18"
+        },
+        {
+            "Price_per_m²": 804.0,
+            "Price": 37000.0,
+            "m²": 46.02,
+            "Address": "Kreimeņu 5"
+        },
+        {
+            "Price_per_m²": 618.0,
+            "Price": 31500.0,
+            "m²": 50.97,
+            "Address": "Meldru 28"
+        },
+        {
+            "Price_per_m²": 577.0,
+            "Price": 30000.0,
+            "m²": 51.99,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 529.0,
+            "Price": 36500.0,
+            "m²": 69.0,
+            "Address": "Skuju 5"
+        },
+        {
+            "Price_per_m²": 668.0,
+            "Price": 25400.0,
+            "m²": 38.02,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 962.0,
+            "Price": 37500.0,
+            "m²": 38.98,
+            "Address": "Kalngales 11"
+        },
+        {
+            "Price_per_m²": 750.0,
+            "Price": 27000.0,
+            "m²": 36.0,
+            "Address": "Kalngales 8"
+        },
+        {
+            "Price_per_m²": 615.0,
+            "Price": 8000.0,
+            "m²": 13.01,
+            "Address": "Dombrovska 11"
+        },
+        {
+            "Price_per_m²": 1103.0,
+            "Price": 69500.0,
+            "m²": 63.01,
+            "Address": "Vecmīlgrāvja 6"
+        },
+        {
+            "Price_per_m²": 806.0,
+            "Price": 29000.0,
+            "m²": 35.98,
+            "Address": "Vecmīlgrāvja 6"
+        },
+        {
+            "Price_per_m²": 810.0,
+            "Price": 40500.0,
+            "m²": 50.0,
+            "Address": "Sniega 3 k 1"
+        },
+        {
+            "Price_per_m²": 907.0,
+            "Price": 24500.0,
+            "m²": 27.01,
+            "Address": "Stiebru 1"
+        },
+        {
+            "Price_per_m²": 982.0,
+            "Price": 55000.0,
+            "m²": 56.01,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 782.0,
+            "Price": 29700.0,
+            "m²": 37.98,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 983.0,
+            "Price": 58000.0,
+            "m²": 59.0,
+            "Address": "Skuju 18"
+        },
+        {
+            "Price_per_m²": 804.0,
+            "Price": 37000.0,
+            "m²": 46.02,
+            "Address": "Kreimeņu 5"
+        },
+        {
+            "Price_per_m²": 618.0,
+            "Price": 31500.0,
+            "m²": 50.97,
+            "Address": "Meldru 28"
+        },
+        {
+            "Price_per_m²": 577.0,
+            "Price": 30000.0,
+            "m²": 51.99,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 529.0,
+            "Price": 36500.0,
+            "m²": 69.0,
+            "Address": "Skuju 5"
+        },
+        {
+            "Price_per_m²": 668.0,
+            "Price": 25400.0,
+            "m²": 38.02,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 962.0,
+            "Price": 37500.0,
+            "m²": 38.98,
+            "Address": "Kalngales 11"
+        },
+        {
+            "Price_per_m²": 750.0,
+            "Price": 27000.0,
+            "m²": 36.0,
+            "Address": "Kalngales 8"
+        },
+        {
+            "Price_per_m²": 615.0,
+            "Price": 8000.0,
+            "m²": 13.01,
+            "Address": "Dombrovska 11"
+        },
+        {
+            "Price_per_m²": 1103.0,
+            "Price": 69500.0,
+            "m²": 63.01,
+            "Address": "Vecmīlgrāvja 6"
+        },
+        {
+            "Price_per_m²": 806.0,
+            "Price": 29000.0,
+            "m²": 35.98,
+            "Address": "Vecmīlgrāvja 6"
+        },
+        {
+            "Price_per_m²": 810.0,
+            "Price": 40500.0,
+            "m²": 50.0,
+            "Address": "Sniega 3 k 1"
+        },
+        {
+            "Price_per_m²": 907.0,
+            "Price": 24500.0,
+            "m²": 27.01,
+            "Address": "Stiebru 1"
+        },
+        {
+            "Price_per_m²": 982.0,
+            "Price": 55000.0,
+            "m²": 56.01,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 782.0,
+            "Price": 29700.0,
+            "m²": 37.98,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 983.0,
+            "Price": 58000.0,
+            "m²": 59.0,
+            "Address": "Skuju 18"
+        },
+        {
+            "Price_per_m²": 804.0,
+            "Price": 37000.0,
+            "m²": 46.02,
+            "Address": "Kreimeņu 5"
+        },
+        {
+            "Price_per_m²": 618.0,
+            "Price": 31500.0,
+            "m²": 50.97,
+            "Address": "Meldru 28"
+        },
+        {
+            "Price_per_m²": 577.0,
+            "Price": 30000.0,
+            "m²": 51.99,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 529.0,
+            "Price": 36500.0,
+            "m²": 69.0,
+            "Address": "Skuju 5"
+        },
+        {
+            "Price_per_m²": 668.0,
+            "Price": 25400.0,
+            "m²": 38.02,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 962.0,
+            "Price": 37500.0,
+            "m²": 38.98,
+            "Address": "Kalngales 11"
+        },
+        {
+            "Price_per_m²": 750.0,
+            "Price": 27000.0,
+            "m²": 36.0,
+            "Address": "Kalngales 8"
+        },
+        {
+            "Price_per_m²": 615.0,
+            "Price": 8000.0,
+            "m²": 13.01,
+            "Address": "Dombrovska 11"
+        },
+        {
+            "Price_per_m²": 1103.0,
+            "Price": 69500.0,
+            "m²": 63.01,
+            "Address": "Vecmīlgrāvja 6"
+        },
+        {
+            "Price_per_m²": 806.0,
+            "Price": 29000.0,
+            "m²": 35.98,
+            "Address": "Vecmīlgrāvja 6"
+        },
+        {
+            "Price_per_m²": 810.0,
+            "Price": 40500.0,
+            "m²": 50.0,
+            "Address": "Sniega 3 k 1"
+        },
+        {
+            "Price_per_m²": 907.0,
+            "Price": 24500.0,
+            "m²": 27.01,
+            "Address": "Stiebru 1"
+        },
+        {
+            "Price_per_m²": 982.0,
+            "Price": 55000.0,
+            "m²": 56.01,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 782.0,
+            "Price": 29700.0,
+            "m²": 37.98,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 983.0,
+            "Price": 58000.0,
+            "m²": 59.0,
+            "Address": "Skuju 18"
+        },
+        {
+            "Price_per_m²": 804.0,
+            "Price": 37000.0,
+            "m²": 46.02,
+            "Address": "Kreimeņu 5"
+        },
+        {
+            "Price_per_m²": 618.0,
+            "Price": 31500.0,
+            "m²": 50.97,
+            "Address": "Meldru 28"
+        },
+        {
+            "Price_per_m²": 577.0,
+            "Price": 30000.0,
+            "m²": 51.99,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 529.0,
+            "Price": 36500.0,
+            "m²": 69.0,
+            "Address": "Skuju 5"
+        },
+        {
+            "Price_per_m²": 668.0,
+            "Price": 25400.0,
+            "m²": 38.02,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 962.0,
+            "Price": 37500.0,
+            "m²": 38.98,
+            "Address": "Kalngales 11"
+        },
+        {
+            "Price_per_m²": 750.0,
+            "Price": 27000.0,
+            "m²": 36.0,
+            "Address": "Kalngales 8"
+        },
+        {
+            "Price_per_m²": 615.0,
+            "Price": 8000.0,
+            "m²": 13.01,
+            "Address": "Dombrovska 11"
+        },
+        {
+            "Price_per_m²": 1103.0,
+            "Price": 69500.0,
+            "m²": 63.01,
+            "Address": "Vecmīlgrāvja 6"
+        },
+        {
+            "Price_per_m²": 806.0,
+            "Price": 29000.0,
+            "m²": 35.98,
+            "Address": "Vecmīlgrāvja 6"
+        },
+        {
+            "Price_per_m²": 810.0,
+            "Price": 40500.0,
+            "m²": 50.0,
+            "Address": "Sniega 3 k 1"
+        },
+        {
+            "Price_per_m²": 907.0,
+            "Price": 24500.0,
+            "m²": 27.01,
+            "Address": "Stiebru 1"
+        },
+        {
+            "Price_per_m²": 982.0,
+            "Price": 55000.0,
+            "m²": 56.01,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 782.0,
+            "Price": 29700.0,
+            "m²": 37.98,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 983.0,
+            "Price": 58000.0,
+            "m²": 59.0,
+            "Address": "Skuju 18"
+        },
+        {
+            "Price_per_m²": 804.0,
+            "Price": 37000.0,
+            "m²": 46.02,
+            "Address": "Kreimeņu 5"
+        },
+        {
+            "Price_per_m²": 618.0,
+            "Price": 31500.0,
+            "m²": 50.97,
+            "Address": "Meldru 28"
+        },
+        {
+            "Price_per_m²": 577.0,
+            "Price": 30000.0,
+            "m²": 51.99,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 529.0,
+            "Price": 36500.0,
+            "m²": 69.0,
+            "Address": "Skuju 5"
+        },
+        {
+            "Price_per_m²": 668.0,
+            "Price": 25400.0,
+            "m²": 38.02,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 962.0,
+            "Price": 37500.0,
+            "m²": 38.98,
+            "Address": "Kalngales 11"
+        },
+        {
+            "Price_per_m²": 750.0,
+            "Price": 27000.0,
+            "m²": 36.0,
+            "Address": "Kalngales 8"
+        },
+        {
+            "Price_per_m²": 615.0,
+            "Price": 8000.0,
+            "m²": 13.01,
+            "Address": "Dombrovska 11"
+        },
+        {
+            "Price_per_m²": 1103.0,
+            "Price": 69500.0,
+            "m²": 63.01,
+            "Address": "Vecmīlgrāvja 6"
+        },
+        {
+            "Price_per_m²": 806.0,
+            "Price": 29000.0,
+            "m²": 35.98,
+            "Address": "Vecmīlgrāvja 6"
+        },
+        {
+            "Price_per_m²": 810.0,
+            "Price": 40500.0,
+            "m²": 50.0,
+            "Address": "Sniega 3 k 1"
+        },
+        {
+            "Price_per_m²": 907.0,
+            "Price": 24500.0,
+            "m²": 27.01,
+            "Address": "Stiebru 1"
+        },
+        {
+            "Price_per_m²": 982.0,
+            "Price": 55000.0,
+            "m²": 56.01,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 782.0,
+            "Price": 29700.0,
+            "m²": 37.98,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 983.0,
+            "Price": 58000.0,
+            "m²": 59.0,
+            "Address": "Skuju 18"
+        },
+        {
+            "Price_per_m²": 804.0,
+            "Price": 37000.0,
+            "m²": 46.02,
+            "Address": "Kreimeņu 5"
+        },
+        {
+            "Price_per_m²": 618.0,
+            "Price": 31500.0,
+            "m²": 50.97,
+            "Address": "Meldru 28"
+        },
+        {
+            "Price_per_m²": 577.0,
+            "Price": 30000.0,
+            "m²": 51.99,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 529.0,
+            "Price": 36500.0,
+            "m²": 69.0,
+            "Address": "Skuju 5"
+        },
+        {
+            "Price_per_m²": 668.0,
+            "Price": 25400.0,
+            "m²": 38.02,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 962.0,
+            "Price": 37500.0,
+            "m²": 38.98,
+            "Address": "Kalngales 11"
+        },
+        {
+            "Price_per_m²": 750.0,
+            "Price": 27000.0,
+            "m²": 36.0,
+            "Address": "Kalngales 8"
+        },
+        {
+            "Price_per_m²": 615.0,
+            "Price": 8000.0,
+            "m²": 13.01,
+            "Address": "Dombrovska 11"
+        },
+        {
+            "Price_per_m²": 1103.0,
+            "Price": 69500.0,
+            "m²": 63.01,
+            "Address": "Vecmīlgrāvja 6"
+        },
+        {
+            "Price_per_m²": 806.0,
+            "Price": 29000.0,
+            "m²": 35.98,
+            "Address": "Vecmīlgrāvja 6"
+        },
+        {
+            "Price_per_m²": 810.0,
+            "Price": 40500.0,
+            "m²": 50.0,
+            "Address": "Sniega 3 k 1"
+        },
+        {
+            "Price_per_m²": 907.0,
+            "Price": 24500.0,
+            "m²": 27.01,
+            "Address": "Stiebru 1"
+        },
+        {
+            "Price_per_m²": 982.0,
+            "Price": 55000.0,
+            "m²": 56.01,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 782.0,
+            "Price": 29700.0,
+            "m²": 37.98,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 983.0,
+            "Price": 58000.0,
+            "m²": 59.0,
+            "Address": "Skuju 18"
+        },
+        {
+            "Price_per_m²": 804.0,
+            "Price": 37000.0,
+            "m²": 46.02,
+            "Address": "Kreimeņu 5"
+        },
+        {
+            "Price_per_m²": 618.0,
+            "Price": 31500.0,
+            "m²": 50.97,
+            "Address": "Meldru 28"
+        },
+        {
+            "Price_per_m²": 577.0,
+            "Price": 30000.0,
+            "m²": 51.99,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 529.0,
+            "Price": 36500.0,
+            "m²": 69.0,
+            "Address": "Skuju 5"
+        },
+        {
+            "Price_per_m²": 668.0,
+            "Price": 25400.0,
+            "m²": 38.02,
+            "Address": "Vecmīlgrāvja 1. l..."
+        },
+        {
+            "Price_per_m²": 962.0,
+            "Price": 37500.0,
+            "m²": 38.98,
+            "Address": "Kalngales 11"
+        },
+        {
+            "Price_per_m²": 750.0,
+            "Price": 27000.0,
+            "m²": 36.0,
+            "Address": "Kalngales 8"
+        },
+        {
+            "Price_per_m²": 615.0,
+            "Price": 8000.0,
+            "m²": 13.01,
+            "Address": "Dombrovska 11"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 7.71,
+            "Price": 270.0,
+            "m²": 35.02,
+            "Address": "Kalngales 9"
+        },
+        {
+            "Price_per_m²": 5.56,
+            "Price": 200.0,
+            "m²": 35.97,
+            "Address": "Vecmīlgrāvja 6. l..."
+        },
+        {
+            "Price_per_m²": 12.94,
+            "Price": 220.0,
+            "m²": 17.0,
+            "Address": "Emmas 28"
+        },
+        {
+            "Price_per_m²": 7.43,
+            "Price": 260.0,
+            "m²": 34.99,
+            "Address": "Dombrovska 10"
+        },
+        {
+            "Price_per_m²": 8.48,
+            "Price": 280.0,
+            "m²": 33.02,
+            "Address": "Atlantijas 12"
+        },
+        {
+            "Price_per_m²": 6.51,
+            "Price": 280.0,
+            "m²": 43.01,
+            "Address": "Meldru 6"
+        },
+        {
+            "Price_per_m²": 3.99,
+            "Price": 650.0,
+            "m²": 162.91,
+            "Address": "Gāles 11"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 140.0,
+            "m²": 20.0,
+            "Address": "Gāles 17"
+        },
+        {
+            "Price_per_m²": 11.43,
+            "Price": 240.0,
+            "m²": 21.0,
+            "Address": "Skuju 29"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Stiebru 4"
+        },
+        {
+            "Price_per_m²": 7.21,
+            "Price": 245.0,
+            "m²": 33.98,
+            "Address": "Skuju 29"
+        },
+        {
+            "Price_per_m²": 13.16,
+            "Price": 250.0,
+            "m²": 19.0,
+            "Address": "Emmas 28"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 280.0,
+            "m²": 40.0,
+            "Address": "Gliemežu 5"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 270.0,
+            "m²": 27.0,
+            "Address": "Skuju 29"
+        },
+        {
+            "Price_per_m²": 7.71,
+            "Price": 270.0,
+            "m²": 35.02,
+            "Address": "Kalngales 9"
+        },
+        {
+            "Price_per_m²": 5.56,
+            "Price": 200.0,
+            "m²": 35.97,
+            "Address": "Vecmīlgrāvja 6. l..."
+        },
+        {
+            "Price_per_m²": 12.94,
+            "Price": 220.0,
+            "m²": 17.0,
+            "Address": "Emmas 28"
+        },
+        {
+            "Price_per_m²": 7.71,
+            "Price": 270.0,
+            "m²": 35.02,
+            "Address": "Kalngales 9"
+        },
+        {
+            "Price_per_m²": 5.56,
+            "Price": 200.0,
+            "m²": 35.97,
+            "Address": "Vecmīlgrāvja 6. l..."
+        },
+        {
+            "Price_per_m²": 12.94,
+            "Price": 220.0,
+            "m²": 17.0,
+            "Address": "Emmas 28"
+        },
+        {
+            "Price_per_m²": 7.71,
+            "Price": 270.0,
+            "m²": 35.02,
+            "Address": "Kalngales 9"
+        },
+        {
+            "Price_per_m²": 5.56,
+            "Price": 200.0,
+            "m²": 35.97,
+            "Address": "Vecmīlgrāvja 6. l..."
+        },
+        {
+            "Price_per_m²": 12.94,
+            "Price": 220.0,
+            "m²": 17.0,
+            "Address": "Emmas 28"
+        },
+        {
+            "Price_per_m²": 7.71,
+            "Price": 270.0,
+            "m²": 35.02,
+            "Address": "Kalngales 9"
+        },
+        {
+            "Price_per_m²": 5.56,
+            "Price": 200.0,
+            "m²": 35.97,
+            "Address": "Vecmīlgrāvja 6. l..."
+        },
+        {
+            "Price_per_m²": 12.94,
+            "Price": 220.0,
+            "m²": 17.0,
+            "Address": "Emmas 28"
+        },
+        {
+            "Price_per_m²": 7.71,
+            "Price": 270.0,
+            "m²": 35.02,
+            "Address": "Kalngales 9"
+        },
+        {
+            "Price_per_m²": 5.56,
+            "Price": 200.0,
+            "m²": 35.97,
+            "Address": "Vecmīlgrāvja 6. l..."
+        },
+        {
+            "Price_per_m²": 12.94,
+            "Price": 220.0,
+            "m²": 17.0,
+            "Address": "Emmas 28"
+        },
+        {
+            "Price_per_m²": 7.71,
+            "Price": 270.0,
+            "m²": 35.02,
+            "Address": "Kalngales 9"
+        },
+        {
+            "Price_per_m²": 5.56,
+            "Price": 200.0,
+            "m²": 35.97,
+            "Address": "Vecmīlgrāvja 6. l..."
+        },
+        {
+            "Price_per_m²": 12.94,
+            "Price": 220.0,
+            "m²": 17.0,
+            "Address": "Emmas 28"
+        },
+        {
+            "Price_per_m²": 7.71,
+            "Price": 270.0,
+            "m²": 35.02,
+            "Address": "Kalngales 9"
+        },
+        {
+            "Price_per_m²": 5.56,
+            "Price": 200.0,
+            "m²": 35.97,
+            "Address": "Vecmīlgrāvja 6. l..."
+        },
+        {
+            "Price_per_m²": 12.94,
+            "Price": 220.0,
+            "m²": 17.0,
+            "Address": "Emmas 28"
+        },
+        {
+            "Price_per_m²": 7.71,
+            "Price": 270.0,
+            "m²": 35.02,
+            "Address": "Kalngales 9"
+        },
+        {
+            "Price_per_m²": 5.56,
+            "Price": 200.0,
+            "m²": 35.97,
+            "Address": "Vecmīlgrāvja 6. l..."
+        },
+        {
+            "Price_per_m²": 12.94,
+            "Price": 220.0,
+            "m²": 17.0,
+            "Address": "Emmas 28"
+        }
+    ],
+    "daily": [
+        {
+            "Price_per_m²": 1.09,
+            "Price": 50.0,
+            "m²": 45.87,
+            "Address": "Skuju 29"
+        }
+    ]
+}

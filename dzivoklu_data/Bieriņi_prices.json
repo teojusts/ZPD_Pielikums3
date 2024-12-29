@@ -1,0 +1,91 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 444.0,
+            "Price": 12000.0,
+            "m²": 27.03,
+            "Address": "Apguldes 10"
+        },
+        {
+            "Price_per_m²": 1092.0,
+            "Price": 250000.0,
+            "m²": 228.94,
+            "Address": "Zemītes 11"
+        },
+        {
+            "Price_per_m²": 969.0,
+            "Price": 62000.0,
+            "m²": 63.98,
+            "Address": "Drustu 1A"
+        },
+        {
+            "Price_per_m²": 2676.0,
+            "Price": 224800.0,
+            "m²": 84.01,
+            "Address": "Liepājas 37c"
+        },
+        {
+            "Price_per_m²": 3258.0,
+            "Price": 290000.0,
+            "m²": 89.01,
+            "Address": "Dāliju 23a"
+        },
+        {
+            "Price_per_m²": 444.0,
+            "Price": 12000.0,
+            "m²": 27.03,
+            "Address": "Apguldes 10"
+        },
+        {
+            "Price_per_m²": 1092.0,
+            "Price": 250000.0,
+            "m²": 228.94,
+            "Address": "Zemītes 11"
+        },
+        {
+            "Price_per_m²": 969.0,
+            "Price": 62000.0,
+            "m²": 63.98,
+            "Address": "Drustu 1A"
+        },
+        {
+            "Price_per_m²": 2676.0,
+            "Price": 224800.0,
+            "m²": 84.01,
+            "Address": "Liepājas 37c"
+        },
+        {
+            "Price_per_m²": 3258.0,
+            "Price": 290000.0,
+            "m²": 89.01,
+            "Address": "Dāliju 23a"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 9.13,
+            "Price": 420.0,
+            "m²": 46.0,
+            "Address": "Cēres 8a"
+        },
+        {
+            "Price_per_m²": 13.46,
+            "Price": 350.0,
+            "m²": 26.0,
+            "Address": "Tēriņu 36"
+        },
+        {
+            "Price_per_m²": 9.13,
+            "Price": 420.0,
+            "m²": 46.0,
+            "Address": "Cēres 8a"
+        },
+        {
+            "Price_per_m²": 13.46,
+            "Price": 350.0,
+            "m²": 26.0,
+            "Address": "Tēriņu 36"
+        }
+    ],
+    "daily": []
+}

@@ -1,0 +1,151 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 539.0,
+            "Price": 20500.0,
+            "m²": 38.03,
+            "Address": "Biķernieku 250"
+        },
+        {
+            "Price_per_m²": 2043.0,
+            "Price": 188000.0,
+            "m²": 92.02,
+            "Address": "Juglasciema b. 62"
+        },
+        {
+            "Price_per_m²": 991.0,
+            "Price": 53500.0,
+            "m²": 53.99,
+            "Address": "Biķernieku 218"
+        },
+        {
+            "Price_per_m²": 1828.0,
+            "Price": 117000.0,
+            "m²": 64.0,
+            "Address": "Krievupes 19"
+        },
+        {
+            "Price_per_m²": 895.0,
+            "Price": 17000.0,
+            "m²": 18.99,
+            "Address": "Nautrēnu 20"
+        },
+        {
+            "Price_per_m²": 829.0,
+            "Price": 58000.0,
+            "m²": 69.96,
+            "Address": "Biķernieku 226"
+        },
+        {
+            "Price_per_m²": 1794.0,
+            "Price": 141700.0,
+            "m²": 78.99,
+            "Address": "Juglasciema b. 54"
+        },
+        {
+            "Price_per_m²": 857.0,
+            "Price": 60000.0,
+            "m²": 70.01,
+            "Address": "Biķernieku 226"
+        },
+        {
+            "Price_per_m²": 943.0,
+            "Price": 33000.0,
+            "m²": 34.99,
+            "Address": "Biķernieku 220"
+        },
+        {
+            "Price_per_m²": 889.0,
+            "Price": 24000.0,
+            "m²": 27.0,
+            "Address": "Biķernieku 258"
+        },
+        {
+            "Price_per_m²": 539.0,
+            "Price": 20500.0,
+            "m²": 38.03,
+            "Address": "Biķernieku 250"
+        },
+        {
+            "Price_per_m²": 2043.0,
+            "Price": 188000.0,
+            "m²": 92.02,
+            "Address": "Juglasciema b. 62"
+        },
+        {
+            "Price_per_m²": 991.0,
+            "Price": 53500.0,
+            "m²": 53.99,
+            "Address": "Biķernieku 218"
+        },
+        {
+            "Price_per_m²": 1828.0,
+            "Price": 117000.0,
+            "m²": 64.0,
+            "Address": "Krievupes 19"
+        },
+        {
+            "Price_per_m²": 895.0,
+            "Price": 17000.0,
+            "m²": 18.99,
+            "Address": "Nautrēnu 20"
+        },
+        {
+            "Price_per_m²": 829.0,
+            "Price": 58000.0,
+            "m²": 69.96,
+            "Address": "Biķernieku 226"
+        },
+        {
+            "Price_per_m²": 1794.0,
+            "Price": 141700.0,
+            "m²": 78.99,
+            "Address": "Juglasciema b. 54"
+        },
+        {
+            "Price_per_m²": 857.0,
+            "Price": 60000.0,
+            "m²": 70.01,
+            "Address": "Biķernieku 226"
+        },
+        {
+            "Price_per_m²": 943.0,
+            "Price": 33000.0,
+            "m²": 34.99,
+            "Address": "Biķernieku 220"
+        },
+        {
+            "Price_per_m²": 889.0,
+            "Price": 24000.0,
+            "m²": 27.0,
+            "Address": "Biķernieku 258"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 6.44,
+            "Price": 290.0,
+            "m²": 45.03,
+            "Address": "Biķernieku 220"
+        },
+        {
+            "Price_per_m²": 5.71,
+            "Price": 200.0,
+            "m²": 35.03,
+            "Address": "Biķernieku 220"
+        },
+        {
+            "Price_per_m²": 6.44,
+            "Price": 290.0,
+            "m²": 45.03,
+            "Address": "Biķernieku 220"
+        },
+        {
+            "Price_per_m²": 5.71,
+            "Price": 200.0,
+            "m²": 35.03,
+            "Address": "Biķernieku 220"
+        }
+    ],
+    "daily": []
+}

@@ -1,0 +1,847 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 739.0,
+            "Price": 48750.0,
+            "m²": 65.97,
+            "Address": "Lēpju 15"
+        },
+        {
+            "Price_per_m²": 824.0,
+            "Price": 30500.0,
+            "m²": 37.01,
+            "Address": "Esplanādes 5/1"
+        },
+        {
+            "Price_per_m²": 976.0,
+            "Price": 41000.0,
+            "m²": 42.01,
+            "Address": "Parādes 22"
+        },
+        {
+            "Price_per_m²": 500.0,
+            "Price": 24000.0,
+            "m²": 48.0,
+            "Address": "Parādes 18A"
+        },
+        {
+            "Price_per_m²": 671.0,
+            "Price": 22800.0,
+            "m²": 33.98,
+            "Address": "Birzes 28"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 49000.0,
+            "m²": 49.0,
+            "Address": "Birzes 26"
+        },
+        {
+            "Price_per_m²": 638.0,
+            "Price": 30000.0,
+            "m²": 47.02,
+            "Address": "Birzes 42"
+        },
+        {
+            "Price_per_m²": 833.0,
+            "Price": 45000.0,
+            "m²": 54.02,
+            "Address": "Slimnīcas 7"
+        },
+        {
+            "Price_per_m²": 867.0,
+            "Price": 39000.0,
+            "m²": 44.98,
+            "Address": "Plēksnes 2"
+        },
+        {
+            "Price_per_m²": 873.0,
+            "Price": 28800.0,
+            "m²": 32.99,
+            "Address": "Parādes 7"
+        },
+        {
+            "Price_per_m²": 478.0,
+            "Price": 22480.0,
+            "m²": 47.03,
+            "Address": "Parādes 1B"
+        },
+        {
+            "Price_per_m²": 837.0,
+            "Price": 56900.0,
+            "m²": 67.98,
+            "Address": "Birzes 32"
+        },
+        {
+            "Price_per_m²": 1015.0,
+            "Price": 68000.0,
+            "m²": 67.0,
+            "Address": "Esplanādes 6"
+        },
+        {
+            "Price_per_m²": 625.0,
+            "Price": 35000.0,
+            "m²": 56.0,
+            "Address": "Birzes 46"
+        },
+        {
+            "Price_per_m²": 688.0,
+            "Price": 33000.0,
+            "m²": 47.97,
+            "Address": "Parādes 26"
+        },
+        {
+            "Price_per_m²": 400.0,
+            "Price": 18000.0,
+            "m²": 45.0,
+            "Address": "Zvīņu 1"
+        },
+        {
+            "Price_per_m²": 879.0,
+            "Price": 29000.0,
+            "m²": 32.99,
+            "Address": "Zvīņu 7"
+        },
+        {
+            "Price_per_m²": 615.0,
+            "Price": 40000.0,
+            "m²": 65.04,
+            "Address": "Birzes 10a"
+        },
+        {
+            "Price_per_m²": 830.0,
+            "Price": 36500.0,
+            "m²": 43.98,
+            "Address": "Plēksnes 6"
+        },
+        {
+            "Price_per_m²": 1059.0,
+            "Price": 36000.0,
+            "m²": 33.99,
+            "Address": "Parādes 30"
+        },
+        {
+            "Price_per_m²": 1025.0,
+            "Price": 41000.0,
+            "m²": 40.0,
+            "Address": "Birzes 26"
+        },
+        {
+            "Price_per_m²": 629.0,
+            "Price": 19500.0,
+            "m²": 31.0,
+            "Address": "Parādes 22"
+        },
+        {
+            "Price_per_m²": 748.0,
+            "Price": 41900.0,
+            "m²": 56.02,
+            "Address": "Lēpju 5"
+        },
+        {
+            "Price_per_m²": 652.0,
+            "Price": 30000.0,
+            "m²": 46.01,
+            "Address": "Parādes 2/1"
+        },
+        {
+            "Price_per_m²": 853.0,
+            "Price": 29850.0,
+            "m²": 34.99,
+            "Address": "Parādes 9a"
+        },
+        {
+            "Price_per_m²": 739.0,
+            "Price": 48750.0,
+            "m²": 65.97,
+            "Address": "Lēpju 15"
+        },
+        {
+            "Price_per_m²": 824.0,
+            "Price": 30500.0,
+            "m²": 37.01,
+            "Address": "Esplanādes 5/1"
+        },
+        {
+            "Price_per_m²": 976.0,
+            "Price": 41000.0,
+            "m²": 42.01,
+            "Address": "Parādes 22"
+        },
+        {
+            "Price_per_m²": 500.0,
+            "Price": 24000.0,
+            "m²": 48.0,
+            "Address": "Parādes 18A"
+        },
+        {
+            "Price_per_m²": 671.0,
+            "Price": 22800.0,
+            "m²": 33.98,
+            "Address": "Birzes 28"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 49000.0,
+            "m²": 49.0,
+            "Address": "Birzes 26"
+        },
+        {
+            "Price_per_m²": 638.0,
+            "Price": 30000.0,
+            "m²": 47.02,
+            "Address": "Birzes 42"
+        },
+        {
+            "Price_per_m²": 833.0,
+            "Price": 45000.0,
+            "m²": 54.02,
+            "Address": "Slimnīcas 7"
+        },
+        {
+            "Price_per_m²": 867.0,
+            "Price": 39000.0,
+            "m²": 44.98,
+            "Address": "Plēksnes 2"
+        },
+        {
+            "Price_per_m²": 873.0,
+            "Price": 28800.0,
+            "m²": 32.99,
+            "Address": "Parādes 7"
+        },
+        {
+            "Price_per_m²": 478.0,
+            "Price": 22480.0,
+            "m²": 47.03,
+            "Address": "Parādes 1B"
+        },
+        {
+            "Price_per_m²": 837.0,
+            "Price": 56900.0,
+            "m²": 67.98,
+            "Address": "Birzes 32"
+        },
+        {
+            "Price_per_m²": 1015.0,
+            "Price": 68000.0,
+            "m²": 67.0,
+            "Address": "Esplanādes 6"
+        },
+        {
+            "Price_per_m²": 625.0,
+            "Price": 35000.0,
+            "m²": 56.0,
+            "Address": "Birzes 46"
+        },
+        {
+            "Price_per_m²": 688.0,
+            "Price": 33000.0,
+            "m²": 47.97,
+            "Address": "Parādes 26"
+        },
+        {
+            "Price_per_m²": 400.0,
+            "Price": 18000.0,
+            "m²": 45.0,
+            "Address": "Zvīņu 1"
+        },
+        {
+            "Price_per_m²": 879.0,
+            "Price": 29000.0,
+            "m²": 32.99,
+            "Address": "Zvīņu 7"
+        },
+        {
+            "Price_per_m²": 615.0,
+            "Price": 40000.0,
+            "m²": 65.04,
+            "Address": "Birzes 10a"
+        },
+        {
+            "Price_per_m²": 830.0,
+            "Price": 36500.0,
+            "m²": 43.98,
+            "Address": "Plēksnes 6"
+        },
+        {
+            "Price_per_m²": 1059.0,
+            "Price": 36000.0,
+            "m²": 33.99,
+            "Address": "Parādes 30"
+        },
+        {
+            "Price_per_m²": 1025.0,
+            "Price": 41000.0,
+            "m²": 40.0,
+            "Address": "Birzes 26"
+        },
+        {
+            "Price_per_m²": 629.0,
+            "Price": 19500.0,
+            "m²": 31.0,
+            "Address": "Parādes 22"
+        },
+        {
+            "Price_per_m²": 748.0,
+            "Price": 41900.0,
+            "m²": 56.02,
+            "Address": "Lēpju 5"
+        },
+        {
+            "Price_per_m²": 652.0,
+            "Price": 30000.0,
+            "m²": 46.01,
+            "Address": "Parādes 2/1"
+        },
+        {
+            "Price_per_m²": 853.0,
+            "Price": 29850.0,
+            "m²": 34.99,
+            "Address": "Parādes 9a"
+        },
+        {
+            "Price_per_m²": 739.0,
+            "Price": 48750.0,
+            "m²": 65.97,
+            "Address": "Lēpju 15"
+        },
+        {
+            "Price_per_m²": 824.0,
+            "Price": 30500.0,
+            "m²": 37.01,
+            "Address": "Esplanādes 5/1"
+        },
+        {
+            "Price_per_m²": 976.0,
+            "Price": 41000.0,
+            "m²": 42.01,
+            "Address": "Parādes 22"
+        },
+        {
+            "Price_per_m²": 500.0,
+            "Price": 24000.0,
+            "m²": 48.0,
+            "Address": "Parādes 18A"
+        },
+        {
+            "Price_per_m²": 671.0,
+            "Price": 22800.0,
+            "m²": 33.98,
+            "Address": "Birzes 28"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 49000.0,
+            "m²": 49.0,
+            "Address": "Birzes 26"
+        },
+        {
+            "Price_per_m²": 638.0,
+            "Price": 30000.0,
+            "m²": 47.02,
+            "Address": "Birzes 42"
+        },
+        {
+            "Price_per_m²": 833.0,
+            "Price": 45000.0,
+            "m²": 54.02,
+            "Address": "Slimnīcas 7"
+        },
+        {
+            "Price_per_m²": 867.0,
+            "Price": 39000.0,
+            "m²": 44.98,
+            "Address": "Plēksnes 2"
+        },
+        {
+            "Price_per_m²": 873.0,
+            "Price": 28800.0,
+            "m²": 32.99,
+            "Address": "Parādes 7"
+        },
+        {
+            "Price_per_m²": 478.0,
+            "Price": 22480.0,
+            "m²": 47.03,
+            "Address": "Parādes 1B"
+        },
+        {
+            "Price_per_m²": 837.0,
+            "Price": 56900.0,
+            "m²": 67.98,
+            "Address": "Birzes 32"
+        },
+        {
+            "Price_per_m²": 1015.0,
+            "Price": 68000.0,
+            "m²": 67.0,
+            "Address": "Esplanādes 6"
+        },
+        {
+            "Price_per_m²": 625.0,
+            "Price": 35000.0,
+            "m²": 56.0,
+            "Address": "Birzes 46"
+        },
+        {
+            "Price_per_m²": 688.0,
+            "Price": 33000.0,
+            "m²": 47.97,
+            "Address": "Parādes 26"
+        },
+        {
+            "Price_per_m²": 400.0,
+            "Price": 18000.0,
+            "m²": 45.0,
+            "Address": "Zvīņu 1"
+        },
+        {
+            "Price_per_m²": 879.0,
+            "Price": 29000.0,
+            "m²": 32.99,
+            "Address": "Zvīņu 7"
+        },
+        {
+            "Price_per_m²": 615.0,
+            "Price": 40000.0,
+            "m²": 65.04,
+            "Address": "Birzes 10a"
+        },
+        {
+            "Price_per_m²": 830.0,
+            "Price": 36500.0,
+            "m²": 43.98,
+            "Address": "Plēksnes 6"
+        },
+        {
+            "Price_per_m²": 1059.0,
+            "Price": 36000.0,
+            "m²": 33.99,
+            "Address": "Parādes 30"
+        },
+        {
+            "Price_per_m²": 1025.0,
+            "Price": 41000.0,
+            "m²": 40.0,
+            "Address": "Birzes 26"
+        },
+        {
+            "Price_per_m²": 629.0,
+            "Price": 19500.0,
+            "m²": 31.0,
+            "Address": "Parādes 22"
+        },
+        {
+            "Price_per_m²": 748.0,
+            "Price": 41900.0,
+            "m²": 56.02,
+            "Address": "Lēpju 5"
+        },
+        {
+            "Price_per_m²": 652.0,
+            "Price": 30000.0,
+            "m²": 46.01,
+            "Address": "Parādes 2/1"
+        },
+        {
+            "Price_per_m²": 853.0,
+            "Price": 29850.0,
+            "m²": 34.99,
+            "Address": "Parādes 9a"
+        },
+        {
+            "Price_per_m²": 739.0,
+            "Price": 48750.0,
+            "m²": 65.97,
+            "Address": "Lēpju 15"
+        },
+        {
+            "Price_per_m²": 824.0,
+            "Price": 30500.0,
+            "m²": 37.01,
+            "Address": "Esplanādes 5/1"
+        },
+        {
+            "Price_per_m²": 976.0,
+            "Price": 41000.0,
+            "m²": 42.01,
+            "Address": "Parādes 22"
+        },
+        {
+            "Price_per_m²": 500.0,
+            "Price": 24000.0,
+            "m²": 48.0,
+            "Address": "Parādes 18A"
+        },
+        {
+            "Price_per_m²": 671.0,
+            "Price": 22800.0,
+            "m²": 33.98,
+            "Address": "Birzes 28"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 49000.0,
+            "m²": 49.0,
+            "Address": "Birzes 26"
+        },
+        {
+            "Price_per_m²": 638.0,
+            "Price": 30000.0,
+            "m²": 47.02,
+            "Address": "Birzes 42"
+        },
+        {
+            "Price_per_m²": 833.0,
+            "Price": 45000.0,
+            "m²": 54.02,
+            "Address": "Slimnīcas 7"
+        },
+        {
+            "Price_per_m²": 867.0,
+            "Price": 39000.0,
+            "m²": 44.98,
+            "Address": "Plēksnes 2"
+        },
+        {
+            "Price_per_m²": 873.0,
+            "Price": 28800.0,
+            "m²": 32.99,
+            "Address": "Parādes 7"
+        },
+        {
+            "Price_per_m²": 478.0,
+            "Price": 22480.0,
+            "m²": 47.03,
+            "Address": "Parādes 1B"
+        },
+        {
+            "Price_per_m²": 837.0,
+            "Price": 56900.0,
+            "m²": 67.98,
+            "Address": "Birzes 32"
+        },
+        {
+            "Price_per_m²": 1015.0,
+            "Price": 68000.0,
+            "m²": 67.0,
+            "Address": "Esplanādes 6"
+        },
+        {
+            "Price_per_m²": 625.0,
+            "Price": 35000.0,
+            "m²": 56.0,
+            "Address": "Birzes 46"
+        },
+        {
+            "Price_per_m²": 688.0,
+            "Price": 33000.0,
+            "m²": 47.97,
+            "Address": "Parādes 26"
+        },
+        {
+            "Price_per_m²": 400.0,
+            "Price": 18000.0,
+            "m²": 45.0,
+            "Address": "Zvīņu 1"
+        },
+        {
+            "Price_per_m²": 879.0,
+            "Price": 29000.0,
+            "m²": 32.99,
+            "Address": "Zvīņu 7"
+        },
+        {
+            "Price_per_m²": 615.0,
+            "Price": 40000.0,
+            "m²": 65.04,
+            "Address": "Birzes 10a"
+        },
+        {
+            "Price_per_m²": 830.0,
+            "Price": 36500.0,
+            "m²": 43.98,
+            "Address": "Plēksnes 6"
+        },
+        {
+            "Price_per_m²": 1059.0,
+            "Price": 36000.0,
+            "m²": 33.99,
+            "Address": "Parādes 30"
+        },
+        {
+            "Price_per_m²": 1025.0,
+            "Price": 41000.0,
+            "m²": 40.0,
+            "Address": "Birzes 26"
+        },
+        {
+            "Price_per_m²": 629.0,
+            "Price": 19500.0,
+            "m²": 31.0,
+            "Address": "Parādes 22"
+        },
+        {
+            "Price_per_m²": 748.0,
+            "Price": 41900.0,
+            "m²": 56.02,
+            "Address": "Lēpju 5"
+        },
+        {
+            "Price_per_m²": 652.0,
+            "Price": 30000.0,
+            "m²": 46.01,
+            "Address": "Parādes 2/1"
+        },
+        {
+            "Price_per_m²": 853.0,
+            "Price": 29850.0,
+            "m²": 34.99,
+            "Address": "Parādes 9a"
+        },
+        {
+            "Price_per_m²": 739.0,
+            "Price": 48750.0,
+            "m²": 65.97,
+            "Address": "Lēpju 15"
+        },
+        {
+            "Price_per_m²": 824.0,
+            "Price": 30500.0,
+            "m²": 37.01,
+            "Address": "Esplanādes 5/1"
+        },
+        {
+            "Price_per_m²": 976.0,
+            "Price": 41000.0,
+            "m²": 42.01,
+            "Address": "Parādes 22"
+        },
+        {
+            "Price_per_m²": 500.0,
+            "Price": 24000.0,
+            "m²": 48.0,
+            "Address": "Parādes 18A"
+        },
+        {
+            "Price_per_m²": 671.0,
+            "Price": 22800.0,
+            "m²": 33.98,
+            "Address": "Birzes 28"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 49000.0,
+            "m²": 49.0,
+            "Address": "Birzes 26"
+        },
+        {
+            "Price_per_m²": 638.0,
+            "Price": 30000.0,
+            "m²": 47.02,
+            "Address": "Birzes 42"
+        },
+        {
+            "Price_per_m²": 833.0,
+            "Price": 45000.0,
+            "m²": 54.02,
+            "Address": "Slimnīcas 7"
+        },
+        {
+            "Price_per_m²": 867.0,
+            "Price": 39000.0,
+            "m²": 44.98,
+            "Address": "Plēksnes 2"
+        },
+        {
+            "Price_per_m²": 873.0,
+            "Price": 28800.0,
+            "m²": 32.99,
+            "Address": "Parādes 7"
+        },
+        {
+            "Price_per_m²": 478.0,
+            "Price": 22480.0,
+            "m²": 47.03,
+            "Address": "Parādes 1B"
+        },
+        {
+            "Price_per_m²": 837.0,
+            "Price": 56900.0,
+            "m²": 67.98,
+            "Address": "Birzes 32"
+        },
+        {
+            "Price_per_m²": 1015.0,
+            "Price": 68000.0,
+            "m²": 67.0,
+            "Address": "Esplanādes 6"
+        },
+        {
+            "Price_per_m²": 625.0,
+            "Price": 35000.0,
+            "m²": 56.0,
+            "Address": "Birzes 46"
+        },
+        {
+            "Price_per_m²": 688.0,
+            "Price": 33000.0,
+            "m²": 47.97,
+            "Address": "Parādes 26"
+        },
+        {
+            "Price_per_m²": 400.0,
+            "Price": 18000.0,
+            "m²": 45.0,
+            "Address": "Zvīņu 1"
+        },
+        {
+            "Price_per_m²": 879.0,
+            "Price": 29000.0,
+            "m²": 32.99,
+            "Address": "Zvīņu 7"
+        },
+        {
+            "Price_per_m²": 615.0,
+            "Price": 40000.0,
+            "m²": 65.04,
+            "Address": "Birzes 10a"
+        },
+        {
+            "Price_per_m²": 830.0,
+            "Price": 36500.0,
+            "m²": 43.98,
+            "Address": "Plēksnes 6"
+        },
+        {
+            "Price_per_m²": 1059.0,
+            "Price": 36000.0,
+            "m²": 33.99,
+            "Address": "Parādes 30"
+        },
+        {
+            "Price_per_m²": 1025.0,
+            "Price": 41000.0,
+            "m²": 40.0,
+            "Address": "Birzes 26"
+        },
+        {
+            "Price_per_m²": 629.0,
+            "Price": 19500.0,
+            "m²": 31.0,
+            "Address": "Parādes 22"
+        },
+        {
+            "Price_per_m²": 748.0,
+            "Price": 41900.0,
+            "m²": 56.02,
+            "Address": "Lēpju 5"
+        },
+        {
+            "Price_per_m²": 652.0,
+            "Price": 30000.0,
+            "m²": 46.01,
+            "Address": "Parādes 2/1"
+        },
+        {
+            "Price_per_m²": 853.0,
+            "Price": 29850.0,
+            "m²": 34.99,
+            "Address": "Parādes 9a"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 4.23,
+            "Price": 220.0,
+            "m²": 52.01,
+            "Address": "Parādes 7"
+        },
+        {
+            "Price_per_m²": 4.78,
+            "Price": 220.0,
+            "m²": 46.03,
+            "Address": "Birzes 40"
+        },
+        {
+            "Price_per_m²": 1.54,
+            "Price": 100.0,
+            "m²": 64.94,
+            "Address": "Dzintara 65"
+        },
+        {
+            "Price_per_m²": 4.23,
+            "Price": 220.0,
+            "m²": 52.01,
+            "Address": "Parādes 7"
+        },
+        {
+            "Price_per_m²": 4.78,
+            "Price": 220.0,
+            "m²": 46.03,
+            "Address": "Birzes 40"
+        },
+        {
+            "Price_per_m²": 1.54,
+            "Price": 100.0,
+            "m²": 64.94,
+            "Address": "Dzintara 65"
+        },
+        {
+            "Price_per_m²": 4.23,
+            "Price": 220.0,
+            "m²": 52.01,
+            "Address": "Parādes 7"
+        },
+        {
+            "Price_per_m²": 4.78,
+            "Price": 220.0,
+            "m²": 46.03,
+            "Address": "Birzes 40"
+        },
+        {
+            "Price_per_m²": 1.54,
+            "Price": 100.0,
+            "m²": 64.94,
+            "Address": "Dzintara 65"
+        },
+        {
+            "Price_per_m²": 4.23,
+            "Price": 220.0,
+            "m²": 52.01,
+            "Address": "Parādes 7"
+        },
+        {
+            "Price_per_m²": 4.78,
+            "Price": 220.0,
+            "m²": 46.03,
+            "Address": "Birzes 40"
+        },
+        {
+            "Price_per_m²": 1.54,
+            "Price": 100.0,
+            "m²": 64.94,
+            "Address": "Dzintara 65"
+        },
+        {
+            "Price_per_m²": 4.23,
+            "Price": 220.0,
+            "m²": 52.01,
+            "Address": "Parādes 7"
+        },
+        {
+            "Price_per_m²": 4.78,
+            "Price": 220.0,
+            "m²": 46.03,
+            "Address": "Birzes 40"
+        },
+        {
+            "Price_per_m²": 1.54,
+            "Price": 100.0,
+            "m²": 64.94,
+            "Address": "Dzintara 65"
+        }
+    ],
+    "daily": []
+}

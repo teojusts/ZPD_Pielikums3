@@ -1,0 +1,385 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 57000.0,
+            "m²": 57.0,
+            "Address": "Mores 3"
+        },
+        {
+            "Price_per_m²": 592.0,
+            "Price": 14200.0,
+            "m²": 23.99,
+            "Address": "Ezera 5"
+        },
+        {
+            "Price_per_m²": 821.0,
+            "Price": 32000.0,
+            "m²": 38.98,
+            "Address": "Ezera 17"
+        },
+        {
+            "Price_per_m²": 845.0,
+            "Price": 49000.0,
+            "m²": 57.99,
+            "Address": "Ezera 1"
+        },
+        {
+            "Price_per_m²": 724.0,
+            "Price": 42000.0,
+            "m²": 58.01,
+            "Address": "Lēdurgas 5"
+        },
+        {
+            "Price_per_m²": 545.0,
+            "Price": 24000.0,
+            "m²": 44.04,
+            "Address": "Ezera 19"
+        },
+        {
+            "Price_per_m²": 842.0,
+            "Price": 48000.0,
+            "m²": 57.01,
+            "Address": "Ezera 1"
+        },
+        {
+            "Price_per_m²": 660.0,
+            "Price": 35000.0,
+            "m²": 53.03,
+            "Address": "Ezera 5A"
+        },
+        {
+            "Price_per_m²": 552.0,
+            "Price": 32000.0,
+            "m²": 57.97,
+            "Address": "Ezera 1"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 38000.0,
+            "m²": 47.98,
+            "Address": "Mores 34"
+        },
+        {
+            "Price_per_m²": 1492.0,
+            "Price": 176000.0,
+            "m²": 117.96,
+            "Address": "Mores 17"
+        },
+        {
+            "Price_per_m²": 1133.0,
+            "Price": 34000.0,
+            "m²": 30.01,
+            "Address": "Ostas 4"
+        },
+        {
+            "Price_per_m²": 889.0,
+            "Price": 40000.0,
+            "m²": 44.99,
+            "Address": "Ostas pr. 4"
+        },
+        {
+            "Price_per_m²": 750.0,
+            "Price": 18000.0,
+            "m²": 24.0,
+            "Address": "Ezera 19"
+        },
+        {
+            "Price_per_m²": 673.0,
+            "Price": 35000.0,
+            "m²": 52.01,
+            "Address": "Ezera 11"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 57000.0,
+            "m²": 57.0,
+            "Address": "Mores 3"
+        },
+        {
+            "Price_per_m²": 592.0,
+            "Price": 14200.0,
+            "m²": 23.99,
+            "Address": "Ezera 5"
+        },
+        {
+            "Price_per_m²": 821.0,
+            "Price": 32000.0,
+            "m²": 38.98,
+            "Address": "Ezera 17"
+        },
+        {
+            "Price_per_m²": 845.0,
+            "Price": 49000.0,
+            "m²": 57.99,
+            "Address": "Ezera 1"
+        },
+        {
+            "Price_per_m²": 724.0,
+            "Price": 42000.0,
+            "m²": 58.01,
+            "Address": "Lēdurgas 5"
+        },
+        {
+            "Price_per_m²": 545.0,
+            "Price": 24000.0,
+            "m²": 44.04,
+            "Address": "Ezera 19"
+        },
+        {
+            "Price_per_m²": 842.0,
+            "Price": 48000.0,
+            "m²": 57.01,
+            "Address": "Ezera 1"
+        },
+        {
+            "Price_per_m²": 660.0,
+            "Price": 35000.0,
+            "m²": 53.03,
+            "Address": "Ezera 5A"
+        },
+        {
+            "Price_per_m²": 552.0,
+            "Price": 32000.0,
+            "m²": 57.97,
+            "Address": "Ezera 1"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 38000.0,
+            "m²": 47.98,
+            "Address": "Mores 34"
+        },
+        {
+            "Price_per_m²": 1492.0,
+            "Price": 176000.0,
+            "m²": 117.96,
+            "Address": "Mores 17"
+        },
+        {
+            "Price_per_m²": 1133.0,
+            "Price": 34000.0,
+            "m²": 30.01,
+            "Address": "Ostas 4"
+        },
+        {
+            "Price_per_m²": 889.0,
+            "Price": 40000.0,
+            "m²": 44.99,
+            "Address": "Ostas pr. 4"
+        },
+        {
+            "Price_per_m²": 750.0,
+            "Price": 18000.0,
+            "m²": 24.0,
+            "Address": "Ezera 19"
+        },
+        {
+            "Price_per_m²": 673.0,
+            "Price": 35000.0,
+            "m²": 52.01,
+            "Address": "Ezera 11"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 57000.0,
+            "m²": 57.0,
+            "Address": "Mores 3"
+        },
+        {
+            "Price_per_m²": 592.0,
+            "Price": 14200.0,
+            "m²": 23.99,
+            "Address": "Ezera 5"
+        },
+        {
+            "Price_per_m²": 821.0,
+            "Price": 32000.0,
+            "m²": 38.98,
+            "Address": "Ezera 17"
+        },
+        {
+            "Price_per_m²": 845.0,
+            "Price": 49000.0,
+            "m²": 57.99,
+            "Address": "Ezera 1"
+        },
+        {
+            "Price_per_m²": 724.0,
+            "Price": 42000.0,
+            "m²": 58.01,
+            "Address": "Lēdurgas 5"
+        },
+        {
+            "Price_per_m²": 545.0,
+            "Price": 24000.0,
+            "m²": 44.04,
+            "Address": "Ezera 19"
+        },
+        {
+            "Price_per_m²": 842.0,
+            "Price": 48000.0,
+            "m²": 57.01,
+            "Address": "Ezera 1"
+        },
+        {
+            "Price_per_m²": 660.0,
+            "Price": 35000.0,
+            "m²": 53.03,
+            "Address": "Ezera 5A"
+        },
+        {
+            "Price_per_m²": 552.0,
+            "Price": 32000.0,
+            "m²": 57.97,
+            "Address": "Ezera 1"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 38000.0,
+            "m²": 47.98,
+            "Address": "Mores 34"
+        },
+        {
+            "Price_per_m²": 1492.0,
+            "Price": 176000.0,
+            "m²": 117.96,
+            "Address": "Mores 17"
+        },
+        {
+            "Price_per_m²": 1133.0,
+            "Price": 34000.0,
+            "m²": 30.01,
+            "Address": "Ostas 4"
+        },
+        {
+            "Price_per_m²": 889.0,
+            "Price": 40000.0,
+            "m²": 44.99,
+            "Address": "Ostas pr. 4"
+        },
+        {
+            "Price_per_m²": 750.0,
+            "Price": 18000.0,
+            "m²": 24.0,
+            "Address": "Ezera 19"
+        },
+        {
+            "Price_per_m²": 673.0,
+            "Price": 35000.0,
+            "m²": 52.01,
+            "Address": "Ezera 11"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 9.57,
+            "Price": 220.0,
+            "m²": 22.99,
+            "Address": "Ezera 17"
+        },
+        {
+            "Price_per_m²": 6.15,
+            "Price": 400.0,
+            "m²": 65.04,
+            "Address": "Mores 11"
+        },
+        {
+            "Price_per_m²": 7.67,
+            "Price": 230.0,
+            "m²": 29.99,
+            "Address": "Ostas pr. 4"
+        },
+        {
+            "Price_per_m²": 14.68,
+            "Price": 411.0,
+            "m²": 28.0,
+            "Address": "Briežu 9"
+        },
+        {
+            "Price_per_m²": 11.11,
+            "Price": 500.0,
+            "m²": 45.0,
+            "Address": "Krapes 4"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 240.0,
+            "m²": 30.0,
+            "Address": "Ezera 18"
+        },
+        {
+            "Price_per_m²": 9.57,
+            "Price": 220.0,
+            "m²": 22.99,
+            "Address": "Ezera 17"
+        },
+        {
+            "Price_per_m²": 6.15,
+            "Price": 400.0,
+            "m²": 65.04,
+            "Address": "Mores 11"
+        },
+        {
+            "Price_per_m²": 7.67,
+            "Price": 230.0,
+            "m²": 29.99,
+            "Address": "Ostas pr. 4"
+        },
+        {
+            "Price_per_m²": 14.68,
+            "Price": 411.0,
+            "m²": 28.0,
+            "Address": "Briežu 9"
+        },
+        {
+            "Price_per_m²": 11.11,
+            "Price": 500.0,
+            "m²": 45.0,
+            "Address": "Krapes 4"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 240.0,
+            "m²": 30.0,
+            "Address": "Ezera 18"
+        },
+        {
+            "Price_per_m²": 9.57,
+            "Price": 220.0,
+            "m²": 22.99,
+            "Address": "Ezera 17"
+        },
+        {
+            "Price_per_m²": 6.15,
+            "Price": 400.0,
+            "m²": 65.04,
+            "Address": "Mores 11"
+        },
+        {
+            "Price_per_m²": 7.67,
+            "Price": 230.0,
+            "m²": 29.99,
+            "Address": "Ostas pr. 4"
+        },
+        {
+            "Price_per_m²": 14.68,
+            "Price": 411.0,
+            "m²": 28.0,
+            "Address": "Briežu 9"
+        },
+        {
+            "Price_per_m²": 11.11,
+            "Price": 500.0,
+            "m²": 45.0,
+            "Address": "Krapes 4"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 240.0,
+            "m²": 30.0,
+            "Address": "Ezera 18"
+        }
+    ],
+    "daily": []
+}

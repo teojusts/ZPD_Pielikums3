@@ -1,0 +1,4514 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 2381.0,
+            "Price": 150000.0,
+            "m²": 63.0,
+            "Address": "Mūkusalas 29"
+        },
+        {
+            "Price_per_m²": 2097.0,
+            "Price": 65000.0,
+            "m²": 31.0,
+            "Address": "Ļermontova 3"
+        },
+        {
+            "Price_per_m²": 1500.0,
+            "Price": 90000.0,
+            "m²": 60.0,
+            "Address": "Elvīras 12"
+        },
+        {
+            "Price_per_m²": 1618.0,
+            "Price": 17800.0,
+            "m²": 11.0,
+            "Address": "Smiļģa 50"
+        },
+        {
+            "Price_per_m²": 2300.0,
+            "Price": 230000.0,
+            "m²": 100.0,
+            "Address": "Baložu 33"
+        },
+        {
+            "Price_per_m²": 328.0,
+            "Price": 9500.0,
+            "m²": 28.96,
+            "Address": "Ventspils 25"
+        },
+        {
+            "Price_per_m²": 2434.0,
+            "Price": 129000.0,
+            "m²": 53.0,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 732.0,
+            "Price": 30000.0,
+            "m²": 40.98,
+            "Address": "Liepājas 37b"
+        },
+        {
+            "Price_per_m²": 2503.0,
+            "Price": 438000.0,
+            "m²": 174.99,
+            "Address": "Kuģu 26"
+        },
+        {
+            "Price_per_m²": 3063.0,
+            "Price": 291000.0,
+            "m²": 95.0,
+            "Address": "Raņķa d. 34"
+        },
+        {
+            "Price_per_m²": 1351.0,
+            "Price": 131000.0,
+            "m²": 96.97,
+            "Address": "Margrietas 16"
+        },
+        {
+            "Price_per_m²": 2504.0,
+            "Price": 293000.0,
+            "m²": 117.01,
+            "Address": "Baložu 5"
+        },
+        {
+            "Price_per_m²": 1769.0,
+            "Price": 69000.0,
+            "m²": 39.01,
+            "Address": "Kalnciema 47"
+        },
+        {
+            "Price_per_m²": 1603.0,
+            "Price": 83360.0,
+            "m²": 52.0,
+            "Address": "Mērsraga 9A"
+        },
+        {
+            "Price_per_m²": 1677.0,
+            "Price": 85541.0,
+            "m²": 51.01,
+            "Address": "Mērsraga 9A"
+        },
+        {
+            "Price_per_m²": 1378.0,
+            "Price": 159800.0,
+            "m²": 115.97,
+            "Address": "Mērsraga 9A"
+        },
+        {
+            "Price_per_m²": 2830.0,
+            "Price": 251900.0,
+            "m²": 89.01,
+            "Address": "Raņķa d. 5"
+        },
+        {
+            "Price_per_m²": 3512.0,
+            "Price": 259900.0,
+            "m²": 74.0,
+            "Address": "Raņķa d. 5"
+        },
+        {
+            "Price_per_m²": 1133.0,
+            "Price": 85000.0,
+            "m²": 75.02,
+            "Address": "Mārupes 51"
+        },
+        {
+            "Price_per_m²": 825.0,
+            "Price": 51150.0,
+            "m²": 62.0,
+            "Address": "Baldones 24"
+        },
+        {
+            "Price_per_m²": 1863.0,
+            "Price": 298000.0,
+            "m²": 159.96,
+            "Address": "Baložu 28"
+        },
+        {
+            "Price_per_m²": 1192.0,
+            "Price": 31000.0,
+            "m²": 26.01,
+            "Address": "Rododendru 1"
+        },
+        {
+            "Price_per_m²": 714.0,
+            "Price": 35000.0,
+            "m²": 49.02,
+            "Address": "Smiļģa 20A"
+        },
+        {
+            "Price_per_m²": 799.0,
+            "Price": 127000.0,
+            "m²": 158.95,
+            "Address": "Baložu 1"
+        },
+        {
+            "Price_per_m²": 2317.0,
+            "Price": 234000.0,
+            "m²": 100.99,
+            "Address": "Raņķa d. 34"
+        },
+        {
+            "Price_per_m²": 2507.0,
+            "Price": 142900.0,
+            "m²": 57.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 1674.0,
+            "Price": 51900.0,
+            "m²": 31.0,
+            "Address": "Augļu 8A"
+        },
+        {
+            "Price_per_m²": 1619.0,
+            "Price": 68000.0,
+            "m²": 42.0,
+            "Address": "Valguma 24"
+        },
+        {
+            "Price_per_m²": 1179.0,
+            "Price": 49500.0,
+            "m²": 41.98,
+            "Address": "Alīses 6"
+        },
+        {
+            "Price_per_m²": 2432.0,
+            "Price": 128900.0,
+            "m²": 53.0,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 2277.0,
+            "Price": 107000.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 9"
+        },
+        {
+            "Price_per_m²": 600.0,
+            "Price": 27000.0,
+            "m²": 45.0,
+            "Address": "Margrietas 2"
+        },
+        {
+            "Price_per_m²": 1423.0,
+            "Price": 37000.0,
+            "m²": 26.0,
+            "Address": "Rododendru 7"
+        },
+        {
+            "Price_per_m²": 2790.0,
+            "Price": 242700.0,
+            "m²": 86.99,
+            "Address": "Zemaišu 15"
+        },
+        {
+            "Price_per_m²": 2217.0,
+            "Price": 192900.0,
+            "m²": 87.01,
+            "Address": "Zemaišu 11"
+        },
+        {
+            "Price_per_m²": 2417.0,
+            "Price": 183700.0,
+            "m²": 76.0,
+            "Address": "Zemaišu 11"
+        },
+        {
+            "Price_per_m²": 3228.0,
+            "Price": 138800.0,
+            "m²": 43.0,
+            "Address": "Zemaišu 11"
+        },
+        {
+            "Price_per_m²": 3573.0,
+            "Price": 393000.0,
+            "m²": 109.99,
+            "Address": "Raņķa d. 34"
+        },
+        {
+            "Price_per_m²": 4093.0,
+            "Price": 528000.0,
+            "m²": 129.0,
+            "Address": "Raņķa d. 34"
+        },
+        {
+            "Price_per_m²": 845.0,
+            "Price": 49000.0,
+            "m²": 57.99,
+            "Address": "Dobeles 4a"
+        },
+        {
+            "Price_per_m²": 3256.0,
+            "Price": 140000.0,
+            "m²": 43.0,
+            "Address": "Melnsila 14"
+        },
+        {
+            "Price_per_m²": 1444.0,
+            "Price": 26000.0,
+            "m²": 18.01,
+            "Address": "Kristapa 8b"
+        },
+        {
+            "Price_per_m²": 2060.0,
+            "Price": 103000.0,
+            "m²": 50.0,
+            "Address": "Mērsraga 9"
+        },
+        {
+            "Price_per_m²": 2434.0,
+            "Price": 129000.0,
+            "m²": 53.0,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 2168.0,
+            "Price": 140900.0,
+            "m²": 64.99,
+            "Address": "Valentīna 16 k-2"
+        },
+        {
+            "Price_per_m²": 2386.0,
+            "Price": 136000.0,
+            "m²": 57.0,
+            "Address": "Ernestīnes 25"
+        },
+        {
+            "Price_per_m²": 3096.0,
+            "Price": 216690.0,
+            "m²": 69.99,
+            "Address": "Amālijas 5a"
+        },
+        {
+            "Price_per_m²": 3077.0,
+            "Price": 209250.0,
+            "m²": 68.0,
+            "Address": "Amālijas 5A"
+        },
+        {
+            "Price_per_m²": 2636.0,
+            "Price": 290000.0,
+            "m²": 110.02,
+            "Address": "Kuģu 26"
+        },
+        {
+            "Price_per_m²": 2276.0,
+            "Price": 198000.0,
+            "m²": 86.99,
+            "Address": "Kalnciema 9a"
+        },
+        {
+            "Price_per_m²": 2650.0,
+            "Price": 31800.0,
+            "m²": 12.0,
+            "Address": "Kristapa 10"
+        },
+        {
+            "Price_per_m²": 2192.0,
+            "Price": 113960.0,
+            "m²": 51.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 2092.0,
+            "Price": 156870.0,
+            "m²": 74.99,
+            "Address": "Bauskas 57"
+        },
+        {
+            "Price_per_m²": 1342.0,
+            "Price": 73800.0,
+            "m²": 54.99,
+            "Address": "Mārupes 49"
+        },
+        {
+            "Price_per_m²": 2138.0,
+            "Price": 124000.0,
+            "m²": 58.0,
+            "Address": "Liepājas 78C"
+        },
+        {
+            "Price_per_m²": 2381.0,
+            "Price": 102396.0,
+            "m²": 43.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2892.0,
+            "Price": 138800.0,
+            "m²": 47.99,
+            "Address": "Zemaišu 11"
+        },
+        {
+            "Price_per_m²": 2204.0,
+            "Price": 216000.0,
+            "m²": 98.0,
+            "Address": "Baložu 28"
+        },
+        {
+            "Price_per_m²": 2744.0,
+            "Price": 107000.0,
+            "m²": 38.99,
+            "Address": "Baložu 28"
+        },
+        {
+            "Price_per_m²": 2739.0,
+            "Price": 63000.0,
+            "m²": 23.0,
+            "Address": "Baložu 28"
+        },
+        {
+            "Price_per_m²": 2229.0,
+            "Price": 120375.0,
+            "m²": 54.0,
+            "Address": "Mārupes 6"
+        },
+        {
+            "Price_per_m²": 2904.0,
+            "Price": 203290.0,
+            "m²": 70.0,
+            "Address": "Bišu 14"
+        },
+        {
+            "Price_per_m²": 3108.0,
+            "Price": 236220.0,
+            "m²": 76.0,
+            "Address": "Bišu 14"
+        },
+        {
+            "Price_per_m²": 3303.0,
+            "Price": 360000.0,
+            "m²": 108.99,
+            "Address": "Raņķa d. 34"
+        },
+        {
+            "Price_per_m²": 1912.0,
+            "Price": 130000.0,
+            "m²": 67.99,
+            "Address": "Lielirbes 11"
+        },
+        {
+            "Price_per_m²": 1488.0,
+            "Price": 64000.0,
+            "m²": 43.01,
+            "Address": "Kristapa 26"
+        },
+        {
+            "Price_per_m²": 1381.0,
+            "Price": 87000.0,
+            "m²": 63.0,
+            "Address": "Vecā Jūrmalas g. 7"
+        },
+        {
+            "Price_per_m²": 3600.0,
+            "Price": 180000.0,
+            "m²": 50.0,
+            "Address": "Baložu 11"
+        },
+        {
+            "Price_per_m²": 2000.0,
+            "Price": 160000.0,
+            "m²": 80.0,
+            "Address": "Dzirciema 25"
+        },
+        {
+            "Price_per_m²": 2740.0,
+            "Price": 142500.0,
+            "m²": 52.01,
+            "Address": "Gregora 2a"
+        },
+        {
+            "Price_per_m²": 2697.0,
+            "Price": 231900.0,
+            "m²": 85.98,
+            "Address": "Kuldīgas 32"
+        },
+        {
+            "Price_per_m²": 2655.0,
+            "Price": 254900.0,
+            "m²": 96.01,
+            "Address": "Kuldīgas 32"
+        },
+        {
+            "Price_per_m²": 1765.0,
+            "Price": 150000.0,
+            "m²": 84.99,
+            "Address": "Pārslas 10"
+        },
+        {
+            "Price_per_m²": 3014.0,
+            "Price": 66300.0,
+            "m²": 22.0,
+            "Address": "Amālijas 5A"
+        },
+        {
+            "Price_per_m²": 2816.0,
+            "Price": 197120.0,
+            "m²": 70.0,
+            "Address": "Amālijas 5A"
+        },
+        {
+            "Price_per_m²": 1455.0,
+            "Price": 53838.0,
+            "m²": 37.0,
+            "Address": "Mārupes 6B"
+        },
+        {
+            "Price_per_m²": 826.0,
+            "Price": 95000.0,
+            "m²": 115.01,
+            "Address": "Kuldīgas 56"
+        },
+        {
+            "Price_per_m²": 3019.0,
+            "Price": 187200.0,
+            "m²": 62.01,
+            "Address": "Amālijas 5A"
+        },
+        {
+            "Price_per_m²": 2782.0,
+            "Price": 370000.0,
+            "m²": 133.0,
+            "Address": "Raņķa d. 34"
+        },
+        {
+            "Price_per_m²": 3737.0,
+            "Price": 355000.0,
+            "m²": 95.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 2820.0,
+            "Price": 160720.0,
+            "m²": 56.99,
+            "Address": "Zeļļu 13"
+        },
+        {
+            "Price_per_m²": 2563.0,
+            "Price": 99950.0,
+            "m²": 39.0,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 2922.0,
+            "Price": 271700.0,
+            "m²": 92.98,
+            "Address": "Raņķa d. 5"
+        },
+        {
+            "Price_per_m²": 1580.0,
+            "Price": 39500.0,
+            "m²": 25.0,
+            "Address": "Mārupes 8"
+        },
+        {
+            "Price_per_m²": 2866.0,
+            "Price": 235000.0,
+            "m²": 82.0,
+            "Address": "Āgenskalna 4"
+        },
+        {
+            "Price_per_m²": 1463.0,
+            "Price": 54133.0,
+            "m²": 37.0,
+            "Address": "Mārupes 6B"
+        },
+        {
+            "Price_per_m²": 2258.0,
+            "Price": 135450.0,
+            "m²": 59.99,
+            "Address": "Mārupes 6"
+        },
+        {
+            "Price_per_m²": 2203.0,
+            "Price": 152000.0,
+            "m²": 69.0,
+            "Address": "Mārupes 6"
+        },
+        {
+            "Price_per_m²": 3167.0,
+            "Price": 85500.0,
+            "m²": 27.0,
+            "Address": "Ormaņu 20"
+        },
+        {
+            "Price_per_m²": 1337.0,
+            "Price": 131000.0,
+            "m²": 97.98,
+            "Address": "Margrietas 16"
+        },
+        {
+            "Price_per_m²": 1306.0,
+            "Price": 63998.0,
+            "m²": 49.0,
+            "Address": "M. Nometņu 95"
+        },
+        {
+            "Price_per_m²": 2700.0,
+            "Price": 99900.0,
+            "m²": 37.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 379.0,
+            "Price": 12886.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 5"
+        },
+        {
+            "Price_per_m²": 2694.0,
+            "Price": 145500.0,
+            "m²": 54.01,
+            "Address": "Kolkasraga 12"
+        },
+        {
+            "Price_per_m²": 2971.0,
+            "Price": 166380.0,
+            "m²": 56.0,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 3330.0,
+            "Price": 99900.0,
+            "m²": 30.0,
+            "Address": "Raņķa d. 5"
+        },
+        {
+            "Price_per_m²": 3104.0,
+            "Price": 242110.0,
+            "m²": 78.0,
+            "Address": "Bišu 14-8"
+        },
+        {
+            "Price_per_m²": 3000.0,
+            "Price": 66000.0,
+            "m²": 22.0,
+            "Address": "Amālijas 5a"
+        },
+        {
+            "Price_per_m²": 1215.0,
+            "Price": 59554.0,
+            "m²": 49.02,
+            "Address": "M. Nometņu 95"
+        },
+        {
+            "Price_per_m²": 714.0,
+            "Price": 20000.0,
+            "m²": 28.01,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 3099.0,
+            "Price": 219999.0,
+            "m²": 70.99,
+            "Address": "Kuģu 26"
+        },
+        {
+            "Price_per_m²": 1080.0,
+            "Price": 54000.0,
+            "m²": 50.0,
+            "Address": "Vīlipa 10"
+        },
+        {
+            "Price_per_m²": 1056.0,
+            "Price": 38000.0,
+            "m²": 35.98,
+            "Address": "Kūdras 7"
+        },
+        {
+            "Price_per_m²": 1667.0,
+            "Price": 105000.0,
+            "m²": 62.99,
+            "Address": "Baložu 28"
+        },
+        {
+            "Price_per_m²": 1250.0,
+            "Price": 45000.0,
+            "m²": 36.0,
+            "Address": "M. Nometņu 82a"
+        },
+        {
+            "Price_per_m²": 2512.0,
+            "Price": 211000.0,
+            "m²": 84.0,
+            "Address": "Āgenskalna 25"
+        },
+        {
+            "Price_per_m²": 1090.0,
+            "Price": 42500.0,
+            "m²": 38.99,
+            "Address": "Baldones 28"
+        },
+        {
+            "Price_per_m²": 1175.0,
+            "Price": 59900.0,
+            "m²": 50.98,
+            "Address": "Vīlipa 10"
+        },
+        {
+            "Price_per_m²": 3229.0,
+            "Price": 352000.0,
+            "m²": 109.01,
+            "Address": "Raņķa d. 34"
+        },
+        {
+            "Price_per_m²": 1475.0,
+            "Price": 129800.0,
+            "m²": 88.0,
+            "Address": "Kalnciema 42"
+        },
+        {
+            "Price_per_m²": 3774.0,
+            "Price": 905750.0,
+            "m²": 240.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 434.0,
+            "Price": 12580.0,
+            "m²": 28.99,
+            "Address": "Altonavas 17"
+        },
+        {
+            "Price_per_m²": 733.0,
+            "Price": 22000.0,
+            "m²": 30.01,
+            "Address": "Altonavas 9"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 212500.0,
+            "m²": 91.01,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 1536.0,
+            "Price": 172000.0,
+            "m²": 111.98,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2991.0,
+            "Price": 344000.0,
+            "m²": 115.01,
+            "Address": "Raņķa d. 34"
+        },
+        {
+            "Price_per_m²": 2647.0,
+            "Price": 352000.0,
+            "m²": 132.98,
+            "Address": "Raņķa d. 34"
+        },
+        {
+            "Price_per_m²": 2442.0,
+            "Price": 276000.0,
+            "m²": 113.02,
+            "Address": "Raņķa d. 34"
+        },
+        {
+            "Price_per_m²": 2326.0,
+            "Price": 221000.0,
+            "m²": 95.01,
+            "Address": "Raņķa d. 34"
+        },
+        {
+            "Price_per_m²": 2382.0,
+            "Price": 243000.0,
+            "m²": 102.02,
+            "Address": "Raņķa d. 34"
+        },
+        {
+            "Price_per_m²": 2179.0,
+            "Price": 207000.0,
+            "m²": 95.0,
+            "Address": "Raņķa d. 34"
+        },
+        {
+            "Price_per_m²": 2240.0,
+            "Price": 215000.0,
+            "m²": 95.98,
+            "Address": "Raņķa d. 34"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 240000.0,
+            "m²": 125.0,
+            "Address": "Kapseļu 6"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 1503.0,
+            "Price": 215000.0,
+            "m²": 143.05,
+            "Address": "M. Nometņu 1"
+        },
+        {
+            "Price_per_m²": 2099.0,
+            "Price": 149000.0,
+            "m²": 70.99,
+            "Address": "Puķu 7"
+        },
+        {
+            "Price_per_m²": 2241.0,
+            "Price": 65000.0,
+            "m²": 29.0,
+            "Address": "Smiļģa 1"
+        },
+        {
+            "Price_per_m²": 2743.0,
+            "Price": 131670.0,
+            "m²": 48.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2781.0,
+            "Price": 125160.0,
+            "m²": 45.01,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2335.0,
+            "Price": 79400.0,
+            "m²": 34.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 2490.0,
+            "Price": 69720.0,
+            "m²": 28.0,
+            "Address": "M. Nometņu 24"
+        },
+        {
+            "Price_per_m²": 720.0,
+            "Price": 18000.0,
+            "m²": 25.0,
+            "Address": "M. Nometņu 11a"
+        },
+        {
+            "Price_per_m²": 1528.0,
+            "Price": 59600.0,
+            "m²": 39.01,
+            "Address": "Uzvaras bulv. 5"
+        },
+        {
+            "Price_per_m²": 1083.0,
+            "Price": 65000.0,
+            "m²": 60.02,
+            "Address": "Vīlipa 8"
+        },
+        {
+            "Price_per_m²": 1508.0,
+            "Price": 79900.0,
+            "m²": 52.98,
+            "Address": "Kapseļu 7a"
+        },
+        {
+            "Price_per_m²": 1639.0,
+            "Price": 29500.0,
+            "m²": 18.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1646.0,
+            "Price": 135000.0,
+            "m²": 82.02,
+            "Address": "Valguma 2"
+        },
+        {
+            "Price_per_m²": 1920.0,
+            "Price": 88340.0,
+            "m²": 46.01,
+            "Address": "Grīna bulv. 3"
+        },
+        {
+            "Price_per_m²": 2919.0,
+            "Price": 137175.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 14.47,
+            "Price": 680.0,
+            "m²": 46.99,
+            "Address": "Raņķa d. 31"
+        },
+        {
+            "Price_per_m²": 14.38,
+            "Price": 1150.0,
+            "m²": 79.97,
+            "Address": "Mūkusalas 29"
+        },
+        {
+            "Price_per_m²": 9.23,
+            "Price": 600.0,
+            "m²": 65.01,
+            "Address": "Daugavgrīvas 49"
+        },
+        {
+            "Price_per_m²": 13.16,
+            "Price": 500.0,
+            "m²": 37.99,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 11.5,
+            "Price": 230.0,
+            "m²": 20.0,
+            "Address": "Medus 1"
+        },
+        {
+            "Price_per_m²": 14.0,
+            "Price": 490.0,
+            "m²": 35.0,
+            "Address": "Mūkusalas 25"
+        },
+        {
+            "Price_per_m²": 8.23,
+            "Price": 650.0,
+            "m²": 78.98,
+            "Address": "Mārupes 5"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 550.0,
+            "m²": 55.0,
+            "Address": "Kalnciema 15"
+        },
+        {
+            "Price_per_m²": 8.37,
+            "Price": 385.0,
+            "m²": 46.0,
+            "Address": "Lapu 16"
+        },
+        {
+            "Price_per_m²": 11.25,
+            "Price": 450.0,
+            "m²": 40.0,
+            "Address": "Nometņu 24"
+        },
+        {
+            "Price_per_m²": 11.54,
+            "Price": 450.0,
+            "m²": 38.99,
+            "Address": "Nometņu 24"
+        },
+        {
+            "Price_per_m²": 5.82,
+            "Price": 320.0,
+            "m²": 54.98,
+            "Address": "Daugavgrīvas 46"
+        },
+        {
+            "Price_per_m²": 6.81,
+            "Price": 320.0,
+            "m²": 46.99,
+            "Address": "Nometņu 23"
+        },
+        {
+            "Price_per_m²": 10.56,
+            "Price": 475.0,
+            "m²": 44.98,
+            "Address": "Kalnciema 15"
+        },
+        {
+            "Price_per_m²": 9.17,
+            "Price": 550.0,
+            "m²": 59.98,
+            "Address": "Elvīras 13A"
+        },
+        {
+            "Price_per_m²": 15.38,
+            "Price": 200.0,
+            "m²": 13.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 13.86,
+            "Price": 305.0,
+            "m²": 22.01,
+            "Address": "Mārupes 19"
+        },
+        {
+            "Price_per_m²": 14.07,
+            "Price": 760.0,
+            "m²": 54.02,
+            "Address": "Pārslas 10"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 100.0,
+            "m²": 16.0,
+            "Address": "Slokas 28"
+        },
+        {
+            "Price_per_m²": 5.97,
+            "Price": 400.0,
+            "m²": 67.0,
+            "Address": "Kandavas 8"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 350.0,
+            "m²": 35.0,
+            "Address": "H. Celmiņa 2"
+        },
+        {
+            "Price_per_m²": 16.43,
+            "Price": 1150.0,
+            "m²": 69.99,
+            "Address": "Smiļģa 25"
+        },
+        {
+            "Price_per_m²": 14.84,
+            "Price": 950.0,
+            "m²": 64.02,
+            "Address": "Smiļģa 25"
+        },
+        {
+            "Price_per_m²": 7.24,
+            "Price": 275.0,
+            "m²": 37.98,
+            "Address": "Elvīras 9"
+        },
+        {
+            "Price_per_m²": 7.93,
+            "Price": 349.0,
+            "m²": 44.01,
+            "Address": "Kolkasraga 20"
+        },
+        {
+            "Price_per_m²": 17.86,
+            "Price": 500.0,
+            "m²": 28.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 19.51,
+            "Price": 800.0,
+            "m²": 41.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.93,
+            "Price": 250.0,
+            "m²": 28.0,
+            "Address": "Elvīras 8"
+        },
+        {
+            "Price_per_m²": 7.5,
+            "Price": 450.0,
+            "m²": 60.0,
+            "Address": "Elvīras 12"
+        },
+        {
+            "Price_per_m²": 15.33,
+            "Price": 460.0,
+            "m²": 30.01,
+            "Address": "Raņķa d. 9"
+        },
+        {
+            "Price_per_m²": 9.18,
+            "Price": 670.0,
+            "m²": 72.98,
+            "Address": "Āgenskalna 29"
+        },
+        {
+            "Price_per_m²": 5.83,
+            "Price": 350.0,
+            "m²": 60.03,
+            "Address": "Slokas 10"
+        },
+        {
+            "Price_per_m²": 17.39,
+            "Price": 1600.0,
+            "m²": 92.01,
+            "Address": "Kuģu 26"
+        },
+        {
+            "Price_per_m²": 12.5,
+            "Price": 1250.0,
+            "m²": 100.0,
+            "Address": "Kuģu 26"
+        },
+        {
+            "Price_per_m²": 12.38,
+            "Price": 520.0,
+            "m²": 42.0,
+            "Address": "Klīveru 1"
+        },
+        {
+            "Price_per_m²": 8.6,
+            "Price": 800.0,
+            "m²": 93.02,
+            "Address": "Liepājas 34"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 900.0,
+            "m²": 90.0,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 10.29,
+            "Price": 700.0,
+            "m²": 68.03,
+            "Address": "Lielirbes 13"
+        },
+        {
+            "Price_per_m²": 8.4,
+            "Price": 890.0,
+            "m²": 105.95,
+            "Address": "Vīlipa 12"
+        },
+        {
+            "Price_per_m²": 8.06,
+            "Price": 250.0,
+            "m²": 31.02,
+            "Address": "Zemaišu 4"
+        },
+        {
+            "Price_per_m²": 9.29,
+            "Price": 650.0,
+            "m²": 69.97,
+            "Address": "Jelgavas 63"
+        },
+        {
+            "Price_per_m²": 8.08,
+            "Price": 420.0,
+            "m²": 51.98,
+            "Address": "Bāriņu 2"
+        },
+        {
+            "Price_per_m²": 7.26,
+            "Price": 225.0,
+            "m²": 30.99,
+            "Address": "Elvīras 4"
+        },
+        {
+            "Price_per_m²": 10.32,
+            "Price": 320.0,
+            "m²": 31.01,
+            "Address": "Kristapa 20"
+        },
+        {
+            "Price_per_m²": 8.6,
+            "Price": 800.0,
+            "m²": 93.02,
+            "Address": "Liepājas 34"
+        },
+        {
+            "Price_per_m²": 12.5,
+            "Price": 400.0,
+            "m²": 32.0,
+            "Address": "Smiļģa 20B"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 300.0,
+            "m²": 30.0,
+            "Address": "Kalnciema 34"
+        },
+        {
+            "Price_per_m²": 8.6,
+            "Price": 800.0,
+            "m²": 93.02,
+            "Address": "Liepājas 34"
+        },
+        {
+            "Price_per_m²": 12.1,
+            "Price": 750.0,
+            "m²": 61.98,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 19.05,
+            "Price": 800.0,
+            "m²": 41.99,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        },
+        {
+            "Price_per_m²": 9.31,
+            "Price": 270.0,
+            "m²": 29.0,
+            "Address": "Mārupes 21"
+        },
+        {
+            "Price_per_m²": 12.31,
+            "Price": 320.0,
+            "m²": 26.0,
+            "Address": "Lapu 3b"
+        },
+        {
+            "Price_per_m²": 17.5,
+            "Price": 700.0,
+            "m²": 40.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Ventspils 35a"
+        },
+        {
+            "Price_per_m²": 8.62,
+            "Price": 250.0,
+            "m²": 29.0,
+            "Address": "M. Nometņu 26"
+        },
+        {
+            "Price_per_m²": 17.74,
+            "Price": 550.0,
+            "m²": 31.0,
+            "Address": "Valentīna 16"
+        },
+        {
+            "Price_per_m²": 10.2,
+            "Price": 1000.0,
+            "m²": 98.04,
+            "Address": "Slokas 59"
+        }
+    ],
+    "daily": [
+        {
+            "Price_per_m²": 1.13,
+            "Price": 35.0,
+            "m²": 30.97,
+            "Address": "Zemaišu 4"
+        },
+        {
+            "Price_per_m²": 2.23,
+            "Price": 29.0,
+            "m²": 13.0,
+            "Address": "Kristapa 8"
+        },
+        {
+            "Price_per_m²": 1.38,
+            "Price": 110.0,
+            "m²": 79.71,
+            "Address": "Mūkusalas 29"
+        },
+        {
+            "Price_per_m²": 1.88,
+            "Price": 30.0,
+            "m²": 15.96,
+            "Address": "Slokas 28"
+        },
+        {
+            "Price_per_m²": 0.744,
+            "Price": 29.0,
+            "m²": 38.98,
+            "Address": "M. Nometņu 5"
+        },
+        {
+            "Price_per_m²": 19.06,
+            "Price": 305.0,
+            "m²": 16.0,
+            "Address": "Ventspils 63c"
+        }
+    ]
+}

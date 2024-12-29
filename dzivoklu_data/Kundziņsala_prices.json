@@ -1,0 +1,43 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 900.0,
+            "Price": 27000.0,
+            "m²": 30.0,
+            "Address": "Kundziņsalas 16. l.."
+        },
+        {
+            "Price_per_m²": 900.0,
+            "Price": 27000.0,
+            "m²": 30.0,
+            "Address": "Kundziņsalas 16. l.."
+        },
+        {
+            "Price_per_m²": 900.0,
+            "Price": 27000.0,
+            "m²": 30.0,
+            "Address": "Kundziņsalas 16. l.."
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 5.88,
+            "Price": 100.0,
+            "m²": 17.01,
+            "Address": "Kundziņsalas 7. šķ.."
+        },
+        {
+            "Price_per_m²": 5.88,
+            "Price": 100.0,
+            "m²": 17.01,
+            "Address": "Kundziņsalas 7. šķ.."
+        },
+        {
+            "Price_per_m²": 5.88,
+            "Price": 100.0,
+            "m²": 17.01,
+            "Address": "Kundziņsalas 7. šķ.."
+        }
+    ],
+    "daily": []
+}

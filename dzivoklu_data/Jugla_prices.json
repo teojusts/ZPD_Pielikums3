@@ -1,0 +1,2078 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 903.0,
+            "Price": 28000.0,
+            "m²": 31.01,
+            "Address": "Murjāņu 52"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 45000.0,
+            "m²": 42.02,
+            "Address": "Brīvības 391/1"
+        },
+        {
+            "Price_per_m²": 990.0,
+            "Price": 29700.0,
+            "m²": 30.0,
+            "Address": "Silciema 15"
+        },
+        {
+            "Price_per_m²": 872.0,
+            "Price": 41000.0,
+            "m²": 47.02,
+            "Address": "Veldres 1"
+        },
+        {
+            "Price_per_m²": 1964.0,
+            "Price": 165000.0,
+            "m²": 84.01,
+            "Address": "Brīvības 338"
+        },
+        {
+            "Price_per_m²": 1434.0,
+            "Price": 205000.0,
+            "m²": 142.96,
+            "Address": "Murjāņu 20"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 47000.0,
+            "m²": 47.0,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 38000.0,
+            "m²": 47.98,
+            "Address": "Smilškalnu 2"
+        },
+        {
+            "Price_per_m²": 1178.0,
+            "Price": 144900.0,
+            "m²": 123.01,
+            "Address": "M. Juglas 3a"
+        },
+        {
+            "Price_per_m²": 1043.0,
+            "Price": 49000.0,
+            "m²": 46.98,
+            "Address": "Veldres 3"
+        },
+        {
+            "Price_per_m²": 685.0,
+            "Price": 18500.0,
+            "m²": 27.01,
+            "Address": "Brīvības 387"
+        },
+        {
+            "Price_per_m²": 2224.0,
+            "Price": 189000.0,
+            "m²": 84.98,
+            "Address": "Murjāņu 151"
+        },
+        {
+            "Price_per_m²": 2530.0,
+            "Price": 126500.0,
+            "m²": 50.0,
+            "Address": "Murjāņu 155"
+        },
+        {
+            "Price_per_m²": 2576.0,
+            "Price": 170000.0,
+            "m²": 65.99,
+            "Address": "Murjāņu 151"
+        },
+        {
+            "Price_per_m²": 867.0,
+            "Price": 26000.0,
+            "m²": 29.99,
+            "Address": "Juglas 1"
+        },
+        {
+            "Price_per_m²": 817.0,
+            "Price": 49000.0,
+            "m²": 59.98,
+            "Address": "Juglas 37"
+        },
+        {
+            "Price_per_m²": 494.0,
+            "Price": 8900.0,
+            "m²": 18.02,
+            "Address": "Mārkalnes 1"
+        },
+        {
+            "Price_per_m²": 988.0,
+            "Price": 42500.0,
+            "m²": 43.02,
+            "Address": "Kvēles 25"
+        },
+        {
+            "Price_per_m²": 2539.0,
+            "Price": 259000.0,
+            "m²": 102.01,
+            "Address": "Murjāņu 151"
+        },
+        {
+            "Price_per_m²": 1534.0,
+            "Price": 135000.0,
+            "m²": 88.01,
+            "Address": "Juglas 10"
+        },
+        {
+            "Price_per_m²": 956.0,
+            "Price": 43000.0,
+            "m²": 44.98,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 1088.0,
+            "Price": 62000.0,
+            "m²": 56.99,
+            "Address": "Murjāņu 48"
+        },
+        {
+            "Price_per_m²": 973.0,
+            "Price": 43800.0,
+            "m²": 45.02,
+            "Address": "Silciema 7"
+        },
+        {
+            "Price_per_m²": 1153.0,
+            "Price": 68000.0,
+            "m²": 58.98,
+            "Address": "Kvēles 15 k-15"
+        },
+        {
+            "Price_per_m²": 1339.0,
+            "Price": 58900.0,
+            "m²": 43.99,
+            "Address": "Juglas 43"
+        },
+        {
+            "Price_per_m²": 803.0,
+            "Price": 26500.0,
+            "m²": 33.0,
+            "Address": "Murjāņu 34"
+        },
+        {
+            "Price_per_m²": 926.0,
+            "Price": 43500.0,
+            "m²": 46.98,
+            "Address": "Malienas 70"
+        },
+        {
+            "Price_per_m²": 1194.0,
+            "Price": 37000.0,
+            "m²": 30.99,
+            "Address": "Brīvības 371"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 46000.0,
+            "m²": 46.0,
+            "Address": "Vangažu 19"
+        },
+        {
+            "Price_per_m²": 705.0,
+            "Price": 31000.0,
+            "m²": 43.97,
+            "Address": "Kvēles 25"
+        },
+        {
+            "Price_per_m²": 702.0,
+            "Price": 31590.0,
+            "m²": 45.0,
+            "Address": "Kvēles 23"
+        },
+        {
+            "Price_per_m²": 2014.0,
+            "Price": 141000.0,
+            "m²": 70.01,
+            "Address": "Silciema 30"
+        },
+        {
+            "Price_per_m²": 1733.0,
+            "Price": 149000.0,
+            "m²": 85.98,
+            "Address": "M. Juglas 3A"
+        },
+        {
+            "Price_per_m²": 785.0,
+            "Price": 11770.0,
+            "m²": 14.99,
+            "Address": "Dzirnupes 1"
+        },
+        {
+            "Price_per_m²": 1321.0,
+            "Price": 70000.0,
+            "m²": 52.99,
+            "Address": "Mārkalnes 3"
+        },
+        {
+            "Price_per_m²": 1099.0,
+            "Price": 89000.0,
+            "m²": 80.98,
+            "Address": "Silciema 15"
+        },
+        {
+            "Price_per_m²": 861.0,
+            "Price": 62000.0,
+            "m²": 72.01,
+            "Address": "Tirzas 3"
+        },
+        {
+            "Price_per_m²": 1188.0,
+            "Price": 38000.0,
+            "m²": 31.99,
+            "Address": "Dzirnupes 17"
+        },
+        {
+            "Price_per_m²": 2440.0,
+            "Price": 122000.0,
+            "m²": 50.0,
+            "Address": "Murjāņu 155"
+        },
+        {
+            "Price_per_m²": 2309.0,
+            "Price": 187000.0,
+            "m²": 80.99,
+            "Address": "Murjāņu 151"
+        },
+        {
+            "Price_per_m²": 1375.0,
+            "Price": 55000.0,
+            "m²": 40.0,
+            "Address": "Tirzas 3/5"
+        },
+        {
+            "Price_per_m²": 1493.0,
+            "Price": 200000.0,
+            "m²": 133.96,
+            "Address": "Juglas krastm. 1"
+        },
+        {
+            "Price_per_m²": 1024.0,
+            "Price": 43000.0,
+            "m²": 41.99,
+            "Address": "Tirzas 3/5"
+        },
+        {
+            "Price_per_m²": 1192.0,
+            "Price": 155000.0,
+            "m²": 130.03,
+            "Address": "Ciemupes 2"
+        },
+        {
+            "Price_per_m²": 989.0,
+            "Price": 46495.0,
+            "m²": 47.01,
+            "Address": "Kvēles 31"
+        },
+        {
+            "Price_per_m²": 1346.0,
+            "Price": 179000.0,
+            "m²": 132.99,
+            "Address": "Juglas 10"
+        },
+        {
+            "Price_per_m²": 779.0,
+            "Price": 33500.0,
+            "m²": 43.0,
+            "Address": "Kvēles 21"
+        },
+        {
+            "Price_per_m²": 982.0,
+            "Price": 33400.0,
+            "m²": 34.01,
+            "Address": "Vangažu 15"
+        },
+        {
+            "Price_per_m²": 580.0,
+            "Price": 25500.0,
+            "m²": 43.97,
+            "Address": "Auduma 3"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 47000.0,
+            "m²": 47.0,
+            "Address": "Auduma 35"
+        },
+        {
+            "Price_per_m²": 1224.0,
+            "Price": 71000.0,
+            "m²": 58.01,
+            "Address": "Silciema 113 k-1"
+        },
+        {
+            "Price_per_m²": 1047.0,
+            "Price": 45000.0,
+            "m²": 42.98,
+            "Address": "Veldres 9"
+        },
+        {
+            "Price_per_m²": 903.0,
+            "Price": 28000.0,
+            "m²": 31.01,
+            "Address": "Murjāņu 52"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 45000.0,
+            "m²": 42.02,
+            "Address": "Brīvības 391/1"
+        },
+        {
+            "Price_per_m²": 990.0,
+            "Price": 29700.0,
+            "m²": 30.0,
+            "Address": "Silciema 15"
+        },
+        {
+            "Price_per_m²": 872.0,
+            "Price": 41000.0,
+            "m²": 47.02,
+            "Address": "Veldres 1"
+        },
+        {
+            "Price_per_m²": 1964.0,
+            "Price": 165000.0,
+            "m²": 84.01,
+            "Address": "Brīvības 338"
+        },
+        {
+            "Price_per_m²": 1434.0,
+            "Price": 205000.0,
+            "m²": 142.96,
+            "Address": "Murjāņu 20"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 47000.0,
+            "m²": 47.0,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 38000.0,
+            "m²": 47.98,
+            "Address": "Smilškalnu 2"
+        },
+        {
+            "Price_per_m²": 1178.0,
+            "Price": 144900.0,
+            "m²": 123.01,
+            "Address": "M. Juglas 3a"
+        },
+        {
+            "Price_per_m²": 1043.0,
+            "Price": 49000.0,
+            "m²": 46.98,
+            "Address": "Veldres 3"
+        },
+        {
+            "Price_per_m²": 685.0,
+            "Price": 18500.0,
+            "m²": 27.01,
+            "Address": "Brīvības 387"
+        },
+        {
+            "Price_per_m²": 903.0,
+            "Price": 28000.0,
+            "m²": 31.01,
+            "Address": "Murjāņu 52"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 45000.0,
+            "m²": 42.02,
+            "Address": "Brīvības 391/1"
+        },
+        {
+            "Price_per_m²": 990.0,
+            "Price": 29700.0,
+            "m²": 30.0,
+            "Address": "Silciema 15"
+        },
+        {
+            "Price_per_m²": 872.0,
+            "Price": 41000.0,
+            "m²": 47.02,
+            "Address": "Veldres 1"
+        },
+        {
+            "Price_per_m²": 1964.0,
+            "Price": 165000.0,
+            "m²": 84.01,
+            "Address": "Brīvības 338"
+        },
+        {
+            "Price_per_m²": 1434.0,
+            "Price": 205000.0,
+            "m²": 142.96,
+            "Address": "Murjāņu 20"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 47000.0,
+            "m²": 47.0,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 38000.0,
+            "m²": 47.98,
+            "Address": "Smilškalnu 2"
+        },
+        {
+            "Price_per_m²": 1178.0,
+            "Price": 144900.0,
+            "m²": 123.01,
+            "Address": "M. Juglas 3a"
+        },
+        {
+            "Price_per_m²": 1043.0,
+            "Price": 49000.0,
+            "m²": 46.98,
+            "Address": "Veldres 3"
+        },
+        {
+            "Price_per_m²": 685.0,
+            "Price": 18500.0,
+            "m²": 27.01,
+            "Address": "Brīvības 387"
+        },
+        {
+            "Price_per_m²": 903.0,
+            "Price": 28000.0,
+            "m²": 31.01,
+            "Address": "Murjāņu 52"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 45000.0,
+            "m²": 42.02,
+            "Address": "Brīvības 391/1"
+        },
+        {
+            "Price_per_m²": 990.0,
+            "Price": 29700.0,
+            "m²": 30.0,
+            "Address": "Silciema 15"
+        },
+        {
+            "Price_per_m²": 872.0,
+            "Price": 41000.0,
+            "m²": 47.02,
+            "Address": "Veldres 1"
+        },
+        {
+            "Price_per_m²": 1964.0,
+            "Price": 165000.0,
+            "m²": 84.01,
+            "Address": "Brīvības 338"
+        },
+        {
+            "Price_per_m²": 1434.0,
+            "Price": 205000.0,
+            "m²": 142.96,
+            "Address": "Murjāņu 20"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 47000.0,
+            "m²": 47.0,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 38000.0,
+            "m²": 47.98,
+            "Address": "Smilškalnu 2"
+        },
+        {
+            "Price_per_m²": 1178.0,
+            "Price": 144900.0,
+            "m²": 123.01,
+            "Address": "M. Juglas 3a"
+        },
+        {
+            "Price_per_m²": 1043.0,
+            "Price": 49000.0,
+            "m²": 46.98,
+            "Address": "Veldres 3"
+        },
+        {
+            "Price_per_m²": 685.0,
+            "Price": 18500.0,
+            "m²": 27.01,
+            "Address": "Brīvības 387"
+        },
+        {
+            "Price_per_m²": 903.0,
+            "Price": 28000.0,
+            "m²": 31.01,
+            "Address": "Murjāņu 52"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 45000.0,
+            "m²": 42.02,
+            "Address": "Brīvības 391/1"
+        },
+        {
+            "Price_per_m²": 990.0,
+            "Price": 29700.0,
+            "m²": 30.0,
+            "Address": "Silciema 15"
+        },
+        {
+            "Price_per_m²": 872.0,
+            "Price": 41000.0,
+            "m²": 47.02,
+            "Address": "Veldres 1"
+        },
+        {
+            "Price_per_m²": 1964.0,
+            "Price": 165000.0,
+            "m²": 84.01,
+            "Address": "Brīvības 338"
+        },
+        {
+            "Price_per_m²": 1434.0,
+            "Price": 205000.0,
+            "m²": 142.96,
+            "Address": "Murjāņu 20"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 47000.0,
+            "m²": 47.0,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 38000.0,
+            "m²": 47.98,
+            "Address": "Smilškalnu 2"
+        },
+        {
+            "Price_per_m²": 1178.0,
+            "Price": 144900.0,
+            "m²": 123.01,
+            "Address": "M. Juglas 3a"
+        },
+        {
+            "Price_per_m²": 1043.0,
+            "Price": 49000.0,
+            "m²": 46.98,
+            "Address": "Veldres 3"
+        },
+        {
+            "Price_per_m²": 685.0,
+            "Price": 18500.0,
+            "m²": 27.01,
+            "Address": "Brīvības 387"
+        },
+        {
+            "Price_per_m²": 903.0,
+            "Price": 28000.0,
+            "m²": 31.01,
+            "Address": "Murjāņu 52"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 45000.0,
+            "m²": 42.02,
+            "Address": "Brīvības 391/1"
+        },
+        {
+            "Price_per_m²": 990.0,
+            "Price": 29700.0,
+            "m²": 30.0,
+            "Address": "Silciema 15"
+        },
+        {
+            "Price_per_m²": 872.0,
+            "Price": 41000.0,
+            "m²": 47.02,
+            "Address": "Veldres 1"
+        },
+        {
+            "Price_per_m²": 1964.0,
+            "Price": 165000.0,
+            "m²": 84.01,
+            "Address": "Brīvības 338"
+        },
+        {
+            "Price_per_m²": 1434.0,
+            "Price": 205000.0,
+            "m²": 142.96,
+            "Address": "Murjāņu 20"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 47000.0,
+            "m²": 47.0,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 38000.0,
+            "m²": 47.98,
+            "Address": "Smilškalnu 2"
+        },
+        {
+            "Price_per_m²": 1178.0,
+            "Price": 144900.0,
+            "m²": 123.01,
+            "Address": "M. Juglas 3a"
+        },
+        {
+            "Price_per_m²": 1043.0,
+            "Price": 49000.0,
+            "m²": 46.98,
+            "Address": "Veldres 3"
+        },
+        {
+            "Price_per_m²": 685.0,
+            "Price": 18500.0,
+            "m²": 27.01,
+            "Address": "Brīvības 387"
+        },
+        {
+            "Price_per_m²": 903.0,
+            "Price": 28000.0,
+            "m²": 31.01,
+            "Address": "Murjāņu 52"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 45000.0,
+            "m²": 42.02,
+            "Address": "Brīvības 391/1"
+        },
+        {
+            "Price_per_m²": 990.0,
+            "Price": 29700.0,
+            "m²": 30.0,
+            "Address": "Silciema 15"
+        },
+        {
+            "Price_per_m²": 872.0,
+            "Price": 41000.0,
+            "m²": 47.02,
+            "Address": "Veldres 1"
+        },
+        {
+            "Price_per_m²": 1964.0,
+            "Price": 165000.0,
+            "m²": 84.01,
+            "Address": "Brīvības 338"
+        },
+        {
+            "Price_per_m²": 1434.0,
+            "Price": 205000.0,
+            "m²": 142.96,
+            "Address": "Murjāņu 20"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 47000.0,
+            "m²": 47.0,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 38000.0,
+            "m²": 47.98,
+            "Address": "Smilškalnu 2"
+        },
+        {
+            "Price_per_m²": 1178.0,
+            "Price": 144900.0,
+            "m²": 123.01,
+            "Address": "M. Juglas 3a"
+        },
+        {
+            "Price_per_m²": 1043.0,
+            "Price": 49000.0,
+            "m²": 46.98,
+            "Address": "Veldres 3"
+        },
+        {
+            "Price_per_m²": 685.0,
+            "Price": 18500.0,
+            "m²": 27.01,
+            "Address": "Brīvības 387"
+        },
+        {
+            "Price_per_m²": 903.0,
+            "Price": 28000.0,
+            "m²": 31.01,
+            "Address": "Murjāņu 52"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 45000.0,
+            "m²": 42.02,
+            "Address": "Brīvības 391/1"
+        },
+        {
+            "Price_per_m²": 990.0,
+            "Price": 29700.0,
+            "m²": 30.0,
+            "Address": "Silciema 15"
+        },
+        {
+            "Price_per_m²": 872.0,
+            "Price": 41000.0,
+            "m²": 47.02,
+            "Address": "Veldres 1"
+        },
+        {
+            "Price_per_m²": 1964.0,
+            "Price": 165000.0,
+            "m²": 84.01,
+            "Address": "Brīvības 338"
+        },
+        {
+            "Price_per_m²": 1434.0,
+            "Price": 205000.0,
+            "m²": 142.96,
+            "Address": "Murjāņu 20"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 47000.0,
+            "m²": 47.0,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 38000.0,
+            "m²": 47.98,
+            "Address": "Smilškalnu 2"
+        },
+        {
+            "Price_per_m²": 1178.0,
+            "Price": 144900.0,
+            "m²": 123.01,
+            "Address": "M. Juglas 3a"
+        },
+        {
+            "Price_per_m²": 1043.0,
+            "Price": 49000.0,
+            "m²": 46.98,
+            "Address": "Veldres 3"
+        },
+        {
+            "Price_per_m²": 685.0,
+            "Price": 18500.0,
+            "m²": 27.01,
+            "Address": "Brīvības 387"
+        },
+        {
+            "Price_per_m²": 903.0,
+            "Price": 28000.0,
+            "m²": 31.01,
+            "Address": "Murjāņu 52"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 45000.0,
+            "m²": 42.02,
+            "Address": "Brīvības 391/1"
+        },
+        {
+            "Price_per_m²": 990.0,
+            "Price": 29700.0,
+            "m²": 30.0,
+            "Address": "Silciema 15"
+        },
+        {
+            "Price_per_m²": 872.0,
+            "Price": 41000.0,
+            "m²": 47.02,
+            "Address": "Veldres 1"
+        },
+        {
+            "Price_per_m²": 1964.0,
+            "Price": 165000.0,
+            "m²": 84.01,
+            "Address": "Brīvības 338"
+        },
+        {
+            "Price_per_m²": 1434.0,
+            "Price": 205000.0,
+            "m²": 142.96,
+            "Address": "Murjāņu 20"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 47000.0,
+            "m²": 47.0,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 38000.0,
+            "m²": 47.98,
+            "Address": "Smilškalnu 2"
+        },
+        {
+            "Price_per_m²": 1178.0,
+            "Price": 144900.0,
+            "m²": 123.01,
+            "Address": "M. Juglas 3a"
+        },
+        {
+            "Price_per_m²": 1043.0,
+            "Price": 49000.0,
+            "m²": 46.98,
+            "Address": "Veldres 3"
+        },
+        {
+            "Price_per_m²": 685.0,
+            "Price": 18500.0,
+            "m²": 27.01,
+            "Address": "Brīvības 387"
+        },
+        {
+            "Price_per_m²": 903.0,
+            "Price": 28000.0,
+            "m²": 31.01,
+            "Address": "Murjāņu 52"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 45000.0,
+            "m²": 42.02,
+            "Address": "Brīvības 391/1"
+        },
+        {
+            "Price_per_m²": 990.0,
+            "Price": 29700.0,
+            "m²": 30.0,
+            "Address": "Silciema 15"
+        },
+        {
+            "Price_per_m²": 872.0,
+            "Price": 41000.0,
+            "m²": 47.02,
+            "Address": "Veldres 1"
+        },
+        {
+            "Price_per_m²": 1964.0,
+            "Price": 165000.0,
+            "m²": 84.01,
+            "Address": "Brīvības 338"
+        },
+        {
+            "Price_per_m²": 1434.0,
+            "Price": 205000.0,
+            "m²": 142.96,
+            "Address": "Murjāņu 20"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 47000.0,
+            "m²": 47.0,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 38000.0,
+            "m²": 47.98,
+            "Address": "Smilškalnu 2"
+        },
+        {
+            "Price_per_m²": 1178.0,
+            "Price": 144900.0,
+            "m²": 123.01,
+            "Address": "M. Juglas 3a"
+        },
+        {
+            "Price_per_m²": 1043.0,
+            "Price": 49000.0,
+            "m²": 46.98,
+            "Address": "Veldres 3"
+        },
+        {
+            "Price_per_m²": 685.0,
+            "Price": 18500.0,
+            "m²": 27.01,
+            "Address": "Brīvības 387"
+        },
+        {
+            "Price_per_m²": 903.0,
+            "Price": 28000.0,
+            "m²": 31.01,
+            "Address": "Murjāņu 52"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 45000.0,
+            "m²": 42.02,
+            "Address": "Brīvības 391/1"
+        },
+        {
+            "Price_per_m²": 990.0,
+            "Price": 29700.0,
+            "m²": 30.0,
+            "Address": "Silciema 15"
+        },
+        {
+            "Price_per_m²": 872.0,
+            "Price": 41000.0,
+            "m²": 47.02,
+            "Address": "Veldres 1"
+        },
+        {
+            "Price_per_m²": 1964.0,
+            "Price": 165000.0,
+            "m²": 84.01,
+            "Address": "Brīvības 338"
+        },
+        {
+            "Price_per_m²": 1434.0,
+            "Price": 205000.0,
+            "m²": 142.96,
+            "Address": "Murjāņu 20"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 47000.0,
+            "m²": 47.0,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 38000.0,
+            "m²": 47.98,
+            "Address": "Smilškalnu 2"
+        },
+        {
+            "Price_per_m²": 1178.0,
+            "Price": 144900.0,
+            "m²": 123.01,
+            "Address": "M. Juglas 3a"
+        },
+        {
+            "Price_per_m²": 1043.0,
+            "Price": 49000.0,
+            "m²": 46.98,
+            "Address": "Veldres 3"
+        },
+        {
+            "Price_per_m²": 685.0,
+            "Price": 18500.0,
+            "m²": 27.01,
+            "Address": "Brīvības 387"
+        },
+        {
+            "Price_per_m²": 903.0,
+            "Price": 28000.0,
+            "m²": 31.01,
+            "Address": "Murjāņu 52"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 45000.0,
+            "m²": 42.02,
+            "Address": "Brīvības 391/1"
+        },
+        {
+            "Price_per_m²": 990.0,
+            "Price": 29700.0,
+            "m²": 30.0,
+            "Address": "Silciema 15"
+        },
+        {
+            "Price_per_m²": 872.0,
+            "Price": 41000.0,
+            "m²": 47.02,
+            "Address": "Veldres 1"
+        },
+        {
+            "Price_per_m²": 1964.0,
+            "Price": 165000.0,
+            "m²": 84.01,
+            "Address": "Brīvības 338"
+        },
+        {
+            "Price_per_m²": 1434.0,
+            "Price": 205000.0,
+            "m²": 142.96,
+            "Address": "Murjāņu 20"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 47000.0,
+            "m²": 47.0,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 38000.0,
+            "m²": 47.98,
+            "Address": "Smilškalnu 2"
+        },
+        {
+            "Price_per_m²": 1178.0,
+            "Price": 144900.0,
+            "m²": 123.01,
+            "Address": "M. Juglas 3a"
+        },
+        {
+            "Price_per_m²": 1043.0,
+            "Price": 49000.0,
+            "m²": 46.98,
+            "Address": "Veldres 3"
+        },
+        {
+            "Price_per_m²": 685.0,
+            "Price": 18500.0,
+            "m²": 27.01,
+            "Address": "Brīvības 387"
+        },
+        {
+            "Price_per_m²": 903.0,
+            "Price": 28000.0,
+            "m²": 31.01,
+            "Address": "Murjāņu 52"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 45000.0,
+            "m²": 42.02,
+            "Address": "Brīvības 391/1"
+        },
+        {
+            "Price_per_m²": 990.0,
+            "Price": 29700.0,
+            "m²": 30.0,
+            "Address": "Silciema 15"
+        },
+        {
+            "Price_per_m²": 872.0,
+            "Price": 41000.0,
+            "m²": 47.02,
+            "Address": "Veldres 1"
+        },
+        {
+            "Price_per_m²": 1964.0,
+            "Price": 165000.0,
+            "m²": 84.01,
+            "Address": "Brīvības 338"
+        },
+        {
+            "Price_per_m²": 1434.0,
+            "Price": 205000.0,
+            "m²": 142.96,
+            "Address": "Murjāņu 20"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 47000.0,
+            "m²": 47.0,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 38000.0,
+            "m²": 47.98,
+            "Address": "Smilškalnu 2"
+        },
+        {
+            "Price_per_m²": 1178.0,
+            "Price": 144900.0,
+            "m²": 123.01,
+            "Address": "M. Juglas 3a"
+        },
+        {
+            "Price_per_m²": 1043.0,
+            "Price": 49000.0,
+            "m²": 46.98,
+            "Address": "Veldres 3"
+        },
+        {
+            "Price_per_m²": 685.0,
+            "Price": 18500.0,
+            "m²": 27.01,
+            "Address": "Brīvības 387"
+        },
+        {
+            "Price_per_m²": 903.0,
+            "Price": 28000.0,
+            "m²": 31.01,
+            "Address": "Murjāņu 52"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 45000.0,
+            "m²": 42.02,
+            "Address": "Brīvības 391/1"
+        },
+        {
+            "Price_per_m²": 990.0,
+            "Price": 29700.0,
+            "m²": 30.0,
+            "Address": "Silciema 15"
+        },
+        {
+            "Price_per_m²": 872.0,
+            "Price": 41000.0,
+            "m²": 47.02,
+            "Address": "Veldres 1"
+        },
+        {
+            "Price_per_m²": 1964.0,
+            "Price": 165000.0,
+            "m²": 84.01,
+            "Address": "Brīvības 338"
+        },
+        {
+            "Price_per_m²": 1434.0,
+            "Price": 205000.0,
+            "m²": 142.96,
+            "Address": "Murjāņu 20"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 47000.0,
+            "m²": 47.0,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 38000.0,
+            "m²": 47.98,
+            "Address": "Smilškalnu 2"
+        },
+        {
+            "Price_per_m²": 1178.0,
+            "Price": 144900.0,
+            "m²": 123.01,
+            "Address": "M. Juglas 3a"
+        },
+        {
+            "Price_per_m²": 1043.0,
+            "Price": 49000.0,
+            "m²": 46.98,
+            "Address": "Veldres 3"
+        },
+        {
+            "Price_per_m²": 685.0,
+            "Price": 18500.0,
+            "m²": 27.01,
+            "Address": "Brīvības 387"
+        },
+        {
+            "Price_per_m²": 903.0,
+            "Price": 28000.0,
+            "m²": 31.01,
+            "Address": "Murjāņu 52"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 45000.0,
+            "m²": 42.02,
+            "Address": "Brīvības 391/1"
+        },
+        {
+            "Price_per_m²": 990.0,
+            "Price": 29700.0,
+            "m²": 30.0,
+            "Address": "Silciema 15"
+        },
+        {
+            "Price_per_m²": 872.0,
+            "Price": 41000.0,
+            "m²": 47.02,
+            "Address": "Veldres 1"
+        },
+        {
+            "Price_per_m²": 1964.0,
+            "Price": 165000.0,
+            "m²": 84.01,
+            "Address": "Brīvības 338"
+        },
+        {
+            "Price_per_m²": 1434.0,
+            "Price": 205000.0,
+            "m²": 142.96,
+            "Address": "Murjāņu 20"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 47000.0,
+            "m²": 47.0,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 38000.0,
+            "m²": 47.98,
+            "Address": "Smilškalnu 2"
+        },
+        {
+            "Price_per_m²": 1178.0,
+            "Price": 144900.0,
+            "m²": 123.01,
+            "Address": "M. Juglas 3a"
+        },
+        {
+            "Price_per_m²": 1043.0,
+            "Price": 49000.0,
+            "m²": 46.98,
+            "Address": "Veldres 3"
+        },
+        {
+            "Price_per_m²": 685.0,
+            "Price": 18500.0,
+            "m²": 27.01,
+            "Address": "Brīvības 387"
+        },
+        {
+            "Price_per_m²": 903.0,
+            "Price": 28000.0,
+            "m²": 31.01,
+            "Address": "Murjāņu 52"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 45000.0,
+            "m²": 42.02,
+            "Address": "Brīvības 391/1"
+        },
+        {
+            "Price_per_m²": 990.0,
+            "Price": 29700.0,
+            "m²": 30.0,
+            "Address": "Silciema 15"
+        },
+        {
+            "Price_per_m²": 872.0,
+            "Price": 41000.0,
+            "m²": 47.02,
+            "Address": "Veldres 1"
+        },
+        {
+            "Price_per_m²": 1964.0,
+            "Price": 165000.0,
+            "m²": 84.01,
+            "Address": "Brīvības 338"
+        },
+        {
+            "Price_per_m²": 1434.0,
+            "Price": 205000.0,
+            "m²": 142.96,
+            "Address": "Murjāņu 20"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 47000.0,
+            "m²": 47.0,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 38000.0,
+            "m²": 47.98,
+            "Address": "Smilškalnu 2"
+        },
+        {
+            "Price_per_m²": 1178.0,
+            "Price": 144900.0,
+            "m²": 123.01,
+            "Address": "M. Juglas 3a"
+        },
+        {
+            "Price_per_m²": 1043.0,
+            "Price": 49000.0,
+            "m²": 46.98,
+            "Address": "Veldres 3"
+        },
+        {
+            "Price_per_m²": 685.0,
+            "Price": 18500.0,
+            "m²": 27.01,
+            "Address": "Brīvības 387"
+        },
+        {
+            "Price_per_m²": 903.0,
+            "Price": 28000.0,
+            "m²": 31.01,
+            "Address": "Murjāņu 52"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 45000.0,
+            "m²": 42.02,
+            "Address": "Brīvības 391/1"
+        },
+        {
+            "Price_per_m²": 990.0,
+            "Price": 29700.0,
+            "m²": 30.0,
+            "Address": "Silciema 15"
+        },
+        {
+            "Price_per_m²": 872.0,
+            "Price": 41000.0,
+            "m²": 47.02,
+            "Address": "Veldres 1"
+        },
+        {
+            "Price_per_m²": 1964.0,
+            "Price": 165000.0,
+            "m²": 84.01,
+            "Address": "Brīvības 338"
+        },
+        {
+            "Price_per_m²": 1434.0,
+            "Price": 205000.0,
+            "m²": 142.96,
+            "Address": "Murjāņu 20"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 47000.0,
+            "m²": 47.0,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 38000.0,
+            "m²": 47.98,
+            "Address": "Smilškalnu 2"
+        },
+        {
+            "Price_per_m²": 1178.0,
+            "Price": 144900.0,
+            "m²": 123.01,
+            "Address": "M. Juglas 3a"
+        },
+        {
+            "Price_per_m²": 1043.0,
+            "Price": 49000.0,
+            "m²": 46.98,
+            "Address": "Veldres 3"
+        },
+        {
+            "Price_per_m²": 685.0,
+            "Price": 18500.0,
+            "m²": 27.01,
+            "Address": "Brīvības 387"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 7.37,
+            "Price": 280.0,
+            "m²": 37.99,
+            "Address": "Brīvības 388"
+        },
+        {
+            "Price_per_m²": 12.8,
+            "Price": 320.0,
+            "m²": 25.0,
+            "Address": "Murjāņu 61A"
+        },
+        {
+            "Price_per_m²": 8.09,
+            "Price": 380.0,
+            "m²": 46.97,
+            "Address": "Kvēles 27"
+        },
+        {
+            "Price_per_m²": 7.86,
+            "Price": 330.0,
+            "m²": 41.98,
+            "Address": "Brīvības 361"
+        },
+        {
+            "Price_per_m²": 9.57,
+            "Price": 440.0,
+            "m²": 45.98,
+            "Address": "Brīvības 401"
+        },
+        {
+            "Price_per_m²": 11.24,
+            "Price": 899.0,
+            "m²": 79.98,
+            "Address": "Murjāņu 153"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 280.0,
+            "m²": 40.0,
+            "Address": "Tirzas 3"
+        },
+        {
+            "Price_per_m²": 7.95,
+            "Price": 350.0,
+            "m²": 44.03,
+            "Address": "Brīvības 363"
+        },
+        {
+            "Price_per_m²": 6.18,
+            "Price": 340.0,
+            "m²": 55.02,
+            "Address": "Silciema 13"
+        },
+        {
+            "Price_per_m²": 7.95,
+            "Price": 350.0,
+            "m²": 44.03,
+            "Address": "Ciemupes 2"
+        },
+        {
+            "Price_per_m²": 6.81,
+            "Price": 320.0,
+            "m²": 46.99,
+            "Address": "Vidzemes al. 2"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 360.0,
+            "m²": 45.0,
+            "Address": "Silciema 15/4"
+        },
+        {
+            "Price_per_m²": 11.15,
+            "Price": 290.0,
+            "m²": 26.01,
+            "Address": "Brīvības 407"
+        },
+        {
+            "Price_per_m²": 6.97,
+            "Price": 1700.0,
+            "m²": 243.9,
+            "Address": "Brīvības 446"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 200.0,
+            "m²": 32.0,
+            "Address": "Veldres 11"
+        },
+        {
+            "Price_per_m²": 10.66,
+            "Price": 650.0,
+            "m²": 60.98,
+            "Address": "Brīvības 386"
+        },
+        {
+            "Price_per_m²": 7.31,
+            "Price": 490.0,
+            "m²": 67.03,
+            "Address": "Ciemupes 1"
+        },
+        {
+            "Price_per_m²": 6.43,
+            "Price": 450.0,
+            "m²": 69.98,
+            "Address": "Brīvības 386"
+        },
+        {
+            "Price_per_m²": 4.8,
+            "Price": 120.0,
+            "m²": 25.0,
+            "Address": "Slēpotāju 4"
+        },
+        {
+            "Price_per_m²": 7.37,
+            "Price": 280.0,
+            "m²": 37.99,
+            "Address": "Brīvības 388"
+        },
+        {
+            "Price_per_m²": 12.8,
+            "Price": 320.0,
+            "m²": 25.0,
+            "Address": "Murjāņu 61A"
+        },
+        {
+            "Price_per_m²": 8.09,
+            "Price": 380.0,
+            "m²": 46.97,
+            "Address": "Kvēles 27"
+        },
+        {
+            "Price_per_m²": 7.86,
+            "Price": 330.0,
+            "m²": 41.98,
+            "Address": "Brīvības 361"
+        },
+        {
+            "Price_per_m²": 9.57,
+            "Price": 440.0,
+            "m²": 45.98,
+            "Address": "Brīvības 401"
+        },
+        {
+            "Price_per_m²": 7.37,
+            "Price": 280.0,
+            "m²": 37.99,
+            "Address": "Brīvības 388"
+        },
+        {
+            "Price_per_m²": 12.8,
+            "Price": 320.0,
+            "m²": 25.0,
+            "Address": "Murjāņu 61A"
+        },
+        {
+            "Price_per_m²": 8.09,
+            "Price": 380.0,
+            "m²": 46.97,
+            "Address": "Kvēles 27"
+        },
+        {
+            "Price_per_m²": 7.86,
+            "Price": 330.0,
+            "m²": 41.98,
+            "Address": "Brīvības 361"
+        },
+        {
+            "Price_per_m²": 9.57,
+            "Price": 440.0,
+            "m²": 45.98,
+            "Address": "Brīvības 401"
+        },
+        {
+            "Price_per_m²": 7.37,
+            "Price": 280.0,
+            "m²": 37.99,
+            "Address": "Brīvības 388"
+        },
+        {
+            "Price_per_m²": 12.8,
+            "Price": 320.0,
+            "m²": 25.0,
+            "Address": "Murjāņu 61A"
+        },
+        {
+            "Price_per_m²": 8.09,
+            "Price": 380.0,
+            "m²": 46.97,
+            "Address": "Kvēles 27"
+        },
+        {
+            "Price_per_m²": 7.86,
+            "Price": 330.0,
+            "m²": 41.98,
+            "Address": "Brīvības 361"
+        },
+        {
+            "Price_per_m²": 9.57,
+            "Price": 440.0,
+            "m²": 45.98,
+            "Address": "Brīvības 401"
+        },
+        {
+            "Price_per_m²": 7.37,
+            "Price": 280.0,
+            "m²": 37.99,
+            "Address": "Brīvības 388"
+        },
+        {
+            "Price_per_m²": 12.8,
+            "Price": 320.0,
+            "m²": 25.0,
+            "Address": "Murjāņu 61A"
+        },
+        {
+            "Price_per_m²": 8.09,
+            "Price": 380.0,
+            "m²": 46.97,
+            "Address": "Kvēles 27"
+        },
+        {
+            "Price_per_m²": 7.86,
+            "Price": 330.0,
+            "m²": 41.98,
+            "Address": "Brīvības 361"
+        },
+        {
+            "Price_per_m²": 9.57,
+            "Price": 440.0,
+            "m²": 45.98,
+            "Address": "Brīvības 401"
+        },
+        {
+            "Price_per_m²": 7.37,
+            "Price": 280.0,
+            "m²": 37.99,
+            "Address": "Brīvības 388"
+        },
+        {
+            "Price_per_m²": 12.8,
+            "Price": 320.0,
+            "m²": 25.0,
+            "Address": "Murjāņu 61A"
+        },
+        {
+            "Price_per_m²": 8.09,
+            "Price": 380.0,
+            "m²": 46.97,
+            "Address": "Kvēles 27"
+        },
+        {
+            "Price_per_m²": 7.86,
+            "Price": 330.0,
+            "m²": 41.98,
+            "Address": "Brīvības 361"
+        },
+        {
+            "Price_per_m²": 9.57,
+            "Price": 440.0,
+            "m²": 45.98,
+            "Address": "Brīvības 401"
+        },
+        {
+            "Price_per_m²": 7.37,
+            "Price": 280.0,
+            "m²": 37.99,
+            "Address": "Brīvības 388"
+        },
+        {
+            "Price_per_m²": 12.8,
+            "Price": 320.0,
+            "m²": 25.0,
+            "Address": "Murjāņu 61A"
+        },
+        {
+            "Price_per_m²": 8.09,
+            "Price": 380.0,
+            "m²": 46.97,
+            "Address": "Kvēles 27"
+        },
+        {
+            "Price_per_m²": 7.86,
+            "Price": 330.0,
+            "m²": 41.98,
+            "Address": "Brīvības 361"
+        },
+        {
+            "Price_per_m²": 9.57,
+            "Price": 440.0,
+            "m²": 45.98,
+            "Address": "Brīvības 401"
+        },
+        {
+            "Price_per_m²": 7.37,
+            "Price": 280.0,
+            "m²": 37.99,
+            "Address": "Brīvības 388"
+        },
+        {
+            "Price_per_m²": 12.8,
+            "Price": 320.0,
+            "m²": 25.0,
+            "Address": "Murjāņu 61A"
+        },
+        {
+            "Price_per_m²": 8.09,
+            "Price": 380.0,
+            "m²": 46.97,
+            "Address": "Kvēles 27"
+        },
+        {
+            "Price_per_m²": 7.86,
+            "Price": 330.0,
+            "m²": 41.98,
+            "Address": "Brīvības 361"
+        },
+        {
+            "Price_per_m²": 9.57,
+            "Price": 440.0,
+            "m²": 45.98,
+            "Address": "Brīvības 401"
+        },
+        {
+            "Price_per_m²": 7.37,
+            "Price": 280.0,
+            "m²": 37.99,
+            "Address": "Brīvības 388"
+        },
+        {
+            "Price_per_m²": 12.8,
+            "Price": 320.0,
+            "m²": 25.0,
+            "Address": "Murjāņu 61A"
+        },
+        {
+            "Price_per_m²": 8.09,
+            "Price": 380.0,
+            "m²": 46.97,
+            "Address": "Kvēles 27"
+        },
+        {
+            "Price_per_m²": 7.86,
+            "Price": 330.0,
+            "m²": 41.98,
+            "Address": "Brīvības 361"
+        },
+        {
+            "Price_per_m²": 9.57,
+            "Price": 440.0,
+            "m²": 45.98,
+            "Address": "Brīvības 401"
+        },
+        {
+            "Price_per_m²": 7.37,
+            "Price": 280.0,
+            "m²": 37.99,
+            "Address": "Brīvības 388"
+        },
+        {
+            "Price_per_m²": 12.8,
+            "Price": 320.0,
+            "m²": 25.0,
+            "Address": "Murjāņu 61A"
+        },
+        {
+            "Price_per_m²": 8.09,
+            "Price": 380.0,
+            "m²": 46.97,
+            "Address": "Kvēles 27"
+        },
+        {
+            "Price_per_m²": 7.86,
+            "Price": 330.0,
+            "m²": 41.98,
+            "Address": "Brīvības 361"
+        },
+        {
+            "Price_per_m²": 9.57,
+            "Price": 440.0,
+            "m²": 45.98,
+            "Address": "Brīvības 401"
+        },
+        {
+            "Price_per_m²": 7.37,
+            "Price": 280.0,
+            "m²": 37.99,
+            "Address": "Brīvības 388"
+        },
+        {
+            "Price_per_m²": 12.8,
+            "Price": 320.0,
+            "m²": 25.0,
+            "Address": "Murjāņu 61A"
+        },
+        {
+            "Price_per_m²": 8.09,
+            "Price": 380.0,
+            "m²": 46.97,
+            "Address": "Kvēles 27"
+        },
+        {
+            "Price_per_m²": 7.86,
+            "Price": 330.0,
+            "m²": 41.98,
+            "Address": "Brīvības 361"
+        },
+        {
+            "Price_per_m²": 9.57,
+            "Price": 440.0,
+            "m²": 45.98,
+            "Address": "Brīvības 401"
+        },
+        {
+            "Price_per_m²": 7.37,
+            "Price": 280.0,
+            "m²": 37.99,
+            "Address": "Brīvības 388"
+        },
+        {
+            "Price_per_m²": 12.8,
+            "Price": 320.0,
+            "m²": 25.0,
+            "Address": "Murjāņu 61A"
+        },
+        {
+            "Price_per_m²": 8.09,
+            "Price": 380.0,
+            "m²": 46.97,
+            "Address": "Kvēles 27"
+        },
+        {
+            "Price_per_m²": 7.86,
+            "Price": 330.0,
+            "m²": 41.98,
+            "Address": "Brīvības 361"
+        },
+        {
+            "Price_per_m²": 9.57,
+            "Price": 440.0,
+            "m²": 45.98,
+            "Address": "Brīvības 401"
+        },
+        {
+            "Price_per_m²": 7.37,
+            "Price": 280.0,
+            "m²": 37.99,
+            "Address": "Brīvības 388"
+        },
+        {
+            "Price_per_m²": 12.8,
+            "Price": 320.0,
+            "m²": 25.0,
+            "Address": "Murjāņu 61A"
+        },
+        {
+            "Price_per_m²": 8.09,
+            "Price": 380.0,
+            "m²": 46.97,
+            "Address": "Kvēles 27"
+        },
+        {
+            "Price_per_m²": 7.86,
+            "Price": 330.0,
+            "m²": 41.98,
+            "Address": "Brīvības 361"
+        },
+        {
+            "Price_per_m²": 9.57,
+            "Price": 440.0,
+            "m²": 45.98,
+            "Address": "Brīvības 401"
+        },
+        {
+            "Price_per_m²": 7.37,
+            "Price": 280.0,
+            "m²": 37.99,
+            "Address": "Brīvības 388"
+        },
+        {
+            "Price_per_m²": 12.8,
+            "Price": 320.0,
+            "m²": 25.0,
+            "Address": "Murjāņu 61A"
+        },
+        {
+            "Price_per_m²": 8.09,
+            "Price": 380.0,
+            "m²": 46.97,
+            "Address": "Kvēles 27"
+        },
+        {
+            "Price_per_m²": 7.86,
+            "Price": 330.0,
+            "m²": 41.98,
+            "Address": "Brīvības 361"
+        },
+        {
+            "Price_per_m²": 9.57,
+            "Price": 440.0,
+            "m²": 45.98,
+            "Address": "Brīvības 401"
+        },
+        {
+            "Price_per_m²": 7.37,
+            "Price": 280.0,
+            "m²": 37.99,
+            "Address": "Brīvības 388"
+        },
+        {
+            "Price_per_m²": 12.8,
+            "Price": 320.0,
+            "m²": 25.0,
+            "Address": "Murjāņu 61A"
+        },
+        {
+            "Price_per_m²": 8.09,
+            "Price": 380.0,
+            "m²": 46.97,
+            "Address": "Kvēles 27"
+        },
+        {
+            "Price_per_m²": 7.86,
+            "Price": 330.0,
+            "m²": 41.98,
+            "Address": "Brīvības 361"
+        },
+        {
+            "Price_per_m²": 9.57,
+            "Price": 440.0,
+            "m²": 45.98,
+            "Address": "Brīvības 401"
+        },
+        {
+            "Price_per_m²": 7.37,
+            "Price": 280.0,
+            "m²": 37.99,
+            "Address": "Brīvības 388"
+        },
+        {
+            "Price_per_m²": 12.8,
+            "Price": 320.0,
+            "m²": 25.0,
+            "Address": "Murjāņu 61A"
+        },
+        {
+            "Price_per_m²": 8.09,
+            "Price": 380.0,
+            "m²": 46.97,
+            "Address": "Kvēles 27"
+        },
+        {
+            "Price_per_m²": 7.86,
+            "Price": 330.0,
+            "m²": 41.98,
+            "Address": "Brīvības 361"
+        },
+        {
+            "Price_per_m²": 9.57,
+            "Price": 440.0,
+            "m²": 45.98,
+            "Address": "Brīvības 401"
+        },
+        {
+            "Price_per_m²": 7.37,
+            "Price": 280.0,
+            "m²": 37.99,
+            "Address": "Brīvības 388"
+        },
+        {
+            "Price_per_m²": 12.8,
+            "Price": 320.0,
+            "m²": 25.0,
+            "Address": "Murjāņu 61A"
+        },
+        {
+            "Price_per_m²": 8.09,
+            "Price": 380.0,
+            "m²": 46.97,
+            "Address": "Kvēles 27"
+        },
+        {
+            "Price_per_m²": 7.86,
+            "Price": 330.0,
+            "m²": 41.98,
+            "Address": "Brīvības 361"
+        },
+        {
+            "Price_per_m²": 9.57,
+            "Price": 440.0,
+            "m²": 45.98,
+            "Address": "Brīvības 401"
+        }
+    ],
+    "daily": [
+        {
+            "Price_per_m²": 0.889,
+            "Price": 40.0,
+            "m²": 44.99,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 1.0,
+            "Price": 40.0,
+            "m²": 40.0,
+            "Address": "Brīvības 386"
+        },
+        {
+            "Price_per_m²": 0.889,
+            "Price": 40.0,
+            "m²": 44.99,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 0.889,
+            "Price": 40.0,
+            "m²": 44.99,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 0.889,
+            "Price": 40.0,
+            "m²": 44.99,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 0.889,
+            "Price": 40.0,
+            "m²": 44.99,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 0.889,
+            "Price": 40.0,
+            "m²": 44.99,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 0.889,
+            "Price": 40.0,
+            "m²": 44.99,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 0.889,
+            "Price": 40.0,
+            "m²": 44.99,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 0.889,
+            "Price": 40.0,
+            "m²": 44.99,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 0.889,
+            "Price": 40.0,
+            "m²": 44.99,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 0.889,
+            "Price": 40.0,
+            "m²": 44.99,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 0.889,
+            "Price": 40.0,
+            "m²": 44.99,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 0.889,
+            "Price": 40.0,
+            "m²": 44.99,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 0.889,
+            "Price": 40.0,
+            "m²": 44.99,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 0.889,
+            "Price": 40.0,
+            "m²": 44.99,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 0.889,
+            "Price": 40.0,
+            "m²": 44.99,
+            "Address": "Juglas 3"
+        },
+        {
+            "Price_per_m²": 0.889,
+            "Price": 40.0,
+            "m²": 44.99,
+            "Address": "Juglas 3"
+        }
+    ]
+}

@@ -1,0 +1,325 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 2200.0,
+            "Price": 121000.0,
+            "m²": 55.0,
+            "Address": "Briežu 9"
+        },
+        {
+            "Price_per_m²": 554.0,
+            "Price": 29900.0,
+            "m²": 53.97,
+            "Address": "Ezera 1"
+        },
+        {
+            "Price_per_m²": 2704.0,
+            "Price": 73000.0,
+            "m²": 27.0,
+            "Address": "Briežu 9"
+        },
+        {
+            "Price_per_m²": 708.0,
+            "Price": 17000.0,
+            "m²": 24.01,
+            "Address": "Ezera 23"
+        },
+        {
+            "Price_per_m²": 1056.0,
+            "Price": 28500.0,
+            "m²": 26.99,
+            "Address": "Ezera 23"
+        },
+        {
+            "Price_per_m²": 802.0,
+            "Price": 69000.0,
+            "m²": 86.03,
+            "Address": "Ezera 9"
+        },
+        {
+            "Price_per_m²": 333.0,
+            "Price": 9980.0,
+            "m²": 29.97,
+            "Address": "Lēdurgas 10"
+        },
+        {
+            "Price_per_m²": 1058.0,
+            "Price": 50800.0,
+            "m²": 48.02,
+            "Address": "Viestura pr. 14"
+        },
+        {
+            "Price_per_m²": 680.0,
+            "Price": 17000.0,
+            "m²": 25.0,
+            "Address": "Ezera 13A"
+        },
+        {
+            "Price_per_m²": 654.0,
+            "Price": 34000.0,
+            "m²": 51.99,
+            "Address": "Ezera 11"
+        },
+        {
+            "Price_per_m²": 877.0,
+            "Price": 46500.0,
+            "m²": 53.02,
+            "Address": "Lēdurgas 5"
+        },
+        {
+            "Price_per_m²": 2500.0,
+            "Price": 145000.0,
+            "m²": 58.0,
+            "Address": "Krapes 8"
+        },
+        {
+            "Price_per_m²": 1440.0,
+            "Price": 72000.0,
+            "m²": 50.0,
+            "Address": "Lēdurgas 16"
+        },
+        {
+            "Price_per_m²": 1516.0,
+            "Price": 235000.0,
+            "m²": 155.01,
+            "Address": "Mores 17"
+        },
+        {
+            "Price_per_m²": 280.0,
+            "Price": 7000.0,
+            "m²": 25.0,
+            "Address": "Ezera 29"
+        },
+        {
+            "Price_per_m²": 1463.0,
+            "Price": 79000.0,
+            "m²": 54.0,
+            "Address": "Mores 17"
+        },
+        {
+            "Price_per_m²": 2333.0,
+            "Price": 119000.0,
+            "m²": 51.01,
+            "Address": "Briežu 7"
+        },
+        {
+            "Price_per_m²": 1190.0,
+            "Price": 69000.0,
+            "m²": 57.98,
+            "Address": "Viestura pr. 20"
+        },
+        {
+            "Price_per_m²": 1038.0,
+            "Price": 55000.0,
+            "m²": 52.99,
+            "Address": "Lēdurgas 5"
+        },
+        {
+            "Price_per_m²": 1580.0,
+            "Price": 79000.0,
+            "m²": 50.0,
+            "Address": "Viestura pr. 14"
+        },
+        {
+            "Price_per_m²": 300.0,
+            "Price": 15000.0,
+            "m²": 50.0,
+            "Address": "Ezera 29"
+        },
+        {
+            "Price_per_m²": 2704.0,
+            "Price": 73000.0,
+            "m²": 27.0,
+            "Address": "Briežu 9"
+        },
+        {
+            "Price_per_m²": 1093.0,
+            "Price": 59000.0,
+            "m²": 53.98,
+            "Address": "Lēdurgas 5"
+        },
+        {
+            "Price_per_m²": 967.0,
+            "Price": 29000.0,
+            "m²": 29.99,
+            "Address": "Viestura pr. 24"
+        },
+        {
+            "Price_per_m²": 660.0,
+            "Price": 16500.0,
+            "m²": 25.0,
+            "Address": "Ezera 5a"
+        },
+        {
+            "Price_per_m²": 952.0,
+            "Price": 41900.0,
+            "m²": 44.01,
+            "Address": "Mores 5"
+        },
+        {
+            "Price_per_m²": 700.0,
+            "Price": 17500.0,
+            "m²": 25.0,
+            "Address": "Ezera 5a"
+        },
+        {
+            "Price_per_m²": 740.0,
+            "Price": 18500.0,
+            "m²": 25.0,
+            "Address": "Ezera 5a"
+        },
+        {
+            "Price_per_m²": 822.0,
+            "Price": 37000.0,
+            "m²": 45.01,
+            "Address": "Viestura pr. 24"
+        },
+        {
+            "Price_per_m²": 1250.0,
+            "Price": 40000.0,
+            "m²": 32.0,
+            "Address": "Lēdurgas 9"
+        },
+        {
+            "Price_per_m²": 894.0,
+            "Price": 29500.0,
+            "m²": 33.0,
+            "Address": "Ezera 21"
+        },
+        {
+            "Price_per_m²": 561.0,
+            "Price": 22999.0,
+            "m²": 41.0,
+            "Address": "Lēdurgas 10"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 5.26,
+            "Price": 300.0,
+            "m²": 57.03,
+            "Address": "Mores 5"
+        },
+        {
+            "Price_per_m²": 15.56,
+            "Price": 420.0,
+            "m²": 26.99,
+            "Address": "Briežu 9"
+        },
+        {
+            "Price_per_m²": 4.79,
+            "Price": 230.0,
+            "m²": 48.02,
+            "Address": "Lēdurgas 24"
+        },
+        {
+            "Price_per_m²": 13.08,
+            "Price": 340.0,
+            "m²": 25.99,
+            "Address": "Briežu 7"
+        },
+        {
+            "Price_per_m²": 8.19,
+            "Price": 475.0,
+            "m²": 58.0,
+            "Address": "Lēdurgas 24"
+        },
+        {
+            "Price_per_m²": 2.42,
+            "Price": 150.0,
+            "m²": 61.98,
+            "Address": "Ezera 1"
+        },
+        {
+            "Price_per_m²": 3.75,
+            "Price": 180.0,
+            "m²": 48.0,
+            "Address": "Viestura pr. 16"
+        },
+        {
+            "Price_per_m²": 7.71,
+            "Price": 270.0,
+            "m²": 35.02,
+            "Address": "Ezera 18"
+        },
+        {
+            "Price_per_m²": 5.56,
+            "Price": 250.0,
+            "m²": 44.96,
+            "Address": "Mores 3"
+        },
+        {
+            "Price_per_m²": 5.11,
+            "Price": 230.0,
+            "m²": 45.01,
+            "Address": "Viestura pr. 24"
+        },
+        {
+            "Price_per_m²": 6.15,
+            "Price": 400.0,
+            "m²": 65.04,
+            "Address": "Mores 11/1"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 200.0,
+            "m²": 32.0,
+            "Address": "Ezera 21"
+        },
+        {
+            "Price_per_m²": 5.11,
+            "Price": 230.0,
+            "m²": 45.01,
+            "Address": "Mores 7"
+        },
+        {
+            "Price_per_m²": 7.67,
+            "Price": 330.0,
+            "m²": 43.02,
+            "Address": "Mores 5"
+        },
+        {
+            "Price_per_m²": 12.96,
+            "Price": 350.0,
+            "m²": 27.01,
+            "Address": "Briežu 9"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 300.0,
+            "m²": 44.98,
+            "Address": "Ezera 18"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 250.0,
+            "m²": 30.01,
+            "Address": "Mores 7"
+        },
+        {
+            "Price_per_m²": 11.6,
+            "Price": 290.0,
+            "m²": 25.0,
+            "Address": "Briežu 7"
+        },
+        {
+            "Price_per_m²": 5.17,
+            "Price": 300.0,
+            "m²": 58.03,
+            "Address": "Lēdurgas 24"
+        },
+        {
+            "Price_per_m²": 10.77,
+            "Price": 280.0,
+            "m²": 26.0,
+            "Address": "Briežu 7"
+        },
+        {
+            "Price_per_m²": 7.81,
+            "Price": 250.0,
+            "m²": 32.01,
+            "Address": "Lēdurgas 9"
+        }
+    ],
+    "daily": []
+}

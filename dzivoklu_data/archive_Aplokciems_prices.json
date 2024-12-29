@@ -1,0 +1,151 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 2019.0,
+            "Price": 107000.0,
+            "m²": 53.0,
+            "Address": "Briežu 7"
+        },
+        {
+            "Price_per_m²": 2115.0,
+            "Price": 110000.0,
+            "m²": 52.01,
+            "Address": "Briežu 7"
+        },
+        {
+            "Price_per_m²": 488.0,
+            "Price": 20000.0,
+            "m²": 40.98,
+            "Address": "Lēdurgas 10"
+        },
+        {
+            "Price_per_m²": 2075.0,
+            "Price": 110000.0,
+            "m²": 53.01,
+            "Address": "Briežu 7"
+        },
+        {
+            "Price_per_m²": 2022.0,
+            "Price": 54600.0,
+            "m²": 27.0,
+            "Address": "Briežu 7"
+        },
+        {
+            "Price_per_m²": 2500.0,
+            "Price": 75000.0,
+            "m²": 30.0,
+            "Address": "Briežu 9"
+        },
+        {
+            "Price_per_m²": 2378.0,
+            "Price": 107000.0,
+            "m²": 45.0,
+            "Address": "Krapes 8"
+        },
+        {
+            "Price_per_m²": 2333.0,
+            "Price": 119000.0,
+            "m²": 51.01,
+            "Address": "Briežu 7"
+        },
+        {
+            "Price_per_m²": 2341.0,
+            "Price": 51500.0,
+            "m²": 22.0,
+            "Address": "Briežu 9"
+        },
+        {
+            "Price_per_m²": 2204.0,
+            "Price": 108000.0,
+            "m²": 49.0,
+            "Address": "Briežu 7"
+        },
+        {
+            "Price_per_m²": 2686.0,
+            "Price": 94000.0,
+            "m²": 35.0,
+            "Address": "Čiekuru 3a"
+        },
+        {
+            "Price_per_m²": 1964.0,
+            "Price": 108000.0,
+            "m²": 54.99,
+            "Address": "Briežu 9"
+        },
+        {
+            "Price_per_m²": 2269.0,
+            "Price": 59000.0,
+            "m²": 26.0,
+            "Address": "Briežu 7"
+        },
+        {
+            "Price_per_m²": 2534.0,
+            "Price": 159643.0,
+            "m²": 63.0,
+            "Address": "Čiekuru 3"
+        },
+        {
+            "Price_per_m²": 2000.0,
+            "Price": 88000.0,
+            "m²": 44.0,
+            "Address": "Briežu 7"
+        },
+        {
+            "Price_per_m²": 1571.0,
+            "Price": 99000.0,
+            "m²": 63.02,
+            "Address": "Krapes 4"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 12.96,
+            "Price": 350.0,
+            "m²": 27.01,
+            "Address": "Briežu 9"
+        },
+        {
+            "Price_per_m²": 13.33,
+            "Price": 360.0,
+            "m²": 27.01,
+            "Address": "Briežu 9"
+        },
+        {
+            "Price_per_m²": 12.22,
+            "Price": 550.0,
+            "m²": 45.01,
+            "Address": "Krapes 4"
+        },
+        {
+            "Price_per_m²": 12.96,
+            "Price": 350.0,
+            "m²": 27.01,
+            "Address": "Briežu 9"
+        },
+        {
+            "Price_per_m²": 12.78,
+            "Price": 345.0,
+            "m²": 27.0,
+            "Address": "Briežu 9"
+        },
+        {
+            "Price_per_m²": 12.24,
+            "Price": 465.0,
+            "m²": 37.99,
+            "Address": "Viestura pr. 22"
+        },
+        {
+            "Price_per_m²": 17.73,
+            "Price": 390.0,
+            "m²": 22.0,
+            "Address": "Briežu 9"
+        },
+        {
+            "Price_per_m²": 14.17,
+            "Price": 340.0,
+            "m²": 23.99,
+            "Address": "Briežu 7"
+        }
+    ],
+    "daily": []
+}

@@ -1,0 +1,841 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 890.0,
+            "Price": 44500.0,
+            "m²": 50.0,
+            "Address": "Finiera 23"
+        },
+        {
+            "Price_per_m²": 660.0,
+            "Price": 35000.0,
+            "m²": 53.03,
+            "Address": "Velkoņu 2"
+        },
+        {
+            "Price_per_m²": 385.0,
+            "Price": 10780.0,
+            "m²": 28.0,
+            "Address": "Mežrozīšu 6"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 49900.0,
+            "m²": 63.01,
+            "Address": "Gobas 16"
+        },
+        {
+            "Price_per_m²": 1265.0,
+            "Price": 43000.0,
+            "m²": 33.99,
+            "Address": "Gaigalas 23A"
+        },
+        {
+            "Price_per_m²": 610.0,
+            "Price": 41500.0,
+            "m²": 68.03,
+            "Address": "Tekstilnieku 1"
+        },
+        {
+            "Price_per_m²": 568.0,
+            "Price": 21000.0,
+            "m²": 36.97,
+            "Address": "Dolomīta 2"
+        },
+        {
+            "Price_per_m²": 467.0,
+            "Price": 14000.0,
+            "m²": 29.98,
+            "Address": "Brūžu 4"
+        },
+        {
+            "Price_per_m²": 217.0,
+            "Price": 11500.0,
+            "m²": 53.0,
+            "Address": "Miglas 20"
+        },
+        {
+            "Price_per_m²": 997.0,
+            "Price": 37900.0,
+            "m²": 38.01,
+            "Address": "Lemešu 17"
+        },
+        {
+            "Price_per_m²": 1100.0,
+            "Price": 55000.0,
+            "m²": 50.0,
+            "Address": "Silikātu 1/5"
+        },
+        {
+            "Price_per_m²": 622.0,
+            "Price": 28000.0,
+            "m²": 45.02,
+            "Address": "Lielupes 13"
+        },
+        {
+            "Price_per_m²": 550.0,
+            "Price": 22000.0,
+            "m²": 40.0,
+            "Address": "Gobas 20"
+        },
+        {
+            "Price_per_m²": 729.0,
+            "Price": 24800.0,
+            "m²": 34.02,
+            "Address": "Tekstilnieku 1"
+        },
+        {
+            "Price_per_m²": 827.0,
+            "Price": 43000.0,
+            "m²": 52.0,
+            "Address": "Lemešu 11"
+        },
+        {
+            "Price_per_m²": 960.0,
+            "Price": 48000.0,
+            "m²": 50.0,
+            "Address": "Finiera 23"
+        },
+        {
+            "Price_per_m²": 1171.0,
+            "Price": 82000.0,
+            "m²": 70.03,
+            "Address": "Lielā 59"
+        },
+        {
+            "Price_per_m²": 942.0,
+            "Price": 35800.0,
+            "m²": 38.0,
+            "Address": "Lielupes 64"
+        },
+        {
+            "Price_per_m²": 767.0,
+            "Price": 33000.0,
+            "m²": 43.02,
+            "Address": "Gobas 20"
+        },
+        {
+            "Price_per_m²": 536.0,
+            "Price": 30000.0,
+            "m²": 55.97,
+            "Address": "Stūrmaņu 3"
+        },
+        {
+            "Price_per_m²": 870.0,
+            "Price": 47000.0,
+            "m²": 54.02,
+            "Address": "Stūrmaņu 5"
+        },
+        {
+            "Price_per_m²": 481.0,
+            "Price": 25000.0,
+            "m²": 51.98,
+            "Address": "Stagaru 4"
+        },
+        {
+            "Price_per_m²": 425.0,
+            "Price": 17000.0,
+            "m²": 40.0,
+            "Address": "Admirāļu 22"
+        },
+        {
+            "Price_per_m²": 619.0,
+            "Price": 32800.0,
+            "m²": 52.99,
+            "Address": "Gobas 28"
+        },
+        {
+            "Price_per_m²": 694.0,
+            "Price": 37500.0,
+            "m²": 54.03,
+            "Address": "Gaigalas 21"
+        },
+        {
+            "Price_per_m²": 543.0,
+            "Price": 25000.0,
+            "m²": 46.04,
+            "Address": "Gundegas 8"
+        },
+        {
+            "Price_per_m²": 283.0,
+            "Price": 15000.0,
+            "m²": 53.0,
+            "Address": "Miglas 20"
+        },
+        {
+            "Price_per_m²": 625.0,
+            "Price": 25000.0,
+            "m²": 40.0,
+            "Address": "Gobas 20"
+        },
+        {
+            "Price_per_m²": 1013.0,
+            "Price": 39500.0,
+            "m²": 38.99,
+            "Address": "Keramikas 6"
+        },
+        {
+            "Price_per_m²": 246.0,
+            "Price": 16000.0,
+            "m²": 65.04,
+            "Address": "Miglas 1"
+        },
+        {
+            "Price_per_m²": 794.0,
+            "Price": 27800.0,
+            "m²": 35.01,
+            "Address": "Gobas 32"
+        },
+        {
+            "Price_per_m²": 833.0,
+            "Price": 45000.0,
+            "m²": 54.02,
+            "Address": "Finiera 9"
+        },
+        {
+            "Price_per_m²": 1349.0,
+            "Price": 85000.0,
+            "m²": 63.01,
+            "Address": "Lielā 59"
+        },
+        {
+            "Price_per_m²": 583.0,
+            "Price": 24500.0,
+            "m²": 42.02,
+            "Address": "Silikātu 14A"
+        },
+        {
+            "Price_per_m²": 813.0,
+            "Price": 39000.0,
+            "m²": 47.97,
+            "Address": "Dolomīta 2"
+        },
+        {
+            "Price_per_m²": 1667.0,
+            "Price": 65000.0,
+            "m²": 38.99,
+            "Address": "Lemešu 17"
+        },
+        {
+            "Price_per_m²": 930.0,
+            "Price": 40000.0,
+            "m²": 43.01,
+            "Address": "Keramikas 6"
+        },
+        {
+            "Price_per_m²": 711.0,
+            "Price": 59000.0,
+            "m²": 82.98,
+            "Address": "Gobas 20 k4"
+        },
+        {
+            "Price_per_m²": 660.0,
+            "Price": 35000.0,
+            "m²": 53.03,
+            "Address": "Gobas 28"
+        },
+        {
+            "Price_per_m²": 714.0,
+            "Price": 25000.0,
+            "m²": 35.01,
+            "Address": "Stagaru 4"
+        },
+        {
+            "Price_per_m²": 193.0,
+            "Price": 8300.0,
+            "m²": 43.01,
+            "Address": "Kodola 15"
+        },
+        {
+            "Price_per_m²": 500.0,
+            "Price": 20000.0,
+            "m²": 40.0,
+            "Address": "Mencu 13"
+        },
+        {
+            "Price_per_m²": 765.0,
+            "Price": 25995.0,
+            "m²": 33.98,
+            "Address": "Gobas 16"
+        },
+        {
+            "Price_per_m²": 595.0,
+            "Price": 25000.0,
+            "m²": 42.02,
+            "Address": "Silikātu 14A"
+        },
+        {
+            "Price_per_m²": 580.0,
+            "Price": 29000.0,
+            "m²": 50.0,
+            "Address": "Lielā 59"
+        },
+        {
+            "Price_per_m²": 350.0,
+            "Price": 9800.0,
+            "m²": 28.0,
+            "Address": "Gobas 8"
+        },
+        {
+            "Price_per_m²": 938.0,
+            "Price": 60000.0,
+            "m²": 63.97,
+            "Address": "Lemešu 11"
+        },
+        {
+            "Price_per_m²": 736.0,
+            "Price": 39000.0,
+            "m²": 52.99,
+            "Address": "Gaigalas 23a"
+        },
+        {
+            "Price_per_m²": 538.0,
+            "Price": 21500.0,
+            "m²": 39.96,
+            "Address": "Lielupes 68"
+        },
+        {
+            "Price_per_m²": 1447.0,
+            "Price": 55000.0,
+            "m²": 38.01,
+            "Address": "Lemešu 17"
+        },
+        {
+            "Price_per_m²": 652.0,
+            "Price": 30000.0,
+            "m²": 46.01,
+            "Address": "Dolomīta 4"
+        },
+        {
+            "Price_per_m²": 764.0,
+            "Price": 55000.0,
+            "m²": 71.99,
+            "Address": "Silikātu 1/5"
+        },
+        {
+            "Price_per_m²": 1079.0,
+            "Price": 68000.0,
+            "m²": 63.02,
+            "Address": "Silikātu 4"
+        },
+        {
+            "Price_per_m²": 551.0,
+            "Price": 27000.0,
+            "m²": 49.0,
+            "Address": "Lielupes 60"
+        },
+        {
+            "Price_per_m²": 511.0,
+            "Price": 18400.0,
+            "m²": 36.01,
+            "Address": "Dolomīta 2"
+        },
+        {
+            "Price_per_m²": 957.0,
+            "Price": 44000.0,
+            "m²": 45.98,
+            "Address": "Keramikas 2"
+        },
+        {
+            "Price_per_m²": 612.0,
+            "Price": 30000.0,
+            "m²": 49.02,
+            "Address": "Lielupes 60"
+        },
+        {
+            "Price_per_m²": 585.0,
+            "Price": 31000.0,
+            "m²": 52.99,
+            "Address": "Gobas 26"
+        },
+        {
+            "Price_per_m²": 639.0,
+            "Price": 34500.0,
+            "m²": 53.99,
+            "Address": "Finiera 7"
+        },
+        {
+            "Price_per_m²": 625.0,
+            "Price": 25000.0,
+            "m²": 40.0,
+            "Address": "Platā 26"
+        },
+        {
+            "Price_per_m²": 611.0,
+            "Price": 33000.0,
+            "m²": 54.01,
+            "Address": "Finiera 23"
+        },
+        {
+            "Price_per_m²": 500.0,
+            "Price": 19500.0,
+            "m²": 39.0,
+            "Address": "Admirāļu 22"
+        },
+        {
+            "Price_per_m²": 919.0,
+            "Price": 23900.0,
+            "m²": 26.01,
+            "Address": "Lielupes 5"
+        },
+        {
+            "Price_per_m²": 580.0,
+            "Price": 25500.0,
+            "m²": 43.97,
+            "Address": "Lielupes 13"
+        },
+        {
+            "Price_per_m²": 758.0,
+            "Price": 47000.0,
+            "m²": 62.01,
+            "Address": "Keramikas 2"
+        },
+        {
+            "Price_per_m²": 1714.0,
+            "Price": 120000.0,
+            "m²": 70.01,
+            "Address": "Lielā 59"
+        },
+        {
+            "Price_per_m²": 582.0,
+            "Price": 39000.0,
+            "m²": 67.01,
+            "Address": "Lielupes 66"
+        },
+        {
+            "Price_per_m²": 760.0,
+            "Price": 38000.0,
+            "m²": 50.0,
+            "Address": "Lemešu 11"
+        },
+        {
+            "Price_per_m²": 604.0,
+            "Price": 32000.0,
+            "m²": 52.98,
+            "Address": "Gobas 16"
+        },
+        {
+            "Price_per_m²": 890.0,
+            "Price": 44500.0,
+            "m²": 50.0,
+            "Address": "Finiera 23"
+        },
+        {
+            "Price_per_m²": 660.0,
+            "Price": 35000.0,
+            "m²": 53.03,
+            "Address": "Velkoņu 2"
+        },
+        {
+            "Price_per_m²": 385.0,
+            "Price": 10780.0,
+            "m²": 28.0,
+            "Address": "Mežrozīšu 6"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 49900.0,
+            "m²": 63.01,
+            "Address": "Gobas 16"
+        },
+        {
+            "Price_per_m²": 1265.0,
+            "Price": 43000.0,
+            "m²": 33.99,
+            "Address": "Gaigalas 23A"
+        },
+        {
+            "Price_per_m²": 610.0,
+            "Price": 41500.0,
+            "m²": 68.03,
+            "Address": "Tekstilnieku 1"
+        },
+        {
+            "Price_per_m²": 568.0,
+            "Price": 21000.0,
+            "m²": 36.97,
+            "Address": "Dolomīta 2"
+        },
+        {
+            "Price_per_m²": 467.0,
+            "Price": 14000.0,
+            "m²": 29.98,
+            "Address": "Brūžu 4"
+        },
+        {
+            "Price_per_m²": 217.0,
+            "Price": 11500.0,
+            "m²": 53.0,
+            "Address": "Miglas 20"
+        },
+        {
+            "Price_per_m²": 997.0,
+            "Price": 37900.0,
+            "m²": 38.01,
+            "Address": "Lemešu 17"
+        },
+        {
+            "Price_per_m²": 1100.0,
+            "Price": 55000.0,
+            "m²": 50.0,
+            "Address": "Silikātu 1/5"
+        },
+        {
+            "Price_per_m²": 622.0,
+            "Price": 28000.0,
+            "m²": 45.02,
+            "Address": "Lielupes 13"
+        },
+        {
+            "Price_per_m²": 890.0,
+            "Price": 44500.0,
+            "m²": 50.0,
+            "Address": "Finiera 23"
+        },
+        {
+            "Price_per_m²": 660.0,
+            "Price": 35000.0,
+            "m²": 53.03,
+            "Address": "Velkoņu 2"
+        },
+        {
+            "Price_per_m²": 385.0,
+            "Price": 10780.0,
+            "m²": 28.0,
+            "Address": "Mežrozīšu 6"
+        },
+        {
+            "Price_per_m²": 792.0,
+            "Price": 49900.0,
+            "m²": 63.01,
+            "Address": "Gobas 16"
+        },
+        {
+            "Price_per_m²": 1265.0,
+            "Price": 43000.0,
+            "m²": 33.99,
+            "Address": "Gaigalas 23A"
+        },
+        {
+            "Price_per_m²": 610.0,
+            "Price": 41500.0,
+            "m²": 68.03,
+            "Address": "Tekstilnieku 1"
+        },
+        {
+            "Price_per_m²": 568.0,
+            "Price": 21000.0,
+            "m²": 36.97,
+            "Address": "Dolomīta 2"
+        },
+        {
+            "Price_per_m²": 467.0,
+            "Price": 14000.0,
+            "m²": 29.98,
+            "Address": "Brūžu 4"
+        },
+        {
+            "Price_per_m²": 217.0,
+            "Price": 11500.0,
+            "m²": 53.0,
+            "Address": "Miglas 20"
+        },
+        {
+            "Price_per_m²": 997.0,
+            "Price": 37900.0,
+            "m²": 38.01,
+            "Address": "Lemešu 17"
+        },
+        {
+            "Price_per_m²": 1100.0,
+            "Price": 55000.0,
+            "m²": 50.0,
+            "Address": "Silikātu 1/5"
+        },
+        {
+            "Price_per_m²": 622.0,
+            "Price": 28000.0,
+            "m²": 45.02,
+            "Address": "Lielupes 13"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 6.6,
+            "Price": 350.0,
+            "m²": 53.03,
+            "Address": "Stūrmaņu 25"
+        },
+        {
+            "Price_per_m²": 4.87,
+            "Price": 190.0,
+            "m²": 39.01,
+            "Address": "Brūžu 2"
+        },
+        {
+            "Price_per_m²": 5.58,
+            "Price": 290.0,
+            "m²": 51.97,
+            "Address": "Lielā 59"
+        },
+        {
+            "Price_per_m²": 6.15,
+            "Price": 320.0,
+            "m²": 52.03,
+            "Address": "Gobas 31"
+        },
+        {
+            "Price_per_m²": 5.81,
+            "Price": 250.0,
+            "m²": 43.03,
+            "Address": "Keramikas 6"
+        },
+        {
+            "Price_per_m²": 11.76,
+            "Price": 200.0,
+            "m²": 17.01,
+            "Address": "Kvarca 3"
+        },
+        {
+            "Price_per_m²": 4.6,
+            "Price": 230.0,
+            "m²": 50.0,
+            "Address": "Lielupes 11"
+        },
+        {
+            "Price_per_m²": 6.47,
+            "Price": 220.0,
+            "m²": 34.0,
+            "Address": "Finiera 15"
+        },
+        {
+            "Price_per_m²": 10.53,
+            "Price": 200.0,
+            "m²": 18.99,
+            "Address": "Kvarca 3"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 210.0,
+            "m²": 35.0,
+            "Address": "Tekstilnieku 5"
+        },
+        {
+            "Price_per_m²": 4.65,
+            "Price": 200.0,
+            "m²": 43.01,
+            "Address": "Platā 32"
+        },
+        {
+            "Price_per_m²": 4.88,
+            "Price": 200.0,
+            "m²": 40.98,
+            "Address": "Finiera 19"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 250.0,
+            "m²": 35.01,
+            "Address": "Finiera 11"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 200.0,
+            "m²": 32.0,
+            "Address": "Lielupes 1/13"
+        },
+        {
+            "Price_per_m²": 7.73,
+            "Price": 170.0,
+            "m²": 21.99,
+            "Address": "Silikātu 7А"
+        },
+        {
+            "Price_per_m²": 4.81,
+            "Price": 250.0,
+            "m²": 51.98,
+            "Address": "Gobas 28"
+        },
+        {
+            "Price_per_m²": 3.51,
+            "Price": 200.0,
+            "m²": 56.98,
+            "Address": "Gobas 20/4"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 200.0,
+            "m²": 28.01,
+            "Address": "Gobas 32"
+        },
+        {
+            "Price_per_m²": 5.48,
+            "Price": 400.0,
+            "m²": 72.99,
+            "Address": "Silikātu 1/5"
+        },
+        {
+            "Price_per_m²": 6.58,
+            "Price": 250.0,
+            "m²": 37.99,
+            "Address": "Lielupes 68"
+        },
+        {
+            "Price_per_m²": 14.0,
+            "Price": 140.0,
+            "m²": 10.0,
+            "Address": "Kodola 19"
+        },
+        {
+            "Price_per_m²": 5.79,
+            "Price": 220.0,
+            "m²": 38.0,
+            "Address": "Finiera 17"
+        },
+        {
+            "Price_per_m²": 5.22,
+            "Price": 350.0,
+            "m²": 67.05,
+            "Address": "Stūrmaņu 5"
+        },
+        {
+            "Price_per_m²": 7.41,
+            "Price": 200.0,
+            "m²": 26.99,
+            "Address": "Stūrmaņu 25"
+        },
+        {
+            "Price_per_m²": 6.1,
+            "Price": 250.0,
+            "m²": 40.98,
+            "Address": "Finiera 19"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 200.0,
+            "m²": 32.0,
+            "Address": "Platā 22"
+        },
+        {
+            "Price_per_m²": 7.81,
+            "Price": 250.0,
+            "m²": 32.01,
+            "Address": "Keramikas 2"
+        },
+        {
+            "Price_per_m²": 6.75,
+            "Price": 270.0,
+            "m²": 40.0,
+            "Address": "Lielupes 68"
+        },
+        {
+            "Price_per_m²": 5.56,
+            "Price": 100.0,
+            "m²": 17.99,
+            "Address": "Lielupes 1"
+        },
+        {
+            "Price_per_m²": 5.19,
+            "Price": 140.0,
+            "m²": 26.97,
+            "Address": "Tekstilnieku 13"
+        },
+        {
+            "Price_per_m²": 6.47,
+            "Price": 220.0,
+            "m²": 34.0,
+            "Address": "Finiera 15"
+        },
+        {
+            "Price_per_m²": 8.85,
+            "Price": 230.0,
+            "m²": 25.99,
+            "Address": "Ādama 15"
+        },
+        {
+            "Price_per_m²": 5.65,
+            "Price": 260.0,
+            "m²": 46.02,
+            "Address": "Velkoņu 2"
+        },
+        {
+            "Price_per_m²": 4.19,
+            "Price": 180.0,
+            "m²": 42.96,
+            "Address": "Platā 10"
+        },
+        {
+            "Price_per_m²": 3.85,
+            "Price": 200.0,
+            "m²": 51.95,
+            "Address": "Gobas 36"
+        },
+        {
+            "Price_per_m²": 4.65,
+            "Price": 200.0,
+            "m²": 43.01,
+            "Address": "Platā 10"
+        },
+        {
+            "Price_per_m²": 4.68,
+            "Price": 220.0,
+            "m²": 47.01,
+            "Address": "Gobas 22"
+        },
+        {
+            "Price_per_m²": 5.0,
+            "Price": 240.0,
+            "m²": 48.0,
+            "Address": "Stūrmaņu 5"
+        },
+        {
+            "Price_per_m²": 6.6,
+            "Price": 350.0,
+            "m²": 53.03,
+            "Address": "Stūrmaņu 25"
+        },
+        {
+            "Price_per_m²": 4.87,
+            "Price": 190.0,
+            "m²": 39.01,
+            "Address": "Brūžu 2"
+        },
+        {
+            "Price_per_m²": 5.58,
+            "Price": 290.0,
+            "m²": 51.97,
+            "Address": "Lielā 59"
+        },
+        {
+            "Price_per_m²": 6.15,
+            "Price": 320.0,
+            "m²": 52.03,
+            "Address": "Gobas 31"
+        },
+        {
+            "Price_per_m²": 6.6,
+            "Price": 350.0,
+            "m²": 53.03,
+            "Address": "Stūrmaņu 25"
+        },
+        {
+            "Price_per_m²": 4.87,
+            "Price": 190.0,
+            "m²": 39.01,
+            "Address": "Brūžu 2"
+        },
+        {
+            "Price_per_m²": 5.58,
+            "Price": 290.0,
+            "m²": 51.97,
+            "Address": "Lielā 59"
+        },
+        {
+            "Price_per_m²": 6.15,
+            "Price": 320.0,
+            "m²": 52.03,
+            "Address": "Gobas 31"
+        }
+    ],
+    "daily": []
+}

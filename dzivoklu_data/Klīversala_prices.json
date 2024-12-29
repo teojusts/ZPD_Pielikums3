@@ -1,0 +1,367 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 4504.0,
+            "Price": 599000.0,
+            "m²": 132.99,
+            "Address": "Kuģu 28"
+        },
+        {
+            "Price_per_m²": 2468.0,
+            "Price": 385000.0,
+            "m²": 156.0,
+            "Address": "Kuģu 26"
+        },
+        {
+            "Price_per_m²": 1619.0,
+            "Price": 68000.0,
+            "m²": 42.0,
+            "Address": "Valguma 24"
+        },
+        {
+            "Price_per_m²": 3214.0,
+            "Price": 135000.0,
+            "m²": 42.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 3646.0,
+            "Price": 350000.0,
+            "m²": 96.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 7225.0,
+            "Price": 1250000.0,
+            "m²": 173.01,
+            "Address": "Kuģu 28"
+        },
+        {
+            "Price_per_m²": 1724.0,
+            "Price": 200000.0,
+            "m²": 116.01,
+            "Address": "Valguma 31"
+        },
+        {
+            "Price_per_m²": 4470.0,
+            "Price": 599000.0,
+            "m²": 134.0,
+            "Address": "Kuģu 28"
+        },
+        {
+            "Price_per_m²": 4504.0,
+            "Price": 599000.0,
+            "m²": 132.99,
+            "Address": "Kuģu 28"
+        },
+        {
+            "Price_per_m²": 2468.0,
+            "Price": 385000.0,
+            "m²": 156.0,
+            "Address": "Kuģu 26"
+        },
+        {
+            "Price_per_m²": 1619.0,
+            "Price": 68000.0,
+            "m²": 42.0,
+            "Address": "Valguma 24"
+        },
+        {
+            "Price_per_m²": 3214.0,
+            "Price": 135000.0,
+            "m²": 42.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 3646.0,
+            "Price": 350000.0,
+            "m²": 96.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 7225.0,
+            "Price": 1250000.0,
+            "m²": 173.01,
+            "Address": "Kuģu 28"
+        },
+        {
+            "Price_per_m²": 1724.0,
+            "Price": 200000.0,
+            "m²": 116.01,
+            "Address": "Valguma 31"
+        },
+        {
+            "Price_per_m²": 4470.0,
+            "Price": 599000.0,
+            "m²": 134.0,
+            "Address": "Kuģu 28"
+        },
+        {
+            "Price_per_m²": 4504.0,
+            "Price": 599000.0,
+            "m²": 132.99,
+            "Address": "Kuģu 28"
+        },
+        {
+            "Price_per_m²": 2468.0,
+            "Price": 385000.0,
+            "m²": 156.0,
+            "Address": "Kuģu 26"
+        },
+        {
+            "Price_per_m²": 1619.0,
+            "Price": 68000.0,
+            "m²": 42.0,
+            "Address": "Valguma 24"
+        },
+        {
+            "Price_per_m²": 3214.0,
+            "Price": 135000.0,
+            "m²": 42.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 3646.0,
+            "Price": 350000.0,
+            "m²": 96.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 7225.0,
+            "Price": 1250000.0,
+            "m²": 173.01,
+            "Address": "Kuģu 28"
+        },
+        {
+            "Price_per_m²": 1724.0,
+            "Price": 200000.0,
+            "m²": 116.01,
+            "Address": "Valguma 31"
+        },
+        {
+            "Price_per_m²": 4470.0,
+            "Price": 599000.0,
+            "m²": 134.0,
+            "Address": "Kuģu 28"
+        },
+        {
+            "Price_per_m²": 4504.0,
+            "Price": 599000.0,
+            "m²": 132.99,
+            "Address": "Kuģu 28"
+        },
+        {
+            "Price_per_m²": 2468.0,
+            "Price": 385000.0,
+            "m²": 156.0,
+            "Address": "Kuģu 26"
+        },
+        {
+            "Price_per_m²": 1619.0,
+            "Price": 68000.0,
+            "m²": 42.0,
+            "Address": "Valguma 24"
+        },
+        {
+            "Price_per_m²": 3214.0,
+            "Price": 135000.0,
+            "m²": 42.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 3646.0,
+            "Price": 350000.0,
+            "m²": 96.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 7225.0,
+            "Price": 1250000.0,
+            "m²": 173.01,
+            "Address": "Kuģu 28"
+        },
+        {
+            "Price_per_m²": 1724.0,
+            "Price": 200000.0,
+            "m²": 116.01,
+            "Address": "Valguma 31"
+        },
+        {
+            "Price_per_m²": 4470.0,
+            "Price": 599000.0,
+            "m²": 134.0,
+            "Address": "Kuģu 28"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 8.81,
+            "Price": 370.0,
+            "m²": 42.0,
+            "Address": "Trijādības 4a"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 440.0,
+            "m²": 44.0,
+            "Address": "Uzvaras bulv. 3a"
+        },
+        {
+            "Price_per_m²": 19.77,
+            "Price": 850.0,
+            "m²": 42.99,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 17.05,
+            "Price": 750.0,
+            "m²": 43.99,
+            "Address": "Kuģu 26"
+        },
+        {
+            "Price_per_m²": 20.73,
+            "Price": 850.0,
+            "m²": 41.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 20.24,
+            "Price": 850.0,
+            "m²": 42.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 350.0,
+            "m²": 35.0,
+            "Address": "H. Celmiņa 2"
+        },
+        {
+            "Price_per_m²": 8.81,
+            "Price": 370.0,
+            "m²": 42.0,
+            "Address": "Trijādības 4a"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 440.0,
+            "m²": 44.0,
+            "Address": "Uzvaras bulv. 3a"
+        },
+        {
+            "Price_per_m²": 19.77,
+            "Price": 850.0,
+            "m²": 42.99,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 17.05,
+            "Price": 750.0,
+            "m²": 43.99,
+            "Address": "Kuģu 26"
+        },
+        {
+            "Price_per_m²": 20.73,
+            "Price": 850.0,
+            "m²": 41.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 20.24,
+            "Price": 850.0,
+            "m²": 42.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 350.0,
+            "m²": 35.0,
+            "Address": "H. Celmiņa 2"
+        },
+        {
+            "Price_per_m²": 8.81,
+            "Price": 370.0,
+            "m²": 42.0,
+            "Address": "Trijādības 4a"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 440.0,
+            "m²": 44.0,
+            "Address": "Uzvaras bulv. 3a"
+        },
+        {
+            "Price_per_m²": 19.77,
+            "Price": 850.0,
+            "m²": 42.99,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 17.05,
+            "Price": 750.0,
+            "m²": 43.99,
+            "Address": "Kuģu 26"
+        },
+        {
+            "Price_per_m²": 20.73,
+            "Price": 850.0,
+            "m²": 41.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 20.24,
+            "Price": 850.0,
+            "m²": 42.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 350.0,
+            "m²": 35.0,
+            "Address": "H. Celmiņa 2"
+        },
+        {
+            "Price_per_m²": 8.81,
+            "Price": 370.0,
+            "m²": 42.0,
+            "Address": "Trijādības 4a"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 440.0,
+            "m²": 44.0,
+            "Address": "Uzvaras bulv. 3a"
+        },
+        {
+            "Price_per_m²": 19.77,
+            "Price": 850.0,
+            "m²": 42.99,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 17.05,
+            "Price": 750.0,
+            "m²": 43.99,
+            "Address": "Kuģu 26"
+        },
+        {
+            "Price_per_m²": 20.73,
+            "Price": 850.0,
+            "m²": 41.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 20.24,
+            "Price": 850.0,
+            "m²": 42.0,
+            "Address": "Kuģu 15"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 350.0,
+            "m²": 35.0,
+            "Address": "H. Celmiņa 2"
+        }
+    ],
+    "daily": []
+}

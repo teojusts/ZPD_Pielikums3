@@ -1,0 +1,61 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 42000.0,
+            "m²": 42.0,
+            "Address": "Čiekuru 5k2"
+        },
+        {
+            "Price_per_m²": 2574.0,
+            "Price": 175000.0,
+            "m²": 67.99,
+            "Address": "Briežu 9"
+        },
+        {
+            "Price_per_m²": 2362.0,
+            "Price": 137000.0,
+            "m²": 58.0,
+            "Address": "Krapes 8"
+        },
+        {
+            "Price_per_m²": 2170.0,
+            "Price": 115000.0,
+            "m²": 53.0,
+            "Address": "Briežu 7"
+        },
+        {
+            "Price_per_m²": 2343.0,
+            "Price": 79665.0,
+            "m²": 34.0,
+            "Address": "Čiekuru 3"
+        },
+        {
+            "Price_per_m²": 2613.0,
+            "Price": 177698.0,
+            "m²": 68.01,
+            "Address": "Čiekuru 3"
+        },
+        {
+            "Price_per_m²": 654.0,
+            "Price": 34000.0,
+            "m²": 51.99,
+            "Address": "Ezera 11"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 9.76,
+            "Price": 400.0,
+            "m²": 40.98,
+            "Address": "Mores 32"
+        },
+        {
+            "Price_per_m²": 10.73,
+            "Price": 590.0,
+            "m²": 54.99,
+            "Address": "Briežu 9"
+        }
+    ],
+    "daily": []
+}

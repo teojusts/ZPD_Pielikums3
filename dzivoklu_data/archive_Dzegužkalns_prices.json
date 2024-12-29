@@ -1,0 +1,907 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 1776.0,
+            "Price": 190000.0,
+            "m²": 106.98,
+            "Address": "Ūdens 12"
+        },
+        {
+            "Price_per_m²": 960.0,
+            "Price": 48000.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 56"
+        },
+        {
+            "Price_per_m²": 789.0,
+            "Price": 35500.0,
+            "m²": 44.99,
+            "Address": "M. Stacijas 22"
+        },
+        {
+            "Price_per_m²": 1489.0,
+            "Price": 68500.0,
+            "m²": 46.0,
+            "Address": "Slokas 80"
+        },
+        {
+            "Price_per_m²": 2188.0,
+            "Price": 105000.0,
+            "m²": 47.99,
+            "Address": "Usmas 19"
+        },
+        {
+            "Price_per_m²": 759.0,
+            "Price": 47800.0,
+            "m²": 62.98,
+            "Address": "Daugavgrīvas 41"
+        },
+        {
+            "Price_per_m²": 962.0,
+            "Price": 63500.0,
+            "m²": 66.01,
+            "Address": "Dzirciema 7 k-1"
+        },
+        {
+            "Price_per_m²": 2602.0,
+            "Price": 229000.0,
+            "m²": 88.01,
+            "Address": "Slokas 61B"
+        },
+        {
+            "Price_per_m²": 1100.0,
+            "Price": 66000.0,
+            "m²": 60.0,
+            "Address": "Tapešu 51"
+        },
+        {
+            "Price_per_m²": 1105.0,
+            "Price": 42000.0,
+            "m²": 38.01,
+            "Address": "Jaunsaules 18A"
+        },
+        {
+            "Price_per_m²": 1027.0,
+            "Price": 76000.0,
+            "m²": 74.0,
+            "Address": "Slokas 70"
+        },
+        {
+            "Price_per_m²": 1097.0,
+            "Price": 73500.0,
+            "m²": 67.0,
+            "Address": "Morica 20B"
+        },
+        {
+            "Price_per_m²": 1274.0,
+            "Price": 39500.0,
+            "m²": 31.0,
+            "Address": "Tvaikoņu 3"
+        },
+        {
+            "Price_per_m²": 1500.0,
+            "Price": 135000.0,
+            "m²": 90.0,
+            "Address": "Ūdens 12"
+        },
+        {
+            "Price_per_m²": 855.0,
+            "Price": 32500.0,
+            "m²": 38.01,
+            "Address": "M. Stacijas 20"
+        },
+        {
+            "Price_per_m²": 750.0,
+            "Price": 37500.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 7"
+        },
+        {
+            "Price_per_m²": 1235.0,
+            "Price": 42000.0,
+            "m²": 34.01,
+            "Address": "Dzirciema 27"
+        },
+        {
+            "Price_per_m²": 1208.0,
+            "Price": 72500.0,
+            "m²": 60.02,
+            "Address": "Tapešu 51"
+        },
+        {
+            "Price_per_m²": 998.0,
+            "Price": 42900.0,
+            "m²": 42.99,
+            "Address": "Usmas 3"
+        },
+        {
+            "Price_per_m²": 568.0,
+            "Price": 12490.0,
+            "m²": 21.99,
+            "Address": "Viļņas 3"
+        },
+        {
+            "Price_per_m²": 2602.0,
+            "Price": 229000.0,
+            "m²": 88.01,
+            "Address": "Slokas 61B"
+        },
+        {
+            "Price_per_m²": 1127.0,
+            "Price": 75500.0,
+            "m²": 66.99,
+            "Address": "Morica 20B"
+        },
+        {
+            "Price_per_m²": 875.0,
+            "Price": 35000.0,
+            "m²": 40.0,
+            "Address": "Vilhelma Kreslera .."
+        },
+        {
+            "Price_per_m²": 750.0,
+            "Price": 37500.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 7"
+        },
+        {
+            "Price_per_m²": 1181.0,
+            "Price": 98000.0,
+            "m²": 82.98,
+            "Address": "Saldus 18"
+        },
+        {
+            "Price_per_m²": 821.0,
+            "Price": 32000.0,
+            "m²": 38.98,
+            "Address": "Morica 16"
+        },
+        {
+            "Price_per_m²": 683.0,
+            "Price": 41000.0,
+            "m²": 60.03,
+            "Address": "Tapešu 45"
+        },
+        {
+            "Price_per_m²": 1066.0,
+            "Price": 63960.0,
+            "m²": 60.0,
+            "Address": "Tapešu 44-28"
+        },
+        {
+            "Price_per_m²": 929.0,
+            "Price": 35300.0,
+            "m²": 38.0,
+            "Address": "Dzirciema 7"
+        },
+        {
+            "Price_per_m²": 934.0,
+            "Price": 35500.0,
+            "m²": 38.01,
+            "Address": "Usmas 3"
+        },
+        {
+            "Price_per_m²": 1207.0,
+            "Price": 70000.0,
+            "m²": 58.0,
+            "Address": "Daugavgrīvas 56"
+        },
+        {
+            "Price_per_m²": 1614.0,
+            "Price": 92000.0,
+            "m²": 57.0,
+            "Address": "Slokas 106"
+        },
+        {
+            "Price_per_m²": 698.0,
+            "Price": 41900.0,
+            "m²": 60.03,
+            "Address": "Jaunsaules 5b"
+        },
+        {
+            "Price_per_m²": 1500.0,
+            "Price": 75000.0,
+            "m²": 50.0,
+            "Address": "Jūrmalas g. 1/2"
+        },
+        {
+            "Price_per_m²": 1380.0,
+            "Price": 69000.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 21"
+        },
+        {
+            "Price_per_m²": 823.0,
+            "Price": 39500.0,
+            "m²": 48.0,
+            "Address": "Jūrmalas g. 7"
+        },
+        {
+            "Price_per_m²": 1922.0,
+            "Price": 196000.0,
+            "m²": 101.98,
+            "Address": "Slokas 59A"
+        },
+        {
+            "Price_per_m²": 1500.0,
+            "Price": 90000.0,
+            "m²": 60.0,
+            "Address": "Daugavgrīvas 70"
+        },
+        {
+            "Price_per_m²": 745.0,
+            "Price": 44700.0,
+            "m²": 60.0,
+            "Address": "M. Stacijas 4"
+        },
+        {
+            "Price_per_m²": 822.0,
+            "Price": 48500.0,
+            "m²": 59.0,
+            "Address": "M. Stacijas 6"
+        },
+        {
+            "Price_per_m²": 1096.0,
+            "Price": 80000.0,
+            "m²": 72.99,
+            "Address": "Slokas 70"
+        },
+        {
+            "Price_per_m²": 1692.0,
+            "Price": 110000.0,
+            "m²": 65.01,
+            "Address": "Ūdens 12"
+        },
+        {
+            "Price_per_m²": 910.0,
+            "Price": 26400.0,
+            "m²": 29.01,
+            "Address": "Daugavgrīvas 74A"
+        },
+        {
+            "Price_per_m²": 1100.0,
+            "Price": 74800.0,
+            "m²": 68.0,
+            "Address": "Daugavgrīvas 68A"
+        },
+        {
+            "Price_per_m²": 1382.0,
+            "Price": 47000.0,
+            "m²": 34.01,
+            "Address": "Jūrmalas g. 7"
+        },
+        {
+            "Price_per_m²": 1396.0,
+            "Price": 72600.0,
+            "m²": 52.01,
+            "Address": "Dzirciema 27"
+        },
+        {
+            "Price_per_m²": 840.0,
+            "Price": 42000.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 59"
+        },
+        {
+            "Price_per_m²": 905.0,
+            "Price": 38900.0,
+            "m²": 42.98,
+            "Address": "Morica 16"
+        },
+        {
+            "Price_per_m²": 967.0,
+            "Price": 58000.0,
+            "m²": 59.98,
+            "Address": "Tapešu 43"
+        },
+        {
+            "Price_per_m²": 1588.0,
+            "Price": 135000.0,
+            "m²": 85.01,
+            "Address": "Lielezeres 10"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 60000.0,
+            "m²": 56.02,
+            "Address": "Slokas 48A"
+        },
+        {
+            "Price_per_m²": 998.0,
+            "Price": 42900.0,
+            "m²": 42.99,
+            "Address": "Morica 16"
+        },
+        {
+            "Price_per_m²": 978.0,
+            "Price": 44000.0,
+            "m²": 44.99,
+            "Address": "Dzirciema 33"
+        },
+        {
+            "Price_per_m²": 1776.0,
+            "Price": 190000.0,
+            "m²": 106.98,
+            "Address": "Ūdens 12"
+        },
+        {
+            "Price_per_m²": 960.0,
+            "Price": 48000.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 56"
+        },
+        {
+            "Price_per_m²": 789.0,
+            "Price": 35500.0,
+            "m²": 44.99,
+            "Address": "M. Stacijas 22"
+        },
+        {
+            "Price_per_m²": 1489.0,
+            "Price": 68500.0,
+            "m²": 46.0,
+            "Address": "Slokas 80"
+        },
+        {
+            "Price_per_m²": 2188.0,
+            "Price": 105000.0,
+            "m²": 47.99,
+            "Address": "Usmas 19"
+        },
+        {
+            "Price_per_m²": 759.0,
+            "Price": 47800.0,
+            "m²": 62.98,
+            "Address": "Daugavgrīvas 41"
+        },
+        {
+            "Price_per_m²": 962.0,
+            "Price": 63500.0,
+            "m²": 66.01,
+            "Address": "Dzirciema 7 k-1"
+        },
+        {
+            "Price_per_m²": 2602.0,
+            "Price": 229000.0,
+            "m²": 88.01,
+            "Address": "Slokas 61B"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 8.0,
+            "Price": 400.0,
+            "m²": 50.0,
+            "Address": "Morica 20B"
+        },
+        {
+            "Price_per_m²": 8.57,
+            "Price": 480.0,
+            "m²": 56.01,
+            "Address": "Lielezeres 10"
+        },
+        {
+            "Price_per_m²": 6.76,
+            "Price": 250.0,
+            "m²": 36.98,
+            "Address": "Usmas 3"
+        },
+        {
+            "Price_per_m²": 6.74,
+            "Price": 290.0,
+            "m²": 43.03,
+            "Address": "Jaunsaules 5b"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 350.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 21"
+        },
+        {
+            "Price_per_m²": 9.46,
+            "Price": 350.0,
+            "m²": 37.0,
+            "Address": "Tapešu 45"
+        },
+        {
+            "Price_per_m²": 6.5,
+            "Price": 455.0,
+            "m²": 70.0,
+            "Address": "Daugavgrīvas 70/5"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 200.0,
+            "m²": 29.99,
+            "Address": "Slokas 80"
+        },
+        {
+            "Price_per_m²": 9.23,
+            "Price": 600.0,
+            "m²": 65.01,
+            "Address": "Ūdens 12"
+        },
+        {
+            "Price_per_m²": 8.44,
+            "Price": 270.0,
+            "m²": 31.99,
+            "Address": "Dzirciema 71"
+        },
+        {
+            "Price_per_m²": 6.78,
+            "Price": 400.0,
+            "m²": 59.0,
+            "Address": "M. Stacijas 20"
+        },
+        {
+            "Price_per_m²": 5.06,
+            "Price": 450.0,
+            "m²": 88.93,
+            "Address": "Ūdens 12"
+        },
+        {
+            "Price_per_m²": 9.74,
+            "Price": 370.0,
+            "m²": 37.99,
+            "Address": "Jaunsaules 18b"
+        },
+        {
+            "Price_per_m²": 9.09,
+            "Price": 300.0,
+            "m²": 33.0,
+            "Address": "Dzirciema 31"
+        },
+        {
+            "Price_per_m²": 9.35,
+            "Price": 290.0,
+            "m²": 31.02,
+            "Address": "Dzirciema 49"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 300.0,
+            "m²": 36.01,
+            "Address": "Dzirciema 31"
+        },
+        {
+            "Price_per_m²": 5.0,
+            "Price": 250.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 61"
+        },
+        {
+            "Price_per_m²": 8.06,
+            "Price": 250.0,
+            "m²": 31.02,
+            "Address": "Dzirciema 25"
+        },
+        {
+            "Price_per_m²": 7.5,
+            "Price": 270.0,
+            "m²": 36.0,
+            "Address": "Tapešu 46"
+        },
+        {
+            "Price_per_m²": 10.43,
+            "Price": 365.0,
+            "m²": 35.0,
+            "Address": "Dzirciema 31"
+        },
+        {
+            "Price_per_m²": 9.61,
+            "Price": 365.0,
+            "m²": 37.98,
+            "Address": "Ūdens 14"
+        },
+        {
+            "Price_per_m²": 5.0,
+            "Price": 300.0,
+            "m²": 60.0,
+            "Address": "Dzirciema 33"
+        },
+        {
+            "Price_per_m²": 12.5,
+            "Price": 600.0,
+            "m²": 48.0,
+            "Address": "Usmas 19"
+        },
+        {
+            "Price_per_m²": 9.07,
+            "Price": 399.0,
+            "m²": 43.99,
+            "Address": "Ūdens 12"
+        },
+        {
+            "Price_per_m²": 7.5,
+            "Price": 300.0,
+            "m²": 40.0,
+            "Address": "M. Stacijas 20"
+        },
+        {
+            "Price_per_m²": 5.33,
+            "Price": 320.0,
+            "m²": 60.04,
+            "Address": "Dzirciema 33"
+        },
+        {
+            "Price_per_m²": 7.5,
+            "Price": 300.0,
+            "m²": 40.0,
+            "Address": "Dzegužu 1"
+        },
+        {
+            "Price_per_m²": 9.47,
+            "Price": 360.0,
+            "m²": 38.01,
+            "Address": "Jaunsaules 18B"
+        },
+        {
+            "Price_per_m²": 2.92,
+            "Price": 175.0,
+            "m²": 59.93,
+            "Address": "Dzirciema 47"
+        },
+        {
+            "Price_per_m²": 6.32,
+            "Price": 600.0,
+            "m²": 94.94,
+            "Address": "Saldus 3"
+        },
+        {
+            "Price_per_m²": 10.23,
+            "Price": 450.0,
+            "m²": 43.99,
+            "Address": "Dzegužu 3"
+        },
+        {
+            "Price_per_m²": 11.11,
+            "Price": 600.0,
+            "m²": 54.01,
+            "Address": "Ūdens 12"
+        },
+        {
+            "Price_per_m²": 8.46,
+            "Price": 220.0,
+            "m²": 26.0,
+            "Address": "Daugavgrīvas 74a"
+        },
+        {
+            "Price_per_m²": 7.92,
+            "Price": 190.0,
+            "m²": 23.99,
+            "Address": "Daugavgrīvas 42"
+        },
+        {
+            "Price_per_m²": 7.83,
+            "Price": 360.0,
+            "m²": 45.98,
+            "Address": "Dzirciema 3"
+        },
+        {
+            "Price_per_m²": 18.18,
+            "Price": 200.0,
+            "m²": 11.0,
+            "Address": "Purva 6"
+        },
+        {
+            "Price_per_m²": 7.69,
+            "Price": 500.0,
+            "m²": 65.02,
+            "Address": "Ūdens 12"
+        },
+        {
+            "Price_per_m²": 7.78,
+            "Price": 280.0,
+            "m²": 35.99,
+            "Address": "Daugavgrīvas 70"
+        },
+        {
+            "Price_per_m²": 6.83,
+            "Price": 280.0,
+            "m²": 41.0,
+            "Address": "Daugavgrīvas 70"
+        },
+        {
+            "Price_per_m²": 6.55,
+            "Price": 380.0,
+            "m²": 58.02,
+            "Address": "Slokas 48a"
+        },
+        {
+            "Price_per_m²": 6.52,
+            "Price": 300.0,
+            "m²": 46.01,
+            "Address": "Dzirciema 31"
+        },
+        {
+            "Price_per_m²": 7.69,
+            "Price": 500.0,
+            "m²": 65.02,
+            "Address": "Daugavgrīvas 68a"
+        },
+        {
+            "Price_per_m²": 11.78,
+            "Price": 530.0,
+            "m²": 44.99,
+            "Address": "Iecavas 1"
+        },
+        {
+            "Price_per_m²": 8.67,
+            "Price": 260.0,
+            "m²": 29.99,
+            "Address": "Dzirciema 33"
+        },
+        {
+            "Price_per_m²": 6.9,
+            "Price": 400.0,
+            "m²": 57.97,
+            "Address": "Slokas 48a"
+        },
+        {
+            "Price_per_m²": 10.81,
+            "Price": 400.0,
+            "m²": 37.0,
+            "Address": "Jūrmalas g. 7"
+        },
+        {
+            "Price_per_m²": 10.34,
+            "Price": 300.0,
+            "m²": 29.01,
+            "Address": "Daugavgrīvas 74a"
+        },
+        {
+            "Price_per_m²": 7.06,
+            "Price": 600.0,
+            "m²": 84.99,
+            "Address": "Usmas 19"
+        },
+        {
+            "Price_per_m²": 7.55,
+            "Price": 370.0,
+            "m²": 49.01,
+            "Address": "Dzirciema 56"
+        },
+        {
+            "Price_per_m²": 12.0,
+            "Price": 600.0,
+            "m²": 50.0,
+            "Address": "Slokas 59a"
+        },
+        {
+            "Price_per_m²": 13.81,
+            "Price": 290.0,
+            "m²": 21.0,
+            "Address": "Daugavgrīvas 74a"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 200.0,
+            "m²": 24.01,
+            "Address": "Daugavgrīvas 74A"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 300.0,
+            "m²": 30.0,
+            "Address": "Jaunsaules 5b"
+        },
+        {
+            "Price_per_m²": 7.29,
+            "Price": 350.0,
+            "m²": 48.01,
+            "Address": "Jūrmalas g. 9"
+        },
+        {
+            "Price_per_m²": 11.0,
+            "Price": 330.0,
+            "m²": 30.0,
+            "Address": "Tapešu 45"
+        },
+        {
+            "Price_per_m²": 6.76,
+            "Price": 311.0,
+            "m²": 46.01,
+            "Address": "Dzirciema 21"
+        },
+        {
+            "Price_per_m²": 10.47,
+            "Price": 450.0,
+            "m²": 42.98,
+            "Address": "Morica 16"
+        },
+        {
+            "Price_per_m²": 13.75,
+            "Price": 550.0,
+            "m²": 40.0,
+            "Address": "Ūdens 12"
+        },
+        {
+            "Price_per_m²": 7.29,
+            "Price": 510.0,
+            "m²": 69.96,
+            "Address": "Slokas 70"
+        },
+        {
+            "Price_per_m²": 12.04,
+            "Price": 590.0,
+            "m²": 49.0,
+            "Address": "Slokas 61B"
+        },
+        {
+            "Price_per_m²": 10.47,
+            "Price": 450.0,
+            "m²": 42.98,
+            "Address": "Slokas 60"
+        },
+        {
+            "Price_per_m²": 7.69,
+            "Price": 400.0,
+            "m²": 52.02,
+            "Address": "Dzirciema 27"
+        },
+        {
+            "Price_per_m²": 11.29,
+            "Price": 350.0,
+            "m²": 31.0,
+            "Address": "Ūdens 12"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 300.0,
+            "m²": 48.0,
+            "Address": "Dzirciema 21"
+        },
+        {
+            "Price_per_m²": 7.89,
+            "Price": 300.0,
+            "m²": 38.02,
+            "Address": "Usmas 9"
+        },
+        {
+            "Price_per_m²": 6.96,
+            "Price": 320.0,
+            "m²": 45.98,
+            "Address": "Tapešu 51"
+        },
+        {
+            "Price_per_m²": 9.62,
+            "Price": 500.0,
+            "m²": 51.98,
+            "Address": "Iecavas 1"
+        },
+        {
+            "Price_per_m²": 5.56,
+            "Price": 350.0,
+            "m²": 62.95,
+            "Address": "Jūrmalas g. 1"
+        },
+        {
+            "Price_per_m²": 9.57,
+            "Price": 450.0,
+            "m²": 47.02,
+            "Address": "Dzirciema 21"
+        },
+        {
+            "Price_per_m²": 6.33,
+            "Price": 310.0,
+            "m²": 48.97,
+            "Address": "Usmas 17"
+        },
+        {
+            "Price_per_m²": 7.91,
+            "Price": 340.0,
+            "m²": 42.98,
+            "Address": "Morica 16"
+        },
+        {
+            "Price_per_m²": 9.52,
+            "Price": 200.0,
+            "m²": 21.01,
+            "Address": "Buļļu 8"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 250.0,
+            "m²": 25.0,
+            "Address": "M. Stacijas 20"
+        },
+        {
+            "Price_per_m²": 7.84,
+            "Price": 290.0,
+            "m²": 36.99,
+            "Address": "Dzirciema 37"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 400.0,
+            "m²": 50.0,
+            "Address": "Morica 20B"
+        },
+        {
+            "Price_per_m²": 8.75,
+            "Price": 350.0,
+            "m²": 40.0,
+            "Address": "Usmas 3"
+        },
+        {
+            "Price_per_m²": 12.24,
+            "Price": 600.0,
+            "m²": 49.02,
+            "Address": "Slokas 59A"
+        },
+        {
+            "Price_per_m²": 8.16,
+            "Price": 400.0,
+            "m²": 49.02,
+            "Address": "Jūrmalas g. 1"
+        },
+        {
+            "Price_per_m²": 7.1,
+            "Price": 220.0,
+            "m²": 30.99,
+            "Address": "Dzirciema 25"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 400.0,
+            "m²": 50.0,
+            "Address": "Morica 20B"
+        },
+        {
+            "Price_per_m²": 8.57,
+            "Price": 480.0,
+            "m²": 56.01,
+            "Address": "Lielezeres 10"
+        },
+        {
+            "Price_per_m²": 6.76,
+            "Price": 250.0,
+            "m²": 36.98,
+            "Address": "Usmas 3"
+        },
+        {
+            "Price_per_m²": 6.74,
+            "Price": 290.0,
+            "m²": 43.03,
+            "Address": "Jaunsaules 5b"
+        },
+        {
+            "Price_per_m²": 7.0,
+            "Price": 350.0,
+            "m²": 50.0,
+            "Address": "Dzirciema 21"
+        },
+        {
+            "Price_per_m²": 9.46,
+            "Price": 350.0,
+            "m²": 37.0,
+            "Address": "Tapešu 45"
+        },
+        {
+            "Price_per_m²": 6.5,
+            "Price": 455.0,
+            "m²": 70.0,
+            "Address": "Daugavgrīvas 70/5"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 200.0,
+            "m²": 29.99,
+            "Address": "Slokas 80"
+        },
+        {
+            "Price_per_m²": 9.23,
+            "Price": 600.0,
+            "m²": 65.01,
+            "Address": "Ūdens 12"
+        },
+        {
+            "Price_per_m²": 8.44,
+            "Price": 270.0,
+            "m²": 31.99,
+            "Address": "Dzirciema 71"
+        }
+    ],
+    "daily": []
+}

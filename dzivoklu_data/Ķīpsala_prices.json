@@ -1,0 +1,115 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 3079.0,
+            "Price": 252500.0,
+            "m²": 82.01,
+            "Address": "Zvejnieku 14A"
+        },
+        {
+            "Price_per_m²": 3122.0,
+            "Price": 128000.0,
+            "m²": 41.0,
+            "Address": "Zvejnieku 34"
+        },
+        {
+            "Price_per_m²": 3102.0,
+            "Price": 183000.0,
+            "m²": 58.99,
+            "Address": "Balasta d. 72"
+        },
+        {
+            "Price_per_m²": 4057.0,
+            "Price": 645000.0,
+            "m²": 158.98,
+            "Address": "Balasta d. 72"
+        },
+        {
+            "Price_per_m²": 3103.0,
+            "Price": 360000.0,
+            "m²": 116.02,
+            "Address": "Balasta d. 72"
+        },
+        {
+            "Price_per_m²": 3079.0,
+            "Price": 252500.0,
+            "m²": 82.01,
+            "Address": "Zvejnieku 14A"
+        },
+        {
+            "Price_per_m²": 3122.0,
+            "Price": 128000.0,
+            "m²": 41.0,
+            "Address": "Zvejnieku 34"
+        },
+        {
+            "Price_per_m²": 3102.0,
+            "Price": 183000.0,
+            "m²": 58.99,
+            "Address": "Balasta d. 72"
+        },
+        {
+            "Price_per_m²": 4057.0,
+            "Price": 645000.0,
+            "m²": 158.98,
+            "Address": "Balasta d. 72"
+        },
+        {
+            "Price_per_m²": 3103.0,
+            "Price": 360000.0,
+            "m²": 116.02,
+            "Address": "Balasta d. 72"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 13.41,
+            "Price": 550.0,
+            "m²": 41.01,
+            "Address": "Zvejnieku 34"
+        },
+        {
+            "Price_per_m²": 12.5,
+            "Price": 600.0,
+            "m²": 48.0,
+            "Address": "Zvejnieku 34"
+        },
+        {
+            "Price_per_m²": 16.44,
+            "Price": 1200.0,
+            "m²": 72.99,
+            "Address": "Ķīpsalas 49"
+        },
+        {
+            "Price_per_m²": 16.28,
+            "Price": 700.0,
+            "m²": 43.0,
+            "Address": "Zvejnieku 34"
+        },
+        {
+            "Price_per_m²": 13.41,
+            "Price": 550.0,
+            "m²": 41.01,
+            "Address": "Zvejnieku 34"
+        },
+        {
+            "Price_per_m²": 12.5,
+            "Price": 600.0,
+            "m²": 48.0,
+            "Address": "Zvejnieku 34"
+        },
+        {
+            "Price_per_m²": 16.44,
+            "Price": 1200.0,
+            "m²": 72.99,
+            "Address": "Ķīpsalas 49"
+        },
+        {
+            "Price_per_m²": 16.28,
+            "Price": 700.0,
+            "m²": 43.0,
+            "Address": "Zvejnieku 34"
+        }
+    ],
+    "daily": []
+}

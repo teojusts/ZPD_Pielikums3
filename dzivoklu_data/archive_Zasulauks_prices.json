@@ -1,0 +1,85 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 614.0,
+            "Price": 35000.0,
+            "m²": 57.0,
+            "Address": "Kalnciema 102A"
+        },
+        {
+            "Price_per_m²": 1398.0,
+            "Price": 83888.0,
+            "m²": 60.01,
+            "Address": "Bārtas 3"
+        },
+        {
+            "Price_per_m²": 811.0,
+            "Price": 29999.0,
+            "m²": 36.99,
+            "Address": "Gregora 4"
+        },
+        {
+            "Price_per_m²": 809.0,
+            "Price": 25900.0,
+            "m²": 32.01,
+            "Address": "Vecā Jūrmalas g. 1.."
+        },
+        {
+            "Price_per_m²": 1382.0,
+            "Price": 47000.0,
+            "m²": 34.01,
+            "Address": "Vecā Jūrmalas g. 7"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 7.11,
+            "Price": 320.0,
+            "m²": 45.01,
+            "Address": "Vecā Jūrmalas g. 1.."
+        },
+        {
+            "Price_per_m²": 6.9,
+            "Price": 290.0,
+            "m²": 42.03,
+            "Address": "Kandavas 6, -5"
+        },
+        {
+            "Price_per_m²": 9.17,
+            "Price": 550.0,
+            "m²": 59.98,
+            "Address": "Elvīras 13A"
+        },
+        {
+            "Price_per_m²": 6.88,
+            "Price": 220.0,
+            "m²": 31.98,
+            "Address": "Rododendru 12"
+        },
+        {
+            "Price_per_m²": 6.67,
+            "Price": 220.0,
+            "m²": 32.98,
+            "Address": "Kalnciema 8"
+        },
+        {
+            "Price_per_m²": 9.21,
+            "Price": 350.0,
+            "m²": 38.0,
+            "Address": "Kūdras 4"
+        },
+        {
+            "Price_per_m²": 12.5,
+            "Price": 350.0,
+            "m²": 28.0,
+            "Address": "Rododendru 12"
+        },
+        {
+            "Price_per_m²": 9.44,
+            "Price": 340.0,
+            "m²": 36.02,
+            "Address": "Vecā Jūrmalas g. 1.."
+        }
+    ],
+    "daily": []
+}

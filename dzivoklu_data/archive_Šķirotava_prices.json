@@ -1,0 +1,139 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 1105.0,
+            "Price": 21000.0,
+            "m²": 19.0,
+            "Address": "Krustpils 123A"
+        },
+        {
+            "Price_per_m²": 554.0,
+            "Price": 26598.0,
+            "m²": 48.01,
+            "Address": "Krustpils 75"
+        },
+        {
+            "Price_per_m²": 1409.0,
+            "Price": 15500.0,
+            "m²": 11.0,
+            "Address": "Dzirkaļu 24"
+        },
+        {
+            "Price_per_m²": 861.0,
+            "Price": 15500.0,
+            "m²": 18.0,
+            "Address": "Malēju 4a"
+        },
+        {
+            "Price_per_m²": 800.0,
+            "Price": 20000.0,
+            "m²": 25.0,
+            "Address": "Sila 4"
+        },
+        {
+            "Price_per_m²": 750.0,
+            "Price": 12000.0,
+            "m²": 16.0,
+            "Address": "Dzirkaļu 24"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 13400.0,
+            "m²": 15.99,
+            "Address": "Dzirkaļu 24"
+        },
+        {
+            "Price_per_m²": 900.0,
+            "Price": 14400.0,
+            "m²": 16.0,
+            "Address": "Dzirkaļu 24"
+        },
+        {
+            "Price_per_m²": 1682.0,
+            "Price": 18500.0,
+            "m²": 11.0,
+            "Address": "Dzirkaļu 24"
+        },
+        {
+            "Price_per_m²": 594.0,
+            "Price": 27900.0,
+            "m²": 46.97,
+            "Address": "Krustpils 73-2"
+        },
+        {
+            "Price_per_m²": 784.0,
+            "Price": 14900.0,
+            "m²": 19.01,
+            "Address": "Krustpils 73"
+        },
+        {
+            "Price_per_m²": 574.0,
+            "Price": 27000.0,
+            "m²": 47.04,
+            "Address": "Dzirkaļu 32"
+        },
+        {
+            "Price_per_m²": 1085.0,
+            "Price": 89000.0,
+            "m²": 82.03,
+            "Address": "Gravas 17"
+        },
+        {
+            "Price_per_m²": 1238.0,
+            "Price": 19800.0,
+            "m²": 15.99,
+            "Address": "Meirānu 8"
+        },
+        {
+            "Price_per_m²": 500.0,
+            "Price": 9000.0,
+            "m²": 18.0,
+            "Address": "Malēju 4A"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 8.1,
+            "Price": 340.0,
+            "m²": 41.98,
+            "Address": "Gravas 17"
+        },
+        {
+            "Price_per_m²": 14.62,
+            "Price": 190.0,
+            "m²": 13.0,
+            "Address": "Gravas 17"
+        },
+        {
+            "Price_per_m²": 8.95,
+            "Price": 170.0,
+            "m²": 18.99,
+            "Address": "Krustpils 73"
+        },
+        {
+            "Price_per_m²": 12.0,
+            "Price": 180.0,
+            "m²": 15.0,
+            "Address": "Krustpils 73к. 3"
+        },
+        {
+            "Price_per_m²": 5.78,
+            "Price": 370.0,
+            "m²": 64.01,
+            "Address": "Dzirkaļu 22"
+        },
+        {
+            "Price_per_m²": 10.5,
+            "Price": 210.0,
+            "m²": 20.0,
+            "Address": "Meirānu 8"
+        },
+        {
+            "Price_per_m²": 5.0,
+            "Price": 90.0,
+            "m²": 18.0,
+            "Address": "Malēju 4"
+        }
+    ],
+    "daily": []
+}

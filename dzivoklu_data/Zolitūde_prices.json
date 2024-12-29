@@ -1,0 +1,1651 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 1243.0,
+            "Price": 230000.0,
+            "m²": 185.04,
+            "Address": "Zolitūdes 46"
+        },
+        {
+            "Price_per_m²": 1686.0,
+            "Price": 145000.0,
+            "m²": 86.0,
+            "Address": "Zolitūdes 73"
+        },
+        {
+            "Price_per_m²": 1153.0,
+            "Price": 109500.0,
+            "m²": 94.97,
+            "Address": "Bieziņa 7"
+        },
+        {
+            "Price_per_m²": 933.0,
+            "Price": 83000.0,
+            "m²": 88.96,
+            "Address": "Bieziņa 9"
+        },
+        {
+            "Price_per_m²": 948.0,
+            "Price": 165000.0,
+            "m²": 174.05,
+            "Address": "Zolitūdes 75 k-3"
+        },
+        {
+            "Price_per_m²": 962.0,
+            "Price": 76000.0,
+            "m²": 79.0,
+            "Address": "Rostokas 42"
+        },
+        {
+            "Price_per_m²": 1082.0,
+            "Price": 53000.0,
+            "m²": 48.98,
+            "Address": "Anniņmuižas 2"
+        },
+        {
+            "Price_per_m²": 1145.0,
+            "Price": 87000.0,
+            "m²": 75.98,
+            "Address": "Endzelīna 7"
+        },
+        {
+            "Price_per_m²": 926.0,
+            "Price": 87950.0,
+            "m²": 94.98,
+            "Address": "Lejiņa 18"
+        },
+        {
+            "Price_per_m²": 1210.0,
+            "Price": 98000.0,
+            "m²": 80.99,
+            "Address": "Bieziņa 10"
+        },
+        {
+            "Price_per_m²": 1783.0,
+            "Price": 148000.0,
+            "m²": 83.01,
+            "Address": "Jūrkalnes 87"
+        },
+        {
+            "Price_per_m²": 1986.0,
+            "Price": 160900.0,
+            "m²": 81.02,
+            "Address": "Anniņmuižas 20"
+        },
+        {
+            "Price_per_m²": 1180.0,
+            "Price": 210000.0,
+            "m²": 177.97,
+            "Address": "Zolitūdes 46"
+        },
+        {
+            "Price_per_m²": 1741.0,
+            "Price": 94000.0,
+            "m²": 53.99,
+            "Address": "Anniņmuižas 7"
+        },
+        {
+            "Price_per_m²": 1414.0,
+            "Price": 82000.0,
+            "m²": 57.99,
+            "Address": "Lejiņa 14"
+        },
+        {
+            "Price_per_m²": 1647.0,
+            "Price": 123500.0,
+            "m²": 74.98,
+            "Address": "Gramzdas 82"
+        },
+        {
+            "Price_per_m²": 1085.0,
+            "Price": 49900.0,
+            "m²": 45.99,
+            "Address": "Bieziņa 9"
+        },
+        {
+            "Price_per_m²": 1009.0,
+            "Price": 58500.0,
+            "m²": 57.98,
+            "Address": "Lejiņa 16"
+        },
+        {
+            "Price_per_m²": 885.0,
+            "Price": 85000.0,
+            "m²": 96.05,
+            "Address": "Ruses 12"
+        },
+        {
+            "Price_per_m²": 1100.0,
+            "Price": 55000.0,
+            "m²": 50.0,
+            "Address": "Anniņmuižas 4"
+        },
+        {
+            "Price_per_m²": 1376.0,
+            "Price": 128000.0,
+            "m²": 93.02,
+            "Address": "Bieziņa 4"
+        },
+        {
+            "Price_per_m²": 1176.0,
+            "Price": 43500.0,
+            "m²": 36.99,
+            "Address": "Ruses 11"
+        },
+        {
+            "Price_per_m²": 1061.0,
+            "Price": 52000.0,
+            "m²": 49.01,
+            "Address": "Anniņmuižas 6"
+        },
+        {
+            "Price_per_m²": 1296.0,
+            "Price": 92000.0,
+            "m²": 70.99,
+            "Address": "Anniņmuižas 13"
+        },
+        {
+            "Price_per_m²": 1881.0,
+            "Price": 158000.0,
+            "m²": 84.0,
+            "Address": "Augšzemes 5"
+        },
+        {
+            "Price_per_m²": 983.0,
+            "Price": 57000.0,
+            "m²": 57.99,
+            "Address": "Lejiņa 22"
+        },
+        {
+            "Price_per_m²": 1038.0,
+            "Price": 81000.0,
+            "m²": 78.03,
+            "Address": "Rostokas 52"
+        },
+        {
+            "Price_per_m²": 1543.0,
+            "Price": 117300.0,
+            "m²": 76.02,
+            "Address": "Anniņmuižas 7"
+        },
+        {
+            "Price_per_m²": 1108.0,
+            "Price": 108600.0,
+            "m²": 98.01,
+            "Address": "Gramzdas 21"
+        },
+        {
+            "Price_per_m²": 1053.0,
+            "Price": 79000.0,
+            "m²": 75.02,
+            "Address": "Bieziņa 11"
+        },
+        {
+            "Price_per_m²": 1478.0,
+            "Price": 133000.0,
+            "m²": 89.99,
+            "Address": "Priedaines 13"
+        },
+        {
+            "Price_per_m²": 1130.0,
+            "Price": 52000.0,
+            "m²": 46.02,
+            "Address": "Bieziņa 9"
+        },
+        {
+            "Price_per_m²": 1040.0,
+            "Price": 78000.0,
+            "m²": 75.0,
+            "Address": "Bieziņa 4"
+        },
+        {
+            "Price_per_m²": 1021.0,
+            "Price": 97000.0,
+            "m²": 95.0,
+            "Address": "Imantas 16. l. 18"
+        },
+        {
+            "Price_per_m²": 2193.0,
+            "Price": 125000.0,
+            "m²": 57.0,
+            "Address": "Gramzdas 82"
+        },
+        {
+            "Price_per_m²": 1019.0,
+            "Price": 107000.0,
+            "m²": 105.0,
+            "Address": "Lejiņa 6"
+        },
+        {
+            "Price_per_m²": 1927.0,
+            "Price": 237000.0,
+            "m²": 122.99,
+            "Address": "Liedes 2"
+        },
+        {
+            "Price_per_m²": 1875.0,
+            "Price": 165000.0,
+            "m²": 88.0,
+            "Address": "Augšzemes 7"
+        },
+        {
+            "Price_per_m²": 1497.0,
+            "Price": 220000.0,
+            "m²": 146.96,
+            "Address": "Anniņmuižas 13"
+        },
+        {
+            "Price_per_m²": 987.0,
+            "Price": 78000.0,
+            "m²": 79.03,
+            "Address": "Imantas 16. l. 7"
+        },
+        {
+            "Price_per_m²": 1859.0,
+            "Price": 132000.0,
+            "m²": 71.01,
+            "Address": "Gramzdas 80"
+        },
+        {
+            "Price_per_m²": 1814.0,
+            "Price": 185000.0,
+            "m²": 101.98,
+            "Address": "Liedes 2"
+        },
+        {
+            "Price_per_m²": 783.0,
+            "Price": 32900.0,
+            "m²": 42.02,
+            "Address": "Vecaines 1"
+        },
+        {
+            "Price_per_m²": 1140.0,
+            "Price": 65000.0,
+            "m²": 57.02,
+            "Address": "Anniņmuižas 4"
+        },
+        {
+            "Price_per_m²": 2029.0,
+            "Price": 138000.0,
+            "m²": 68.01,
+            "Address": "Apuzes 41"
+        },
+        {
+            "Price_per_m²": 904.0,
+            "Price": 67800.0,
+            "m²": 75.0,
+            "Address": "Lejiņa 3"
+        },
+        {
+            "Price_per_m²": 1635.0,
+            "Price": 103000.0,
+            "m²": 63.0,
+            "Address": "Anniņmuižas 7"
+        },
+        {
+            "Price_per_m²": 1011.0,
+            "Price": 92000.0,
+            "m²": 91.0,
+            "Address": "Rostokas 26"
+        },
+        {
+            "Price_per_m²": 1122.0,
+            "Price": 50500.0,
+            "m²": 45.01,
+            "Address": "Bieziņa 7"
+        },
+        {
+            "Price_per_m²": 1243.0,
+            "Price": 230000.0,
+            "m²": 185.04,
+            "Address": "Zolitūdes 46"
+        },
+        {
+            "Price_per_m²": 1686.0,
+            "Price": 145000.0,
+            "m²": 86.0,
+            "Address": "Zolitūdes 73"
+        },
+        {
+            "Price_per_m²": 1153.0,
+            "Price": 109500.0,
+            "m²": 94.97,
+            "Address": "Bieziņa 7"
+        },
+        {
+            "Price_per_m²": 933.0,
+            "Price": 83000.0,
+            "m²": 88.96,
+            "Address": "Bieziņa 9"
+        },
+        {
+            "Price_per_m²": 948.0,
+            "Price": 165000.0,
+            "m²": 174.05,
+            "Address": "Zolitūdes 75 k-3"
+        },
+        {
+            "Price_per_m²": 962.0,
+            "Price": 76000.0,
+            "m²": 79.0,
+            "Address": "Rostokas 42"
+        },
+        {
+            "Price_per_m²": 1082.0,
+            "Price": 53000.0,
+            "m²": 48.98,
+            "Address": "Anniņmuižas 2"
+        },
+        {
+            "Price_per_m²": 1145.0,
+            "Price": 87000.0,
+            "m²": 75.98,
+            "Address": "Endzelīna 7"
+        },
+        {
+            "Price_per_m²": 926.0,
+            "Price": 87950.0,
+            "m²": 94.98,
+            "Address": "Lejiņa 18"
+        },
+        {
+            "Price_per_m²": 1210.0,
+            "Price": 98000.0,
+            "m²": 80.99,
+            "Address": "Bieziņa 10"
+        },
+        {
+            "Price_per_m²": 1783.0,
+            "Price": 148000.0,
+            "m²": 83.01,
+            "Address": "Jūrkalnes 87"
+        },
+        {
+            "Price_per_m²": 1986.0,
+            "Price": 160900.0,
+            "m²": 81.02,
+            "Address": "Anniņmuižas 20"
+        },
+        {
+            "Price_per_m²": 1180.0,
+            "Price": 210000.0,
+            "m²": 177.97,
+            "Address": "Zolitūdes 46"
+        },
+        {
+            "Price_per_m²": 1741.0,
+            "Price": 94000.0,
+            "m²": 53.99,
+            "Address": "Anniņmuižas 7"
+        },
+        {
+            "Price_per_m²": 1414.0,
+            "Price": 82000.0,
+            "m²": 57.99,
+            "Address": "Lejiņa 14"
+        },
+        {
+            "Price_per_m²": 1243.0,
+            "Price": 230000.0,
+            "m²": 185.04,
+            "Address": "Zolitūdes 46"
+        },
+        {
+            "Price_per_m²": 1686.0,
+            "Price": 145000.0,
+            "m²": 86.0,
+            "Address": "Zolitūdes 73"
+        },
+        {
+            "Price_per_m²": 1153.0,
+            "Price": 109500.0,
+            "m²": 94.97,
+            "Address": "Bieziņa 7"
+        },
+        {
+            "Price_per_m²": 933.0,
+            "Price": 83000.0,
+            "m²": 88.96,
+            "Address": "Bieziņa 9"
+        },
+        {
+            "Price_per_m²": 948.0,
+            "Price": 165000.0,
+            "m²": 174.05,
+            "Address": "Zolitūdes 75 k-3"
+        },
+        {
+            "Price_per_m²": 962.0,
+            "Price": 76000.0,
+            "m²": 79.0,
+            "Address": "Rostokas 42"
+        },
+        {
+            "Price_per_m²": 1082.0,
+            "Price": 53000.0,
+            "m²": 48.98,
+            "Address": "Anniņmuižas 2"
+        },
+        {
+            "Price_per_m²": 1145.0,
+            "Price": 87000.0,
+            "m²": 75.98,
+            "Address": "Endzelīna 7"
+        },
+        {
+            "Price_per_m²": 926.0,
+            "Price": 87950.0,
+            "m²": 94.98,
+            "Address": "Lejiņa 18"
+        },
+        {
+            "Price_per_m²": 1210.0,
+            "Price": 98000.0,
+            "m²": 80.99,
+            "Address": "Bieziņa 10"
+        },
+        {
+            "Price_per_m²": 1783.0,
+            "Price": 148000.0,
+            "m²": 83.01,
+            "Address": "Jūrkalnes 87"
+        },
+        {
+            "Price_per_m²": 1986.0,
+            "Price": 160900.0,
+            "m²": 81.02,
+            "Address": "Anniņmuižas 20"
+        },
+        {
+            "Price_per_m²": 1180.0,
+            "Price": 210000.0,
+            "m²": 177.97,
+            "Address": "Zolitūdes 46"
+        },
+        {
+            "Price_per_m²": 1741.0,
+            "Price": 94000.0,
+            "m²": 53.99,
+            "Address": "Anniņmuižas 7"
+        },
+        {
+            "Price_per_m²": 1414.0,
+            "Price": 82000.0,
+            "m²": 57.99,
+            "Address": "Lejiņa 14"
+        },
+        {
+            "Price_per_m²": 1243.0,
+            "Price": 230000.0,
+            "m²": 185.04,
+            "Address": "Zolitūdes 46"
+        },
+        {
+            "Price_per_m²": 1686.0,
+            "Price": 145000.0,
+            "m²": 86.0,
+            "Address": "Zolitūdes 73"
+        },
+        {
+            "Price_per_m²": 1153.0,
+            "Price": 109500.0,
+            "m²": 94.97,
+            "Address": "Bieziņa 7"
+        },
+        {
+            "Price_per_m²": 933.0,
+            "Price": 83000.0,
+            "m²": 88.96,
+            "Address": "Bieziņa 9"
+        },
+        {
+            "Price_per_m²": 948.0,
+            "Price": 165000.0,
+            "m²": 174.05,
+            "Address": "Zolitūdes 75 k-3"
+        },
+        {
+            "Price_per_m²": 962.0,
+            "Price": 76000.0,
+            "m²": 79.0,
+            "Address": "Rostokas 42"
+        },
+        {
+            "Price_per_m²": 1082.0,
+            "Price": 53000.0,
+            "m²": 48.98,
+            "Address": "Anniņmuižas 2"
+        },
+        {
+            "Price_per_m²": 1145.0,
+            "Price": 87000.0,
+            "m²": 75.98,
+            "Address": "Endzelīna 7"
+        },
+        {
+            "Price_per_m²": 926.0,
+            "Price": 87950.0,
+            "m²": 94.98,
+            "Address": "Lejiņa 18"
+        },
+        {
+            "Price_per_m²": 1210.0,
+            "Price": 98000.0,
+            "m²": 80.99,
+            "Address": "Bieziņa 10"
+        },
+        {
+            "Price_per_m²": 1783.0,
+            "Price": 148000.0,
+            "m²": 83.01,
+            "Address": "Jūrkalnes 87"
+        },
+        {
+            "Price_per_m²": 1986.0,
+            "Price": 160900.0,
+            "m²": 81.02,
+            "Address": "Anniņmuižas 20"
+        },
+        {
+            "Price_per_m²": 1180.0,
+            "Price": 210000.0,
+            "m²": 177.97,
+            "Address": "Zolitūdes 46"
+        },
+        {
+            "Price_per_m²": 1741.0,
+            "Price": 94000.0,
+            "m²": 53.99,
+            "Address": "Anniņmuižas 7"
+        },
+        {
+            "Price_per_m²": 1414.0,
+            "Price": 82000.0,
+            "m²": 57.99,
+            "Address": "Lejiņa 14"
+        },
+        {
+            "Price_per_m²": 1243.0,
+            "Price": 230000.0,
+            "m²": 185.04,
+            "Address": "Zolitūdes 46"
+        },
+        {
+            "Price_per_m²": 1686.0,
+            "Price": 145000.0,
+            "m²": 86.0,
+            "Address": "Zolitūdes 73"
+        },
+        {
+            "Price_per_m²": 1153.0,
+            "Price": 109500.0,
+            "m²": 94.97,
+            "Address": "Bieziņa 7"
+        },
+        {
+            "Price_per_m²": 933.0,
+            "Price": 83000.0,
+            "m²": 88.96,
+            "Address": "Bieziņa 9"
+        },
+        {
+            "Price_per_m²": 948.0,
+            "Price": 165000.0,
+            "m²": 174.05,
+            "Address": "Zolitūdes 75 k-3"
+        },
+        {
+            "Price_per_m²": 962.0,
+            "Price": 76000.0,
+            "m²": 79.0,
+            "Address": "Rostokas 42"
+        },
+        {
+            "Price_per_m²": 1082.0,
+            "Price": 53000.0,
+            "m²": 48.98,
+            "Address": "Anniņmuižas 2"
+        },
+        {
+            "Price_per_m²": 1145.0,
+            "Price": 87000.0,
+            "m²": 75.98,
+            "Address": "Endzelīna 7"
+        },
+        {
+            "Price_per_m²": 926.0,
+            "Price": 87950.0,
+            "m²": 94.98,
+            "Address": "Lejiņa 18"
+        },
+        {
+            "Price_per_m²": 1210.0,
+            "Price": 98000.0,
+            "m²": 80.99,
+            "Address": "Bieziņa 10"
+        },
+        {
+            "Price_per_m²": 1783.0,
+            "Price": 148000.0,
+            "m²": 83.01,
+            "Address": "Jūrkalnes 87"
+        },
+        {
+            "Price_per_m²": 1986.0,
+            "Price": 160900.0,
+            "m²": 81.02,
+            "Address": "Anniņmuižas 20"
+        },
+        {
+            "Price_per_m²": 1180.0,
+            "Price": 210000.0,
+            "m²": 177.97,
+            "Address": "Zolitūdes 46"
+        },
+        {
+            "Price_per_m²": 1741.0,
+            "Price": 94000.0,
+            "m²": 53.99,
+            "Address": "Anniņmuižas 7"
+        },
+        {
+            "Price_per_m²": 1414.0,
+            "Price": 82000.0,
+            "m²": 57.99,
+            "Address": "Lejiņa 14"
+        },
+        {
+            "Price_per_m²": 1243.0,
+            "Price": 230000.0,
+            "m²": 185.04,
+            "Address": "Zolitūdes 46"
+        },
+        {
+            "Price_per_m²": 1686.0,
+            "Price": 145000.0,
+            "m²": 86.0,
+            "Address": "Zolitūdes 73"
+        },
+        {
+            "Price_per_m²": 1153.0,
+            "Price": 109500.0,
+            "m²": 94.97,
+            "Address": "Bieziņa 7"
+        },
+        {
+            "Price_per_m²": 933.0,
+            "Price": 83000.0,
+            "m²": 88.96,
+            "Address": "Bieziņa 9"
+        },
+        {
+            "Price_per_m²": 948.0,
+            "Price": 165000.0,
+            "m²": 174.05,
+            "Address": "Zolitūdes 75 k-3"
+        },
+        {
+            "Price_per_m²": 962.0,
+            "Price": 76000.0,
+            "m²": 79.0,
+            "Address": "Rostokas 42"
+        },
+        {
+            "Price_per_m²": 1082.0,
+            "Price": 53000.0,
+            "m²": 48.98,
+            "Address": "Anniņmuižas 2"
+        },
+        {
+            "Price_per_m²": 1145.0,
+            "Price": 87000.0,
+            "m²": 75.98,
+            "Address": "Endzelīna 7"
+        },
+        {
+            "Price_per_m²": 926.0,
+            "Price": 87950.0,
+            "m²": 94.98,
+            "Address": "Lejiņa 18"
+        },
+        {
+            "Price_per_m²": 1210.0,
+            "Price": 98000.0,
+            "m²": 80.99,
+            "Address": "Bieziņa 10"
+        },
+        {
+            "Price_per_m²": 1783.0,
+            "Price": 148000.0,
+            "m²": 83.01,
+            "Address": "Jūrkalnes 87"
+        },
+        {
+            "Price_per_m²": 1986.0,
+            "Price": 160900.0,
+            "m²": 81.02,
+            "Address": "Anniņmuižas 20"
+        },
+        {
+            "Price_per_m²": 1180.0,
+            "Price": 210000.0,
+            "m²": 177.97,
+            "Address": "Zolitūdes 46"
+        },
+        {
+            "Price_per_m²": 1741.0,
+            "Price": 94000.0,
+            "m²": 53.99,
+            "Address": "Anniņmuižas 7"
+        },
+        {
+            "Price_per_m²": 1414.0,
+            "Price": 82000.0,
+            "m²": 57.99,
+            "Address": "Lejiņa 14"
+        },
+        {
+            "Price_per_m²": 1243.0,
+            "Price": 230000.0,
+            "m²": 185.04,
+            "Address": "Zolitūdes 46"
+        },
+        {
+            "Price_per_m²": 1686.0,
+            "Price": 145000.0,
+            "m²": 86.0,
+            "Address": "Zolitūdes 73"
+        },
+        {
+            "Price_per_m²": 1153.0,
+            "Price": 109500.0,
+            "m²": 94.97,
+            "Address": "Bieziņa 7"
+        },
+        {
+            "Price_per_m²": 933.0,
+            "Price": 83000.0,
+            "m²": 88.96,
+            "Address": "Bieziņa 9"
+        },
+        {
+            "Price_per_m²": 948.0,
+            "Price": 165000.0,
+            "m²": 174.05,
+            "Address": "Zolitūdes 75 k-3"
+        },
+        {
+            "Price_per_m²": 962.0,
+            "Price": 76000.0,
+            "m²": 79.0,
+            "Address": "Rostokas 42"
+        },
+        {
+            "Price_per_m²": 1082.0,
+            "Price": 53000.0,
+            "m²": 48.98,
+            "Address": "Anniņmuižas 2"
+        },
+        {
+            "Price_per_m²": 1145.0,
+            "Price": 87000.0,
+            "m²": 75.98,
+            "Address": "Endzelīna 7"
+        },
+        {
+            "Price_per_m²": 926.0,
+            "Price": 87950.0,
+            "m²": 94.98,
+            "Address": "Lejiņa 18"
+        },
+        {
+            "Price_per_m²": 1210.0,
+            "Price": 98000.0,
+            "m²": 80.99,
+            "Address": "Bieziņa 10"
+        },
+        {
+            "Price_per_m²": 1783.0,
+            "Price": 148000.0,
+            "m²": 83.01,
+            "Address": "Jūrkalnes 87"
+        },
+        {
+            "Price_per_m²": 1986.0,
+            "Price": 160900.0,
+            "m²": 81.02,
+            "Address": "Anniņmuižas 20"
+        },
+        {
+            "Price_per_m²": 1180.0,
+            "Price": 210000.0,
+            "m²": 177.97,
+            "Address": "Zolitūdes 46"
+        },
+        {
+            "Price_per_m²": 1741.0,
+            "Price": 94000.0,
+            "m²": 53.99,
+            "Address": "Anniņmuižas 7"
+        },
+        {
+            "Price_per_m²": 1414.0,
+            "Price": 82000.0,
+            "m²": 57.99,
+            "Address": "Lejiņa 14"
+        },
+        {
+            "Price_per_m²": 1243.0,
+            "Price": 230000.0,
+            "m²": 185.04,
+            "Address": "Zolitūdes 46"
+        },
+        {
+            "Price_per_m²": 1686.0,
+            "Price": 145000.0,
+            "m²": 86.0,
+            "Address": "Zolitūdes 73"
+        },
+        {
+            "Price_per_m²": 1153.0,
+            "Price": 109500.0,
+            "m²": 94.97,
+            "Address": "Bieziņa 7"
+        },
+        {
+            "Price_per_m²": 933.0,
+            "Price": 83000.0,
+            "m²": 88.96,
+            "Address": "Bieziņa 9"
+        },
+        {
+            "Price_per_m²": 948.0,
+            "Price": 165000.0,
+            "m²": 174.05,
+            "Address": "Zolitūdes 75 k-3"
+        },
+        {
+            "Price_per_m²": 962.0,
+            "Price": 76000.0,
+            "m²": 79.0,
+            "Address": "Rostokas 42"
+        },
+        {
+            "Price_per_m²": 1082.0,
+            "Price": 53000.0,
+            "m²": 48.98,
+            "Address": "Anniņmuižas 2"
+        },
+        {
+            "Price_per_m²": 1145.0,
+            "Price": 87000.0,
+            "m²": 75.98,
+            "Address": "Endzelīna 7"
+        },
+        {
+            "Price_per_m²": 926.0,
+            "Price": 87950.0,
+            "m²": 94.98,
+            "Address": "Lejiņa 18"
+        },
+        {
+            "Price_per_m²": 1210.0,
+            "Price": 98000.0,
+            "m²": 80.99,
+            "Address": "Bieziņa 10"
+        },
+        {
+            "Price_per_m²": 1783.0,
+            "Price": 148000.0,
+            "m²": 83.01,
+            "Address": "Jūrkalnes 87"
+        },
+        {
+            "Price_per_m²": 1986.0,
+            "Price": 160900.0,
+            "m²": 81.02,
+            "Address": "Anniņmuižas 20"
+        },
+        {
+            "Price_per_m²": 1180.0,
+            "Price": 210000.0,
+            "m²": 177.97,
+            "Address": "Zolitūdes 46"
+        },
+        {
+            "Price_per_m²": 1741.0,
+            "Price": 94000.0,
+            "m²": 53.99,
+            "Address": "Anniņmuižas 7"
+        },
+        {
+            "Price_per_m²": 1414.0,
+            "Price": 82000.0,
+            "m²": 57.99,
+            "Address": "Lejiņa 14"
+        },
+        {
+            "Price_per_m²": 1243.0,
+            "Price": 230000.0,
+            "m²": 185.04,
+            "Address": "Zolitūdes 46"
+        },
+        {
+            "Price_per_m²": 1686.0,
+            "Price": 145000.0,
+            "m²": 86.0,
+            "Address": "Zolitūdes 73"
+        },
+        {
+            "Price_per_m²": 1153.0,
+            "Price": 109500.0,
+            "m²": 94.97,
+            "Address": "Bieziņa 7"
+        },
+        {
+            "Price_per_m²": 933.0,
+            "Price": 83000.0,
+            "m²": 88.96,
+            "Address": "Bieziņa 9"
+        },
+        {
+            "Price_per_m²": 948.0,
+            "Price": 165000.0,
+            "m²": 174.05,
+            "Address": "Zolitūdes 75 k-3"
+        },
+        {
+            "Price_per_m²": 962.0,
+            "Price": 76000.0,
+            "m²": 79.0,
+            "Address": "Rostokas 42"
+        },
+        {
+            "Price_per_m²": 1082.0,
+            "Price": 53000.0,
+            "m²": 48.98,
+            "Address": "Anniņmuižas 2"
+        },
+        {
+            "Price_per_m²": 1145.0,
+            "Price": 87000.0,
+            "m²": 75.98,
+            "Address": "Endzelīna 7"
+        },
+        {
+            "Price_per_m²": 926.0,
+            "Price": 87950.0,
+            "m²": 94.98,
+            "Address": "Lejiņa 18"
+        },
+        {
+            "Price_per_m²": 1210.0,
+            "Price": 98000.0,
+            "m²": 80.99,
+            "Address": "Bieziņa 10"
+        },
+        {
+            "Price_per_m²": 1783.0,
+            "Price": 148000.0,
+            "m²": 83.01,
+            "Address": "Jūrkalnes 87"
+        },
+        {
+            "Price_per_m²": 1986.0,
+            "Price": 160900.0,
+            "m²": 81.02,
+            "Address": "Anniņmuižas 20"
+        },
+        {
+            "Price_per_m²": 1180.0,
+            "Price": 210000.0,
+            "m²": 177.97,
+            "Address": "Zolitūdes 46"
+        },
+        {
+            "Price_per_m²": 1741.0,
+            "Price": 94000.0,
+            "m²": 53.99,
+            "Address": "Anniņmuižas 7"
+        },
+        {
+            "Price_per_m²": 1414.0,
+            "Price": 82000.0,
+            "m²": 57.99,
+            "Address": "Lejiņa 14"
+        },
+        {
+            "Price_per_m²": 1243.0,
+            "Price": 230000.0,
+            "m²": 185.04,
+            "Address": "Zolitūdes 46"
+        },
+        {
+            "Price_per_m²": 1686.0,
+            "Price": 145000.0,
+            "m²": 86.0,
+            "Address": "Zolitūdes 73"
+        },
+        {
+            "Price_per_m²": 1153.0,
+            "Price": 109500.0,
+            "m²": 94.97,
+            "Address": "Bieziņa 7"
+        },
+        {
+            "Price_per_m²": 933.0,
+            "Price": 83000.0,
+            "m²": 88.96,
+            "Address": "Bieziņa 9"
+        },
+        {
+            "Price_per_m²": 948.0,
+            "Price": 165000.0,
+            "m²": 174.05,
+            "Address": "Zolitūdes 75 k-3"
+        },
+        {
+            "Price_per_m²": 962.0,
+            "Price": 76000.0,
+            "m²": 79.0,
+            "Address": "Rostokas 42"
+        },
+        {
+            "Price_per_m²": 1082.0,
+            "Price": 53000.0,
+            "m²": 48.98,
+            "Address": "Anniņmuižas 2"
+        },
+        {
+            "Price_per_m²": 1145.0,
+            "Price": 87000.0,
+            "m²": 75.98,
+            "Address": "Endzelīna 7"
+        },
+        {
+            "Price_per_m²": 926.0,
+            "Price": 87950.0,
+            "m²": 94.98,
+            "Address": "Lejiņa 18"
+        },
+        {
+            "Price_per_m²": 1210.0,
+            "Price": 98000.0,
+            "m²": 80.99,
+            "Address": "Bieziņa 10"
+        },
+        {
+            "Price_per_m²": 1783.0,
+            "Price": 148000.0,
+            "m²": 83.01,
+            "Address": "Jūrkalnes 87"
+        },
+        {
+            "Price_per_m²": 1986.0,
+            "Price": 160900.0,
+            "m²": 81.02,
+            "Address": "Anniņmuižas 20"
+        },
+        {
+            "Price_per_m²": 1180.0,
+            "Price": 210000.0,
+            "m²": 177.97,
+            "Address": "Zolitūdes 46"
+        },
+        {
+            "Price_per_m²": 1741.0,
+            "Price": 94000.0,
+            "m²": 53.99,
+            "Address": "Anniņmuižas 7"
+        },
+        {
+            "Price_per_m²": 1414.0,
+            "Price": 82000.0,
+            "m²": 57.99,
+            "Address": "Lejiņa 14"
+        },
+        {
+            "Price_per_m²": 1243.0,
+            "Price": 230000.0,
+            "m²": 185.04,
+            "Address": "Zolitūdes 46"
+        },
+        {
+            "Price_per_m²": 1686.0,
+            "Price": 145000.0,
+            "m²": 86.0,
+            "Address": "Zolitūdes 73"
+        },
+        {
+            "Price_per_m²": 1153.0,
+            "Price": 109500.0,
+            "m²": 94.97,
+            "Address": "Bieziņa 7"
+        },
+        {
+            "Price_per_m²": 933.0,
+            "Price": 83000.0,
+            "m²": 88.96,
+            "Address": "Bieziņa 9"
+        },
+        {
+            "Price_per_m²": 948.0,
+            "Price": 165000.0,
+            "m²": 174.05,
+            "Address": "Zolitūdes 75 k-3"
+        },
+        {
+            "Price_per_m²": 962.0,
+            "Price": 76000.0,
+            "m²": 79.0,
+            "Address": "Rostokas 42"
+        },
+        {
+            "Price_per_m²": 1082.0,
+            "Price": 53000.0,
+            "m²": 48.98,
+            "Address": "Anniņmuižas 2"
+        },
+        {
+            "Price_per_m²": 1145.0,
+            "Price": 87000.0,
+            "m²": 75.98,
+            "Address": "Endzelīna 7"
+        },
+        {
+            "Price_per_m²": 926.0,
+            "Price": 87950.0,
+            "m²": 94.98,
+            "Address": "Lejiņa 18"
+        },
+        {
+            "Price_per_m²": 1210.0,
+            "Price": 98000.0,
+            "m²": 80.99,
+            "Address": "Bieziņa 10"
+        },
+        {
+            "Price_per_m²": 1783.0,
+            "Price": 148000.0,
+            "m²": 83.01,
+            "Address": "Jūrkalnes 87"
+        },
+        {
+            "Price_per_m²": 1986.0,
+            "Price": 160900.0,
+            "m²": 81.02,
+            "Address": "Anniņmuižas 20"
+        },
+        {
+            "Price_per_m²": 1180.0,
+            "Price": 210000.0,
+            "m²": 177.97,
+            "Address": "Zolitūdes 46"
+        },
+        {
+            "Price_per_m²": 1741.0,
+            "Price": 94000.0,
+            "m²": 53.99,
+            "Address": "Anniņmuižas 7"
+        },
+        {
+            "Price_per_m²": 1414.0,
+            "Price": 82000.0,
+            "m²": 57.99,
+            "Address": "Lejiņa 14"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 8.67,
+            "Price": 650.0,
+            "m²": 74.97,
+            "Address": "Gramzdas 19"
+        },
+        {
+            "Price_per_m²": 5.71,
+            "Price": 320.0,
+            "m²": 56.04,
+            "Address": "Gramzdas 17"
+        },
+        {
+            "Price_per_m²": 7.06,
+            "Price": 600.0,
+            "m²": 84.99,
+            "Address": "Zolitūdes 75"
+        },
+        {
+            "Price_per_m²": 6.98,
+            "Price": 300.0,
+            "m²": 42.98,
+            "Address": "Lejiņa 87"
+        },
+        {
+            "Price_per_m²": 8.51,
+            "Price": 400.0,
+            "m²": 47.0,
+            "Address": "Zolitūdes 75"
+        },
+        {
+            "Price_per_m²": 6.23,
+            "Price": 480.0,
+            "m²": 77.05,
+            "Address": "Lejiņa 7"
+        },
+        {
+            "Price_per_m²": 7.69,
+            "Price": 700.0,
+            "m²": 91.03,
+            "Address": "Augšzemes 7"
+        },
+        {
+            "Price_per_m²": 9.44,
+            "Price": 850.0,
+            "m²": 90.04,
+            "Address": "Gramzdas 82"
+        },
+        {
+            "Price_per_m²": 7.61,
+            "Price": 350.0,
+            "m²": 45.99,
+            "Address": "Zolitūdes 34"
+        },
+        {
+            "Price_per_m²": 10.16,
+            "Price": 650.0,
+            "m²": 63.98,
+            "Address": "Zolitūdes 64"
+        },
+        {
+            "Price_per_m²": 5.33,
+            "Price": 400.0,
+            "m²": 75.05,
+            "Address": "Ruses 3"
+        },
+        {
+            "Price_per_m²": 6.41,
+            "Price": 500.0,
+            "m²": 78.0,
+            "Address": "Ruses 1"
+        },
+        {
+            "Price_per_m²": 7.43,
+            "Price": 550.0,
+            "m²": 74.02,
+            "Address": "Bieziņa 4"
+        },
+        {
+            "Price_per_m²": 9.09,
+            "Price": 500.0,
+            "m²": 55.01,
+            "Address": "Gramzdas 80"
+        },
+        {
+            "Price_per_m²": 7.48,
+            "Price": 1100.0,
+            "m²": 147.06,
+            "Address": "Anniņmuižas 13"
+        },
+        {
+            "Price_per_m²": 8.67,
+            "Price": 650.0,
+            "m²": 74.97,
+            "Address": "Gramzdas 19"
+        },
+        {
+            "Price_per_m²": 5.71,
+            "Price": 320.0,
+            "m²": 56.04,
+            "Address": "Gramzdas 17"
+        },
+        {
+            "Price_per_m²": 7.06,
+            "Price": 600.0,
+            "m²": 84.99,
+            "Address": "Zolitūdes 75"
+        },
+        {
+            "Price_per_m²": 6.98,
+            "Price": 300.0,
+            "m²": 42.98,
+            "Address": "Lejiņa 87"
+        },
+        {
+            "Price_per_m²": 8.51,
+            "Price": 400.0,
+            "m²": 47.0,
+            "Address": "Zolitūdes 75"
+        },
+        {
+            "Price_per_m²": 6.23,
+            "Price": 480.0,
+            "m²": 77.05,
+            "Address": "Lejiņa 7"
+        },
+        {
+            "Price_per_m²": 8.67,
+            "Price": 650.0,
+            "m²": 74.97,
+            "Address": "Gramzdas 19"
+        },
+        {
+            "Price_per_m²": 5.71,
+            "Price": 320.0,
+            "m²": 56.04,
+            "Address": "Gramzdas 17"
+        },
+        {
+            "Price_per_m²": 7.06,
+            "Price": 600.0,
+            "m²": 84.99,
+            "Address": "Zolitūdes 75"
+        },
+        {
+            "Price_per_m²": 6.98,
+            "Price": 300.0,
+            "m²": 42.98,
+            "Address": "Lejiņa 87"
+        },
+        {
+            "Price_per_m²": 8.51,
+            "Price": 400.0,
+            "m²": 47.0,
+            "Address": "Zolitūdes 75"
+        },
+        {
+            "Price_per_m²": 6.23,
+            "Price": 480.0,
+            "m²": 77.05,
+            "Address": "Lejiņa 7"
+        },
+        {
+            "Price_per_m²": 8.67,
+            "Price": 650.0,
+            "m²": 74.97,
+            "Address": "Gramzdas 19"
+        },
+        {
+            "Price_per_m²": 5.71,
+            "Price": 320.0,
+            "m²": 56.04,
+            "Address": "Gramzdas 17"
+        },
+        {
+            "Price_per_m²": 7.06,
+            "Price": 600.0,
+            "m²": 84.99,
+            "Address": "Zolitūdes 75"
+        },
+        {
+            "Price_per_m²": 6.98,
+            "Price": 300.0,
+            "m²": 42.98,
+            "Address": "Lejiņa 87"
+        },
+        {
+            "Price_per_m²": 8.51,
+            "Price": 400.0,
+            "m²": 47.0,
+            "Address": "Zolitūdes 75"
+        },
+        {
+            "Price_per_m²": 6.23,
+            "Price": 480.0,
+            "m²": 77.05,
+            "Address": "Lejiņa 7"
+        },
+        {
+            "Price_per_m²": 8.67,
+            "Price": 650.0,
+            "m²": 74.97,
+            "Address": "Gramzdas 19"
+        },
+        {
+            "Price_per_m²": 5.71,
+            "Price": 320.0,
+            "m²": 56.04,
+            "Address": "Gramzdas 17"
+        },
+        {
+            "Price_per_m²": 7.06,
+            "Price": 600.0,
+            "m²": 84.99,
+            "Address": "Zolitūdes 75"
+        },
+        {
+            "Price_per_m²": 6.98,
+            "Price": 300.0,
+            "m²": 42.98,
+            "Address": "Lejiņa 87"
+        },
+        {
+            "Price_per_m²": 8.51,
+            "Price": 400.0,
+            "m²": 47.0,
+            "Address": "Zolitūdes 75"
+        },
+        {
+            "Price_per_m²": 6.23,
+            "Price": 480.0,
+            "m²": 77.05,
+            "Address": "Lejiņa 7"
+        },
+        {
+            "Price_per_m²": 8.67,
+            "Price": 650.0,
+            "m²": 74.97,
+            "Address": "Gramzdas 19"
+        },
+        {
+            "Price_per_m²": 5.71,
+            "Price": 320.0,
+            "m²": 56.04,
+            "Address": "Gramzdas 17"
+        },
+        {
+            "Price_per_m²": 7.06,
+            "Price": 600.0,
+            "m²": 84.99,
+            "Address": "Zolitūdes 75"
+        },
+        {
+            "Price_per_m²": 6.98,
+            "Price": 300.0,
+            "m²": 42.98,
+            "Address": "Lejiņa 87"
+        },
+        {
+            "Price_per_m²": 8.51,
+            "Price": 400.0,
+            "m²": 47.0,
+            "Address": "Zolitūdes 75"
+        },
+        {
+            "Price_per_m²": 6.23,
+            "Price": 480.0,
+            "m²": 77.05,
+            "Address": "Lejiņa 7"
+        },
+        {
+            "Price_per_m²": 8.67,
+            "Price": 650.0,
+            "m²": 74.97,
+            "Address": "Gramzdas 19"
+        },
+        {
+            "Price_per_m²": 5.71,
+            "Price": 320.0,
+            "m²": 56.04,
+            "Address": "Gramzdas 17"
+        },
+        {
+            "Price_per_m²": 7.06,
+            "Price": 600.0,
+            "m²": 84.99,
+            "Address": "Zolitūdes 75"
+        },
+        {
+            "Price_per_m²": 6.98,
+            "Price": 300.0,
+            "m²": 42.98,
+            "Address": "Lejiņa 87"
+        },
+        {
+            "Price_per_m²": 8.51,
+            "Price": 400.0,
+            "m²": 47.0,
+            "Address": "Zolitūdes 75"
+        },
+        {
+            "Price_per_m²": 6.23,
+            "Price": 480.0,
+            "m²": 77.05,
+            "Address": "Lejiņa 7"
+        },
+        {
+            "Price_per_m²": 8.67,
+            "Price": 650.0,
+            "m²": 74.97,
+            "Address": "Gramzdas 19"
+        },
+        {
+            "Price_per_m²": 5.71,
+            "Price": 320.0,
+            "m²": 56.04,
+            "Address": "Gramzdas 17"
+        },
+        {
+            "Price_per_m²": 7.06,
+            "Price": 600.0,
+            "m²": 84.99,
+            "Address": "Zolitūdes 75"
+        },
+        {
+            "Price_per_m²": 6.98,
+            "Price": 300.0,
+            "m²": 42.98,
+            "Address": "Lejiņa 87"
+        },
+        {
+            "Price_per_m²": 8.51,
+            "Price": 400.0,
+            "m²": 47.0,
+            "Address": "Zolitūdes 75"
+        },
+        {
+            "Price_per_m²": 6.23,
+            "Price": 480.0,
+            "m²": 77.05,
+            "Address": "Lejiņa 7"
+        },
+        {
+            "Price_per_m²": 8.67,
+            "Price": 650.0,
+            "m²": 74.97,
+            "Address": "Gramzdas 19"
+        },
+        {
+            "Price_per_m²": 5.71,
+            "Price": 320.0,
+            "m²": 56.04,
+            "Address": "Gramzdas 17"
+        },
+        {
+            "Price_per_m²": 7.06,
+            "Price": 600.0,
+            "m²": 84.99,
+            "Address": "Zolitūdes 75"
+        },
+        {
+            "Price_per_m²": 6.98,
+            "Price": 300.0,
+            "m²": 42.98,
+            "Address": "Lejiņa 87"
+        },
+        {
+            "Price_per_m²": 8.51,
+            "Price": 400.0,
+            "m²": 47.0,
+            "Address": "Zolitūdes 75"
+        },
+        {
+            "Price_per_m²": 6.23,
+            "Price": 480.0,
+            "m²": 77.05,
+            "Address": "Lejiņa 7"
+        },
+        {
+            "Price_per_m²": 8.67,
+            "Price": 650.0,
+            "m²": 74.97,
+            "Address": "Gramzdas 19"
+        },
+        {
+            "Price_per_m²": 5.71,
+            "Price": 320.0,
+            "m²": 56.04,
+            "Address": "Gramzdas 17"
+        },
+        {
+            "Price_per_m²": 7.06,
+            "Price": 600.0,
+            "m²": 84.99,
+            "Address": "Zolitūdes 75"
+        },
+        {
+            "Price_per_m²": 6.98,
+            "Price": 300.0,
+            "m²": 42.98,
+            "Address": "Lejiņa 87"
+        },
+        {
+            "Price_per_m²": 8.51,
+            "Price": 400.0,
+            "m²": 47.0,
+            "Address": "Zolitūdes 75"
+        },
+        {
+            "Price_per_m²": 6.23,
+            "Price": 480.0,
+            "m²": 77.05,
+            "Address": "Lejiņa 7"
+        },
+        {
+            "Price_per_m²": 8.67,
+            "Price": 650.0,
+            "m²": 74.97,
+            "Address": "Gramzdas 19"
+        },
+        {
+            "Price_per_m²": 5.71,
+            "Price": 320.0,
+            "m²": 56.04,
+            "Address": "Gramzdas 17"
+        },
+        {
+            "Price_per_m²": 7.06,
+            "Price": 600.0,
+            "m²": 84.99,
+            "Address": "Zolitūdes 75"
+        },
+        {
+            "Price_per_m²": 6.98,
+            "Price": 300.0,
+            "m²": 42.98,
+            "Address": "Lejiņa 87"
+        },
+        {
+            "Price_per_m²": 8.51,
+            "Price": 400.0,
+            "m²": 47.0,
+            "Address": "Zolitūdes 75"
+        },
+        {
+            "Price_per_m²": 6.23,
+            "Price": 480.0,
+            "m²": 77.05,
+            "Address": "Lejiņa 7"
+        }
+    ],
+    "daily": []
+}

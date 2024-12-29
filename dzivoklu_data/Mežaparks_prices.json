@@ -1,0 +1,955 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 2412.0,
+            "Price": 164000.0,
+            "m²": 67.99,
+            "Address": "Inčukalna 4"
+        },
+        {
+            "Price_per_m²": 1922.0,
+            "Price": 294000.0,
+            "m²": 152.97,
+            "Address": "Visbijas pr. 6/8"
+        },
+        {
+            "Price_per_m²": 1409.0,
+            "Price": 26772.0,
+            "m²": 19.0,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1380.0,
+            "Price": 26220.0,
+            "m²": 19.0,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1369.0,
+            "Price": 32844.0,
+            "m²": 23.99,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 2143.0,
+            "Price": 120000.0,
+            "m²": 56.0,
+            "Address": "Kokneses pr. 4 k-1"
+        },
+        {
+            "Price_per_m²": 2206.0,
+            "Price": 75000.0,
+            "m²": 34.0,
+            "Address": "Ķīšezera 17"
+        },
+        {
+            "Price_per_m²": 2574.0,
+            "Price": 175000.0,
+            "m²": 67.99,
+            "Address": "Ostas pr. 9"
+        },
+        {
+            "Price_per_m²": 1172.0,
+            "Price": 75000.0,
+            "m²": 63.99,
+            "Address": "Viestura pr. 79"
+        },
+        {
+            "Price_per_m²": 2305.0,
+            "Price": 64540.0,
+            "m²": 28.0,
+            "Address": "Gaujas 63"
+        },
+        {
+            "Price_per_m²": 2370.0,
+            "Price": 73470.0,
+            "m²": 31.0,
+            "Address": "Gaujas 63"
+        },
+        {
+            "Price_per_m²": 1376.0,
+            "Price": 39900.0,
+            "m²": 29.0,
+            "Address": "Ezermalas 4A"
+        },
+        {
+            "Price_per_m²": 3043.0,
+            "Price": 210000.0,
+            "m²": 69.01,
+            "Address": "Ķempes 2A"
+        },
+        {
+            "Price_per_m²": 2702.0,
+            "Price": 127000.0,
+            "m²": 47.0,
+            "Address": "Ķempes 2A"
+        },
+        {
+            "Price_per_m²": 3189.0,
+            "Price": 118000.0,
+            "m²": 37.0,
+            "Address": "Ķempes 2"
+        },
+        {
+            "Price_per_m²": 2652.0,
+            "Price": 122000.0,
+            "m²": 46.0,
+            "Address": "Ķempes 2A"
+        },
+        {
+            "Price_per_m²": 2101.0,
+            "Price": 540000.0,
+            "m²": 257.02,
+            "Address": "Ščecinas 8"
+        },
+        {
+            "Price_per_m²": 1886.0,
+            "Price": 149000.0,
+            "m²": 79.0,
+            "Address": "Inčukalna 2"
+        },
+        {
+            "Price_per_m²": 1286.0,
+            "Price": 45000.0,
+            "m²": 34.99,
+            "Address": "Ezermalas 2a"
+        },
+        {
+            "Price_per_m²": 1018.0,
+            "Price": 44800.0,
+            "m²": 44.01,
+            "Address": "Viestura pr. 35"
+        },
+        {
+            "Price_per_m²": 1387.0,
+            "Price": 29118.0,
+            "m²": 20.99,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 2718.0,
+            "Price": 135900.0,
+            "m²": 50.0,
+            "Address": "Ķīšezera 10"
+        },
+        {
+            "Price_per_m²": 2861.0,
+            "Price": 228900.0,
+            "m²": 80.01,
+            "Address": "Ķīšezera 10"
+        },
+        {
+            "Price_per_m²": 3016.0,
+            "Price": 190000.0,
+            "m²": 63.0,
+            "Address": "Ķempes 2"
+        },
+        {
+            "Price_per_m²": 1536.0,
+            "Price": 86000.0,
+            "m²": 55.99,
+            "Address": "Ezermalas 4a"
+        },
+        {
+            "Price_per_m²": 2618.0,
+            "Price": 89000.0,
+            "m²": 34.0,
+            "Address": "Inčukalna 2"
+        },
+        {
+            "Price_per_m²": 2377.0,
+            "Price": 164000.0,
+            "m²": 68.99,
+            "Address": "Inčukalna 2"
+        },
+        {
+            "Price_per_m²": 2628.0,
+            "Price": 205000.0,
+            "m²": 78.01,
+            "Address": "Inčukalna 2"
+        },
+        {
+            "Price_per_m²": 1222.0,
+            "Price": 55000.0,
+            "m²": 45.01,
+            "Address": "Ostas pr. 4"
+        },
+        {
+            "Price_per_m²": 2934.0,
+            "Price": 137900.0,
+            "m²": 47.0,
+            "Address": "Ķempes 2"
+        },
+        {
+            "Price_per_m²": 1918.0,
+            "Price": 118900.0,
+            "m²": 61.99,
+            "Address": "Ķempes 2A"
+        },
+        {
+            "Price_per_m²": 2636.0,
+            "Price": 123900.0,
+            "m²": 47.0,
+            "Address": "Ķempes 2"
+        },
+        {
+            "Price_per_m²": 2721.0,
+            "Price": 127900.0,
+            "m²": 47.0,
+            "Address": "Ķempes 2"
+        },
+        {
+            "Price_per_m²": 2633.0,
+            "Price": 165900.0,
+            "m²": 63.01,
+            "Address": "Ķempes 2"
+        },
+        {
+            "Price_per_m²": 611.0,
+            "Price": 44000.0,
+            "m²": 72.01,
+            "Address": "Stendera 9"
+        },
+        {
+            "Price_per_m²": 2801.0,
+            "Price": 212900.0,
+            "m²": 76.01,
+            "Address": "Ķempes 2"
+        },
+        {
+            "Price_per_m²": 2623.0,
+            "Price": 104900.0,
+            "m²": 39.99,
+            "Address": "Ķempes 2"
+        },
+        {
+            "Price_per_m²": 2775.0,
+            "Price": 99900.0,
+            "m²": 36.0,
+            "Address": "Ķempes 2"
+        },
+        {
+            "Price_per_m²": 1029.0,
+            "Price": 52500.0,
+            "m²": 51.02,
+            "Address": "Ezermalas 2"
+        },
+        {
+            "Price_per_m²": 2839.0,
+            "Price": 212900.0,
+            "m²": 74.99,
+            "Address": "Ķempes 2"
+        },
+        {
+            "Price_per_m²": 1352.0,
+            "Price": 27048.0,
+            "m²": 20.01,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 2101.0,
+            "Price": 540000.0,
+            "m²": 257.02,
+            "Address": "Ščecinas 8"
+        },
+        {
+            "Price_per_m²": 1588.0,
+            "Price": 53990.0,
+            "m²": 34.0,
+            "Address": "Ezermalas 27"
+        },
+        {
+            "Price_per_m²": 2014.0,
+            "Price": 280000.0,
+            "m²": 139.03,
+            "Address": "Kokneses pr. 4"
+        },
+        {
+            "Price_per_m²": 2352.0,
+            "Price": 49400.0,
+            "m²": 21.0,
+            "Address": "Gaujas 63"
+        },
+        {
+            "Price_per_m²": 1687.0,
+            "Price": 113000.0,
+            "m²": 66.98,
+            "Address": "Ķempes 4"
+        },
+        {
+            "Price_per_m²": 1585.0,
+            "Price": 53900.0,
+            "m²": 34.01,
+            "Address": "Ezermalas 27"
+        },
+        {
+            "Price_per_m²": 2377.0,
+            "Price": 164000.0,
+            "m²": 68.99,
+            "Address": "Inčukalna 2"
+        },
+        {
+            "Price_per_m²": 1519.0,
+            "Price": 120000.0,
+            "m²": 79.0,
+            "Address": "Viestura pr. 75"
+        },
+        {
+            "Price_per_m²": 2302.0,
+            "Price": 564000.0,
+            "m²": 245.0,
+            "Address": "Jaunā Mežaparka 36"
+        },
+        {
+            "Price_per_m²": 1759.0,
+            "Price": 153000.0,
+            "m²": 86.98,
+            "Address": "Ezermalas 13"
+        },
+        {
+            "Price_per_m²": 935.0,
+            "Price": 42990.0,
+            "m²": 45.98,
+            "Address": "Viestura pr. 33/1"
+        },
+        {
+            "Price_per_m²": 1945.0,
+            "Price": 214000.0,
+            "m²": 110.03,
+            "Address": "Ezermalas 13"
+        },
+        {
+            "Price_per_m²": 2412.0,
+            "Price": 164000.0,
+            "m²": 67.99,
+            "Address": "Inčukalna 4"
+        },
+        {
+            "Price_per_m²": 1922.0,
+            "Price": 294000.0,
+            "m²": 152.97,
+            "Address": "Visbijas pr. 6/8"
+        },
+        {
+            "Price_per_m²": 1409.0,
+            "Price": 26772.0,
+            "m²": 19.0,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1380.0,
+            "Price": 26220.0,
+            "m²": 19.0,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1369.0,
+            "Price": 32844.0,
+            "m²": 23.99,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 2143.0,
+            "Price": 120000.0,
+            "m²": 56.0,
+            "Address": "Kokneses pr. 4 k-1"
+        },
+        {
+            "Price_per_m²": 2206.0,
+            "Price": 75000.0,
+            "m²": 34.0,
+            "Address": "Ķīšezera 17"
+        },
+        {
+            "Price_per_m²": 2574.0,
+            "Price": 175000.0,
+            "m²": 67.99,
+            "Address": "Ostas pr. 9"
+        },
+        {
+            "Price_per_m²": 1172.0,
+            "Price": 75000.0,
+            "m²": 63.99,
+            "Address": "Viestura pr. 79"
+        },
+        {
+            "Price_per_m²": 2305.0,
+            "Price": 64540.0,
+            "m²": 28.0,
+            "Address": "Gaujas 63"
+        },
+        {
+            "Price_per_m²": 2370.0,
+            "Price": 73470.0,
+            "m²": 31.0,
+            "Address": "Gaujas 63"
+        },
+        {
+            "Price_per_m²": 1376.0,
+            "Price": 39900.0,
+            "m²": 29.0,
+            "Address": "Ezermalas 4A"
+        },
+        {
+            "Price_per_m²": 3043.0,
+            "Price": 210000.0,
+            "m²": 69.01,
+            "Address": "Ķempes 2A"
+        },
+        {
+            "Price_per_m²": 2702.0,
+            "Price": 127000.0,
+            "m²": 47.0,
+            "Address": "Ķempes 2A"
+        },
+        {
+            "Price_per_m²": 3189.0,
+            "Price": 118000.0,
+            "m²": 37.0,
+            "Address": "Ķempes 2"
+        },
+        {
+            "Price_per_m²": 2652.0,
+            "Price": 122000.0,
+            "m²": 46.0,
+            "Address": "Ķempes 2A"
+        },
+        {
+            "Price_per_m²": 2101.0,
+            "Price": 540000.0,
+            "m²": 257.02,
+            "Address": "Ščecinas 8"
+        },
+        {
+            "Price_per_m²": 1886.0,
+            "Price": 149000.0,
+            "m²": 79.0,
+            "Address": "Inčukalna 2"
+        },
+        {
+            "Price_per_m²": 1286.0,
+            "Price": 45000.0,
+            "m²": 34.99,
+            "Address": "Ezermalas 2a"
+        },
+        {
+            "Price_per_m²": 2412.0,
+            "Price": 164000.0,
+            "m²": 67.99,
+            "Address": "Inčukalna 4"
+        },
+        {
+            "Price_per_m²": 1922.0,
+            "Price": 294000.0,
+            "m²": 152.97,
+            "Address": "Visbijas pr. 6/8"
+        },
+        {
+            "Price_per_m²": 1409.0,
+            "Price": 26772.0,
+            "m²": 19.0,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1380.0,
+            "Price": 26220.0,
+            "m²": 19.0,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1369.0,
+            "Price": 32844.0,
+            "m²": 23.99,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 2143.0,
+            "Price": 120000.0,
+            "m²": 56.0,
+            "Address": "Kokneses pr. 4 k-1"
+        },
+        {
+            "Price_per_m²": 2206.0,
+            "Price": 75000.0,
+            "m²": 34.0,
+            "Address": "Ķīšezera 17"
+        },
+        {
+            "Price_per_m²": 2574.0,
+            "Price": 175000.0,
+            "m²": 67.99,
+            "Address": "Ostas pr. 9"
+        },
+        {
+            "Price_per_m²": 1172.0,
+            "Price": 75000.0,
+            "m²": 63.99,
+            "Address": "Viestura pr. 79"
+        },
+        {
+            "Price_per_m²": 2305.0,
+            "Price": 64540.0,
+            "m²": 28.0,
+            "Address": "Gaujas 63"
+        },
+        {
+            "Price_per_m²": 2370.0,
+            "Price": 73470.0,
+            "m²": 31.0,
+            "Address": "Gaujas 63"
+        },
+        {
+            "Price_per_m²": 1376.0,
+            "Price": 39900.0,
+            "m²": 29.0,
+            "Address": "Ezermalas 4A"
+        },
+        {
+            "Price_per_m²": 3043.0,
+            "Price": 210000.0,
+            "m²": 69.01,
+            "Address": "Ķempes 2A"
+        },
+        {
+            "Price_per_m²": 2702.0,
+            "Price": 127000.0,
+            "m²": 47.0,
+            "Address": "Ķempes 2A"
+        },
+        {
+            "Price_per_m²": 3189.0,
+            "Price": 118000.0,
+            "m²": 37.0,
+            "Address": "Ķempes 2"
+        },
+        {
+            "Price_per_m²": 2652.0,
+            "Price": 122000.0,
+            "m²": 46.0,
+            "Address": "Ķempes 2A"
+        },
+        {
+            "Price_per_m²": 2101.0,
+            "Price": 540000.0,
+            "m²": 257.02,
+            "Address": "Ščecinas 8"
+        },
+        {
+            "Price_per_m²": 1886.0,
+            "Price": 149000.0,
+            "m²": 79.0,
+            "Address": "Inčukalna 2"
+        },
+        {
+            "Price_per_m²": 1286.0,
+            "Price": 45000.0,
+            "m²": 34.99,
+            "Address": "Ezermalas 2a"
+        },
+        {
+            "Price_per_m²": 2412.0,
+            "Price": 164000.0,
+            "m²": 67.99,
+            "Address": "Inčukalna 4"
+        },
+        {
+            "Price_per_m²": 1922.0,
+            "Price": 294000.0,
+            "m²": 152.97,
+            "Address": "Visbijas pr. 6/8"
+        },
+        {
+            "Price_per_m²": 1409.0,
+            "Price": 26772.0,
+            "m²": 19.0,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1380.0,
+            "Price": 26220.0,
+            "m²": 19.0,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1369.0,
+            "Price": 32844.0,
+            "m²": 23.99,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 2143.0,
+            "Price": 120000.0,
+            "m²": 56.0,
+            "Address": "Kokneses pr. 4 k-1"
+        },
+        {
+            "Price_per_m²": 2206.0,
+            "Price": 75000.0,
+            "m²": 34.0,
+            "Address": "Ķīšezera 17"
+        },
+        {
+            "Price_per_m²": 2574.0,
+            "Price": 175000.0,
+            "m²": 67.99,
+            "Address": "Ostas pr. 9"
+        },
+        {
+            "Price_per_m²": 1172.0,
+            "Price": 75000.0,
+            "m²": 63.99,
+            "Address": "Viestura pr. 79"
+        },
+        {
+            "Price_per_m²": 2305.0,
+            "Price": 64540.0,
+            "m²": 28.0,
+            "Address": "Gaujas 63"
+        },
+        {
+            "Price_per_m²": 2370.0,
+            "Price": 73470.0,
+            "m²": 31.0,
+            "Address": "Gaujas 63"
+        },
+        {
+            "Price_per_m²": 1376.0,
+            "Price": 39900.0,
+            "m²": 29.0,
+            "Address": "Ezermalas 4A"
+        },
+        {
+            "Price_per_m²": 3043.0,
+            "Price": 210000.0,
+            "m²": 69.01,
+            "Address": "Ķempes 2A"
+        },
+        {
+            "Price_per_m²": 2702.0,
+            "Price": 127000.0,
+            "m²": 47.0,
+            "Address": "Ķempes 2A"
+        },
+        {
+            "Price_per_m²": 3189.0,
+            "Price": 118000.0,
+            "m²": 37.0,
+            "Address": "Ķempes 2"
+        },
+        {
+            "Price_per_m²": 2652.0,
+            "Price": 122000.0,
+            "m²": 46.0,
+            "Address": "Ķempes 2A"
+        },
+        {
+            "Price_per_m²": 2101.0,
+            "Price": 540000.0,
+            "m²": 257.02,
+            "Address": "Ščecinas 8"
+        },
+        {
+            "Price_per_m²": 1886.0,
+            "Price": 149000.0,
+            "m²": 79.0,
+            "Address": "Inčukalna 2"
+        },
+        {
+            "Price_per_m²": 1286.0,
+            "Price": 45000.0,
+            "m²": 34.99,
+            "Address": "Ezermalas 2a"
+        },
+        {
+            "Price_per_m²": 2412.0,
+            "Price": 164000.0,
+            "m²": 67.99,
+            "Address": "Inčukalna 4"
+        },
+        {
+            "Price_per_m²": 1922.0,
+            "Price": 294000.0,
+            "m²": 152.97,
+            "Address": "Visbijas pr. 6/8"
+        },
+        {
+            "Price_per_m²": 1409.0,
+            "Price": 26772.0,
+            "m²": 19.0,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1380.0,
+            "Price": 26220.0,
+            "m²": 19.0,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1369.0,
+            "Price": 32844.0,
+            "m²": 23.99,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 2143.0,
+            "Price": 120000.0,
+            "m²": 56.0,
+            "Address": "Kokneses pr. 4 k-1"
+        },
+        {
+            "Price_per_m²": 2206.0,
+            "Price": 75000.0,
+            "m²": 34.0,
+            "Address": "Ķīšezera 17"
+        },
+        {
+            "Price_per_m²": 2574.0,
+            "Price": 175000.0,
+            "m²": 67.99,
+            "Address": "Ostas pr. 9"
+        },
+        {
+            "Price_per_m²": 1172.0,
+            "Price": 75000.0,
+            "m²": 63.99,
+            "Address": "Viestura pr. 79"
+        },
+        {
+            "Price_per_m²": 2305.0,
+            "Price": 64540.0,
+            "m²": 28.0,
+            "Address": "Gaujas 63"
+        },
+        {
+            "Price_per_m²": 2370.0,
+            "Price": 73470.0,
+            "m²": 31.0,
+            "Address": "Gaujas 63"
+        },
+        {
+            "Price_per_m²": 1376.0,
+            "Price": 39900.0,
+            "m²": 29.0,
+            "Address": "Ezermalas 4A"
+        },
+        {
+            "Price_per_m²": 3043.0,
+            "Price": 210000.0,
+            "m²": 69.01,
+            "Address": "Ķempes 2A"
+        },
+        {
+            "Price_per_m²": 2702.0,
+            "Price": 127000.0,
+            "m²": 47.0,
+            "Address": "Ķempes 2A"
+        },
+        {
+            "Price_per_m²": 3189.0,
+            "Price": 118000.0,
+            "m²": 37.0,
+            "Address": "Ķempes 2"
+        },
+        {
+            "Price_per_m²": 2652.0,
+            "Price": 122000.0,
+            "m²": 46.0,
+            "Address": "Ķempes 2A"
+        },
+        {
+            "Price_per_m²": 2101.0,
+            "Price": 540000.0,
+            "m²": 257.02,
+            "Address": "Ščecinas 8"
+        },
+        {
+            "Price_per_m²": 1886.0,
+            "Price": 149000.0,
+            "m²": 79.0,
+            "Address": "Inčukalna 2"
+        },
+        {
+            "Price_per_m²": 1286.0,
+            "Price": 45000.0,
+            "m²": 34.99,
+            "Address": "Ezermalas 2a"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 13.33,
+            "Price": 1600.0,
+            "m²": 120.03,
+            "Address": "Ščecinas 9"
+        },
+        {
+            "Price_per_m²": 10.19,
+            "Price": 540.0,
+            "m²": 52.99,
+            "Address": "Gdaņskas 19"
+        },
+        {
+            "Price_per_m²": 11.97,
+            "Price": 790.0,
+            "m²": 66.0,
+            "Address": "Inčukalna 2"
+        },
+        {
+            "Price_per_m²": 7.39,
+            "Price": 340.0,
+            "m²": 46.01,
+            "Address": "Viestura pr. 95"
+        },
+        {
+            "Price_per_m²": 5.65,
+            "Price": 650.0,
+            "m²": 115.04,
+            "Address": "Ezermalas 27"
+        },
+        {
+            "Price_per_m²": 13.67,
+            "Price": 875.0,
+            "m²": 64.01,
+            "Address": "Inčukalna 2"
+        },
+        {
+            "Price_per_m²": 5.45,
+            "Price": 300.0,
+            "m²": 55.05,
+            "Address": "Ķempes 9"
+        },
+        {
+            "Price_per_m²": 5.75,
+            "Price": 230.0,
+            "m²": 40.0,
+            "Address": "Viestura pr. 53"
+        },
+        {
+            "Price_per_m²": 12.5,
+            "Price": 2000.0,
+            "m²": 160.0,
+            "Address": "Visbijas pr. 45"
+        },
+        {
+            "Price_per_m²": 6.03,
+            "Price": 350.0,
+            "m²": 58.04,
+            "Address": "Ķempes 7"
+        },
+        {
+            "Price_per_m²": 13.46,
+            "Price": 350.0,
+            "m²": 26.0,
+            "Address": "Gaujas 32"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 450.0,
+            "m²": 72.0,
+            "Address": "Ķempes 5"
+        },
+        {
+            "Price_per_m²": 10.67,
+            "Price": 320.0,
+            "m²": 29.99,
+            "Address": "Ezermalas 4A"
+        },
+        {
+            "Price_per_m²": 13.33,
+            "Price": 1600.0,
+            "m²": 120.03,
+            "Address": "Ščecinas 9"
+        },
+        {
+            "Price_per_m²": 10.19,
+            "Price": 540.0,
+            "m²": 52.99,
+            "Address": "Gdaņskas 19"
+        },
+        {
+            "Price_per_m²": 11.97,
+            "Price": 790.0,
+            "m²": 66.0,
+            "Address": "Inčukalna 2"
+        },
+        {
+            "Price_per_m²": 7.39,
+            "Price": 340.0,
+            "m²": 46.01,
+            "Address": "Viestura pr. 95"
+        },
+        {
+            "Price_per_m²": 13.33,
+            "Price": 1600.0,
+            "m²": 120.03,
+            "Address": "Ščecinas 9"
+        },
+        {
+            "Price_per_m²": 10.19,
+            "Price": 540.0,
+            "m²": 52.99,
+            "Address": "Gdaņskas 19"
+        },
+        {
+            "Price_per_m²": 11.97,
+            "Price": 790.0,
+            "m²": 66.0,
+            "Address": "Inčukalna 2"
+        },
+        {
+            "Price_per_m²": 7.39,
+            "Price": 340.0,
+            "m²": 46.01,
+            "Address": "Viestura pr. 95"
+        },
+        {
+            "Price_per_m²": 13.33,
+            "Price": 1600.0,
+            "m²": 120.03,
+            "Address": "Ščecinas 9"
+        },
+        {
+            "Price_per_m²": 10.19,
+            "Price": 540.0,
+            "m²": 52.99,
+            "Address": "Gdaņskas 19"
+        },
+        {
+            "Price_per_m²": 11.97,
+            "Price": 790.0,
+            "m²": 66.0,
+            "Address": "Inčukalna 2"
+        },
+        {
+            "Price_per_m²": 7.39,
+            "Price": 340.0,
+            "m²": 46.01,
+            "Address": "Viestura pr. 95"
+        },
+        {
+            "Price_per_m²": 13.33,
+            "Price": 1600.0,
+            "m²": 120.03,
+            "Address": "Ščecinas 9"
+        },
+        {
+            "Price_per_m²": 10.19,
+            "Price": 540.0,
+            "m²": 52.99,
+            "Address": "Gdaņskas 19"
+        },
+        {
+            "Price_per_m²": 11.97,
+            "Price": 790.0,
+            "m²": 66.0,
+            "Address": "Inčukalna 2"
+        },
+        {
+            "Price_per_m²": 7.39,
+            "Price": 340.0,
+            "m²": 46.01,
+            "Address": "Viestura pr. 95"
+        }
+    ],
+    "daily": []
+}

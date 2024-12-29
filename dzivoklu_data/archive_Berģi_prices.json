@@ -1,0 +1,145 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 1559.0,
+            "Price": 290000.0,
+            "m²": 186.02,
+            "Address": "Brīvības 446"
+        },
+        {
+            "Price_per_m²": 879.0,
+            "Price": 29000.0,
+            "m²": 32.99,
+            "Address": "Rožu 21"
+        },
+        {
+            "Price_per_m²": 1438.0,
+            "Price": 174000.0,
+            "m²": 121.0,
+            "Address": "Jaunības 11"
+        },
+        {
+            "Price_per_m²": 2000.0,
+            "Price": 120000.0,
+            "m²": 60.0,
+            "Address": "Brīvības 433"
+        },
+        {
+            "Price_per_m²": 1042.0,
+            "Price": 37500.0,
+            "m²": 35.99,
+            "Address": "Berģu 160 k-2"
+        },
+        {
+            "Price_per_m²": 1414.0,
+            "Price": 345000.0,
+            "m²": 243.99,
+            "Address": "Brīvdabas 3"
+        },
+        {
+            "Price_per_m²": 1559.0,
+            "Price": 290000.0,
+            "m²": 186.02,
+            "Address": "Brīvības 446"
+        },
+        {
+            "Price_per_m²": 738.0,
+            "Price": 48000.0,
+            "m²": 65.04,
+            "Address": "Brīvības 445"
+        },
+        {
+            "Price_per_m²": 420.0,
+            "Price": 10500.0,
+            "m²": 25.0,
+            "Address": "Vējdzirnavu 28"
+        },
+        {
+            "Price_per_m²": 1255.0,
+            "Price": 69000.0,
+            "m²": 54.98,
+            "Address": "Berģu 8"
+        },
+        {
+            "Price_per_m²": 1436.0,
+            "Price": 79000.0,
+            "m²": 55.01,
+            "Address": "Berģu 3"
+        },
+        {
+            "Price_per_m²": 914.0,
+            "Price": 96000.0,
+            "m²": 105.03,
+            "Address": "Brīvības 458A"
+        },
+        {
+            "Price_per_m²": 1988.0,
+            "Price": 169000.0,
+            "m²": 85.01,
+            "Address": "Lauvu 22"
+        },
+        {
+            "Price_per_m²": 729.0,
+            "Price": 35000.0,
+            "m²": 48.01,
+            "Address": "Brīvības 458a"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 9.46,
+            "Price": 350.0,
+            "m²": 37.0,
+            "Address": "Acāliju 5"
+        },
+        {
+            "Price_per_m²": 8.4,
+            "Price": 210.0,
+            "m²": 25.0,
+            "Address": "Upesciema 40с"
+        },
+        {
+            "Price_per_m²": 4.91,
+            "Price": 270.0,
+            "m²": 54.99,
+            "Address": "Berģu 3"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 400.0,
+            "m²": 44.99,
+            "Address": "Brīvības 451"
+        },
+        {
+            "Price_per_m²": 5.83,
+            "Price": 350.0,
+            "m²": 60.03,
+            "Address": "Berģu 9"
+        },
+        {
+            "Price_per_m²": 10.86,
+            "Price": 380.0,
+            "m²": 34.99,
+            "Address": "Berģu 160/5"
+        },
+        {
+            "Price_per_m²": 7.92,
+            "Price": 380.0,
+            "m²": 47.98,
+            "Address": "Vējdzirnavu 24"
+        },
+        {
+            "Price_per_m²": 8.6,
+            "Price": 430.0,
+            "m²": 50.0,
+            "Address": "Vējdzirnavu 24"
+        },
+        {
+            "Price_per_m²": 6.25,
+            "Price": 250.0,
+            "m²": 40.0,
+            "Address": "Upesciema 40 а"
+        }
+    ],
+    "daily": []
+}

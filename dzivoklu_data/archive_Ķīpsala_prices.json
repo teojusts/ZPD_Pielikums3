@@ -1,0 +1,295 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 3223.0,
+            "Price": 154688.0,
+            "m²": 48.0,
+            "Address": "Zvejnieku 18"
+        },
+        {
+            "Price_per_m²": 3416.0,
+            "Price": 550000.0,
+            "m²": 161.01,
+            "Address": "Balasta d. 70"
+        },
+        {
+            "Price_per_m²": 2381.0,
+            "Price": 150000.0,
+            "m²": 63.0,
+            "Address": "Balasta d. 70E"
+        },
+        {
+            "Price_per_m²": 1250.0,
+            "Price": 145000.0,
+            "m²": 116.0,
+            "Address": "Ogļu 16a"
+        },
+        {
+            "Price_per_m²": 2843.0,
+            "Price": 145000.0,
+            "m²": 51.0,
+            "Address": "Ķīpsalas 4"
+        },
+        {
+            "Price_per_m²": 3011.0,
+            "Price": 138500.0,
+            "m²": 46.0,
+            "Address": "Zvejnieku 34"
+        },
+        {
+            "Price_per_m²": 3007.0,
+            "Price": 123300.0,
+            "m²": 41.0,
+            "Address": "Zvejnieku 34"
+        },
+        {
+            "Price_per_m²": 3448.0,
+            "Price": 400000.0,
+            "m²": 116.01,
+            "Address": "Balasta d. 72"
+        },
+        {
+            "Price_per_m²": 2670.0,
+            "Price": 259000.0,
+            "m²": 97.0,
+            "Address": "Balasta d. 72"
+        },
+        {
+            "Price_per_m²": 1292.0,
+            "Price": 149900.0,
+            "m²": 116.02,
+            "Address": "Ogļu 16"
+        },
+        {
+            "Price_per_m²": 3223.0,
+            "Price": 154688.0,
+            "m²": 48.0,
+            "Address": "Zvejnieku 18"
+        },
+        {
+            "Price_per_m²": 3416.0,
+            "Price": 550000.0,
+            "m²": 161.01,
+            "Address": "Balasta d. 70"
+        },
+        {
+            "Price_per_m²": 2381.0,
+            "Price": 150000.0,
+            "m²": 63.0,
+            "Address": "Balasta d. 70E"
+        },
+        {
+            "Price_per_m²": 1250.0,
+            "Price": 145000.0,
+            "m²": 116.0,
+            "Address": "Ogļu 16a"
+        },
+        {
+            "Price_per_m²": 2843.0,
+            "Price": 145000.0,
+            "m²": 51.0,
+            "Address": "Ķīpsalas 4"
+        },
+        {
+            "Price_per_m²": 3011.0,
+            "Price": 138500.0,
+            "m²": 46.0,
+            "Address": "Zvejnieku 34"
+        },
+        {
+            "Price_per_m²": 3007.0,
+            "Price": 123300.0,
+            "m²": 41.0,
+            "Address": "Zvejnieku 34"
+        },
+        {
+            "Price_per_m²": 3448.0,
+            "Price": 400000.0,
+            "m²": 116.01,
+            "Address": "Balasta d. 72"
+        },
+        {
+            "Price_per_m²": 2670.0,
+            "Price": 259000.0,
+            "m²": 97.0,
+            "Address": "Balasta d. 72"
+        },
+        {
+            "Price_per_m²": 1292.0,
+            "Price": 149900.0,
+            "m²": 116.02,
+            "Address": "Ogļu 16"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 11.86,
+            "Price": 700.0,
+            "m²": 59.02,
+            "Address": "Balasta d. 72"
+        },
+        {
+            "Price_per_m²": 12.5,
+            "Price": 425.0,
+            "m²": 34.0,
+            "Address": "Ķīpsalas 4"
+        },
+        {
+            "Price_per_m²": 14.77,
+            "Price": 1950.0,
+            "m²": 132.02,
+            "Address": "Balasta d. 72"
+        },
+        {
+            "Price_per_m²": 16.16,
+            "Price": 1390.0,
+            "m²": 86.01,
+            "Address": "Balasta d. 72"
+        },
+        {
+            "Price_per_m²": 18.24,
+            "Price": 2900.0,
+            "m²": 158.99,
+            "Address": "Balasta d. 72"
+        },
+        {
+            "Price_per_m²": 10.6,
+            "Price": 530.0,
+            "m²": 50.0,
+            "Address": "Ķīpsalas 4"
+        },
+        {
+            "Price_per_m²": 14.0,
+            "Price": 700.0,
+            "m²": 50.0,
+            "Address": "Ķīpsalas 4"
+        },
+        {
+            "Price_per_m²": 5.0,
+            "Price": 350.0,
+            "m²": 70.0,
+            "Address": "Enkura 1"
+        },
+        {
+            "Price_per_m²": 15.19,
+            "Price": 1200.0,
+            "m²": 79.0,
+            "Address": "Ķīpsalas 4"
+        },
+        {
+            "Price_per_m²": 17.02,
+            "Price": 800.0,
+            "m²": 47.0,
+            "Address": "Ogļu 28"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Matrožu 1"
+        },
+        {
+            "Price_per_m²": 13.89,
+            "Price": 1000.0,
+            "m²": 71.99,
+            "Address": "Balasta d. 72"
+        },
+        {
+            "Price_per_m²": 14.29,
+            "Price": 500.0,
+            "m²": 34.99,
+            "Address": "Ķīpsalas 4"
+        },
+        {
+            "Price_per_m²": 16.22,
+            "Price": 1200.0,
+            "m²": 73.98,
+            "Address": "Ķīpsalas 49"
+        },
+        {
+            "Price_per_m²": 11.86,
+            "Price": 700.0,
+            "m²": 59.02,
+            "Address": "Balasta d. 72"
+        },
+        {
+            "Price_per_m²": 12.5,
+            "Price": 425.0,
+            "m²": 34.0,
+            "Address": "Ķīpsalas 4"
+        },
+        {
+            "Price_per_m²": 14.77,
+            "Price": 1950.0,
+            "m²": 132.02,
+            "Address": "Balasta d. 72"
+        },
+        {
+            "Price_per_m²": 16.16,
+            "Price": 1390.0,
+            "m²": 86.01,
+            "Address": "Balasta d. 72"
+        },
+        {
+            "Price_per_m²": 18.24,
+            "Price": 2900.0,
+            "m²": 158.99,
+            "Address": "Balasta d. 72"
+        },
+        {
+            "Price_per_m²": 10.6,
+            "Price": 530.0,
+            "m²": 50.0,
+            "Address": "Ķīpsalas 4"
+        },
+        {
+            "Price_per_m²": 14.0,
+            "Price": 700.0,
+            "m²": 50.0,
+            "Address": "Ķīpsalas 4"
+        },
+        {
+            "Price_per_m²": 5.0,
+            "Price": 350.0,
+            "m²": 70.0,
+            "Address": "Enkura 1"
+        },
+        {
+            "Price_per_m²": 15.19,
+            "Price": 1200.0,
+            "m²": 79.0,
+            "Address": "Ķīpsalas 4"
+        },
+        {
+            "Price_per_m²": 17.02,
+            "Price": 800.0,
+            "m²": 47.0,
+            "Address": "Ogļu 28"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Matrožu 1"
+        },
+        {
+            "Price_per_m²": 13.89,
+            "Price": 1000.0,
+            "m²": 71.99,
+            "Address": "Balasta d. 72"
+        },
+        {
+            "Price_per_m²": 14.29,
+            "Price": 500.0,
+            "m²": 34.99,
+            "Address": "Ķīpsalas 4"
+        },
+        {
+            "Price_per_m²": 16.22,
+            "Price": 1200.0,
+            "m²": 73.98,
+            "Address": "Ķīpsalas 49"
+        }
+    ],
+    "daily": []
+}

@@ -1,0 +1,223 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 2012.0,
+            "Price": 100600.0,
+            "m²": 50.0,
+            "Address": "Valtera 1"
+        },
+        {
+            "Price_per_m²": 2171.0,
+            "Price": 169300.0,
+            "m²": 77.98,
+            "Address": "Valtera 1"
+        },
+        {
+            "Price_per_m²": 2463.0,
+            "Price": 199500.0,
+            "m²": 81.0,
+            "Address": "Valtera 1"
+        },
+        {
+            "Price_per_m²": 2327.0,
+            "Price": 148900.0,
+            "m²": 63.99,
+            "Address": "Kaivas 48a"
+        },
+        {
+            "Price_per_m²": 2426.0,
+            "Price": 114000.0,
+            "m²": 46.99,
+            "Address": "Kaivas 48a"
+        },
+        {
+            "Price_per_m²": 2688.0,
+            "Price": 158600.0,
+            "m²": 59.0,
+            "Address": "Kaivas 48a"
+        },
+        {
+            "Price_per_m²": 2369.0,
+            "Price": 203700.0,
+            "m²": 85.99,
+            "Address": "Kaivas 48a"
+        },
+        {
+            "Price_per_m²": 1418.0,
+            "Price": 112000.0,
+            "m²": 78.98,
+            "Address": "Valtera 5"
+        },
+        {
+            "Price_per_m²": 2407.0,
+            "Price": 103500.0,
+            "m²": 43.0,
+            "Address": "Dzelzavas 106"
+        },
+        {
+            "Price_per_m²": 2188.0,
+            "Price": 105000.0,
+            "m²": 47.99,
+            "Address": "Lubānas 152"
+        },
+        {
+            "Price_per_m²": 1286.0,
+            "Price": 99000.0,
+            "m²": 76.98,
+            "Address": "Dzilnas 19"
+        },
+        {
+            "Price_per_m²": 1783.0,
+            "Price": 123000.0,
+            "m²": 68.98,
+            "Address": "Kaivas 50 k-1"
+        },
+        {
+            "Price_per_m²": 1657.0,
+            "Price": 174000.0,
+            "m²": 105.01,
+            "Address": "Ulbrokas 32"
+        },
+        {
+            "Price_per_m²": 1500.0,
+            "Price": 75000.0,
+            "m²": 50.0,
+            "Address": "Valtera 5"
+        },
+        {
+            "Price_per_m²": 1128.0,
+            "Price": 88000.0,
+            "m²": 78.01,
+            "Address": "Valtera 5"
+        },
+        {
+            "Price_per_m²": 2019.0,
+            "Price": 105000.0,
+            "m²": 52.01,
+            "Address": "Dzelzavas 112"
+        },
+        {
+            "Price_per_m²": 2012.0,
+            "Price": 100600.0,
+            "m²": 50.0,
+            "Address": "Valtera 1"
+        },
+        {
+            "Price_per_m²": 2171.0,
+            "Price": 169300.0,
+            "m²": 77.98,
+            "Address": "Valtera 1"
+        },
+        {
+            "Price_per_m²": 2463.0,
+            "Price": 199500.0,
+            "m²": 81.0,
+            "Address": "Valtera 1"
+        },
+        {
+            "Price_per_m²": 2327.0,
+            "Price": 148900.0,
+            "m²": 63.99,
+            "Address": "Kaivas 48a"
+        },
+        {
+            "Price_per_m²": 2426.0,
+            "Price": 114000.0,
+            "m²": 46.99,
+            "Address": "Kaivas 48a"
+        },
+        {
+            "Price_per_m²": 2688.0,
+            "Price": 158600.0,
+            "m²": 59.0,
+            "Address": "Kaivas 48a"
+        },
+        {
+            "Price_per_m²": 2369.0,
+            "Price": 203700.0,
+            "m²": 85.99,
+            "Address": "Kaivas 48a"
+        },
+        {
+            "Price_per_m²": 1418.0,
+            "Price": 112000.0,
+            "m²": 78.98,
+            "Address": "Valtera 5"
+        },
+        {
+            "Price_per_m²": 2407.0,
+            "Price": 103500.0,
+            "m²": 43.0,
+            "Address": "Dzelzavas 106"
+        },
+        {
+            "Price_per_m²": 2188.0,
+            "Price": 105000.0,
+            "m²": 47.99,
+            "Address": "Lubānas 152"
+        },
+        {
+            "Price_per_m²": 1286.0,
+            "Price": 99000.0,
+            "m²": 76.98,
+            "Address": "Dzilnas 19"
+        },
+        {
+            "Price_per_m²": 1783.0,
+            "Price": 123000.0,
+            "m²": 68.98,
+            "Address": "Kaivas 50 k-1"
+        },
+        {
+            "Price_per_m²": 1657.0,
+            "Price": 174000.0,
+            "m²": 105.01,
+            "Address": "Ulbrokas 32"
+        },
+        {
+            "Price_per_m²": 1500.0,
+            "Price": 75000.0,
+            "m²": 50.0,
+            "Address": "Valtera 5"
+        },
+        {
+            "Price_per_m²": 1128.0,
+            "Price": 88000.0,
+            "m²": 78.01,
+            "Address": "Valtera 5"
+        },
+        {
+            "Price_per_m²": 2019.0,
+            "Price": 105000.0,
+            "m²": 52.01,
+            "Address": "Dzelzavas 112"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 6.45,
+            "Price": 200.0,
+            "m²": 31.01,
+            "Address": "Dzilnas 13"
+        },
+        {
+            "Price_per_m²": 14.75,
+            "Price": 590.0,
+            "m²": 40.0,
+            "Address": "Ulbrokas 19"
+        },
+        {
+            "Price_per_m²": 6.45,
+            "Price": 200.0,
+            "m²": 31.01,
+            "Address": "Dzilnas 13"
+        },
+        {
+            "Price_per_m²": 14.75,
+            "Price": 590.0,
+            "m²": 40.0,
+            "Address": "Ulbrokas 19"
+        }
+    ],
+    "daily": []
+}

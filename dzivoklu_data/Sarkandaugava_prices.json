@@ -1,0 +1,2096 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 938.0,
+            "Price": 45000.0,
+            "m²": 47.97,
+            "Address": "Viestura pr. 14"
+        },
+        {
+            "Price_per_m²": 556.0,
+            "Price": 15000.0,
+            "m²": 26.98,
+            "Address": "Priežu 12"
+        },
+        {
+            "Price_per_m²": 1100.0,
+            "Price": 42900.0,
+            "m²": 39.0,
+            "Address": "Patversmes 22/4"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 60000.0,
+            "m²": 56.02,
+            "Address": "Sarkandaugavas 3"
+        },
+        {
+            "Price_per_m²": 810.0,
+            "Price": 34000.0,
+            "m²": 41.98,
+            "Address": "Sarkandaugavas 26"
+        },
+        {
+            "Price_per_m²": 1196.0,
+            "Price": 55000.0,
+            "m²": 45.99,
+            "Address": "Aptiekas 6"
+        },
+        {
+            "Price_per_m²": 609.0,
+            "Price": 14000.0,
+            "m²": 22.99,
+            "Address": "Sīmaņa 6"
+        },
+        {
+            "Price_per_m²": 571.0,
+            "Price": 16000.0,
+            "m²": 28.02,
+            "Address": "Tvaika 28"
+        },
+        {
+            "Price_per_m²": 817.0,
+            "Price": 33500.0,
+            "m²": 41.0,
+            "Address": "Sarkandaugavas 26/.."
+        },
+        {
+            "Price_per_m²": 1172.0,
+            "Price": 75000.0,
+            "m²": 63.99,
+            "Address": "Viestura pr. 79"
+        },
+        {
+            "Price_per_m²": 1167.0,
+            "Price": 63000.0,
+            "m²": 53.98,
+            "Address": "Ziemeļu 3"
+        },
+        {
+            "Price_per_m²": 821.0,
+            "Price": 32000.0,
+            "m²": 38.98,
+            "Address": "Viestura pr. 20a"
+        },
+        {
+            "Price_per_m²": 1126.0,
+            "Price": 107000.0,
+            "m²": 95.03,
+            "Address": "Allažu 4"
+        },
+        {
+            "Price_per_m²": 998.0,
+            "Price": 108750.0,
+            "m²": 108.97,
+            "Address": "Tilta 20"
+        },
+        {
+            "Price_per_m²": 691.0,
+            "Price": 15900.0,
+            "m²": 23.01,
+            "Address": "Hāpsalas 21"
+        },
+        {
+            "Price_per_m²": 971.0,
+            "Price": 34000.0,
+            "m²": 35.02,
+            "Address": "Alekša 7"
+        },
+        {
+            "Price_per_m²": 1270.0,
+            "Price": 139700.0,
+            "m²": 110.0,
+            "Address": "Patversmes 30"
+        },
+        {
+            "Price_per_m²": 693.0,
+            "Price": 31900.0,
+            "m²": 46.03,
+            "Address": "Sliežu 33"
+        },
+        {
+            "Price_per_m²": 761.0,
+            "Price": 35000.0,
+            "m²": 45.99,
+            "Address": "Viestura pr. 77"
+        },
+        {
+            "Price_per_m²": 861.0,
+            "Price": 15500.0,
+            "m²": 18.0,
+            "Address": "Priežu 9"
+        },
+        {
+            "Price_per_m²": 341.0,
+            "Price": 7500.0,
+            "m²": 21.99,
+            "Address": "Āžu 12"
+        },
+        {
+            "Price_per_m²": 321.0,
+            "Price": 10900.0,
+            "m²": 33.96,
+            "Address": "Sīmaņa 6"
+        },
+        {
+            "Price_per_m²": 481.0,
+            "Price": 65000.0,
+            "m²": 135.14,
+            "Address": "Aptiekas 11"
+        },
+        {
+            "Price_per_m²": 758.0,
+            "Price": 25000.0,
+            "m²": 32.98,
+            "Address": "Viestura pr. 63"
+        },
+        {
+            "Price_per_m²": 915.0,
+            "Price": 37500.0,
+            "m²": 40.98,
+            "Address": "Patversmes 22 K. 2"
+        },
+        {
+            "Price_per_m²": 939.0,
+            "Price": 46000.0,
+            "m²": 48.99,
+            "Address": "Tvaika 14"
+        },
+        {
+            "Price_per_m²": 528.0,
+            "Price": 16900.0,
+            "m²": 32.01,
+            "Address": "Sarkandaugavas 19а"
+        },
+        {
+            "Price_per_m²": 1030.0,
+            "Price": 34000.0,
+            "m²": 33.01,
+            "Address": "Patversmes 5"
+        },
+        {
+            "Price_per_m²": 750.0,
+            "Price": 29999.0,
+            "m²": 40.0,
+            "Address": "Patversmes 5k-1"
+        },
+        {
+            "Price_per_m²": 909.0,
+            "Price": 40000.0,
+            "m²": 44.0,
+            "Address": "Patversmes 5"
+        },
+        {
+            "Price_per_m²": 929.0,
+            "Price": 26000.0,
+            "m²": 27.99,
+            "Address": "Viestura pr. 37k-1"
+        },
+        {
+            "Price_per_m²": 938.0,
+            "Price": 45000.0,
+            "m²": 47.97,
+            "Address": "Viestura pr. 14"
+        },
+        {
+            "Price_per_m²": 1633.0,
+            "Price": 29400.0,
+            "m²": 18.0,
+            "Address": "Hāpsalas 5"
+        },
+        {
+            "Price_per_m²": 848.0,
+            "Price": 39000.0,
+            "m²": 45.99,
+            "Address": "Viestura pr. 97"
+        },
+        {
+            "Price_per_m²": 705.0,
+            "Price": 28900.0,
+            "m²": 40.99,
+            "Address": "Limbažu 11"
+        },
+        {
+            "Price_per_m²": 333.0,
+            "Price": 11000.0,
+            "m²": 33.03,
+            "Address": "Zāģeru 6"
+        },
+        {
+            "Price_per_m²": 982.0,
+            "Price": 55000.0,
+            "m²": 56.01,
+            "Address": "Tvaika 50"
+        },
+        {
+            "Price_per_m²": 846.0,
+            "Price": 22000.0,
+            "m²": 26.0,
+            "Address": "Zāģeru 6"
+        },
+        {
+            "Price_per_m²": 1267.0,
+            "Price": 73500.0,
+            "m²": 58.01,
+            "Address": "Hāpsalas 15"
+        },
+        {
+            "Price_per_m²": 883.0,
+            "Price": 41500.0,
+            "m²": 47.0,
+            "Address": "Viestura pr. 41"
+        },
+        {
+            "Price_per_m²": 883.0,
+            "Price": 41500.0,
+            "m²": 47.0,
+            "Address": "Viestura pr. 41"
+        },
+        {
+            "Price_per_m²": 1116.0,
+            "Price": 48000.0,
+            "m²": 43.01,
+            "Address": "Tilta 11"
+        },
+        {
+            "Price_per_m²": 825.0,
+            "Price": 33000.0,
+            "m²": 40.0,
+            "Address": "Duntes 56"
+        },
+        {
+            "Price_per_m²": 439.0,
+            "Price": 18000.0,
+            "m²": 41.0,
+            "Address": "Allažu 5"
+        },
+        {
+            "Price_per_m²": 245.0,
+            "Price": 75000.0,
+            "m²": 306.12,
+            "Address": "Sarkandaugavas 26/.."
+        },
+        {
+            "Price_per_m²": 997.0,
+            "Price": 64800.0,
+            "m²": 64.99,
+            "Address": "Tilta 24/1"
+        },
+        {
+            "Price_per_m²": 1519.0,
+            "Price": 120000.0,
+            "m²": 79.0,
+            "Address": "Viestura pr. 75"
+        },
+        {
+            "Price_per_m²": 1103.0,
+            "Price": 32000.0,
+            "m²": 29.01,
+            "Address": "Sarkandaugavas 3"
+        },
+        {
+            "Price_per_m²": 891.0,
+            "Price": 20500.0,
+            "m²": 23.01,
+            "Address": "Hāpsalas 21"
+        },
+        {
+            "Price_per_m²": 707.0,
+            "Price": 32500.0,
+            "m²": 45.97,
+            "Address": "Sliežu 33"
+        },
+        {
+            "Price_per_m²": 860.0,
+            "Price": 86000.0,
+            "m²": 100.0,
+            "Address": "Patversmes 1k-1"
+        },
+        {
+            "Price_per_m²": 1706.0,
+            "Price": 29000.0,
+            "m²": 17.0,
+            "Address": "Sliežu 1"
+        },
+        {
+            "Price_per_m²": 1491.0,
+            "Price": 85000.0,
+            "m²": 57.01,
+            "Address": "Tilta 5"
+        },
+        {
+            "Price_per_m²": 1167.0,
+            "Price": 24500.0,
+            "m²": 20.99,
+            "Address": "Priežu 14а"
+        },
+        {
+            "Price_per_m²": 759.0,
+            "Price": 82000.0,
+            "m²": 108.04,
+            "Address": "Aptiekas 17"
+        },
+        {
+            "Price_per_m²": 610.0,
+            "Price": 25000.0,
+            "m²": 40.98,
+            "Address": "Priežu 14E"
+        },
+        {
+            "Price_per_m²": 1217.0,
+            "Price": 56000.0,
+            "m²": 46.01,
+            "Address": "Viestura pr. 97"
+        },
+        {
+            "Price_per_m²": 1020.0,
+            "Price": 25500.0,
+            "m²": 25.0,
+            "Address": "Hāpsalas 21"
+        },
+        {
+            "Price_per_m²": 804.0,
+            "Price": 45000.0,
+            "m²": 55.97,
+            "Address": "Ozolu 4"
+        },
+        {
+            "Price_per_m²": 894.0,
+            "Price": 42000.0,
+            "m²": 46.98,
+            "Address": "Viestura pr. 11"
+        },
+        {
+            "Price_per_m²": 714.0,
+            "Price": 29999.0,
+            "m²": 42.02,
+            "Address": "Viestura pr. 7-21"
+        },
+        {
+            "Price_per_m²": 622.0,
+            "Price": 14300.0,
+            "m²": 22.99,
+            "Address": "Sīmaņa 6"
+        },
+        {
+            "Price_per_m²": 1723.0,
+            "Price": 36190.0,
+            "m²": 21.0,
+            "Address": "Aptiekas 17B"
+        },
+        {
+            "Price_per_m²": 406.0,
+            "Price": 13000.0,
+            "m²": 32.02,
+            "Address": "Hāpsalas 9"
+        },
+        {
+            "Price_per_m²": 938.0,
+            "Price": 45000.0,
+            "m²": 47.97,
+            "Address": "Viestura pr. 14"
+        },
+        {
+            "Price_per_m²": 556.0,
+            "Price": 15000.0,
+            "m²": 26.98,
+            "Address": "Priežu 12"
+        },
+        {
+            "Price_per_m²": 1100.0,
+            "Price": 42900.0,
+            "m²": 39.0,
+            "Address": "Patversmes 22/4"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 60000.0,
+            "m²": 56.02,
+            "Address": "Sarkandaugavas 3"
+        },
+        {
+            "Price_per_m²": 810.0,
+            "Price": 34000.0,
+            "m²": 41.98,
+            "Address": "Sarkandaugavas 26"
+        },
+        {
+            "Price_per_m²": 1196.0,
+            "Price": 55000.0,
+            "m²": 45.99,
+            "Address": "Aptiekas 6"
+        },
+        {
+            "Price_per_m²": 609.0,
+            "Price": 14000.0,
+            "m²": 22.99,
+            "Address": "Sīmaņa 6"
+        },
+        {
+            "Price_per_m²": 571.0,
+            "Price": 16000.0,
+            "m²": 28.02,
+            "Address": "Tvaika 28"
+        },
+        {
+            "Price_per_m²": 817.0,
+            "Price": 33500.0,
+            "m²": 41.0,
+            "Address": "Sarkandaugavas 26/.."
+        },
+        {
+            "Price_per_m²": 1172.0,
+            "Price": 75000.0,
+            "m²": 63.99,
+            "Address": "Viestura pr. 79"
+        },
+        {
+            "Price_per_m²": 1167.0,
+            "Price": 63000.0,
+            "m²": 53.98,
+            "Address": "Ziemeļu 3"
+        },
+        {
+            "Price_per_m²": 821.0,
+            "Price": 32000.0,
+            "m²": 38.98,
+            "Address": "Viestura pr. 20a"
+        },
+        {
+            "Price_per_m²": 1126.0,
+            "Price": 107000.0,
+            "m²": 95.03,
+            "Address": "Allažu 4"
+        },
+        {
+            "Price_per_m²": 998.0,
+            "Price": 108750.0,
+            "m²": 108.97,
+            "Address": "Tilta 20"
+        },
+        {
+            "Price_per_m²": 691.0,
+            "Price": 15900.0,
+            "m²": 23.01,
+            "Address": "Hāpsalas 21"
+        },
+        {
+            "Price_per_m²": 938.0,
+            "Price": 45000.0,
+            "m²": 47.97,
+            "Address": "Viestura pr. 14"
+        },
+        {
+            "Price_per_m²": 556.0,
+            "Price": 15000.0,
+            "m²": 26.98,
+            "Address": "Priežu 12"
+        },
+        {
+            "Price_per_m²": 1100.0,
+            "Price": 42900.0,
+            "m²": 39.0,
+            "Address": "Patversmes 22/4"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 60000.0,
+            "m²": 56.02,
+            "Address": "Sarkandaugavas 3"
+        },
+        {
+            "Price_per_m²": 810.0,
+            "Price": 34000.0,
+            "m²": 41.98,
+            "Address": "Sarkandaugavas 26"
+        },
+        {
+            "Price_per_m²": 1196.0,
+            "Price": 55000.0,
+            "m²": 45.99,
+            "Address": "Aptiekas 6"
+        },
+        {
+            "Price_per_m²": 609.0,
+            "Price": 14000.0,
+            "m²": 22.99,
+            "Address": "Sīmaņa 6"
+        },
+        {
+            "Price_per_m²": 571.0,
+            "Price": 16000.0,
+            "m²": 28.02,
+            "Address": "Tvaika 28"
+        },
+        {
+            "Price_per_m²": 817.0,
+            "Price": 33500.0,
+            "m²": 41.0,
+            "Address": "Sarkandaugavas 26/.."
+        },
+        {
+            "Price_per_m²": 1172.0,
+            "Price": 75000.0,
+            "m²": 63.99,
+            "Address": "Viestura pr. 79"
+        },
+        {
+            "Price_per_m²": 1167.0,
+            "Price": 63000.0,
+            "m²": 53.98,
+            "Address": "Ziemeļu 3"
+        },
+        {
+            "Price_per_m²": 821.0,
+            "Price": 32000.0,
+            "m²": 38.98,
+            "Address": "Viestura pr. 20a"
+        },
+        {
+            "Price_per_m²": 1126.0,
+            "Price": 107000.0,
+            "m²": 95.03,
+            "Address": "Allažu 4"
+        },
+        {
+            "Price_per_m²": 998.0,
+            "Price": 108750.0,
+            "m²": 108.97,
+            "Address": "Tilta 20"
+        },
+        {
+            "Price_per_m²": 691.0,
+            "Price": 15900.0,
+            "m²": 23.01,
+            "Address": "Hāpsalas 21"
+        },
+        {
+            "Price_per_m²": 938.0,
+            "Price": 45000.0,
+            "m²": 47.97,
+            "Address": "Viestura pr. 14"
+        },
+        {
+            "Price_per_m²": 556.0,
+            "Price": 15000.0,
+            "m²": 26.98,
+            "Address": "Priežu 12"
+        },
+        {
+            "Price_per_m²": 1100.0,
+            "Price": 42900.0,
+            "m²": 39.0,
+            "Address": "Patversmes 22/4"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 60000.0,
+            "m²": 56.02,
+            "Address": "Sarkandaugavas 3"
+        },
+        {
+            "Price_per_m²": 810.0,
+            "Price": 34000.0,
+            "m²": 41.98,
+            "Address": "Sarkandaugavas 26"
+        },
+        {
+            "Price_per_m²": 1196.0,
+            "Price": 55000.0,
+            "m²": 45.99,
+            "Address": "Aptiekas 6"
+        },
+        {
+            "Price_per_m²": 609.0,
+            "Price": 14000.0,
+            "m²": 22.99,
+            "Address": "Sīmaņa 6"
+        },
+        {
+            "Price_per_m²": 571.0,
+            "Price": 16000.0,
+            "m²": 28.02,
+            "Address": "Tvaika 28"
+        },
+        {
+            "Price_per_m²": 817.0,
+            "Price": 33500.0,
+            "m²": 41.0,
+            "Address": "Sarkandaugavas 26/.."
+        },
+        {
+            "Price_per_m²": 1172.0,
+            "Price": 75000.0,
+            "m²": 63.99,
+            "Address": "Viestura pr. 79"
+        },
+        {
+            "Price_per_m²": 1167.0,
+            "Price": 63000.0,
+            "m²": 53.98,
+            "Address": "Ziemeļu 3"
+        },
+        {
+            "Price_per_m²": 821.0,
+            "Price": 32000.0,
+            "m²": 38.98,
+            "Address": "Viestura pr. 20a"
+        },
+        {
+            "Price_per_m²": 1126.0,
+            "Price": 107000.0,
+            "m²": 95.03,
+            "Address": "Allažu 4"
+        },
+        {
+            "Price_per_m²": 998.0,
+            "Price": 108750.0,
+            "m²": 108.97,
+            "Address": "Tilta 20"
+        },
+        {
+            "Price_per_m²": 691.0,
+            "Price": 15900.0,
+            "m²": 23.01,
+            "Address": "Hāpsalas 21"
+        },
+        {
+            "Price_per_m²": 938.0,
+            "Price": 45000.0,
+            "m²": 47.97,
+            "Address": "Viestura pr. 14"
+        },
+        {
+            "Price_per_m²": 556.0,
+            "Price": 15000.0,
+            "m²": 26.98,
+            "Address": "Priežu 12"
+        },
+        {
+            "Price_per_m²": 1100.0,
+            "Price": 42900.0,
+            "m²": 39.0,
+            "Address": "Patversmes 22/4"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 60000.0,
+            "m²": 56.02,
+            "Address": "Sarkandaugavas 3"
+        },
+        {
+            "Price_per_m²": 810.0,
+            "Price": 34000.0,
+            "m²": 41.98,
+            "Address": "Sarkandaugavas 26"
+        },
+        {
+            "Price_per_m²": 1196.0,
+            "Price": 55000.0,
+            "m²": 45.99,
+            "Address": "Aptiekas 6"
+        },
+        {
+            "Price_per_m²": 609.0,
+            "Price": 14000.0,
+            "m²": 22.99,
+            "Address": "Sīmaņa 6"
+        },
+        {
+            "Price_per_m²": 571.0,
+            "Price": 16000.0,
+            "m²": 28.02,
+            "Address": "Tvaika 28"
+        },
+        {
+            "Price_per_m²": 817.0,
+            "Price": 33500.0,
+            "m²": 41.0,
+            "Address": "Sarkandaugavas 26/.."
+        },
+        {
+            "Price_per_m²": 1172.0,
+            "Price": 75000.0,
+            "m²": 63.99,
+            "Address": "Viestura pr. 79"
+        },
+        {
+            "Price_per_m²": 1167.0,
+            "Price": 63000.0,
+            "m²": 53.98,
+            "Address": "Ziemeļu 3"
+        },
+        {
+            "Price_per_m²": 821.0,
+            "Price": 32000.0,
+            "m²": 38.98,
+            "Address": "Viestura pr. 20a"
+        },
+        {
+            "Price_per_m²": 1126.0,
+            "Price": 107000.0,
+            "m²": 95.03,
+            "Address": "Allažu 4"
+        },
+        {
+            "Price_per_m²": 998.0,
+            "Price": 108750.0,
+            "m²": 108.97,
+            "Address": "Tilta 20"
+        },
+        {
+            "Price_per_m²": 691.0,
+            "Price": 15900.0,
+            "m²": 23.01,
+            "Address": "Hāpsalas 21"
+        },
+        {
+            "Price_per_m²": 938.0,
+            "Price": 45000.0,
+            "m²": 47.97,
+            "Address": "Viestura pr. 14"
+        },
+        {
+            "Price_per_m²": 556.0,
+            "Price": 15000.0,
+            "m²": 26.98,
+            "Address": "Priežu 12"
+        },
+        {
+            "Price_per_m²": 1100.0,
+            "Price": 42900.0,
+            "m²": 39.0,
+            "Address": "Patversmes 22/4"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 60000.0,
+            "m²": 56.02,
+            "Address": "Sarkandaugavas 3"
+        },
+        {
+            "Price_per_m²": 810.0,
+            "Price": 34000.0,
+            "m²": 41.98,
+            "Address": "Sarkandaugavas 26"
+        },
+        {
+            "Price_per_m²": 1196.0,
+            "Price": 55000.0,
+            "m²": 45.99,
+            "Address": "Aptiekas 6"
+        },
+        {
+            "Price_per_m²": 609.0,
+            "Price": 14000.0,
+            "m²": 22.99,
+            "Address": "Sīmaņa 6"
+        },
+        {
+            "Price_per_m²": 571.0,
+            "Price": 16000.0,
+            "m²": 28.02,
+            "Address": "Tvaika 28"
+        },
+        {
+            "Price_per_m²": 817.0,
+            "Price": 33500.0,
+            "m²": 41.0,
+            "Address": "Sarkandaugavas 26/.."
+        },
+        {
+            "Price_per_m²": 1172.0,
+            "Price": 75000.0,
+            "m²": 63.99,
+            "Address": "Viestura pr. 79"
+        },
+        {
+            "Price_per_m²": 1167.0,
+            "Price": 63000.0,
+            "m²": 53.98,
+            "Address": "Ziemeļu 3"
+        },
+        {
+            "Price_per_m²": 821.0,
+            "Price": 32000.0,
+            "m²": 38.98,
+            "Address": "Viestura pr. 20a"
+        },
+        {
+            "Price_per_m²": 1126.0,
+            "Price": 107000.0,
+            "m²": 95.03,
+            "Address": "Allažu 4"
+        },
+        {
+            "Price_per_m²": 998.0,
+            "Price": 108750.0,
+            "m²": 108.97,
+            "Address": "Tilta 20"
+        },
+        {
+            "Price_per_m²": 691.0,
+            "Price": 15900.0,
+            "m²": 23.01,
+            "Address": "Hāpsalas 21"
+        },
+        {
+            "Price_per_m²": 938.0,
+            "Price": 45000.0,
+            "m²": 47.97,
+            "Address": "Viestura pr. 14"
+        },
+        {
+            "Price_per_m²": 556.0,
+            "Price": 15000.0,
+            "m²": 26.98,
+            "Address": "Priežu 12"
+        },
+        {
+            "Price_per_m²": 1100.0,
+            "Price": 42900.0,
+            "m²": 39.0,
+            "Address": "Patversmes 22/4"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 60000.0,
+            "m²": 56.02,
+            "Address": "Sarkandaugavas 3"
+        },
+        {
+            "Price_per_m²": 810.0,
+            "Price": 34000.0,
+            "m²": 41.98,
+            "Address": "Sarkandaugavas 26"
+        },
+        {
+            "Price_per_m²": 1196.0,
+            "Price": 55000.0,
+            "m²": 45.99,
+            "Address": "Aptiekas 6"
+        },
+        {
+            "Price_per_m²": 609.0,
+            "Price": 14000.0,
+            "m²": 22.99,
+            "Address": "Sīmaņa 6"
+        },
+        {
+            "Price_per_m²": 571.0,
+            "Price": 16000.0,
+            "m²": 28.02,
+            "Address": "Tvaika 28"
+        },
+        {
+            "Price_per_m²": 817.0,
+            "Price": 33500.0,
+            "m²": 41.0,
+            "Address": "Sarkandaugavas 26/.."
+        },
+        {
+            "Price_per_m²": 1172.0,
+            "Price": 75000.0,
+            "m²": 63.99,
+            "Address": "Viestura pr. 79"
+        },
+        {
+            "Price_per_m²": 1167.0,
+            "Price": 63000.0,
+            "m²": 53.98,
+            "Address": "Ziemeļu 3"
+        },
+        {
+            "Price_per_m²": 821.0,
+            "Price": 32000.0,
+            "m²": 38.98,
+            "Address": "Viestura pr. 20a"
+        },
+        {
+            "Price_per_m²": 1126.0,
+            "Price": 107000.0,
+            "m²": 95.03,
+            "Address": "Allažu 4"
+        },
+        {
+            "Price_per_m²": 998.0,
+            "Price": 108750.0,
+            "m²": 108.97,
+            "Address": "Tilta 20"
+        },
+        {
+            "Price_per_m²": 691.0,
+            "Price": 15900.0,
+            "m²": 23.01,
+            "Address": "Hāpsalas 21"
+        },
+        {
+            "Price_per_m²": 938.0,
+            "Price": 45000.0,
+            "m²": 47.97,
+            "Address": "Viestura pr. 14"
+        },
+        {
+            "Price_per_m²": 556.0,
+            "Price": 15000.0,
+            "m²": 26.98,
+            "Address": "Priežu 12"
+        },
+        {
+            "Price_per_m²": 1100.0,
+            "Price": 42900.0,
+            "m²": 39.0,
+            "Address": "Patversmes 22/4"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 60000.0,
+            "m²": 56.02,
+            "Address": "Sarkandaugavas 3"
+        },
+        {
+            "Price_per_m²": 810.0,
+            "Price": 34000.0,
+            "m²": 41.98,
+            "Address": "Sarkandaugavas 26"
+        },
+        {
+            "Price_per_m²": 1196.0,
+            "Price": 55000.0,
+            "m²": 45.99,
+            "Address": "Aptiekas 6"
+        },
+        {
+            "Price_per_m²": 609.0,
+            "Price": 14000.0,
+            "m²": 22.99,
+            "Address": "Sīmaņa 6"
+        },
+        {
+            "Price_per_m²": 571.0,
+            "Price": 16000.0,
+            "m²": 28.02,
+            "Address": "Tvaika 28"
+        },
+        {
+            "Price_per_m²": 817.0,
+            "Price": 33500.0,
+            "m²": 41.0,
+            "Address": "Sarkandaugavas 26/.."
+        },
+        {
+            "Price_per_m²": 1172.0,
+            "Price": 75000.0,
+            "m²": 63.99,
+            "Address": "Viestura pr. 79"
+        },
+        {
+            "Price_per_m²": 1167.0,
+            "Price": 63000.0,
+            "m²": 53.98,
+            "Address": "Ziemeļu 3"
+        },
+        {
+            "Price_per_m²": 821.0,
+            "Price": 32000.0,
+            "m²": 38.98,
+            "Address": "Viestura pr. 20a"
+        },
+        {
+            "Price_per_m²": 1126.0,
+            "Price": 107000.0,
+            "m²": 95.03,
+            "Address": "Allažu 4"
+        },
+        {
+            "Price_per_m²": 998.0,
+            "Price": 108750.0,
+            "m²": 108.97,
+            "Address": "Tilta 20"
+        },
+        {
+            "Price_per_m²": 691.0,
+            "Price": 15900.0,
+            "m²": 23.01,
+            "Address": "Hāpsalas 21"
+        },
+        {
+            "Price_per_m²": 938.0,
+            "Price": 45000.0,
+            "m²": 47.97,
+            "Address": "Viestura pr. 14"
+        },
+        {
+            "Price_per_m²": 556.0,
+            "Price": 15000.0,
+            "m²": 26.98,
+            "Address": "Priežu 12"
+        },
+        {
+            "Price_per_m²": 1100.0,
+            "Price": 42900.0,
+            "m²": 39.0,
+            "Address": "Patversmes 22/4"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 60000.0,
+            "m²": 56.02,
+            "Address": "Sarkandaugavas 3"
+        },
+        {
+            "Price_per_m²": 810.0,
+            "Price": 34000.0,
+            "m²": 41.98,
+            "Address": "Sarkandaugavas 26"
+        },
+        {
+            "Price_per_m²": 1196.0,
+            "Price": 55000.0,
+            "m²": 45.99,
+            "Address": "Aptiekas 6"
+        },
+        {
+            "Price_per_m²": 609.0,
+            "Price": 14000.0,
+            "m²": 22.99,
+            "Address": "Sīmaņa 6"
+        },
+        {
+            "Price_per_m²": 571.0,
+            "Price": 16000.0,
+            "m²": 28.02,
+            "Address": "Tvaika 28"
+        },
+        {
+            "Price_per_m²": 817.0,
+            "Price": 33500.0,
+            "m²": 41.0,
+            "Address": "Sarkandaugavas 26/.."
+        },
+        {
+            "Price_per_m²": 1172.0,
+            "Price": 75000.0,
+            "m²": 63.99,
+            "Address": "Viestura pr. 79"
+        },
+        {
+            "Price_per_m²": 1167.0,
+            "Price": 63000.0,
+            "m²": 53.98,
+            "Address": "Ziemeļu 3"
+        },
+        {
+            "Price_per_m²": 821.0,
+            "Price": 32000.0,
+            "m²": 38.98,
+            "Address": "Viestura pr. 20a"
+        },
+        {
+            "Price_per_m²": 1126.0,
+            "Price": 107000.0,
+            "m²": 95.03,
+            "Address": "Allažu 4"
+        },
+        {
+            "Price_per_m²": 998.0,
+            "Price": 108750.0,
+            "m²": 108.97,
+            "Address": "Tilta 20"
+        },
+        {
+            "Price_per_m²": 691.0,
+            "Price": 15900.0,
+            "m²": 23.01,
+            "Address": "Hāpsalas 21"
+        },
+        {
+            "Price_per_m²": 938.0,
+            "Price": 45000.0,
+            "m²": 47.97,
+            "Address": "Viestura pr. 14"
+        },
+        {
+            "Price_per_m²": 556.0,
+            "Price": 15000.0,
+            "m²": 26.98,
+            "Address": "Priežu 12"
+        },
+        {
+            "Price_per_m²": 1100.0,
+            "Price": 42900.0,
+            "m²": 39.0,
+            "Address": "Patversmes 22/4"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 60000.0,
+            "m²": 56.02,
+            "Address": "Sarkandaugavas 3"
+        },
+        {
+            "Price_per_m²": 810.0,
+            "Price": 34000.0,
+            "m²": 41.98,
+            "Address": "Sarkandaugavas 26"
+        },
+        {
+            "Price_per_m²": 1196.0,
+            "Price": 55000.0,
+            "m²": 45.99,
+            "Address": "Aptiekas 6"
+        },
+        {
+            "Price_per_m²": 609.0,
+            "Price": 14000.0,
+            "m²": 22.99,
+            "Address": "Sīmaņa 6"
+        },
+        {
+            "Price_per_m²": 571.0,
+            "Price": 16000.0,
+            "m²": 28.02,
+            "Address": "Tvaika 28"
+        },
+        {
+            "Price_per_m²": 817.0,
+            "Price": 33500.0,
+            "m²": 41.0,
+            "Address": "Sarkandaugavas 26/.."
+        },
+        {
+            "Price_per_m²": 1172.0,
+            "Price": 75000.0,
+            "m²": 63.99,
+            "Address": "Viestura pr. 79"
+        },
+        {
+            "Price_per_m²": 1167.0,
+            "Price": 63000.0,
+            "m²": 53.98,
+            "Address": "Ziemeļu 3"
+        },
+        {
+            "Price_per_m²": 821.0,
+            "Price": 32000.0,
+            "m²": 38.98,
+            "Address": "Viestura pr. 20a"
+        },
+        {
+            "Price_per_m²": 1126.0,
+            "Price": 107000.0,
+            "m²": 95.03,
+            "Address": "Allažu 4"
+        },
+        {
+            "Price_per_m²": 998.0,
+            "Price": 108750.0,
+            "m²": 108.97,
+            "Address": "Tilta 20"
+        },
+        {
+            "Price_per_m²": 691.0,
+            "Price": 15900.0,
+            "m²": 23.01,
+            "Address": "Hāpsalas 21"
+        },
+        {
+            "Price_per_m²": 938.0,
+            "Price": 45000.0,
+            "m²": 47.97,
+            "Address": "Viestura pr. 14"
+        },
+        {
+            "Price_per_m²": 556.0,
+            "Price": 15000.0,
+            "m²": 26.98,
+            "Address": "Priežu 12"
+        },
+        {
+            "Price_per_m²": 1100.0,
+            "Price": 42900.0,
+            "m²": 39.0,
+            "Address": "Patversmes 22/4"
+        },
+        {
+            "Price_per_m²": 1071.0,
+            "Price": 60000.0,
+            "m²": 56.02,
+            "Address": "Sarkandaugavas 3"
+        },
+        {
+            "Price_per_m²": 810.0,
+            "Price": 34000.0,
+            "m²": 41.98,
+            "Address": "Sarkandaugavas 26"
+        },
+        {
+            "Price_per_m²": 1196.0,
+            "Price": 55000.0,
+            "m²": 45.99,
+            "Address": "Aptiekas 6"
+        },
+        {
+            "Price_per_m²": 609.0,
+            "Price": 14000.0,
+            "m²": 22.99,
+            "Address": "Sīmaņa 6"
+        },
+        {
+            "Price_per_m²": 571.0,
+            "Price": 16000.0,
+            "m²": 28.02,
+            "Address": "Tvaika 28"
+        },
+        {
+            "Price_per_m²": 817.0,
+            "Price": 33500.0,
+            "m²": 41.0,
+            "Address": "Sarkandaugavas 26/.."
+        },
+        {
+            "Price_per_m²": 1172.0,
+            "Price": 75000.0,
+            "m²": 63.99,
+            "Address": "Viestura pr. 79"
+        },
+        {
+            "Price_per_m²": 1167.0,
+            "Price": 63000.0,
+            "m²": 53.98,
+            "Address": "Ziemeļu 3"
+        },
+        {
+            "Price_per_m²": 821.0,
+            "Price": 32000.0,
+            "m²": 38.98,
+            "Address": "Viestura pr. 20a"
+        },
+        {
+            "Price_per_m²": 1126.0,
+            "Price": 107000.0,
+            "m²": 95.03,
+            "Address": "Allažu 4"
+        },
+        {
+            "Price_per_m²": 998.0,
+            "Price": 108750.0,
+            "m²": 108.97,
+            "Address": "Tilta 20"
+        },
+        {
+            "Price_per_m²": 691.0,
+            "Price": 15900.0,
+            "m²": 23.01,
+            "Address": "Hāpsalas 21"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 9.62,
+            "Price": 250.0,
+            "m²": 25.99,
+            "Address": "Alekša 11"
+        },
+        {
+            "Price_per_m²": 6.79,
+            "Price": 190.0,
+            "m²": 27.98,
+            "Address": "Ziemeļu 17"
+        },
+        {
+            "Price_per_m²": 4.74,
+            "Price": 180.0,
+            "m²": 37.97,
+            "Address": "Ozolu 15"
+        },
+        {
+            "Price_per_m²": 3.57,
+            "Price": 125.0,
+            "m²": 35.01,
+            "Address": "Viestura pr. 59"
+        },
+        {
+            "Price_per_m²": 15.79,
+            "Price": 300.0,
+            "m²": 19.0,
+            "Address": "Sliežu 1"
+        },
+        {
+            "Price_per_m²": 8.28,
+            "Price": 240.0,
+            "m²": 28.99,
+            "Address": "Sarkandaugavas 26"
+        },
+        {
+            "Price_per_m²": 5.29,
+            "Price": 270.0,
+            "m²": 51.04,
+            "Address": "Duntes 31"
+        },
+        {
+            "Price_per_m²": 9.3,
+            "Price": 400.0,
+            "m²": 43.01,
+            "Address": "Hāpsalas 1"
+        },
+        {
+            "Price_per_m²": 11.36,
+            "Price": 250.0,
+            "m²": 22.01,
+            "Address": "Priežu 14A"
+        },
+        {
+            "Price_per_m²": 4.91,
+            "Price": 280.0,
+            "m²": 57.03,
+            "Address": "Tvaika 60"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 300.0,
+            "m²": 42.02,
+            "Address": "Patversmes 3"
+        },
+        {
+            "Price_per_m²": 4.76,
+            "Price": 200.0,
+            "m²": 42.02,
+            "Address": "Tvaika 34"
+        },
+        {
+            "Price_per_m²": 5.67,
+            "Price": 170.0,
+            "m²": 29.98,
+            "Address": "Tvaika 34"
+        },
+        {
+            "Price_per_m²": 6.6,
+            "Price": 330.0,
+            "m²": 50.0,
+            "Address": "Viestura pr. 47"
+        },
+        {
+            "Price_per_m²": 7.39,
+            "Price": 340.0,
+            "m²": 46.01,
+            "Address": "Sliežu 95"
+        },
+        {
+            "Price_per_m²": 7.69,
+            "Price": 400.0,
+            "m²": 52.02,
+            "Address": "Tvaika 56"
+        },
+        {
+            "Price_per_m²": 7.78,
+            "Price": 210.0,
+            "m²": 26.99,
+            "Address": "Alekša 5"
+        },
+        {
+            "Price_per_m²": 8.33,
+            "Price": 400.0,
+            "m²": 48.02,
+            "Address": "Patversmes 5 k-1"
+        },
+        {
+            "Price_per_m²": 7.81,
+            "Price": 250.0,
+            "m²": 32.01,
+            "Address": "Hāpsalas 12"
+        },
+        {
+            "Price_per_m²": 13.16,
+            "Price": 250.0,
+            "m²": 19.0,
+            "Address": "Sarkandaugavas 10"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 300.0,
+            "m²": 42.02,
+            "Address": "Tvaika 54"
+        },
+        {
+            "Price_per_m²": 7.86,
+            "Price": 550.0,
+            "m²": 69.97,
+            "Address": "Tvaika 16"
+        },
+        {
+            "Price_per_m²": 9.62,
+            "Price": 250.0,
+            "m²": 25.99,
+            "Address": "Alekša 11"
+        },
+        {
+            "Price_per_m²": 6.79,
+            "Price": 190.0,
+            "m²": 27.98,
+            "Address": "Ziemeļu 17"
+        },
+        {
+            "Price_per_m²": 4.74,
+            "Price": 180.0,
+            "m²": 37.97,
+            "Address": "Ozolu 15"
+        },
+        {
+            "Price_per_m²": 3.57,
+            "Price": 125.0,
+            "m²": 35.01,
+            "Address": "Viestura pr. 59"
+        },
+        {
+            "Price_per_m²": 15.79,
+            "Price": 300.0,
+            "m²": 19.0,
+            "Address": "Sliežu 1"
+        },
+        {
+            "Price_per_m²": 8.28,
+            "Price": 240.0,
+            "m²": 28.99,
+            "Address": "Sarkandaugavas 26"
+        },
+        {
+            "Price_per_m²": 5.29,
+            "Price": 270.0,
+            "m²": 51.04,
+            "Address": "Duntes 31"
+        },
+        {
+            "Price_per_m²": 9.3,
+            "Price": 400.0,
+            "m²": 43.01,
+            "Address": "Hāpsalas 1"
+        },
+        {
+            "Price_per_m²": 11.36,
+            "Price": 250.0,
+            "m²": 22.01,
+            "Address": "Priežu 14A"
+        },
+        {
+            "Price_per_m²": 4.91,
+            "Price": 280.0,
+            "m²": 57.03,
+            "Address": "Tvaika 60"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 300.0,
+            "m²": 42.02,
+            "Address": "Patversmes 3"
+        },
+        {
+            "Price_per_m²": 9.62,
+            "Price": 250.0,
+            "m²": 25.99,
+            "Address": "Alekša 11"
+        },
+        {
+            "Price_per_m²": 6.79,
+            "Price": 190.0,
+            "m²": 27.98,
+            "Address": "Ziemeļu 17"
+        },
+        {
+            "Price_per_m²": 4.74,
+            "Price": 180.0,
+            "m²": 37.97,
+            "Address": "Ozolu 15"
+        },
+        {
+            "Price_per_m²": 3.57,
+            "Price": 125.0,
+            "m²": 35.01,
+            "Address": "Viestura pr. 59"
+        },
+        {
+            "Price_per_m²": 15.79,
+            "Price": 300.0,
+            "m²": 19.0,
+            "Address": "Sliežu 1"
+        },
+        {
+            "Price_per_m²": 8.28,
+            "Price": 240.0,
+            "m²": 28.99,
+            "Address": "Sarkandaugavas 26"
+        },
+        {
+            "Price_per_m²": 5.29,
+            "Price": 270.0,
+            "m²": 51.04,
+            "Address": "Duntes 31"
+        },
+        {
+            "Price_per_m²": 9.3,
+            "Price": 400.0,
+            "m²": 43.01,
+            "Address": "Hāpsalas 1"
+        },
+        {
+            "Price_per_m²": 11.36,
+            "Price": 250.0,
+            "m²": 22.01,
+            "Address": "Priežu 14A"
+        },
+        {
+            "Price_per_m²": 4.91,
+            "Price": 280.0,
+            "m²": 57.03,
+            "Address": "Tvaika 60"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 300.0,
+            "m²": 42.02,
+            "Address": "Patversmes 3"
+        },
+        {
+            "Price_per_m²": 9.62,
+            "Price": 250.0,
+            "m²": 25.99,
+            "Address": "Alekša 11"
+        },
+        {
+            "Price_per_m²": 6.79,
+            "Price": 190.0,
+            "m²": 27.98,
+            "Address": "Ziemeļu 17"
+        },
+        {
+            "Price_per_m²": 4.74,
+            "Price": 180.0,
+            "m²": 37.97,
+            "Address": "Ozolu 15"
+        },
+        {
+            "Price_per_m²": 3.57,
+            "Price": 125.0,
+            "m²": 35.01,
+            "Address": "Viestura pr. 59"
+        },
+        {
+            "Price_per_m²": 15.79,
+            "Price": 300.0,
+            "m²": 19.0,
+            "Address": "Sliežu 1"
+        },
+        {
+            "Price_per_m²": 8.28,
+            "Price": 240.0,
+            "m²": 28.99,
+            "Address": "Sarkandaugavas 26"
+        },
+        {
+            "Price_per_m²": 5.29,
+            "Price": 270.0,
+            "m²": 51.04,
+            "Address": "Duntes 31"
+        },
+        {
+            "Price_per_m²": 9.3,
+            "Price": 400.0,
+            "m²": 43.01,
+            "Address": "Hāpsalas 1"
+        },
+        {
+            "Price_per_m²": 11.36,
+            "Price": 250.0,
+            "m²": 22.01,
+            "Address": "Priežu 14A"
+        },
+        {
+            "Price_per_m²": 4.91,
+            "Price": 280.0,
+            "m²": 57.03,
+            "Address": "Tvaika 60"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 300.0,
+            "m²": 42.02,
+            "Address": "Patversmes 3"
+        },
+        {
+            "Price_per_m²": 9.62,
+            "Price": 250.0,
+            "m²": 25.99,
+            "Address": "Alekša 11"
+        },
+        {
+            "Price_per_m²": 6.79,
+            "Price": 190.0,
+            "m²": 27.98,
+            "Address": "Ziemeļu 17"
+        },
+        {
+            "Price_per_m²": 4.74,
+            "Price": 180.0,
+            "m²": 37.97,
+            "Address": "Ozolu 15"
+        },
+        {
+            "Price_per_m²": 3.57,
+            "Price": 125.0,
+            "m²": 35.01,
+            "Address": "Viestura pr. 59"
+        },
+        {
+            "Price_per_m²": 15.79,
+            "Price": 300.0,
+            "m²": 19.0,
+            "Address": "Sliežu 1"
+        },
+        {
+            "Price_per_m²": 8.28,
+            "Price": 240.0,
+            "m²": 28.99,
+            "Address": "Sarkandaugavas 26"
+        },
+        {
+            "Price_per_m²": 5.29,
+            "Price": 270.0,
+            "m²": 51.04,
+            "Address": "Duntes 31"
+        },
+        {
+            "Price_per_m²": 9.3,
+            "Price": 400.0,
+            "m²": 43.01,
+            "Address": "Hāpsalas 1"
+        },
+        {
+            "Price_per_m²": 11.36,
+            "Price": 250.0,
+            "m²": 22.01,
+            "Address": "Priežu 14A"
+        },
+        {
+            "Price_per_m²": 4.91,
+            "Price": 280.0,
+            "m²": 57.03,
+            "Address": "Tvaika 60"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 300.0,
+            "m²": 42.02,
+            "Address": "Patversmes 3"
+        },
+        {
+            "Price_per_m²": 9.62,
+            "Price": 250.0,
+            "m²": 25.99,
+            "Address": "Alekša 11"
+        },
+        {
+            "Price_per_m²": 6.79,
+            "Price": 190.0,
+            "m²": 27.98,
+            "Address": "Ziemeļu 17"
+        },
+        {
+            "Price_per_m²": 4.74,
+            "Price": 180.0,
+            "m²": 37.97,
+            "Address": "Ozolu 15"
+        },
+        {
+            "Price_per_m²": 3.57,
+            "Price": 125.0,
+            "m²": 35.01,
+            "Address": "Viestura pr. 59"
+        },
+        {
+            "Price_per_m²": 15.79,
+            "Price": 300.0,
+            "m²": 19.0,
+            "Address": "Sliežu 1"
+        },
+        {
+            "Price_per_m²": 8.28,
+            "Price": 240.0,
+            "m²": 28.99,
+            "Address": "Sarkandaugavas 26"
+        },
+        {
+            "Price_per_m²": 5.29,
+            "Price": 270.0,
+            "m²": 51.04,
+            "Address": "Duntes 31"
+        },
+        {
+            "Price_per_m²": 9.3,
+            "Price": 400.0,
+            "m²": 43.01,
+            "Address": "Hāpsalas 1"
+        },
+        {
+            "Price_per_m²": 11.36,
+            "Price": 250.0,
+            "m²": 22.01,
+            "Address": "Priežu 14A"
+        },
+        {
+            "Price_per_m²": 4.91,
+            "Price": 280.0,
+            "m²": 57.03,
+            "Address": "Tvaika 60"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 300.0,
+            "m²": 42.02,
+            "Address": "Patversmes 3"
+        },
+        {
+            "Price_per_m²": 9.62,
+            "Price": 250.0,
+            "m²": 25.99,
+            "Address": "Alekša 11"
+        },
+        {
+            "Price_per_m²": 6.79,
+            "Price": 190.0,
+            "m²": 27.98,
+            "Address": "Ziemeļu 17"
+        },
+        {
+            "Price_per_m²": 4.74,
+            "Price": 180.0,
+            "m²": 37.97,
+            "Address": "Ozolu 15"
+        },
+        {
+            "Price_per_m²": 3.57,
+            "Price": 125.0,
+            "m²": 35.01,
+            "Address": "Viestura pr. 59"
+        },
+        {
+            "Price_per_m²": 15.79,
+            "Price": 300.0,
+            "m²": 19.0,
+            "Address": "Sliežu 1"
+        },
+        {
+            "Price_per_m²": 8.28,
+            "Price": 240.0,
+            "m²": 28.99,
+            "Address": "Sarkandaugavas 26"
+        },
+        {
+            "Price_per_m²": 5.29,
+            "Price": 270.0,
+            "m²": 51.04,
+            "Address": "Duntes 31"
+        },
+        {
+            "Price_per_m²": 9.3,
+            "Price": 400.0,
+            "m²": 43.01,
+            "Address": "Hāpsalas 1"
+        },
+        {
+            "Price_per_m²": 11.36,
+            "Price": 250.0,
+            "m²": 22.01,
+            "Address": "Priežu 14A"
+        },
+        {
+            "Price_per_m²": 4.91,
+            "Price": 280.0,
+            "m²": 57.03,
+            "Address": "Tvaika 60"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 300.0,
+            "m²": 42.02,
+            "Address": "Patversmes 3"
+        },
+        {
+            "Price_per_m²": 9.62,
+            "Price": 250.0,
+            "m²": 25.99,
+            "Address": "Alekša 11"
+        },
+        {
+            "Price_per_m²": 6.79,
+            "Price": 190.0,
+            "m²": 27.98,
+            "Address": "Ziemeļu 17"
+        },
+        {
+            "Price_per_m²": 4.74,
+            "Price": 180.0,
+            "m²": 37.97,
+            "Address": "Ozolu 15"
+        },
+        {
+            "Price_per_m²": 3.57,
+            "Price": 125.0,
+            "m²": 35.01,
+            "Address": "Viestura pr. 59"
+        },
+        {
+            "Price_per_m²": 15.79,
+            "Price": 300.0,
+            "m²": 19.0,
+            "Address": "Sliežu 1"
+        },
+        {
+            "Price_per_m²": 8.28,
+            "Price": 240.0,
+            "m²": 28.99,
+            "Address": "Sarkandaugavas 26"
+        },
+        {
+            "Price_per_m²": 5.29,
+            "Price": 270.0,
+            "m²": 51.04,
+            "Address": "Duntes 31"
+        },
+        {
+            "Price_per_m²": 9.3,
+            "Price": 400.0,
+            "m²": 43.01,
+            "Address": "Hāpsalas 1"
+        },
+        {
+            "Price_per_m²": 11.36,
+            "Price": 250.0,
+            "m²": 22.01,
+            "Address": "Priežu 14A"
+        },
+        {
+            "Price_per_m²": 4.91,
+            "Price": 280.0,
+            "m²": 57.03,
+            "Address": "Tvaika 60"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 300.0,
+            "m²": 42.02,
+            "Address": "Patversmes 3"
+        },
+        {
+            "Price_per_m²": 9.62,
+            "Price": 250.0,
+            "m²": 25.99,
+            "Address": "Alekša 11"
+        },
+        {
+            "Price_per_m²": 6.79,
+            "Price": 190.0,
+            "m²": 27.98,
+            "Address": "Ziemeļu 17"
+        },
+        {
+            "Price_per_m²": 4.74,
+            "Price": 180.0,
+            "m²": 37.97,
+            "Address": "Ozolu 15"
+        },
+        {
+            "Price_per_m²": 3.57,
+            "Price": 125.0,
+            "m²": 35.01,
+            "Address": "Viestura pr. 59"
+        },
+        {
+            "Price_per_m²": 15.79,
+            "Price": 300.0,
+            "m²": 19.0,
+            "Address": "Sliežu 1"
+        },
+        {
+            "Price_per_m²": 8.28,
+            "Price": 240.0,
+            "m²": 28.99,
+            "Address": "Sarkandaugavas 26"
+        },
+        {
+            "Price_per_m²": 5.29,
+            "Price": 270.0,
+            "m²": 51.04,
+            "Address": "Duntes 31"
+        },
+        {
+            "Price_per_m²": 9.3,
+            "Price": 400.0,
+            "m²": 43.01,
+            "Address": "Hāpsalas 1"
+        },
+        {
+            "Price_per_m²": 11.36,
+            "Price": 250.0,
+            "m²": 22.01,
+            "Address": "Priežu 14A"
+        },
+        {
+            "Price_per_m²": 4.91,
+            "Price": 280.0,
+            "m²": 57.03,
+            "Address": "Tvaika 60"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 300.0,
+            "m²": 42.02,
+            "Address": "Patversmes 3"
+        },
+        {
+            "Price_per_m²": 9.62,
+            "Price": 250.0,
+            "m²": 25.99,
+            "Address": "Alekša 11"
+        },
+        {
+            "Price_per_m²": 6.79,
+            "Price": 190.0,
+            "m²": 27.98,
+            "Address": "Ziemeļu 17"
+        },
+        {
+            "Price_per_m²": 4.74,
+            "Price": 180.0,
+            "m²": 37.97,
+            "Address": "Ozolu 15"
+        },
+        {
+            "Price_per_m²": 3.57,
+            "Price": 125.0,
+            "m²": 35.01,
+            "Address": "Viestura pr. 59"
+        },
+        {
+            "Price_per_m²": 15.79,
+            "Price": 300.0,
+            "m²": 19.0,
+            "Address": "Sliežu 1"
+        },
+        {
+            "Price_per_m²": 8.28,
+            "Price": 240.0,
+            "m²": 28.99,
+            "Address": "Sarkandaugavas 26"
+        },
+        {
+            "Price_per_m²": 5.29,
+            "Price": 270.0,
+            "m²": 51.04,
+            "Address": "Duntes 31"
+        },
+        {
+            "Price_per_m²": 9.3,
+            "Price": 400.0,
+            "m²": 43.01,
+            "Address": "Hāpsalas 1"
+        },
+        {
+            "Price_per_m²": 11.36,
+            "Price": 250.0,
+            "m²": 22.01,
+            "Address": "Priežu 14A"
+        },
+        {
+            "Price_per_m²": 4.91,
+            "Price": 280.0,
+            "m²": 57.03,
+            "Address": "Tvaika 60"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 300.0,
+            "m²": 42.02,
+            "Address": "Patversmes 3"
+        },
+        {
+            "Price_per_m²": 9.62,
+            "Price": 250.0,
+            "m²": 25.99,
+            "Address": "Alekša 11"
+        },
+        {
+            "Price_per_m²": 6.79,
+            "Price": 190.0,
+            "m²": 27.98,
+            "Address": "Ziemeļu 17"
+        },
+        {
+            "Price_per_m²": 4.74,
+            "Price": 180.0,
+            "m²": 37.97,
+            "Address": "Ozolu 15"
+        },
+        {
+            "Price_per_m²": 3.57,
+            "Price": 125.0,
+            "m²": 35.01,
+            "Address": "Viestura pr. 59"
+        },
+        {
+            "Price_per_m²": 15.79,
+            "Price": 300.0,
+            "m²": 19.0,
+            "Address": "Sliežu 1"
+        },
+        {
+            "Price_per_m²": 8.28,
+            "Price": 240.0,
+            "m²": 28.99,
+            "Address": "Sarkandaugavas 26"
+        },
+        {
+            "Price_per_m²": 5.29,
+            "Price": 270.0,
+            "m²": 51.04,
+            "Address": "Duntes 31"
+        },
+        {
+            "Price_per_m²": 9.3,
+            "Price": 400.0,
+            "m²": 43.01,
+            "Address": "Hāpsalas 1"
+        },
+        {
+            "Price_per_m²": 11.36,
+            "Price": 250.0,
+            "m²": 22.01,
+            "Address": "Priežu 14A"
+        },
+        {
+            "Price_per_m²": 4.91,
+            "Price": 280.0,
+            "m²": 57.03,
+            "Address": "Tvaika 60"
+        },
+        {
+            "Price_per_m²": 7.14,
+            "Price": 300.0,
+            "m²": 42.02,
+            "Address": "Patversmes 3"
+        }
+    ],
+    "daily": [
+        {
+            "Price_per_m²": 0.87,
+            "Price": 40.0,
+            "m²": 45.98,
+            "Address": "Viestura pr. 31"
+        },
+        {
+            "Price_per_m²": 0.833,
+            "Price": 35.0,
+            "m²": 42.02,
+            "Address": "Duntes 28"
+        }
+    ]
+}

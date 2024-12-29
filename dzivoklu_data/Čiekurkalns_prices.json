@@ -1,0 +1,1106 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 1141.0,
+            "Price": 55900.0,
+            "m²": 48.99,
+            "Address": "Čiekurkalna 1. l. .."
+        },
+        {
+            "Price_per_m²": 2380.0,
+            "Price": 119000.0,
+            "m²": 50.0,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 2519.0,
+            "Price": 90700.0,
+            "m²": 36.01,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 2645.0,
+            "Price": 82009.0,
+            "m²": 31.01,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 614.0,
+            "Price": 13500.0,
+            "m²": 21.99,
+            "Address": "Saulkrastu 2"
+        },
+        {
+            "Price_per_m²": 2301.0,
+            "Price": 43710.0,
+            "m²": 19.0,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 2370.0,
+            "Price": 73470.0,
+            "m²": 31.0,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 577.0,
+            "Price": 15000.0,
+            "m²": 26.0,
+            "Address": "Gaujas 41"
+        },
+        {
+            "Price_per_m²": 1970.0,
+            "Price": 65000.0,
+            "m²": 32.99,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 1360.0,
+            "Price": 47610.0,
+            "m²": 35.01,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1354.0,
+            "Price": 28428.0,
+            "m²": 21.0,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 882.0,
+            "Price": 15000.0,
+            "m²": 17.01,
+            "Address": "Saulkrastu 2k1"
+        },
+        {
+            "Price_per_m²": 1800.0,
+            "Price": 108000.0,
+            "m²": 60.0,
+            "Address": "Čiekurkalna 2. l. .."
+        },
+        {
+            "Price_per_m²": 1720.0,
+            "Price": 43000.0,
+            "m²": 25.0,
+            "Address": "Gaujas 32"
+        },
+        {
+            "Price_per_m²": 1116.0,
+            "Price": 48000.0,
+            "m²": 43.01,
+            "Address": "Čiekurkalna 5. šķ .."
+        },
+        {
+            "Price_per_m²": 875.0,
+            "Price": 35000.0,
+            "m²": 40.0,
+            "Address": "Rusova 30"
+        },
+        {
+            "Price_per_m²": 1625.0,
+            "Price": 195000.0,
+            "m²": 120.0,
+            "Address": "Čiekurkalna 3. šķ .."
+        },
+        {
+            "Price_per_m²": 1357.0,
+            "Price": 38000.0,
+            "m²": 28.0,
+            "Address": "Gaujas 37"
+        },
+        {
+            "Price_per_m²": 1024.0,
+            "Price": 43000.0,
+            "m²": 41.99,
+            "Address": "Rusova 28"
+        },
+        {
+            "Price_per_m²": 838.0,
+            "Price": 62000.0,
+            "m²": 73.99,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 713.0,
+            "Price": 11400.0,
+            "m²": 15.99,
+            "Address": "Saulkrastu 2"
+        },
+        {
+            "Price_per_m²": 1085.0,
+            "Price": 77000.0,
+            "m²": 70.97,
+            "Address": "Čiekurkalna 8. šķ .."
+        },
+        {
+            "Price_per_m²": 1141.0,
+            "Price": 55900.0,
+            "m²": 48.99,
+            "Address": "Čiekurkalna 1. l. .."
+        },
+        {
+            "Price_per_m²": 2380.0,
+            "Price": 119000.0,
+            "m²": 50.0,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 2519.0,
+            "Price": 90700.0,
+            "m²": 36.01,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 2645.0,
+            "Price": 82009.0,
+            "m²": 31.01,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 614.0,
+            "Price": 13500.0,
+            "m²": 21.99,
+            "Address": "Saulkrastu 2"
+        },
+        {
+            "Price_per_m²": 2301.0,
+            "Price": 43710.0,
+            "m²": 19.0,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 2370.0,
+            "Price": 73470.0,
+            "m²": 31.0,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 577.0,
+            "Price": 15000.0,
+            "m²": 26.0,
+            "Address": "Gaujas 41"
+        },
+        {
+            "Price_per_m²": 1970.0,
+            "Price": 65000.0,
+            "m²": 32.99,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 1360.0,
+            "Price": 47610.0,
+            "m²": 35.01,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1354.0,
+            "Price": 28428.0,
+            "m²": 21.0,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1141.0,
+            "Price": 55900.0,
+            "m²": 48.99,
+            "Address": "Čiekurkalna 1. l. .."
+        },
+        {
+            "Price_per_m²": 2380.0,
+            "Price": 119000.0,
+            "m²": 50.0,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 2519.0,
+            "Price": 90700.0,
+            "m²": 36.01,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 2645.0,
+            "Price": 82009.0,
+            "m²": 31.01,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 614.0,
+            "Price": 13500.0,
+            "m²": 21.99,
+            "Address": "Saulkrastu 2"
+        },
+        {
+            "Price_per_m²": 2301.0,
+            "Price": 43710.0,
+            "m²": 19.0,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 2370.0,
+            "Price": 73470.0,
+            "m²": 31.0,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 577.0,
+            "Price": 15000.0,
+            "m²": 26.0,
+            "Address": "Gaujas 41"
+        },
+        {
+            "Price_per_m²": 1970.0,
+            "Price": 65000.0,
+            "m²": 32.99,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 1360.0,
+            "Price": 47610.0,
+            "m²": 35.01,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1354.0,
+            "Price": 28428.0,
+            "m²": 21.0,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1141.0,
+            "Price": 55900.0,
+            "m²": 48.99,
+            "Address": "Čiekurkalna 1. l. .."
+        },
+        {
+            "Price_per_m²": 2380.0,
+            "Price": 119000.0,
+            "m²": 50.0,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 2519.0,
+            "Price": 90700.0,
+            "m²": 36.01,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 2645.0,
+            "Price": 82009.0,
+            "m²": 31.01,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 614.0,
+            "Price": 13500.0,
+            "m²": 21.99,
+            "Address": "Saulkrastu 2"
+        },
+        {
+            "Price_per_m²": 2301.0,
+            "Price": 43710.0,
+            "m²": 19.0,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 2370.0,
+            "Price": 73470.0,
+            "m²": 31.0,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 577.0,
+            "Price": 15000.0,
+            "m²": 26.0,
+            "Address": "Gaujas 41"
+        },
+        {
+            "Price_per_m²": 1970.0,
+            "Price": 65000.0,
+            "m²": 32.99,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 1360.0,
+            "Price": 47610.0,
+            "m²": 35.01,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1354.0,
+            "Price": 28428.0,
+            "m²": 21.0,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1141.0,
+            "Price": 55900.0,
+            "m²": 48.99,
+            "Address": "Čiekurkalna 1. l. .."
+        },
+        {
+            "Price_per_m²": 2380.0,
+            "Price": 119000.0,
+            "m²": 50.0,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 2519.0,
+            "Price": 90700.0,
+            "m²": 36.01,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 2645.0,
+            "Price": 82009.0,
+            "m²": 31.01,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 614.0,
+            "Price": 13500.0,
+            "m²": 21.99,
+            "Address": "Saulkrastu 2"
+        },
+        {
+            "Price_per_m²": 2301.0,
+            "Price": 43710.0,
+            "m²": 19.0,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 2370.0,
+            "Price": 73470.0,
+            "m²": 31.0,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 577.0,
+            "Price": 15000.0,
+            "m²": 26.0,
+            "Address": "Gaujas 41"
+        },
+        {
+            "Price_per_m²": 1970.0,
+            "Price": 65000.0,
+            "m²": 32.99,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 1360.0,
+            "Price": 47610.0,
+            "m²": 35.01,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1354.0,
+            "Price": 28428.0,
+            "m²": 21.0,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1141.0,
+            "Price": 55900.0,
+            "m²": 48.99,
+            "Address": "Čiekurkalna 1. l. .."
+        },
+        {
+            "Price_per_m²": 2380.0,
+            "Price": 119000.0,
+            "m²": 50.0,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 2519.0,
+            "Price": 90700.0,
+            "m²": 36.01,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 2645.0,
+            "Price": 82009.0,
+            "m²": 31.01,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 614.0,
+            "Price": 13500.0,
+            "m²": 21.99,
+            "Address": "Saulkrastu 2"
+        },
+        {
+            "Price_per_m²": 2301.0,
+            "Price": 43710.0,
+            "m²": 19.0,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 2370.0,
+            "Price": 73470.0,
+            "m²": 31.0,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 577.0,
+            "Price": 15000.0,
+            "m²": 26.0,
+            "Address": "Gaujas 41"
+        },
+        {
+            "Price_per_m²": 1970.0,
+            "Price": 65000.0,
+            "m²": 32.99,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 1360.0,
+            "Price": 47610.0,
+            "m²": 35.01,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1354.0,
+            "Price": 28428.0,
+            "m²": 21.0,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1141.0,
+            "Price": 55900.0,
+            "m²": 48.99,
+            "Address": "Čiekurkalna 1. l. .."
+        },
+        {
+            "Price_per_m²": 2380.0,
+            "Price": 119000.0,
+            "m²": 50.0,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 2519.0,
+            "Price": 90700.0,
+            "m²": 36.01,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 2645.0,
+            "Price": 82009.0,
+            "m²": 31.01,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 614.0,
+            "Price": 13500.0,
+            "m²": 21.99,
+            "Address": "Saulkrastu 2"
+        },
+        {
+            "Price_per_m²": 2301.0,
+            "Price": 43710.0,
+            "m²": 19.0,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 2370.0,
+            "Price": 73470.0,
+            "m²": 31.0,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 577.0,
+            "Price": 15000.0,
+            "m²": 26.0,
+            "Address": "Gaujas 41"
+        },
+        {
+            "Price_per_m²": 1970.0,
+            "Price": 65000.0,
+            "m²": 32.99,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 1360.0,
+            "Price": 47610.0,
+            "m²": 35.01,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1354.0,
+            "Price": 28428.0,
+            "m²": 21.0,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1141.0,
+            "Price": 55900.0,
+            "m²": 48.99,
+            "Address": "Čiekurkalna 1. l. .."
+        },
+        {
+            "Price_per_m²": 2380.0,
+            "Price": 119000.0,
+            "m²": 50.0,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 2519.0,
+            "Price": 90700.0,
+            "m²": 36.01,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 2645.0,
+            "Price": 82009.0,
+            "m²": 31.01,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 614.0,
+            "Price": 13500.0,
+            "m²": 21.99,
+            "Address": "Saulkrastu 2"
+        },
+        {
+            "Price_per_m²": 2301.0,
+            "Price": 43710.0,
+            "m²": 19.0,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 2370.0,
+            "Price": 73470.0,
+            "m²": 31.0,
+            "Address": "Čiekurkalna 7. šķ .."
+        },
+        {
+            "Price_per_m²": 577.0,
+            "Price": 15000.0,
+            "m²": 26.0,
+            "Address": "Gaujas 41"
+        },
+        {
+            "Price_per_m²": 1970.0,
+            "Price": 65000.0,
+            "m²": 32.99,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 1360.0,
+            "Price": 47610.0,
+            "m²": 35.01,
+            "Address": "Ezermalas 4"
+        },
+        {
+            "Price_per_m²": 1354.0,
+            "Price": 28428.0,
+            "m²": 21.0,
+            "Address": "Ezermalas 4"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 14.44,
+            "Price": 260.0,
+            "m²": 18.01,
+            "Address": "Čiekurkalna 2. l. .."
+        },
+        {
+            "Price_per_m²": 13.89,
+            "Price": 500.0,
+            "m²": 36.0,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 18.0,
+            "Price": 270.0,
+            "m²": 15.0,
+            "Address": "Rusova 28"
+        },
+        {
+            "Price_per_m²": 8.17,
+            "Price": 245.0,
+            "m²": 29.99,
+            "Address": "Čiekurkalna 3. šķ .."
+        },
+        {
+            "Price_per_m²": 13.2,
+            "Price": 330.0,
+            "m²": 25.0,
+            "Address": "Čiekurkalna 3. šķ .."
+        },
+        {
+            "Price_per_m²": 9.21,
+            "Price": 350.0,
+            "m²": 38.0,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 14.1,
+            "Price": 1100.0,
+            "m²": 78.01,
+            "Address": "Čiekurkalna 5. šķ .."
+        },
+        {
+            "Price_per_m²": 7.95,
+            "Price": 350.0,
+            "m²": 44.03,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 7.65,
+            "Price": 260.0,
+            "m²": 33.99,
+            "Address": "Ķīšezera 13"
+        },
+        {
+            "Price_per_m²": 8.1,
+            "Price": 170.0,
+            "m²": 20.99,
+            "Address": "Saulkrastu 2/3"
+        },
+        {
+            "Price_per_m²": 7.5,
+            "Price": 120.0,
+            "m²": 16.0,
+            "Address": "Saulkrastu 2/3"
+        },
+        {
+            "Price_per_m²": 7.11,
+            "Price": 270.0,
+            "m²": 37.97,
+            "Address": "Rusova 28"
+        },
+        {
+            "Price_per_m²": 13.46,
+            "Price": 350.0,
+            "m²": 26.0,
+            "Address": "Gaujas 32"
+        },
+        {
+            "Price_per_m²": 14.44,
+            "Price": 260.0,
+            "m²": 18.01,
+            "Address": "Čiekurkalna 2. l. .."
+        },
+        {
+            "Price_per_m²": 13.89,
+            "Price": 500.0,
+            "m²": 36.0,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 18.0,
+            "Price": 270.0,
+            "m²": 15.0,
+            "Address": "Rusova 28"
+        },
+        {
+            "Price_per_m²": 8.17,
+            "Price": 245.0,
+            "m²": 29.99,
+            "Address": "Čiekurkalna 3. šķ .."
+        },
+        {
+            "Price_per_m²": 13.2,
+            "Price": 330.0,
+            "m²": 25.0,
+            "Address": "Čiekurkalna 3. šķ .."
+        },
+        {
+            "Price_per_m²": 9.21,
+            "Price": 350.0,
+            "m²": 38.0,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 14.1,
+            "Price": 1100.0,
+            "m²": 78.01,
+            "Address": "Čiekurkalna 5. šķ .."
+        },
+        {
+            "Price_per_m²": 7.95,
+            "Price": 350.0,
+            "m²": 44.03,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 7.65,
+            "Price": 260.0,
+            "m²": 33.99,
+            "Address": "Ķīšezera 13"
+        },
+        {
+            "Price_per_m²": 14.44,
+            "Price": 260.0,
+            "m²": 18.01,
+            "Address": "Čiekurkalna 2. l. .."
+        },
+        {
+            "Price_per_m²": 13.89,
+            "Price": 500.0,
+            "m²": 36.0,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 18.0,
+            "Price": 270.0,
+            "m²": 15.0,
+            "Address": "Rusova 28"
+        },
+        {
+            "Price_per_m²": 8.17,
+            "Price": 245.0,
+            "m²": 29.99,
+            "Address": "Čiekurkalna 3. šķ .."
+        },
+        {
+            "Price_per_m²": 13.2,
+            "Price": 330.0,
+            "m²": 25.0,
+            "Address": "Čiekurkalna 3. šķ .."
+        },
+        {
+            "Price_per_m²": 9.21,
+            "Price": 350.0,
+            "m²": 38.0,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 14.1,
+            "Price": 1100.0,
+            "m²": 78.01,
+            "Address": "Čiekurkalna 5. šķ .."
+        },
+        {
+            "Price_per_m²": 7.95,
+            "Price": 350.0,
+            "m²": 44.03,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 7.65,
+            "Price": 260.0,
+            "m²": 33.99,
+            "Address": "Ķīšezera 13"
+        },
+        {
+            "Price_per_m²": 14.44,
+            "Price": 260.0,
+            "m²": 18.01,
+            "Address": "Čiekurkalna 2. l. .."
+        },
+        {
+            "Price_per_m²": 13.89,
+            "Price": 500.0,
+            "m²": 36.0,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 18.0,
+            "Price": 270.0,
+            "m²": 15.0,
+            "Address": "Rusova 28"
+        },
+        {
+            "Price_per_m²": 8.17,
+            "Price": 245.0,
+            "m²": 29.99,
+            "Address": "Čiekurkalna 3. šķ .."
+        },
+        {
+            "Price_per_m²": 13.2,
+            "Price": 330.0,
+            "m²": 25.0,
+            "Address": "Čiekurkalna 3. šķ .."
+        },
+        {
+            "Price_per_m²": 9.21,
+            "Price": 350.0,
+            "m²": 38.0,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 14.1,
+            "Price": 1100.0,
+            "m²": 78.01,
+            "Address": "Čiekurkalna 5. šķ .."
+        },
+        {
+            "Price_per_m²": 7.95,
+            "Price": 350.0,
+            "m²": 44.03,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 7.65,
+            "Price": 260.0,
+            "m²": 33.99,
+            "Address": "Ķīšezera 13"
+        },
+        {
+            "Price_per_m²": 14.44,
+            "Price": 260.0,
+            "m²": 18.01,
+            "Address": "Čiekurkalna 2. l. .."
+        },
+        {
+            "Price_per_m²": 13.89,
+            "Price": 500.0,
+            "m²": 36.0,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 18.0,
+            "Price": 270.0,
+            "m²": 15.0,
+            "Address": "Rusova 28"
+        },
+        {
+            "Price_per_m²": 8.17,
+            "Price": 245.0,
+            "m²": 29.99,
+            "Address": "Čiekurkalna 3. šķ .."
+        },
+        {
+            "Price_per_m²": 13.2,
+            "Price": 330.0,
+            "m²": 25.0,
+            "Address": "Čiekurkalna 3. šķ .."
+        },
+        {
+            "Price_per_m²": 9.21,
+            "Price": 350.0,
+            "m²": 38.0,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 14.1,
+            "Price": 1100.0,
+            "m²": 78.01,
+            "Address": "Čiekurkalna 5. šķ .."
+        },
+        {
+            "Price_per_m²": 7.95,
+            "Price": 350.0,
+            "m²": 44.03,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 7.65,
+            "Price": 260.0,
+            "m²": 33.99,
+            "Address": "Ķīšezera 13"
+        },
+        {
+            "Price_per_m²": 14.44,
+            "Price": 260.0,
+            "m²": 18.01,
+            "Address": "Čiekurkalna 2. l. .."
+        },
+        {
+            "Price_per_m²": 13.89,
+            "Price": 500.0,
+            "m²": 36.0,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 18.0,
+            "Price": 270.0,
+            "m²": 15.0,
+            "Address": "Rusova 28"
+        },
+        {
+            "Price_per_m²": 8.17,
+            "Price": 245.0,
+            "m²": 29.99,
+            "Address": "Čiekurkalna 3. šķ .."
+        },
+        {
+            "Price_per_m²": 13.2,
+            "Price": 330.0,
+            "m²": 25.0,
+            "Address": "Čiekurkalna 3. šķ .."
+        },
+        {
+            "Price_per_m²": 9.21,
+            "Price": 350.0,
+            "m²": 38.0,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 14.1,
+            "Price": 1100.0,
+            "m²": 78.01,
+            "Address": "Čiekurkalna 5. šķ .."
+        },
+        {
+            "Price_per_m²": 7.95,
+            "Price": 350.0,
+            "m²": 44.03,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 7.65,
+            "Price": 260.0,
+            "m²": 33.99,
+            "Address": "Ķīšezera 13"
+        },
+        {
+            "Price_per_m²": 14.44,
+            "Price": 260.0,
+            "m²": 18.01,
+            "Address": "Čiekurkalna 2. l. .."
+        },
+        {
+            "Price_per_m²": 13.89,
+            "Price": 500.0,
+            "m²": 36.0,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 18.0,
+            "Price": 270.0,
+            "m²": 15.0,
+            "Address": "Rusova 28"
+        },
+        {
+            "Price_per_m²": 8.17,
+            "Price": 245.0,
+            "m²": 29.99,
+            "Address": "Čiekurkalna 3. šķ .."
+        },
+        {
+            "Price_per_m²": 13.2,
+            "Price": 330.0,
+            "m²": 25.0,
+            "Address": "Čiekurkalna 3. šķ .."
+        },
+        {
+            "Price_per_m²": 9.21,
+            "Price": 350.0,
+            "m²": 38.0,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 14.1,
+            "Price": 1100.0,
+            "m²": 78.01,
+            "Address": "Čiekurkalna 5. šķ .."
+        },
+        {
+            "Price_per_m²": 7.95,
+            "Price": 350.0,
+            "m²": 44.03,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 7.65,
+            "Price": 260.0,
+            "m²": 33.99,
+            "Address": "Ķīšezera 13"
+        },
+        {
+            "Price_per_m²": 14.44,
+            "Price": 260.0,
+            "m²": 18.01,
+            "Address": "Čiekurkalna 2. l. .."
+        },
+        {
+            "Price_per_m²": 13.89,
+            "Price": 500.0,
+            "m²": 36.0,
+            "Address": "Rusova 7"
+        },
+        {
+            "Price_per_m²": 18.0,
+            "Price": 270.0,
+            "m²": 15.0,
+            "Address": "Rusova 28"
+        },
+        {
+            "Price_per_m²": 8.17,
+            "Price": 245.0,
+            "m²": 29.99,
+            "Address": "Čiekurkalna 3. šķ .."
+        },
+        {
+            "Price_per_m²": 13.2,
+            "Price": 330.0,
+            "m²": 25.0,
+            "Address": "Čiekurkalna 3. šķ .."
+        },
+        {
+            "Price_per_m²": 9.21,
+            "Price": 350.0,
+            "m²": 38.0,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 14.1,
+            "Price": 1100.0,
+            "m²": 78.01,
+            "Address": "Čiekurkalna 5. šķ .."
+        },
+        {
+            "Price_per_m²": 7.95,
+            "Price": 350.0,
+            "m²": 44.03,
+            "Address": "Čiekurkalna 4. šķ .."
+        },
+        {
+            "Price_per_m²": 7.65,
+            "Price": 260.0,
+            "m²": 33.99,
+            "Address": "Ķīšezera 13"
+        }
+    ],
+    "daily": [
+        {
+            "Price_per_m²": 1.4,
+            "Price": 35.0,
+            "m²": 25.0,
+            "Address": "Čiekurkalna 2. l. .."
+        },
+        {
+            "Price_per_m²": 1.4,
+            "Price": 35.0,
+            "m²": 25.0,
+            "Address": "Čiekurkalna 2. l. .."
+        },
+        {
+            "Price_per_m²": 1.4,
+            "Price": 35.0,
+            "m²": 25.0,
+            "Address": "Čiekurkalna 2. l. .."
+        },
+        {
+            "Price_per_m²": 1.4,
+            "Price": 35.0,
+            "m²": 25.0,
+            "Address": "Čiekurkalna 2. l. .."
+        },
+        {
+            "Price_per_m²": 1.4,
+            "Price": 35.0,
+            "m²": 25.0,
+            "Address": "Čiekurkalna 2. l. .."
+        },
+        {
+            "Price_per_m²": 1.4,
+            "Price": 35.0,
+            "m²": 25.0,
+            "Address": "Čiekurkalna 2. l. .."
+        },
+        {
+            "Price_per_m²": 1.4,
+            "Price": 35.0,
+            "m²": 25.0,
+            "Address": "Čiekurkalna 2. l. .."
+        },
+        {
+            "Price_per_m²": 1.4,
+            "Price": 35.0,
+            "m²": 25.0,
+            "Address": "Čiekurkalna 2. l. .."
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 1243.0,
+            "Price": 179000.0,
+            "m²": 144.01,
+            "Address": "Jaunības 11"
+        },
+        {
+            "Price_per_m²": 1559.0,
+            "Price": 290000.0,
+            "m²": 186.02,
+            "Address": "Brīvdabas 1"
+        },
+        {
+            "Price_per_m²": 1414.0,
+            "Price": 345000.0,
+            "m²": 243.99,
+            "Address": "Brīvības 446"
+        },
+        {
+            "Price_per_m²": 960.0,
+            "Price": 23999.0,
+            "m²": 25.0,
+            "Address": "Vējdzirnavu 28"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 7.59,
+            "Price": 1700.0,
+            "m²": 223.98,
+            "Address": "Brīvības 446"
+        },
+        {
+            "Price_per_m²": 8.0,
+            "Price": 480.0,
+            "m²": 60.0,
+            "Address": "Jaunciema g. 4"
+        }
+    ],
+    "daily": []
+}

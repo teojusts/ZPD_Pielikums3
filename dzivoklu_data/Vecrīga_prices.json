@@ -1,0 +1,1130 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 1512.0,
+            "Price": 260000.0,
+            "m²": 171.96,
+            "Address": "M. Smilšu 12"
+        },
+        {
+            "Price_per_m²": 2692.0,
+            "Price": 350000.0,
+            "m²": 130.01,
+            "Address": "Smilšu 10"
+        },
+        {
+            "Price_per_m²": 3125.0,
+            "Price": 250000.0,
+            "m²": 80.0,
+            "Address": "Skārņu 9"
+        },
+        {
+            "Price_per_m²": 2585.0,
+            "Price": 137000.0,
+            "m²": 53.0,
+            "Address": "Smilšu 14"
+        },
+        {
+            "Price_per_m²": 2200.0,
+            "Price": 275000.0,
+            "m²": 125.0,
+            "Address": "Smilšu 10"
+        },
+        {
+            "Price_per_m²": 4884.0,
+            "Price": 1900000.0,
+            "m²": 389.03,
+            "Address": "Grēcinieku 26"
+        },
+        {
+            "Price_per_m²": 2278.0,
+            "Price": 164000.0,
+            "m²": 71.99,
+            "Address": "Kalēju 74"
+        },
+        {
+            "Price_per_m²": 4307.0,
+            "Price": 435000.0,
+            "m²": 101.0,
+            "Address": "Aspazijas bulv. 30"
+        },
+        {
+            "Price_per_m²": 2392.0,
+            "Price": 299000.0,
+            "m²": 125.0,
+            "Address": "Teātra 12"
+        },
+        {
+            "Price_per_m²": 3100.0,
+            "Price": 186000.0,
+            "m²": 60.0,
+            "Address": "Kungu 25"
+        },
+        {
+            "Price_per_m²": 3177.0,
+            "Price": 251000.0,
+            "m²": 79.01,
+            "Address": "Kaļķu 2"
+        },
+        {
+            "Price_per_m²": 2687.0,
+            "Price": 180000.0,
+            "m²": 66.99,
+            "Address": "Jēkaba 26/28"
+        },
+        {
+            "Price_per_m²": 2526.0,
+            "Price": 96000.0,
+            "m²": 38.0,
+            "Address": "Kalēju 47"
+        },
+        {
+            "Price_per_m²": 1921.0,
+            "Price": 340000.0,
+            "m²": 176.99,
+            "Address": "Aldaru 12/14"
+        },
+        {
+            "Price_per_m²": 5256.0,
+            "Price": 699000.0,
+            "m²": 132.99,
+            "Address": "Vaļņu 21"
+        },
+        {
+            "Price_per_m²": 3154.0,
+            "Price": 205000.0,
+            "m²": 65.0,
+            "Address": "Miesnieku 14"
+        },
+        {
+            "Price_per_m²": 2700.0,
+            "Price": 270000.0,
+            "m²": 100.0,
+            "Address": "Pasta 9"
+        },
+        {
+            "Price_per_m²": 3286.0,
+            "Price": 115000.0,
+            "m²": 35.0,
+            "Address": "Kalēju 61"
+        },
+        {
+            "Price_per_m²": 2616.0,
+            "Price": 162200.0,
+            "m²": 62.0,
+            "Address": "Smilšu 14"
+        },
+        {
+            "Price_per_m²": 3064.0,
+            "Price": 239000.0,
+            "m²": 78.0,
+            "Address": "Kungu 25"
+        },
+        {
+            "Price_per_m²": 2013.0,
+            "Price": 157000.0,
+            "m²": 77.99,
+            "Address": "Meistaru 8"
+        },
+        {
+            "Price_per_m²": 1850.0,
+            "Price": 198000.0,
+            "m²": 107.03,
+            "Address": "Peitavas 5"
+        },
+        {
+            "Price_per_m²": 1364.0,
+            "Price": 240000.0,
+            "m²": 175.95,
+            "Address": "M. Smilšu 12"
+        },
+        {
+            "Price_per_m²": 2273.0,
+            "Price": 250000.0,
+            "m²": 109.99,
+            "Address": "Jēkaba 26/28"
+        },
+        {
+            "Price_per_m²": 2870.0,
+            "Price": 155000.0,
+            "m²": 54.01,
+            "Address": "Kaļķu 2"
+        },
+        {
+            "Price_per_m²": 1713.0,
+            "Price": 128500.0,
+            "m²": 75.01,
+            "Address": "Aspazijas bulv. 30"
+        },
+        {
+            "Price_per_m²": 1925.0,
+            "Price": 179000.0,
+            "m²": 92.99,
+            "Address": "Kalēju 14/16"
+        },
+        {
+            "Price_per_m²": 3333.0,
+            "Price": 550000.0,
+            "m²": 165.02,
+            "Address": "Kungu 25"
+        },
+        {
+            "Price_per_m²": 2500.0,
+            "Price": 255000.0,
+            "m²": 102.0,
+            "Address": "Smilšu 14"
+        },
+        {
+            "Price_per_m²": 2078.0,
+            "Price": 160000.0,
+            "m²": 77.0,
+            "Address": "Kaļķu 5"
+        },
+        {
+            "Price_per_m²": 3409.0,
+            "Price": 225000.0,
+            "m²": 66.0,
+            "Address": "Jāņa sēta 5"
+        },
+        {
+            "Price_per_m²": 2108.0,
+            "Price": 175000.0,
+            "m²": 83.02,
+            "Address": "Palasta 9"
+        },
+        {
+            "Price_per_m²": 1512.0,
+            "Price": 260000.0,
+            "m²": 171.96,
+            "Address": "M. Smilšu 12"
+        },
+        {
+            "Price_per_m²": 2692.0,
+            "Price": 350000.0,
+            "m²": 130.01,
+            "Address": "Smilšu 10"
+        },
+        {
+            "Price_per_m²": 3125.0,
+            "Price": 250000.0,
+            "m²": 80.0,
+            "Address": "Skārņu 9"
+        },
+        {
+            "Price_per_m²": 2585.0,
+            "Price": 137000.0,
+            "m²": 53.0,
+            "Address": "Smilšu 14"
+        },
+        {
+            "Price_per_m²": 2200.0,
+            "Price": 275000.0,
+            "m²": 125.0,
+            "Address": "Smilšu 10"
+        },
+        {
+            "Price_per_m²": 4884.0,
+            "Price": 1900000.0,
+            "m²": 389.03,
+            "Address": "Grēcinieku 26"
+        },
+        {
+            "Price_per_m²": 2278.0,
+            "Price": 164000.0,
+            "m²": 71.99,
+            "Address": "Kalēju 74"
+        },
+        {
+            "Price_per_m²": 4307.0,
+            "Price": 435000.0,
+            "m²": 101.0,
+            "Address": "Aspazijas bulv. 30"
+        },
+        {
+            "Price_per_m²": 2392.0,
+            "Price": 299000.0,
+            "m²": 125.0,
+            "Address": "Teātra 12"
+        },
+        {
+            "Price_per_m²": 3100.0,
+            "Price": 186000.0,
+            "m²": 60.0,
+            "Address": "Kungu 25"
+        },
+        {
+            "Price_per_m²": 3177.0,
+            "Price": 251000.0,
+            "m²": 79.01,
+            "Address": "Kaļķu 2"
+        },
+        {
+            "Price_per_m²": 2687.0,
+            "Price": 180000.0,
+            "m²": 66.99,
+            "Address": "Jēkaba 26/28"
+        },
+        {
+            "Price_per_m²": 1512.0,
+            "Price": 260000.0,
+            "m²": 171.96,
+            "Address": "M. Smilšu 12"
+        },
+        {
+            "Price_per_m²": 2692.0,
+            "Price": 350000.0,
+            "m²": 130.01,
+            "Address": "Smilšu 10"
+        },
+        {
+            "Price_per_m²": 3125.0,
+            "Price": 250000.0,
+            "m²": 80.0,
+            "Address": "Skārņu 9"
+        },
+        {
+            "Price_per_m²": 2585.0,
+            "Price": 137000.0,
+            "m²": 53.0,
+            "Address": "Smilšu 14"
+        },
+        {
+            "Price_per_m²": 2200.0,
+            "Price": 275000.0,
+            "m²": 125.0,
+            "Address": "Smilšu 10"
+        },
+        {
+            "Price_per_m²": 4884.0,
+            "Price": 1900000.0,
+            "m²": 389.03,
+            "Address": "Grēcinieku 26"
+        },
+        {
+            "Price_per_m²": 2278.0,
+            "Price": 164000.0,
+            "m²": 71.99,
+            "Address": "Kalēju 74"
+        },
+        {
+            "Price_per_m²": 4307.0,
+            "Price": 435000.0,
+            "m²": 101.0,
+            "Address": "Aspazijas bulv. 30"
+        },
+        {
+            "Price_per_m²": 2392.0,
+            "Price": 299000.0,
+            "m²": 125.0,
+            "Address": "Teātra 12"
+        },
+        {
+            "Price_per_m²": 3100.0,
+            "Price": 186000.0,
+            "m²": 60.0,
+            "Address": "Kungu 25"
+        },
+        {
+            "Price_per_m²": 3177.0,
+            "Price": 251000.0,
+            "m²": 79.01,
+            "Address": "Kaļķu 2"
+        },
+        {
+            "Price_per_m²": 2687.0,
+            "Price": 180000.0,
+            "m²": 66.99,
+            "Address": "Jēkaba 26/28"
+        },
+        {
+            "Price_per_m²": 1512.0,
+            "Price": 260000.0,
+            "m²": 171.96,
+            "Address": "M. Smilšu 12"
+        },
+        {
+            "Price_per_m²": 2692.0,
+            "Price": 350000.0,
+            "m²": 130.01,
+            "Address": "Smilšu 10"
+        },
+        {
+            "Price_per_m²": 3125.0,
+            "Price": 250000.0,
+            "m²": 80.0,
+            "Address": "Skārņu 9"
+        },
+        {
+            "Price_per_m²": 2585.0,
+            "Price": 137000.0,
+            "m²": 53.0,
+            "Address": "Smilšu 14"
+        },
+        {
+            "Price_per_m²": 2200.0,
+            "Price": 275000.0,
+            "m²": 125.0,
+            "Address": "Smilšu 10"
+        },
+        {
+            "Price_per_m²": 4884.0,
+            "Price": 1900000.0,
+            "m²": 389.03,
+            "Address": "Grēcinieku 26"
+        },
+        {
+            "Price_per_m²": 2278.0,
+            "Price": 164000.0,
+            "m²": 71.99,
+            "Address": "Kalēju 74"
+        },
+        {
+            "Price_per_m²": 4307.0,
+            "Price": 435000.0,
+            "m²": 101.0,
+            "Address": "Aspazijas bulv. 30"
+        },
+        {
+            "Price_per_m²": 2392.0,
+            "Price": 299000.0,
+            "m²": 125.0,
+            "Address": "Teātra 12"
+        },
+        {
+            "Price_per_m²": 3100.0,
+            "Price": 186000.0,
+            "m²": 60.0,
+            "Address": "Kungu 25"
+        },
+        {
+            "Price_per_m²": 3177.0,
+            "Price": 251000.0,
+            "m²": 79.01,
+            "Address": "Kaļķu 2"
+        },
+        {
+            "Price_per_m²": 2687.0,
+            "Price": 180000.0,
+            "m²": 66.99,
+            "Address": "Jēkaba 26/28"
+        },
+        {
+            "Price_per_m²": 1512.0,
+            "Price": 260000.0,
+            "m²": 171.96,
+            "Address": "M. Smilšu 12"
+        },
+        {
+            "Price_per_m²": 2692.0,
+            "Price": 350000.0,
+            "m²": 130.01,
+            "Address": "Smilšu 10"
+        },
+        {
+            "Price_per_m²": 3125.0,
+            "Price": 250000.0,
+            "m²": 80.0,
+            "Address": "Skārņu 9"
+        },
+        {
+            "Price_per_m²": 2585.0,
+            "Price": 137000.0,
+            "m²": 53.0,
+            "Address": "Smilšu 14"
+        },
+        {
+            "Price_per_m²": 2200.0,
+            "Price": 275000.0,
+            "m²": 125.0,
+            "Address": "Smilšu 10"
+        },
+        {
+            "Price_per_m²": 4884.0,
+            "Price": 1900000.0,
+            "m²": 389.03,
+            "Address": "Grēcinieku 26"
+        },
+        {
+            "Price_per_m²": 2278.0,
+            "Price": 164000.0,
+            "m²": 71.99,
+            "Address": "Kalēju 74"
+        },
+        {
+            "Price_per_m²": 4307.0,
+            "Price": 435000.0,
+            "m²": 101.0,
+            "Address": "Aspazijas bulv. 30"
+        },
+        {
+            "Price_per_m²": 2392.0,
+            "Price": 299000.0,
+            "m²": 125.0,
+            "Address": "Teātra 12"
+        },
+        {
+            "Price_per_m²": 3100.0,
+            "Price": 186000.0,
+            "m²": 60.0,
+            "Address": "Kungu 25"
+        },
+        {
+            "Price_per_m²": 3177.0,
+            "Price": 251000.0,
+            "m²": 79.01,
+            "Address": "Kaļķu 2"
+        },
+        {
+            "Price_per_m²": 2687.0,
+            "Price": 180000.0,
+            "m²": 66.99,
+            "Address": "Jēkaba 26/28"
+        },
+        {
+            "Price_per_m²": 1512.0,
+            "Price": 260000.0,
+            "m²": 171.96,
+            "Address": "M. Smilšu 12"
+        },
+        {
+            "Price_per_m²": 2692.0,
+            "Price": 350000.0,
+            "m²": 130.01,
+            "Address": "Smilšu 10"
+        },
+        {
+            "Price_per_m²": 3125.0,
+            "Price": 250000.0,
+            "m²": 80.0,
+            "Address": "Skārņu 9"
+        },
+        {
+            "Price_per_m²": 2585.0,
+            "Price": 137000.0,
+            "m²": 53.0,
+            "Address": "Smilšu 14"
+        },
+        {
+            "Price_per_m²": 2200.0,
+            "Price": 275000.0,
+            "m²": 125.0,
+            "Address": "Smilšu 10"
+        },
+        {
+            "Price_per_m²": 4884.0,
+            "Price": 1900000.0,
+            "m²": 389.03,
+            "Address": "Grēcinieku 26"
+        },
+        {
+            "Price_per_m²": 2278.0,
+            "Price": 164000.0,
+            "m²": 71.99,
+            "Address": "Kalēju 74"
+        },
+        {
+            "Price_per_m²": 4307.0,
+            "Price": 435000.0,
+            "m²": 101.0,
+            "Address": "Aspazijas bulv. 30"
+        },
+        {
+            "Price_per_m²": 2392.0,
+            "Price": 299000.0,
+            "m²": 125.0,
+            "Address": "Teātra 12"
+        },
+        {
+            "Price_per_m²": 3100.0,
+            "Price": 186000.0,
+            "m²": 60.0,
+            "Address": "Kungu 25"
+        },
+        {
+            "Price_per_m²": 3177.0,
+            "Price": 251000.0,
+            "m²": 79.01,
+            "Address": "Kaļķu 2"
+        },
+        {
+            "Price_per_m²": 2687.0,
+            "Price": 180000.0,
+            "m²": 66.99,
+            "Address": "Jēkaba 26/28"
+        },
+        {
+            "Price_per_m²": 1512.0,
+            "Price": 260000.0,
+            "m²": 171.96,
+            "Address": "M. Smilšu 12"
+        },
+        {
+            "Price_per_m²": 2692.0,
+            "Price": 350000.0,
+            "m²": 130.01,
+            "Address": "Smilšu 10"
+        },
+        {
+            "Price_per_m²": 3125.0,
+            "Price": 250000.0,
+            "m²": 80.0,
+            "Address": "Skārņu 9"
+        },
+        {
+            "Price_per_m²": 2585.0,
+            "Price": 137000.0,
+            "m²": 53.0,
+            "Address": "Smilšu 14"
+        },
+        {
+            "Price_per_m²": 2200.0,
+            "Price": 275000.0,
+            "m²": 125.0,
+            "Address": "Smilšu 10"
+        },
+        {
+            "Price_per_m²": 4884.0,
+            "Price": 1900000.0,
+            "m²": 389.03,
+            "Address": "Grēcinieku 26"
+        },
+        {
+            "Price_per_m²": 2278.0,
+            "Price": 164000.0,
+            "m²": 71.99,
+            "Address": "Kalēju 74"
+        },
+        {
+            "Price_per_m²": 4307.0,
+            "Price": 435000.0,
+            "m²": 101.0,
+            "Address": "Aspazijas bulv. 30"
+        },
+        {
+            "Price_per_m²": 2392.0,
+            "Price": 299000.0,
+            "m²": 125.0,
+            "Address": "Teātra 12"
+        },
+        {
+            "Price_per_m²": 3100.0,
+            "Price": 186000.0,
+            "m²": 60.0,
+            "Address": "Kungu 25"
+        },
+        {
+            "Price_per_m²": 3177.0,
+            "Price": 251000.0,
+            "m²": 79.01,
+            "Address": "Kaļķu 2"
+        },
+        {
+            "Price_per_m²": 2687.0,
+            "Price": 180000.0,
+            "m²": 66.99,
+            "Address": "Jēkaba 26/28"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 9.9,
+            "Price": 950.0,
+            "m²": 95.96,
+            "Address": "Grēcinieku 22"
+        },
+        {
+            "Price_per_m²": 11.57,
+            "Price": 4500.0,
+            "m²": 388.94,
+            "Address": "Grēcinieku 26"
+        },
+        {
+            "Price_per_m²": 9.69,
+            "Price": 475.0,
+            "m²": 49.02,
+            "Address": "M. Smilšu 15"
+        },
+        {
+            "Price_per_m²": 4.8,
+            "Price": 480.0,
+            "m²": 100.0,
+            "Address": "Jēkaba 26/28"
+        },
+        {
+            "Price_per_m²": 9.38,
+            "Price": 1500.0,
+            "m²": 159.91,
+            "Address": "Grēcinieku 11A"
+        },
+        {
+            "Price_per_m²": 8.5,
+            "Price": 850.0,
+            "m²": 100.0,
+            "Address": "Vaļņu 8"
+        },
+        {
+            "Price_per_m²": 16.22,
+            "Price": 600.0,
+            "m²": 36.99,
+            "Address": "Kalēju 57"
+        },
+        {
+            "Price_per_m²": 8.89,
+            "Price": 480.0,
+            "m²": 53.99,
+            "Address": "Grēcinieku 11"
+        },
+        {
+            "Price_per_m²": 11.9,
+            "Price": 2000.0,
+            "m²": 168.07,
+            "Address": "Vaļņu 4"
+        },
+        {
+            "Price_per_m²": 9.52,
+            "Price": 800.0,
+            "m²": 84.03,
+            "Address": "Aldaru 9"
+        },
+        {
+            "Price_per_m²": 9.34,
+            "Price": 850.0,
+            "m²": 91.01,
+            "Address": "Aldaru 9"
+        },
+        {
+            "Price_per_m²": 13.52,
+            "Price": 730.0,
+            "m²": 53.99,
+            "Address": "Kungu 25"
+        },
+        {
+            "Price_per_m²": 11.68,
+            "Price": 1250.0,
+            "m²": 107.02,
+            "Address": "Audēju 14"
+        },
+        {
+            "Price_per_m²": 12.1,
+            "Price": 750.0,
+            "m²": 61.98,
+            "Address": "Vaļņu 21"
+        },
+        {
+            "Price_per_m²": 8.54,
+            "Price": 820.0,
+            "m²": 96.02,
+            "Address": "Jauniela 14"
+        },
+        {
+            "Price_per_m²": 15.27,
+            "Price": 2000.0,
+            "m²": 130.98,
+            "Address": "Smilšu 10"
+        },
+        {
+            "Price_per_m²": 10.64,
+            "Price": 500.0,
+            "m²": 46.99,
+            "Address": "Rīdzenes 26"
+        },
+        {
+            "Price_per_m²": 11.82,
+            "Price": 650.0,
+            "m²": 54.99,
+            "Address": "Vaļņu 19"
+        },
+        {
+            "Price_per_m²": 22.5,
+            "Price": 450.0,
+            "m²": 20.0,
+            "Address": "Šķūņu 16"
+        },
+        {
+            "Price_per_m²": 20.31,
+            "Price": 650.0,
+            "m²": 32.0,
+            "Address": "Šķūņu 16"
+        },
+        {
+            "Price_per_m²": 9.9,
+            "Price": 950.0,
+            "m²": 95.96,
+            "Address": "Grēcinieku 22"
+        },
+        {
+            "Price_per_m²": 11.57,
+            "Price": 4500.0,
+            "m²": 388.94,
+            "Address": "Grēcinieku 26"
+        },
+        {
+            "Price_per_m²": 9.69,
+            "Price": 475.0,
+            "m²": 49.02,
+            "Address": "M. Smilšu 15"
+        },
+        {
+            "Price_per_m²": 4.8,
+            "Price": 480.0,
+            "m²": 100.0,
+            "Address": "Jēkaba 26/28"
+        },
+        {
+            "Price_per_m²": 9.38,
+            "Price": 1500.0,
+            "m²": 159.91,
+            "Address": "Grēcinieku 11A"
+        },
+        {
+            "Price_per_m²": 8.5,
+            "Price": 850.0,
+            "m²": 100.0,
+            "Address": "Vaļņu 8"
+        },
+        {
+            "Price_per_m²": 16.22,
+            "Price": 600.0,
+            "m²": 36.99,
+            "Address": "Kalēju 57"
+        },
+        {
+            "Price_per_m²": 9.9,
+            "Price": 950.0,
+            "m²": 95.96,
+            "Address": "Grēcinieku 22"
+        },
+        {
+            "Price_per_m²": 11.57,
+            "Price": 4500.0,
+            "m²": 388.94,
+            "Address": "Grēcinieku 26"
+        },
+        {
+            "Price_per_m²": 9.69,
+            "Price": 475.0,
+            "m²": 49.02,
+            "Address": "M. Smilšu 15"
+        },
+        {
+            "Price_per_m²": 4.8,
+            "Price": 480.0,
+            "m²": 100.0,
+            "Address": "Jēkaba 26/28"
+        },
+        {
+            "Price_per_m²": 9.38,
+            "Price": 1500.0,
+            "m²": 159.91,
+            "Address": "Grēcinieku 11A"
+        },
+        {
+            "Price_per_m²": 8.5,
+            "Price": 850.0,
+            "m²": 100.0,
+            "Address": "Vaļņu 8"
+        },
+        {
+            "Price_per_m²": 16.22,
+            "Price": 600.0,
+            "m²": 36.99,
+            "Address": "Kalēju 57"
+        },
+        {
+            "Price_per_m²": 9.9,
+            "Price": 950.0,
+            "m²": 95.96,
+            "Address": "Grēcinieku 22"
+        },
+        {
+            "Price_per_m²": 11.57,
+            "Price": 4500.0,
+            "m²": 388.94,
+            "Address": "Grēcinieku 26"
+        },
+        {
+            "Price_per_m²": 9.69,
+            "Price": 475.0,
+            "m²": 49.02,
+            "Address": "M. Smilšu 15"
+        },
+        {
+            "Price_per_m²": 4.8,
+            "Price": 480.0,
+            "m²": 100.0,
+            "Address": "Jēkaba 26/28"
+        },
+        {
+            "Price_per_m²": 9.38,
+            "Price": 1500.0,
+            "m²": 159.91,
+            "Address": "Grēcinieku 11A"
+        },
+        {
+            "Price_per_m²": 8.5,
+            "Price": 850.0,
+            "m²": 100.0,
+            "Address": "Vaļņu 8"
+        },
+        {
+            "Price_per_m²": 16.22,
+            "Price": 600.0,
+            "m²": 36.99,
+            "Address": "Kalēju 57"
+        },
+        {
+            "Price_per_m²": 9.9,
+            "Price": 950.0,
+            "m²": 95.96,
+            "Address": "Grēcinieku 22"
+        },
+        {
+            "Price_per_m²": 11.57,
+            "Price": 4500.0,
+            "m²": 388.94,
+            "Address": "Grēcinieku 26"
+        },
+        {
+            "Price_per_m²": 9.69,
+            "Price": 475.0,
+            "m²": 49.02,
+            "Address": "M. Smilšu 15"
+        },
+        {
+            "Price_per_m²": 4.8,
+            "Price": 480.0,
+            "m²": 100.0,
+            "Address": "Jēkaba 26/28"
+        },
+        {
+            "Price_per_m²": 9.38,
+            "Price": 1500.0,
+            "m²": 159.91,
+            "Address": "Grēcinieku 11A"
+        },
+        {
+            "Price_per_m²": 8.5,
+            "Price": 850.0,
+            "m²": 100.0,
+            "Address": "Vaļņu 8"
+        },
+        {
+            "Price_per_m²": 16.22,
+            "Price": 600.0,
+            "m²": 36.99,
+            "Address": "Kalēju 57"
+        },
+        {
+            "Price_per_m²": 9.9,
+            "Price": 950.0,
+            "m²": 95.96,
+            "Address": "Grēcinieku 22"
+        },
+        {
+            "Price_per_m²": 11.57,
+            "Price": 4500.0,
+            "m²": 388.94,
+            "Address": "Grēcinieku 26"
+        },
+        {
+            "Price_per_m²": 9.69,
+            "Price": 475.0,
+            "m²": 49.02,
+            "Address": "M. Smilšu 15"
+        },
+        {
+            "Price_per_m²": 4.8,
+            "Price": 480.0,
+            "m²": 100.0,
+            "Address": "Jēkaba 26/28"
+        },
+        {
+            "Price_per_m²": 9.38,
+            "Price": 1500.0,
+            "m²": 159.91,
+            "Address": "Grēcinieku 11A"
+        },
+        {
+            "Price_per_m²": 8.5,
+            "Price": 850.0,
+            "m²": 100.0,
+            "Address": "Vaļņu 8"
+        },
+        {
+            "Price_per_m²": 16.22,
+            "Price": 600.0,
+            "m²": 36.99,
+            "Address": "Kalēju 57"
+        },
+        {
+            "Price_per_m²": 9.9,
+            "Price": 950.0,
+            "m²": 95.96,
+            "Address": "Grēcinieku 22"
+        },
+        {
+            "Price_per_m²": 11.57,
+            "Price": 4500.0,
+            "m²": 388.94,
+            "Address": "Grēcinieku 26"
+        },
+        {
+            "Price_per_m²": 9.69,
+            "Price": 475.0,
+            "m²": 49.02,
+            "Address": "M. Smilšu 15"
+        },
+        {
+            "Price_per_m²": 4.8,
+            "Price": 480.0,
+            "m²": 100.0,
+            "Address": "Jēkaba 26/28"
+        },
+        {
+            "Price_per_m²": 9.38,
+            "Price": 1500.0,
+            "m²": 159.91,
+            "Address": "Grēcinieku 11A"
+        },
+        {
+            "Price_per_m²": 8.5,
+            "Price": 850.0,
+            "m²": 100.0,
+            "Address": "Vaļņu 8"
+        },
+        {
+            "Price_per_m²": 16.22,
+            "Price": 600.0,
+            "m²": 36.99,
+            "Address": "Kalēju 57"
+        }
+    ],
+    "daily": [
+        {
+            "Price_per_m²": 1.14,
+            "Price": 40.0,
+            "m²": 35.09,
+            "Address": "Mucenieku 3"
+        },
+        {
+            "Price_per_m²": 1.61,
+            "Price": 45.0,
+            "m²": 27.95,
+            "Address": "Kungu 25"
+        },
+        {
+            "Price_per_m²": 0.733,
+            "Price": 55.0,
+            "m²": 75.03,
+            "Address": "Bīskapa gāte 3"
+        },
+        {
+            "Price_per_m²": 1.14,
+            "Price": 40.0,
+            "m²": 35.09,
+            "Address": "Mucenieku 3"
+        },
+        {
+            "Price_per_m²": 1.61,
+            "Price": 45.0,
+            "m²": 27.95,
+            "Address": "Kungu 25"
+        },
+        {
+            "Price_per_m²": 0.733,
+            "Price": 55.0,
+            "m²": 75.03,
+            "Address": "Bīskapa gāte 3"
+        },
+        {
+            "Price_per_m²": 1.14,
+            "Price": 40.0,
+            "m²": 35.09,
+            "Address": "Mucenieku 3"
+        },
+        {
+            "Price_per_m²": 1.61,
+            "Price": 45.0,
+            "m²": 27.95,
+            "Address": "Kungu 25"
+        },
+        {
+            "Price_per_m²": 0.733,
+            "Price": 55.0,
+            "m²": 75.03,
+            "Address": "Bīskapa gāte 3"
+        },
+        {
+            "Price_per_m²": 1.14,
+            "Price": 40.0,
+            "m²": 35.09,
+            "Address": "Mucenieku 3"
+        },
+        {
+            "Price_per_m²": 1.61,
+            "Price": 45.0,
+            "m²": 27.95,
+            "Address": "Kungu 25"
+        },
+        {
+            "Price_per_m²": 0.733,
+            "Price": 55.0,
+            "m²": 75.03,
+            "Address": "Bīskapa gāte 3"
+        },
+        {
+            "Price_per_m²": 1.14,
+            "Price": 40.0,
+            "m²": 35.09,
+            "Address": "Mucenieku 3"
+        },
+        {
+            "Price_per_m²": 1.61,
+            "Price": 45.0,
+            "m²": 27.95,
+            "Address": "Kungu 25"
+        },
+        {
+            "Price_per_m²": 0.733,
+            "Price": 55.0,
+            "m²": 75.03,
+            "Address": "Bīskapa gāte 3"
+        },
+        {
+            "Price_per_m²": 1.14,
+            "Price": 40.0,
+            "m²": 35.09,
+            "Address": "Mucenieku 3"
+        },
+        {
+            "Price_per_m²": 1.61,
+            "Price": 45.0,
+            "m²": 27.95,
+            "Address": "Kungu 25"
+        },
+        {
+            "Price_per_m²": 0.733,
+            "Price": 55.0,
+            "m²": 75.03,
+            "Address": "Bīskapa gāte 3"
+        },
+        {
+            "Price_per_m²": 1.14,
+            "Price": 40.0,
+            "m²": 35.09,
+            "Address": "Mucenieku 3"
+        },
+        {
+            "Price_per_m²": 1.61,
+            "Price": 45.0,
+            "m²": 27.95,
+            "Address": "Kungu 25"
+        },
+        {
+            "Price_per_m²": 0.733,
+            "Price": 55.0,
+            "m²": 75.03,
+            "Address": "Bīskapa gāte 3"
+        }
+    ]
+}

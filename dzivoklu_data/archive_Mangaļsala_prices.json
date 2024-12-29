@@ -1,0 +1,319 @@
+{
+    "one_time_purchase": [
+        {
+            "Price_per_m²": 815.0,
+            "Price": 44000.0,
+            "m²": 53.99,
+            "Address": "Albatrosu 26"
+        },
+        {
+            "Price_per_m²": 793.0,
+            "Price": 65000.0,
+            "m²": 81.97,
+            "Address": "Traleru 19"
+        },
+        {
+            "Price_per_m²": 984.0,
+            "Price": 62000.0,
+            "m²": 63.01,
+            "Address": "Traleru 19"
+        },
+        {
+            "Price_per_m²": 993.0,
+            "Price": 98300.0,
+            "m²": 98.99,
+            "Address": "Mangaļsalas 21"
+        },
+        {
+            "Price_per_m²": 1098.0,
+            "Price": 45000.0,
+            "m²": 40.98,
+            "Address": "Mangaļsalas 21"
+        },
+        {
+            "Price_per_m²": 1220.0,
+            "Price": 50000.0,
+            "m²": 40.98,
+            "Address": "Mangaļsalas 21"
+        },
+        {
+            "Price_per_m²": 903.0,
+            "Price": 55980.0,
+            "m²": 61.99,
+            "Address": "Albatrosu 20"
+        },
+        {
+            "Price_per_m²": 915.0,
+            "Price": 75000.0,
+            "m²": 81.97,
+            "Address": "Traleru 19"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 99000.0,
+            "m²": 99.0,
+            "Address": "Mangaļsalas 21"
+        },
+        {
+            "Price_per_m²": 1032.0,
+            "Price": 65000.0,
+            "m²": 62.98,
+            "Address": "Albatrosu 20"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 550.0,
+            "m²": 55.0,
+            "Address": "Mangaļsalas 7b"
+        },
+        {
+            "Price_per_m²": 815.0,
+            "Price": 44000.0,
+            "m²": 53.99,
+            "Address": "Albatrosu 26"
+        },
+        {
+            "Price_per_m²": 793.0,
+            "Price": 65000.0,
+            "m²": 81.97,
+            "Address": "Traleru 19"
+        },
+        {
+            "Price_per_m²": 984.0,
+            "Price": 62000.0,
+            "m²": 63.01,
+            "Address": "Traleru 19"
+        },
+        {
+            "Price_per_m²": 993.0,
+            "Price": 98300.0,
+            "m²": 98.99,
+            "Address": "Mangaļsalas 21"
+        },
+        {
+            "Price_per_m²": 1098.0,
+            "Price": 45000.0,
+            "m²": 40.98,
+            "Address": "Mangaļsalas 21"
+        },
+        {
+            "Price_per_m²": 1220.0,
+            "Price": 50000.0,
+            "m²": 40.98,
+            "Address": "Mangaļsalas 21"
+        },
+        {
+            "Price_per_m²": 903.0,
+            "Price": 55980.0,
+            "m²": 61.99,
+            "Address": "Albatrosu 20"
+        },
+        {
+            "Price_per_m²": 915.0,
+            "Price": 75000.0,
+            "m²": 81.97,
+            "Address": "Traleru 19"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 99000.0,
+            "m²": 99.0,
+            "Address": "Mangaļsalas 21"
+        },
+        {
+            "Price_per_m²": 1032.0,
+            "Price": 65000.0,
+            "m²": 62.98,
+            "Address": "Albatrosu 20"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 550.0,
+            "m²": 55.0,
+            "Address": "Mangaļsalas 7b"
+        },
+        {
+            "Price_per_m²": 815.0,
+            "Price": 44000.0,
+            "m²": 53.99,
+            "Address": "Albatrosu 26"
+        },
+        {
+            "Price_per_m²": 793.0,
+            "Price": 65000.0,
+            "m²": 81.97,
+            "Address": "Traleru 19"
+        },
+        {
+            "Price_per_m²": 984.0,
+            "Price": 62000.0,
+            "m²": 63.01,
+            "Address": "Traleru 19"
+        },
+        {
+            "Price_per_m²": 993.0,
+            "Price": 98300.0,
+            "m²": 98.99,
+            "Address": "Mangaļsalas 21"
+        },
+        {
+            "Price_per_m²": 1098.0,
+            "Price": 45000.0,
+            "m²": 40.98,
+            "Address": "Mangaļsalas 21"
+        },
+        {
+            "Price_per_m²": 1220.0,
+            "Price": 50000.0,
+            "m²": 40.98,
+            "Address": "Mangaļsalas 21"
+        },
+        {
+            "Price_per_m²": 903.0,
+            "Price": 55980.0,
+            "m²": 61.99,
+            "Address": "Albatrosu 20"
+        },
+        {
+            "Price_per_m²": 915.0,
+            "Price": 75000.0,
+            "m²": 81.97,
+            "Address": "Traleru 19"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 99000.0,
+            "m²": 99.0,
+            "Address": "Mangaļsalas 21"
+        },
+        {
+            "Price_per_m²": 1032.0,
+            "Price": 65000.0,
+            "m²": 62.98,
+            "Address": "Albatrosu 20"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 550.0,
+            "m²": 55.0,
+            "Address": "Mangaļsalas 7b"
+        },
+        {
+            "Price_per_m²": 815.0,
+            "Price": 44000.0,
+            "m²": 53.99,
+            "Address": "Albatrosu 26"
+        },
+        {
+            "Price_per_m²": 793.0,
+            "Price": 65000.0,
+            "m²": 81.97,
+            "Address": "Traleru 19"
+        },
+        {
+            "Price_per_m²": 984.0,
+            "Price": 62000.0,
+            "m²": 63.01,
+            "Address": "Traleru 19"
+        },
+        {
+            "Price_per_m²": 993.0,
+            "Price": 98300.0,
+            "m²": 98.99,
+            "Address": "Mangaļsalas 21"
+        },
+        {
+            "Price_per_m²": 1098.0,
+            "Price": 45000.0,
+            "m²": 40.98,
+            "Address": "Mangaļsalas 21"
+        },
+        {
+            "Price_per_m²": 1220.0,
+            "Price": 50000.0,
+            "m²": 40.98,
+            "Address": "Mangaļsalas 21"
+        },
+        {
+            "Price_per_m²": 903.0,
+            "Price": 55980.0,
+            "m²": 61.99,
+            "Address": "Albatrosu 20"
+        },
+        {
+            "Price_per_m²": 915.0,
+            "Price": 75000.0,
+            "m²": 81.97,
+            "Address": "Traleru 19"
+        },
+        {
+            "Price_per_m²": 1000.0,
+            "Price": 99000.0,
+            "m²": 99.0,
+            "Address": "Mangaļsalas 21"
+        },
+        {
+            "Price_per_m²": 1032.0,
+            "Price": 65000.0,
+            "m²": 62.98,
+            "Address": "Albatrosu 20"
+        },
+        {
+            "Price_per_m²": 10.0,
+            "Price": 550.0,
+            "m²": 55.0,
+            "Address": "Mangaļsalas 7b"
+        }
+    ],
+    "monthly": [
+        {
+            "Price_per_m²": 3.57,
+            "Price": 200.0,
+            "m²": 56.02,
+            "Address": "Albatrosu 26"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Traleru 19"
+        },
+        {
+            "Price_per_m²": 3.57,
+            "Price": 200.0,
+            "m²": 56.02,
+            "Address": "Albatrosu 26"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Traleru 19"
+        },
+        {
+            "Price_per_m²": 3.57,
+            "Price": 200.0,
+            "m²": 56.02,
+            "Address": "Albatrosu 26"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Traleru 19"
+        },
+        {
+            "Price_per_m²": 3.57,
+            "Price": 200.0,
+            "m²": 56.02,
+            "Address": "Albatrosu 26"
+        },
+        {
+            "Price_per_m²": 6.0,
+            "Price": 300.0,
+            "m²": 50.0,
+            "Address": "Traleru 19"
+        }
+    ],
+    "daily": []
+}
